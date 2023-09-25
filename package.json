@@ -1,0 +1,30 @@
+{
+  "name": "tokens-studio-poc",
+  "version": "1.0.0",
+  "description": "@adobe/spectrum-tokens-for-tokens-studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dist/assertTokens.js",
+    "compile": "tsc",
+    "compile:watch": "tsc --watch",
+    "convert-tokens": "node dist/convertTokensToTokensStudio.js",
+    "pre-commit": "lint-staged",
+    "prepare": "husky install"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.1",
+    "@types/lodash": "^4.14.197",
+    "@types/node": "^20.5.2",
+    "fs-extra": "^11.1.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1",
+    "prettier": "^3.0.3",
+    "ts-node": "^10.9.1"
+  }
+}

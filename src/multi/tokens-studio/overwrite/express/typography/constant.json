@@ -1,0 +1,71 @@
+{
+  "typography": {
+    "heading": {
+      "cjk": {
+        "font-weight": {
+          "value": "{typography.black.font-weight}",
+          "type": "fontWeights",
+          "extensions": {
+            "spectrum-tokens": {
+              "uuid": "21643fcd-b1da-4057-8fb5-e75167c0d89f",
+              "name": "heading-cjk-font-weight",
+              "constant-token-duplicate": false
+            }
+          }
+        }
+      },
+      "sans-serif": {
+        "font-weight": {
+          "value": "{typography.black.font-weight}",
+          "type": "fontWeights",
+          "extensions": {
+            "spectrum-tokens": {
+              "uuid": "e5bfbd82-a8e6-43dc-b2b6-dc1e171f48aa",
+              "name": "heading-sans-serif-font-weight",
+              "constant-token-duplicate": false
+            }
+          }
+        },
+        "emphasized": {
+          "font-weight": {
+            "value": "{typography.black.font-weight}",
+            "type": "fontWeights",
+            "extensions": {
+              "spectrum-tokens": {
+                "uuid": "723c8306-12fb-4cb5-9fd2-3ad40d57bb25",
+                "name": "heading-sans-serif-emphasized-font-weight",
+                "constant-token-duplicate": false
+              }
+            }
+          }
+        }
+      },
+      "serif": {
+        "font-weight": {
+          "value": "{typography.black.font-weight}",
+          "type": "fontWeights",
+          "extensions": {
+            "spectrum-tokens": {
+              "uuid": "36bea3bb-06b8-4c66-87ad-ffc86be18243",
+              "name": "heading-serif-font-weight",
+              "constant-token-duplicate": false
+            }
+          }
+        },
+        "emphasized": {
+          "font-weight": {
+            "value": "{typography.black.font-weight}",
+            "type": "fontWeights",
+            "extensions": {
+              "spectrum-tokens": {
+                "uuid": "e9b3a7b0-ae46-48be-a143-f26463860d3f",
+                "name": "heading-serif-emphasized-font-weight",
+                "constant-token-duplicate": false
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

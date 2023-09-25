@@ -1,0 +1,2379 @@
+{
+  "Palette": {
+    "black": {
+      "value": "rgb(0, 0, 0)",
+      "type": "color",
+      "extensions": {
+        "spectrum-tokens": {
+          "uuid": "28dea8b0-4e9a-46f9-babb-c8910e6ae783",
+          "name": "black",
+          "constant-token-duplicate": true
+        }
+      }
+    },
+    "white": {
+      "value": "rgb(255, 255, 255)",
+      "type": "color",
+      "extensions": {
+        "spectrum-tokens": {
+          "uuid": "9b799da8-2130-417e-b7ee-5e1154a89837",
+          "name": "white",
+          "constant-token-duplicate": true
+        }
+      }
+    },
+    "gray": {
+      "50": {
+        "value": "rgb(255, 255, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "f6e408a6-81ae-4658-8375-a532f324eba0",
+            "name": "gray-50",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "75": {
+        "value": "rgb(253, 253, 253)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "01cd6c7e-f2eb-4b5d-9e2a-30940e1ab37b",
+            "name": "gray-75",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "100": {
+        "value": "rgb(248, 248, 248)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "64e2dbc2-05fa-43d7-80ae-d4d11c55348f",
+            "name": "gray-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(230, 230, 230)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "8de4888d-8da5-45a0-8d5d-64a734993ae4",
+            "name": "gray-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(213, 213, 213)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "aad52960-a7ec-4f69-85f9-3e1a87975120",
+            "name": "gray-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(177, 177, 177)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "9a4b4fc4-25e4-4ca8-b0d1-949c5851b47e",
+            "name": "gray-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(144, 144, 144)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7fa86c73-f058-4922-be8d-19902515cf44",
+            "name": "gray-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(109, 109, 109)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e6a41088-a188-483c-b197-63ed3c70463d",
+            "name": "gray-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(70, 70, 70)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "97111e8e-5823-47f2-af64-c3244b8d3492",
+            "name": "gray-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(34, 34, 34)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2caf1f36-80b9-4659-90be-8d89672bb19f",
+            "name": "gray-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(0, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "59093f0d-98b7-4659-bea6-3248ad20e96c",
+            "name": "gray-900",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "blue": {
+      "100": {
+        "value": "rgb(224, 242, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "bb610367-a43d-4ba9-b667-84b4d8da69b2",
+            "name": "blue-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(202, 232, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "989a37a5-66f2-4a84-a118-8d36caee6695",
+            "name": "blue-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(181, 222, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "58dc7d3a-3a6d-4ee4-ad38-5e01a07335bd",
+            "name": "blue-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(150, 206, 253)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "9c39c15f-04ee-4cb3-acf3-04c390f14780",
+            "name": "blue-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(120, 187, 250)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "ccc5c654-280e-4f46-964e-9d589f571bc6",
+            "name": "blue-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(89, 167, 246)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b781aad3-054c-4e81-a368-a8165e6035fd",
+            "name": "blue-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(56, 146, 243)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "1a25f1fe-6d20-49f9-b8f9-d304efc83626",
+            "name": "blue-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(20, 122, 243)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "5ac73d3a-a6cc-4403-a8d5-46bc262d62e9",
+            "name": "blue-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(2, 101, 220)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3451c170-3e78-449b-86f2-8b7dbea24c1c",
+            "name": "blue-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(0, 84, 182)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "da15fc4a-a3ce-4cbe-a2d1-bf5a2e77e5c4",
+            "name": "blue-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(0, 68, 145)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7044000c-09c4-4c12-8b37-94f8601217e2",
+            "name": "blue-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(0, 53, 113)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "aae7bf70-35c6-49f9-a6da-ba40ee217c3d",
+            "name": "blue-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(0, 39, 84)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c6fce6c2-ca99-4a3d-b2af-d96a35ec70dc",
+            "name": "blue-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(0, 28, 60)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "af563d02-b975-4ba5-82d3-02bcf30f762c",
+            "name": "blue-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "green": {
+      "100": {
+        "value": "rgb(206, 248, 224)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "4428dba5-df85-4125-ba54-1c022b986847",
+            "name": "green-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(173, 244, 206)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "9d32cd19-8375-4da3-9324-0e8334c2e714",
+            "name": "green-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(137, 236, 188)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "88bac762-84e1-4652-8152-384f3b1faf59",
+            "name": "green-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(103, 222, 168)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "5cb02868-9f86-4e20-85e0-e4f5df24853c",
+            "name": "green-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(73, 204, 147)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "8b315766-4fa0-4acc-a679-89da4162a15c",
+            "name": "green-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(47, 184, 128)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "4c6c7b90-29ac-4186-a991-c298f19aa83d",
+            "name": "green-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(21, 164, 110)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "19a07ad0-9e01-4adc-861d-f7634de1f1ab",
+            "name": "green-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(0, 143, 93)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "1be225f8-3612-422c-923f-b35f1ec4fc00",
+            "name": "green-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(0, 122, 77)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "cd39a520-2020-41d0-96d1-3b0fdb453fef",
+            "name": "green-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(0, 101, 62)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b0846caa-d394-4614-aaa2-af179de285f4",
+            "name": "green-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(0, 81, 50)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "8d0742b8-c334-41e0-a8e1-50fc8ea3b3ef",
+            "name": "green-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(5, 63, 39)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "4ea6f2d0-bc92-44fa-90e9-9618806a19c2",
+            "name": "green-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(10, 46, 29)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "569d58d2-c7e4-4a0c-b92a-841e45fcbc09",
+            "name": "green-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(10, 32, 21)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c0711ebf-a91a-4041-8e1a-259ed6c3c54c",
+            "name": "green-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "orange": {
+      "100": {
+        "value": "rgb(255, 236, 204)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "8bfd5eff-55b4-4b98-9b2e-2871e4ec6ff6",
+            "name": "orange-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(255, 223, 173)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "64371717-ac11-4ec3-a0aa-9042cf43fa8f",
+            "name": "orange-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(253, 210, 145)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "f34f9b32-ef46-4473-bfd6-10b858e53f55",
+            "name": "orange-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(255, 187, 99)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "15bea688-4c32-44c0-9ee3-242bdb50954c",
+            "name": "orange-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(255, 160, 55)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "33bd4908-1259-4e75-8e96-bd410bebcfd6",
+            "name": "orange-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(246, 133, 17)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "eeede364-d711-40e5-9d2a-0255b10d36f2",
+            "name": "orange-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(228, 111, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a4527b6f-e2d4-4a0f-b013-007dc5a2d3ac",
+            "name": "orange-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(203, 93, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "437e4f5b-e68c-4491-b26c-a9fa1503561b",
+            "name": "orange-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(177, 76, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e9df9a43-f509-44f3-89f6-c277f7445651",
+            "name": "orange-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(149, 61, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7dc902b9-6512-429e-9cb4-c2f97ca08e99",
+            "name": "orange-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(122, 47, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b6c1e499-f043-4b5a-81cf-4224a0f83fce",
+            "name": "orange-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(97, 35, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "14da1231-c89f-45a1-845e-f3bd902f704b",
+            "name": "orange-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(73, 25, 1)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "f650301b-6586-4193-9937-9f12d6c3f99f",
+            "name": "orange-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(53, 18, 1)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "99a43835-df3a-4447-b91d-9d943659b07f",
+            "name": "orange-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "red": {
+      "100": {
+        "value": "rgb(255, 235, 231)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c9e0870a-8cf0-438e-9395-8141c316ad57",
+            "name": "red-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(255, 221, 214)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a1f7b6a3-4195-44dc-a772-9a04d3cf859c",
+            "name": "red-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(255, 205, 195)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3a393af6-c7f2-45bb-a4bc-9b55518c71ac",
+            "name": "red-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(255, 183, 169)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "49e7cf3a-1f2a-4487-a0a9-3869a30593f1",
+            "name": "red-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(255, 155, 136)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "70b11bf5-60c8-48a6-a1d5-2a74bc22e283",
+            "name": "red-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(255, 124, 101)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "00d13447-f1f9-4cda-89b4-6a839260e91a",
+            "name": "red-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(247, 92, 70)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a84b6ffe-5235-4517-9beb-320ed79cf6b0",
+            "name": "red-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(234, 56, 41)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "6c3daf67-9cdc-4c02-9912-ff0b902c22ed",
+            "name": "red-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(211, 21, 16)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "d5d3bc64-629c-44b0-8ff5-81f260521f5b",
+            "name": "red-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(180, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "4a585714-4331-44b1-b81f-25a8ff1cc8ea",
+            "name": "red-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(147, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a02ee7fb-b9de-45f1-bee7-8ffe2145cbec",
+            "name": "red-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(116, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "ea79c634-9d94-4012-bae0-903479c34dc5",
+            "name": "red-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(89, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "63934482-260f-4c73-a176-cad11427c537",
+            "name": "red-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(67, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "1c208bc2-2eca-4727-a195-f80fe0e7ea11",
+            "name": "red-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "celery": {
+      "100": {
+        "value": "rgb(205, 252, 191)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b4a22d71-d90a-4f6e-8f6d-e4967849376f",
+            "name": "celery-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(174, 246, 157)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "30941af9-354a-4d61-9462-aca4bcd50093",
+            "name": "celery-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(150, 238, 133)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3562f589-ba34-465e-9549-2600e2527ab8",
+            "name": "celery-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(114, 224, 106)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "d86c4477-a2f4-449a-8883-daaf33608fde",
+            "name": "celery-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(78, 207, 80)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "9c5fc2d5-30cc-4389-b219-2db69f8a86f9",
+            "name": "celery-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(39, 187, 54)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c2cfbc22-b556-4cb5-b5ee-670254d5ecbc",
+            "name": "celery-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(7, 167, 33)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "59b03f98-f898-4888-ad71-07a434e2fc7e",
+            "name": "celery-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(0, 145, 18)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "41747345-10ab-476a-9d3d-e657f9383e8e",
+            "name": "celery-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(0, 124, 15)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "deec9c21-caeb-4ec4-bca4-a7661a2c5f91",
+            "name": "celery-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(0, 103, 15)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3d509755-d653-4a3f-a5a3-fcbed0c2e21c",
+            "name": "celery-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(0, 83, 13)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "ea7327bb-48a8-41dd-b139-c7bda3dedaee",
+            "name": "celery-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(0, 64, 10)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "fc4dedc3-0009-4a5a-8e93-f52ba4155e0a",
+            "name": "celery-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(0, 48, 7)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7a3d9646-272f-4ca1-a4e6-0708eb2cd378",
+            "name": "celery-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(0, 34, 5)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "02e66104-cbf7-4e27-89cf-f18b1ef04f2d",
+            "name": "celery-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "chartreuse": {
+      "100": {
+        "value": "rgb(219, 252, 110)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b7cca467-abe9-4632-b01a-dda350c93480",
+            "name": "chartreuse-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(203, 244, 67)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c1146153-61bf-4a31-8254-54a1d25a93c5",
+            "name": "chartreuse-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(188, 233, 42)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "f8812b11-742b-44d6-a21a-7fd3db39fe71",
+            "name": "chartreuse-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(170, 216, 22)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "32e471ce-5b0d-40f1-a77a-67feff02775e",
+            "name": "chartreuse-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(152, 197, 10)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "fe3be762-b55e-43cb-9163-68ee7dafc53e",
+            "name": "chartreuse-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(135, 177, 3)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "d61e865b-6538-42a8-aba8-0842359b80c2",
+            "name": "chartreuse-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(118, 156, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3d0fd171-80f3-4f08-9ac0-eb46d0e755f9",
+            "name": "chartreuse-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(103, 136, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "9a0701e4-81a0-420b-b751-c6a46670fbf3",
+            "name": "chartreuse-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(87, 116, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7d22a144-0f7c-435e-ad05-b2d7672dff08",
+            "name": "chartreuse-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(72, 96, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "00100510-9965-4086-ba82-0cb62ffebba1",
+            "name": "chartreuse-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(58, 77, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e964b654-261d-44a5-ab0a-78c8137a7783",
+            "name": "chartreuse-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(44, 59, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "6bf184f6-f0e1-41af-94a4-47aa1a37b0aa",
+            "name": "chartreuse-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(33, 44, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e320e57d-2794-4c1e-97ef-3a8b04be1328",
+            "name": "chartreuse-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(24, 31, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "56b4f40c-d9f2-4360-99eb-7097aafedf94",
+            "name": "chartreuse-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "cyan": {
+      "100": {
+        "value": "rgb(197, 248, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "72bef490-0c3a-4627-9341-fc6627cf3f74",
+            "name": "cyan-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(164, 240, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c2aaf729-7f39-499a-8b67-e23801073b05",
+            "name": "cyan-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(136, 231, 250)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b54275ad-3ea6-4e69-aea2-97f488308fcc",
+            "name": "cyan-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(96, 216, 243)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a33de292-77a9-40b7-961e-41ebfe331ad0",
+            "name": "cyan-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(51, 197, 232)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "f3e8ff9f-e60b-4bce-9c39-280aef6fcb08",
+            "name": "cyan-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(18, 176, 218)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "d65f3e1d-ad9d-4fa7-ac06-37235124e999",
+            "name": "cyan-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(1, 156, 200)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "08b4548a-618d-4ab5-ae46-2a60c7936f57",
+            "name": "cyan-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(0, 134, 180)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "6dbdd00d-3b03-4eab-a77c-3a1f16d5e6ef",
+            "name": "cyan-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(0, 113, 159)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "71769f93-467d-497a-b214-45c8753f34f5",
+            "name": "cyan-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(0, 93, 137)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "25c689a1-7876-44fa-8849-3a8db03a866c",
+            "name": "cyan-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(0, 74, 115)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "57ca59a9-1677-4813-9c0d-28267233ba35",
+            "name": "cyan-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(0, 57, 93)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "d6ba8ac5-09d4-44e2-8ade-216c626eb154",
+            "name": "cyan-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(0, 42, 70)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "1b179218-9e53-457d-977b-902509ef28aa",
+            "name": "cyan-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(0, 30, 51)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3eac8807-136f-4687-8403-203fb49fbd74",
+            "name": "cyan-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "fuchsia": {
+      "100": {
+        "value": "rgb(255, 233, 252)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2a8743fc-d3b3-444a-b3f1-8ad816945941",
+            "name": "fuchsia-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(255, 218, 250)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a304f27a-7a17-4c12-88d1-07171fa3ca75",
+            "name": "fuchsia-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(254, 199, 248)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "723a23a1-0bb0-4c11-89cf-0eca2a421867",
+            "name": "fuchsia-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(251, 174, 246)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "ce8ce579-0dca-462c-a9d3-49e451931812",
+            "name": "fuchsia-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(245, 146, 243)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "779bda09-25fd-4912-9aa8-8e3a5643d0cb",
+            "name": "fuchsia-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(237, 116, 237)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "bd2db3f8-5eae-4fcb-a1f6-307d3b8e4139",
+            "name": "fuchsia-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(224, 85, 226)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "42525649-03ba-44f7-bc8c-9a824b898920",
+            "name": "fuchsia-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(205, 58, 206)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3b2867ea-80f8-44ca-9394-7bb17e8c5a22",
+            "name": "fuchsia-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(182, 34, 183)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "5fa3362b-01ee-4861-9a02-6af6da804f61",
+            "name": "fuchsia-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(157, 3, 158)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "fa79840c-fe56-4f21-b9c5-f1e24f89e031",
+            "name": "fuchsia-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(128, 0, 129)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "44aeb8b3-dd63-43a5-adb6-67cca83ca4c5",
+            "name": "fuchsia-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(100, 6, 100)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "fc66406d-0e4c-4f82-9fa6-aec444f04070",
+            "name": "fuchsia-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(71, 14, 70)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "00cfb450-b2b1-47ea-aaf2-221827cca75d",
+            "name": "fuchsia-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(50, 13, 49)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e5fc57ed-6d37-4496-a89c-db93104cb333",
+            "name": "fuchsia-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "indigo": {
+      "100": {
+        "value": "rgb(237, 238, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "04cf76e0-1e7c-479a-9411-0dcad2f6ab25",
+            "name": "indigo-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(224, 226, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "ab568cfd-20e5-4e20-a3bf-32292297df8f",
+            "name": "indigo-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(211, 213, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a220a225-3bb9-446c-8ee3-732a96a150d2",
+            "name": "indigo-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(193, 196, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "891799a7-b51d-4769-abe3-62dd0da6e190",
+            "name": "indigo-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(172, 175, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2751b8ae-f347-4a57-938d-98a5ee86071c",
+            "name": "indigo-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(149, 153, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2d69bbe7-37c1-4302-9fee-39733bb13a86",
+            "name": "indigo-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(126, 132, 252)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3c57f9f6-e837-450b-9443-a702caa049a4",
+            "name": "indigo-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(104, 109, 244)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "f5a317ea-25f2-4193-9305-f20c231e786e",
+            "name": "indigo-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(82, 88, 228)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "87b65e85-d767-47bb-8af5-01b85282c663",
+            "name": "indigo-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(64, 70, 202)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "9d1a9aa9-a7b3-4254-9e55-a992784bb7b5",
+            "name": "indigo-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(50, 54, 168)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2f59721c-2922-4ad3-b50a-37327d592050",
+            "name": "indigo-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(38, 41, 134)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "4aaedaea-2d42-4593-84e4-18a12ce5efc2",
+            "name": "indigo-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(27, 30, 100)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "f8300596-def6-4640-8d9a-c08fea25bfda",
+            "name": "indigo-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(20, 22, 72)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "4e8c10e6-0c7e-4f48-91a0-ff460915725d",
+            "name": "indigo-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "magenta": {
+      "100": {
+        "value": "rgb(255, 234, 241)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "06219a66-5150-42ab-a9fd-c743058728af",
+            "name": "magenta-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(255, 220, 232)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "0a9c01d3-0659-4884-a0e8-7032deeee766",
+            "name": "magenta-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(255, 202, 221)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "bfe2436d-c026-4641-8cd7-a9824f6948dd",
+            "name": "magenta-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(255, 178, 206)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "4419b5e5-344d-4905-b39d-8935bedf7d6c",
+            "name": "magenta-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(255, 149, 189)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "d7c3e696-4ec4-497f-89c5-bad17cb4699a",
+            "name": "magenta-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(250, 119, 170)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "329f4efa-6f0b-4bc1-95f7-1121bda7f421",
+            "name": "magenta-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(239, 90, 152)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "fcacf0f0-c919-4705-b4c2-6edbe2796fb0",
+            "name": "magenta-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(222, 61, 130)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "21e774f7-89d8-438d-9fc4-aa93261022d1",
+            "name": "magenta-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(200, 34, 105)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "0166ed9b-52e7-447a-b45d-de29ba85eb0d",
+            "name": "magenta-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(173, 9, 85)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "98125f18-a061-4aa7-a0c5-a746d635c4c5",
+            "name": "magenta-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(142, 0, 69)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "29d203d7-7c2c-4f36-a5f3-d84fab6be9f1",
+            "name": "magenta-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(112, 0, 55)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2a9f4ecf-5678-4345-973a-da1e066eaf10",
+            "name": "magenta-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(84, 3, 42)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "0be3f108-028b-4fdd-9a98-8bb24deec2d8",
+            "name": "magenta-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(60, 6, 29)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "40d9a0f7-0085-4001-a22e-3c22d3887846",
+            "name": "magenta-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "purple": {
+      "100": {
+        "value": "rgb(246, 235, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e80b112b-a26d-4392-a431-844b33d8bac8",
+            "name": "purple-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(238, 221, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "65816c3d-544e-4bbd-bf0e-c0981e08a5cb",
+            "name": "purple-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(230, 208, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "bea266d7-8f53-43b7-b7df-0daa5b7e6f89",
+            "name": "purple-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(219, 187, 254)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b68c2d3d-02e6-4130-9904-d2d32e67d115",
+            "name": "purple-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(204, 164, 253)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "9625edd4-fcdd-406a-9a66-068dcfeb3bd9",
+            "name": "purple-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(189, 139, 252)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "bfd24d4f-9100-4937-a45d-7614ce0ece74",
+            "name": "purple-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(174, 114, 249)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2f218111-4cef-432b-8d69-06492e7c40c1",
+            "name": "purple-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(157, 87, 244)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a6205c53-9e63-475c-85f4-bdd5963e1eb2",
+            "name": "purple-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(137, 61, 231)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b72cb9ff-2b75-487c-914f-1c10bff76f75",
+            "name": "purple-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(115, 38, 211)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "163a3d87-cba9-48de-8384-c2820cf03984",
+            "name": "purple-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(93, 19, 183)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "991db22a-d0c2-4f1a-a45b-95aaf13d747d",
+            "name": "purple-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(71, 12, 148)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b71041e1-ca59-4d0c-87e4-2a8e8821b3ab",
+            "name": "purple-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(51, 16, 106)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7a524851-d57b-40f7-930a-f67739c0e138",
+            "name": "purple-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(35, 15, 73)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e1609d80-a6ba-46b6-bd52-83f32fd009ad",
+            "name": "purple-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "seafoam": {
+      "100": {
+        "value": "rgb(206, 247, 243)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "2330ab05-6153-47a1-ab56-18f3cb1c579f",
+            "name": "seafoam-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(170, 241, 234)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "870298fd-4e1f-4649-bfbc-5ad5b768c2e3",
+            "name": "seafoam-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(140, 233, 226)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "1fe5483a-95bd-4597-802a-9e84c1486dbe",
+            "name": "seafoam-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(101, 218, 210)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "e2b4d354-9a1d-4153-b988-4fc24c117252",
+            "name": "seafoam-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(63, 201, 193)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a1da1af7-df37-455d-8d27-2920b36f209f",
+            "name": "seafoam-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(15, 181, 174)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "cfd8a8b3-d567-4eb4-9b6f-5db352607dab",
+            "name": "seafoam-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(0, 161, 154)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a036b309-95ec-45e6-b035-f30f0f922422",
+            "name": "seafoam-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(0, 140, 135)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "ac4f12a3-a3f0-4053-87f4-5fc42b08cf23",
+            "name": "seafoam-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(0, 119, 114)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "74cb44f8-8ab0-4a36-9920-0735756e0ddc",
+            "name": "seafoam-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(0, 99, 95)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "84e4e598-4fd7-445a-a6cf-2884c0aae4d0",
+            "name": "seafoam-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(12, 79, 76)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "d1bb038a-f83b-4e97-b95f-b215c7bc2916",
+            "name": "seafoam-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(18, 60, 58)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "0eab9416-b6f5-4d26-bde6-9b8a840f7681",
+            "name": "seafoam-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(18, 44, 43)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a88e0c6e-dfd5-4a43-8d43-97fa10101165",
+            "name": "seafoam-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(15, 31, 30)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "52c9177c-bc81-41b1-ba6d-9b075fbe8541",
+            "name": "seafoam-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "yellow": {
+      "100": {
+        "value": "rgb(251, 241, 152)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "910d2e36-245f-4df6-a99c-92a5bb4d4cce",
+            "name": "yellow-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "rgb(248, 231, 80)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "0ebcaa53-4d19-4eed-99d1-4477f4358a58",
+            "name": "yellow-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "rgb(248, 217, 4)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "97ea0771-52c6-48f0-8725-dc514b0738d4",
+            "name": "yellow-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "rgb(232, 198, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "8ffb47cc-cc5c-4179-807e-4a1cb45c6496",
+            "name": "yellow-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "rgb(215, 179, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "68a43979-6dee-45b9-963d-3e827b2554f4",
+            "name": "yellow-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "rgb(196, 159, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "8c86293e-334b-49ed-a7aa-eb4fe987002f",
+            "name": "yellow-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "rgb(176, 140, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "881b7389-0c65-46e6-a391-d1d5800c535c",
+            "name": "yellow-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "rgb(155, 120, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b9ee2410-9573-4acd-bff8-ce11bf0f72a0",
+            "name": "yellow-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(133, 102, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "1b030fd3-f5bc-4e84-8efd-33db77bf64b8",
+            "name": "yellow-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "rgb(112, 83, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a9d84db4-e9db-45a8-9010-4e64822f0408",
+            "name": "yellow-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "rgb(91, 67, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b6001568-2f26-4722-85e2-e6a3a8ad0ec8",
+            "name": "yellow-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "rgb(72, 51, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7be15b50-51c6-4d0c-9ec8-89b4ac170a5a",
+            "name": "yellow-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "rgb(54, 37, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b5808c39-38db-4378-96db-1f6d44ce5172",
+            "name": "yellow-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "rgb(40, 26, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "65ad1c10-fb0d-4dd2-a9f5-66ab34dcc86b",
+            "name": "yellow-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
+    "transparent-black": {
+      "100": {
+        "value": "rgba(0, 0, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "7565eb32-d745-4fc3-8779-a717f8ba910a",
+            "name": "transparent-black-100",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "200": {
+        "value": "rgba(0, 0, 0, 0.1)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a84ecad8-8005-4ce4-add6-7f83f7e05ba0",
+            "name": "transparent-black-200",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "300": {
+        "value": "rgba(0, 0, 0, 0.25)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "16a871e1-d9df-42bb-8889-99059d70e82e",
+            "name": "transparent-black-300",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "400": {
+        "value": "rgba(0, 0, 0, 0.4)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b769453b-586c-4dd2-b3a1-ddf5964160bc",
+            "name": "transparent-black-400",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "500": {
+        "value": "rgba(0, 0, 0, 0.55)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "cebedd9f-9e4b-47cf-addb-45d8ff9c9179",
+            "name": "transparent-black-500",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "600": {
+        "value": "rgba(0, 0, 0, 0.7)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "199e19a5-bf7d-4933-8425-d7d5881e4cf5",
+            "name": "transparent-black-600",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "700": {
+        "value": "rgba(0, 0, 0, 0.8)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "56da822f-98ea-4ad1-b993-3f052de45f36",
+            "name": "transparent-black-700",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "800": {
+        "value": "rgba(0, 0, 0, 0.9)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3e89f180-b0f0-4de0-904b-c80f0210a361",
+            "name": "transparent-black-800",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(0, 0, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c0a331f9-53e3-4c72-b5e3-139d730a1752",
+            "name": "transparent-black-900",
+            "constant-token-duplicate": true
+          }
+        }
+      }
+    },
+    "transparent-white": {
+      "100": {
+        "value": "rgba(255, 255, 255, 0)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "a1b64a62-7c78-415e-a9be-c86acbf361ca",
+            "name": "transparent-white-100",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "200": {
+        "value": "rgba(255, 255, 255, 0.1)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "936db837-bc5a-40b0-a0e8-8e39b9fc62cb",
+            "name": "transparent-white-200",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "300": {
+        "value": "rgba(255, 255, 255, 0.25)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "5ffa0283-ce9c-4f96-9227-f559ec54ee0c",
+            "name": "transparent-white-300",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "400": {
+        "value": "rgba(255, 255, 255, 0.4)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "12e610d4-e3dc-4e86-9c09-09d86915b6f1",
+            "name": "transparent-white-400",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "500": {
+        "value": "rgba(255, 255, 255, 0.55)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "89c1380f-3e8e-4895-b025-027cee7ecd5b",
+            "name": "transparent-white-500",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "600": {
+        "value": "rgba(255, 255, 255, 0.7)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b24431ee-5c72-4a73-8733-746c6f5d77c0",
+            "name": "transparent-white-600",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "700": {
+        "value": "rgba(255, 255, 255, 0.8)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "3ecc14ec-a21e-47ba-8225-915509a532af",
+            "name": "transparent-white-700",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "800": {
+        "value": "rgba(255, 255, 255, 0.9)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "b85836bf-af47-412a-900a-4ec5ad0733b2",
+            "name": "transparent-white-800",
+            "constant-token-duplicate": true
+          }
+        }
+      },
+      "900": {
+        "value": "rgb(255, 255, 255)",
+        "type": "color",
+        "extensions": {
+          "spectrum-tokens": {
+            "uuid": "c5c823c6-1911-4e0e-ba2f-5105f467e108",
+            "name": "transparent-white-900",
+            "constant-token-duplicate": true
+          }
+        }
+      }
+    }
+  }
+}

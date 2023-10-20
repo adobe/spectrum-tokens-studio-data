@@ -1,0 +1,15 @@
+{
+  "alias": {
+    "overlay-opacity": {
+      "value": "0.4",
+      "type": "opacity",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "93b904da-5d1f-4fd9-aa26-5aabe19df108",
+          "name": "overlay-opacity",
+          "constant-token-duplicate": false
+        }
+      }
+    }
+  }
+}

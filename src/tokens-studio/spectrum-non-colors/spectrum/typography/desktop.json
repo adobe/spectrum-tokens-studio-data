@@ -1,0 +1,169 @@
+{
+  "typography": {
+    "font-size-100": {
+      "value": "14px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "938e2d24-1e90-48f0-a596-595a69103707",
+          "name": "font-size-100",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-1000": {
+      "value": "40px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "27f694f9-6770-49e0-b7fc-833618b3fc2f",
+          "name": "font-size-1000",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-1100": {
+      "value": "45px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "00dc3fcd-383f-4bc6-8940-e0884f0ffb7e",
+          "name": "font-size-1100",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-1200": {
+      "value": "50px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "b73bfb12-80ef-453f-b7dc-52bf2258ef47",
+          "name": "font-size-1200",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-1300": {
+      "value": "60px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "e8853e10-cc03-47c1-9b66-11755ff513a5",
+          "name": "font-size-1300",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-200": {
+      "value": "16px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "b36caaa3-7047-4dfb-8a84-f990a8ac3a91",
+          "name": "font-size-200",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-300": {
+      "value": "18px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "3dc9b6a4-77e3-484b-be8c-fbc2f50e6175",
+          "name": "font-size-300",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-400": {
+      "value": "20px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "292a28d6-2e15-46e2-80cd-5171d977e9b5",
+          "name": "font-size-400",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-50": {
+      "value": "11px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "8593a326-de37-414d-b3f6-5254b41dce07",
+          "name": "font-size-50",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-500": {
+      "value": "22px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "9be56e29-2e79-41e0-b5a9-6a2dabc70aa1",
+          "name": "font-size-500",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-600": {
+      "value": "25px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "db1d7d01-8dd4-4c27-b58c-686f030e5e46",
+          "name": "font-size-600",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-700": {
+      "value": "28px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "77da1638-cb39-4c80-8c13-db77b9aa528e",
+          "name": "font-size-700",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-75": {
+      "value": "12px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "55d90327-8cc9-4d4f-891f-9d42751d989a",
+          "name": "font-size-75",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-800": {
+      "value": "32px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "8425654d-7f46-4b6d-8997-5ae6b6980e06",
+          "name": "font-size-800",
+          "constant-token-duplicate": false
+        }
+      }
+    },
+    "font-size-900": {
+      "value": "36px",
+      "type": "fontSizes",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "df2d6c8d-dc03-4581-96c6-d6a92a270b77",
+          "name": "font-size-900",
+          "constant-token-duplicate": false
+        }
+      }
+    }
+  }
+}

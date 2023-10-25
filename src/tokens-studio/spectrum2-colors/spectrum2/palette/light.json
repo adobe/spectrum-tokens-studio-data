@@ -2483,7 +2483,7 @@
     },
     "transparent-black": {
       "25": {
-        "value": "#000000",
+        "value": "#00000000",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2628,7 +2628,7 @@
     },
     "transparent-white": {
       "25": {
-        "value": "#ffffff",
+        "value": "#ffffff00",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {

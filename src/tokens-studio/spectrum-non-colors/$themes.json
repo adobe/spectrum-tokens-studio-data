@@ -9,8 +9,6 @@
       "spectrum/layout/mobile": "enabled",
       "spectrum/layout.component/constant": "enabled",
       "spectrum/layout.component/mobile": "enabled",
-      "spectrum/component/constant": "enabled",
-      "spectrum/component/mobile": "enabled",
       "spectrum/typography/constant": "enabled",
       "spectrum/typography/mobile": "enabled"
     },
@@ -26,8 +24,6 @@
       "spectrum/layout/desktop": "enabled",
       "spectrum/layout.component/constant": "enabled",
       "spectrum/layout.component/desktop": "enabled",
-      "spectrum/component/constant": "enabled",
-      "spectrum/component/desktop": "enabled",
       "spectrum/typography/constant": "enabled",
       "spectrum/typography/desktop": "enabled"
     },
@@ -37,8 +33,10 @@
     "id": "738333a3145b5fb23c20797c93ee780d037a11d5",
     "name": "light",
     "selectedTokenSets": {
-      "spectrum/opacity/constant": "enabled",
-      "spectrum/opacity/light": "enabled"
+      "spectrum/opacity.alias/constant": "enabled",
+      "spectrum/opacity.alias/light": "enabled",
+      "spectrum/opacity.component/constant": "enabled",
+      "spectrum/opacity.component/light": "enabled"
     },
     "group": "S.Color-theme"
   },
@@ -46,8 +44,10 @@
     "id": "51d38b3af725b927e3fba235fa6c3bb6cfcaf59e",
     "name": "dark",
     "selectedTokenSets": {
-      "spectrum/opacity/constant": "enabled",
-      "spectrum/opacity/dark": "enabled"
+      "spectrum/opacity.alias/constant": "enabled",
+      "spectrum/opacity.alias/dark": "enabled",
+      "spectrum/opacity.component/constant": "enabled",
+      "spectrum/opacity.component/dark": "enabled"
     },
     "group": "S.Color-theme"
   },
@@ -55,8 +55,10 @@
     "id": "09fb335cab18186b281e7d5394bf56a0fa6e625f",
     "name": "darkest",
     "selectedTokenSets": {
-      "spectrum/opacity/constant": "enabled",
-      "spectrum/opacity/darkest": "enabled"
+      "spectrum/opacity.alias/constant": "enabled",
+      "spectrum/opacity.alias/darkest": "enabled",
+      "spectrum/opacity.component/constant": "enabled",
+      "spectrum/opacity.component/darkest": "enabled"
     },
     "group": "S.Color-theme"
   },
@@ -64,8 +66,10 @@
     "id": "c9bc639cbf2113e23ab199cc67f78dd936c8d66a",
     "name": "wireframe",
     "selectedTokenSets": {
-      "spectrum/opacity/constant": "enabled",
-      "spectrum/opacity/wireframe": "enabled"
+      "spectrum/opacity.alias/constant": "enabled",
+      "spectrum/opacity.alias/wireframe": "enabled",
+      "spectrum/opacity.component/constant": "enabled",
+      "spectrum/opacity.component/wireframe": "enabled"
     },
     "group": "S.Color-theme"
   }

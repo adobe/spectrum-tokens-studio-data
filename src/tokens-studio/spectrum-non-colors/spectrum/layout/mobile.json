@@ -89,7 +89,7 @@
   },
   "color-control-track-width": {
     "value": "30px",
-    "type": "spacing",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "07e3ac46-3f96-4c00-aa6a-09840ee04bdd",
@@ -1288,7 +1288,7 @@
   },
   "field-width": {
     "value": "240px",
-    "type": "spacing",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "08c2390a-353b-4e6b-b025-dbaeaa5fdff2",

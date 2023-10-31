@@ -5,7 +5,11 @@
 
 <!--- Describe your changes in detail, including a list of changes -->
 
-## Related Issue
+## Motivation and context
+
+<!--- Why is this change required? What problem does it solve? -->
+
+## Related issue
 
 <!--- This project only accepts pull requests related to open issues -->
 <!--- If suggesting a new feature or change, please discuss it in #spectrum_tokens_talk or design workshop, first -->
@@ -16,9 +20,9 @@
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-- [ ] Bug fix (patch; non-breaking change which fixes an issue) <!--- Example: fixing incorrect metadata -->
-- [ ] New feature (minor; non-breaking change which adds functionality) <!--- Examples: editing a token value, adding a new token -->
-- [ ] Breaking change (major; fix or feature that would cause existing functionality to change) <!--- Examples: changing a token name, deleting a token -->
+- [ ] Patch (bug fixes, typos, mistakes; non-breaking change which fixes an issue)
+- [ ] Minor (add a new token, changing a value; non-breaking change which adds functionality)
+- [ ] Major (deleting a token, changing token value type; fix or feature that would cause existing functionality to change)
 
 ## Checklist:
 

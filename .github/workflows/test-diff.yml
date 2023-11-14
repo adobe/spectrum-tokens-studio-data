@@ -1,8 +1,6 @@
 name: test tokens-studio-data against spectrum-tokens (s2-colors)
 on:
-  pull_request:
-    paths:
-      - src/spectrum2-colors/**
+  pull_request
 jobs:
   ci:
     runs-on: ubuntu-latest

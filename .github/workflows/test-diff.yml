@@ -3,6 +3,8 @@ on:
   pull_request:
     branches:
       - main
+    paths:
+      - 'src/spectrum2-colors/**'
   workflow_dispatch:
 jobs:
   ci:

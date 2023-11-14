@@ -1,6 +1,9 @@
 name: test tokens-studio-data against spectrum-tokens (s2-colors)
 on:
-  [pull_request, workflow_dispatch]
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
 jobs:
   ci:
     runs-on: ubuntu-latest

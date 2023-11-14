@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-      - 'src/spectrum2-colors/**'
+      - 'src/tokens-studio/spectrum2-colors/**'
   workflow_dispatch:
 jobs:
   ci:

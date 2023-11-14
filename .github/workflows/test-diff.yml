@@ -7,19 +7,17 @@ jobs:
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
-      - name: Check out repository code
+      - name: Check out tokens-studio-data code
         uses: actions/checkout@v4
+        with:
+          repository: mrcjhicks/spectrum-tokens-studio-data
+          path: spectrum-tokens-studio-data
       - name: Check out spectrum-tokens code
         uses: actions/checkout@v4
         with:
           repository: mrcjhicks/spectrum-tokens
           path: spectrum-tokens
           ref: beta
-      - name: Check out tokens-studio-data code
-        uses: actions/checkout@v4
-        with:
-          repository: mrcjhicks/spectrum-tokens-studio-data
-          path: spectrum-tokens-studio-data
       - name: Setup Node
         uses: actions/setup-node@v3
         with:

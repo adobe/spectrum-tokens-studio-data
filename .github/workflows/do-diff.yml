@@ -15,7 +15,7 @@ jobs:
         with:
           repository: mrcjhicks/spectrum-tokens
           path: spectrum-tokens
-          ref: beta-test
+          ref: beta
       - name: Check out tokens-studio-data code
         uses: actions/checkout@v4
         with:

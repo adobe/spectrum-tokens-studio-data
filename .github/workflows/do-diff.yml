@@ -41,7 +41,7 @@ jobs:
           branch: tokens-sync/patch
           title: "feat: updates from tokens-studio sync operation"
           body: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          token: ${{ secrets.REPO_TOKE }}
+          token: ${{ secrets.GH_TOKEN }}
       - name: Check spectrum-tokens PR
         if: ${{ steps.cpr-spectrum-tokens.outputs.pull-request-number }}
         run: |
@@ -54,7 +54,7 @@ jobs:
           branch: tokens-sync/patch#${{ steps.cpr-spectrum-tokens.outputs.pull-request-number }}
           title: "feat: updates from spectrum-tokens sync operation"
           body: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          token: ${{ secrets.REPO_TOKE }}
+          token: ${{ secrets.GH_TOKEN }}
       - name: Check tokens-studio PR
         if: ${{ steps.cpr-tokens-studio.outputs.pull-request-number }}
         run: |

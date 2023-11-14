@@ -29,6 +29,7 @@ jobs:
       - name: try and run the diff script
         run: node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/
       - name: log summary
+        if: success() || failure()
         run: xargs echo < cout.log
       - name: append failure message
         if: ${{ failure() && github.event_name == 'pull_request' }}

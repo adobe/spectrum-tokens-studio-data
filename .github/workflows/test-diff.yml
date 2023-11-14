@@ -23,6 +23,12 @@ jobs:
           node-version: 18.13.x
       - name: try and run the diff script
         run: node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/ >> $GITHUB_STEP_SUMMARY
+      - name: append failure message
+        if: failure()
+        run: |
+          gh pr comment ${{ github.event.number }} --body-file cout.log
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Upload change logs...
         if: ${{ hashFiles('./logs/*.json') != '' }}
         uses: actions/upload-artifact@v3

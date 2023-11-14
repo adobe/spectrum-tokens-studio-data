@@ -1,0 +1,62 @@
+name: sync spectrum-tokens with tokens-studio-data
+run-name: ${{ github.actor }} is syncing up some tokens! 🚀
+on:
+  workflow_dispatch
+jobs:
+  Diff_Script:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Check out spectrum-tokens code
+        uses: actions/checkout@v4
+        with:
+          repository: mrcjhicks/spectrum-tokens
+          path: spectrum-tokens
+          ref: beta-test
+      - name: Check out tokens-studio-data code
+        uses: actions/checkout@v4
+        with:
+          repository: mrcjhicks/spectrum-tokens-studio-data
+          path: spectrum-tokens-studio-data
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.13.x
+      - name: try and run the diff script
+        run: node ./scripts/diff.js  -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/ >> $GITHUB_STEP_SUMMARY
+      - name: Upload change logs...
+        if: ${{ hashFiles('./logs/*.json') != '' }}
+        uses: actions/upload-artifact@v3
+        with:
+          name: changes
+          path: ./logs/*.json
+      - name: Create spectrum-tokens PR...
+        id: cpr-spectrum-tokens
+        uses: peter-evans/create-pull-request@v5
+        with:
+          path: spectrum-tokens
+          branch: tokens-sync/patch
+          title: "feat: updates from tokens-studio sync operation"
+          body: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          token: ${{ secrets.REPO_TOKE }}
+      - name: Check spectrum-tokens PR
+        if: ${{ steps.cpr-spectrum-tokens.outputs.pull-request-number }}
+        run: |
+          echo "[Spectrum Tokens Pull Request URL](${{ steps.cpr-spectrum-tokens.outputs.pull-request-url }})" >> $GITHUB_STEP_SUMMARY
+      - name: Create spectrum-tokens-studio-data PR...
+        id: cpr-tokens-studio
+        uses: peter-evans/create-pull-request@v5
+        with:
+          path: spectrum-tokens-studio-data
+          branch: tokens-sync/patch#${{ steps.cpr-spectrum-tokens.outputs.pull-request-number }}
+          title: "feat: updates from spectrum-tokens sync operation"
+          body: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          token: ${{ secrets.REPO_TOKE }}
+      - name: Check tokens-studio PR
+        if: ${{ steps.cpr-tokens-studio.outputs.pull-request-number }}
+        run: |
+          echo "[Tokens Studio Pull Request URL](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> $GITHUB_STEP_SUMMARY
+      - run: echo "🍏 This job's status is ${{ job.status }}."

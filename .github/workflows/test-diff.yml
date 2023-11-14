@@ -10,7 +10,6 @@ jobs:
       - name: Check out tokens-studio-data code
         uses: actions/checkout@v4
         with:
-          repository: mrcjhicks/spectrum-tokens-studio-data
           path: spectrum-tokens-studio-data
       - name: Check out spectrum-tokens code
         uses: actions/checkout@v4

@@ -20,7 +20,7 @@ jobs:
       - name: Check out spectrum-tokens code
         uses: actions/checkout@v4
         with:
-          repository: mrcjhicks/spectrum-tokens
+          repository: ${{ github.repository_owner }}/spectrum-tokens
           path: spectrum-tokens
           ref: beta
       - name: Setup Node

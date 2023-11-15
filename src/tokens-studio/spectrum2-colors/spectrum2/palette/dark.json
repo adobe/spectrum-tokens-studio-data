@@ -1,12 +1,22 @@
 {
   "Palette": {
     "black": {
-      "value": "#000006",
+      "value": "#000000",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "28dea8b0-4e9a-46f9-babb-c8910e6ae783",
           "name": "black",
+          "constant-token-duplicate": true
+        }
+      }
+    },
+    "blorck": {
+      "value": "#0000FF",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "blorck",
           "constant-token-duplicate": true
         }
       }

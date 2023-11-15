@@ -7,7 +7,21 @@ on:
       - 'src/tokens-studio/spectrum2-colors/**'
   workflow_dispatch:
 jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      condition: ${{ steps.condition.outputs.condition }}
+    steps:
+      - id: condition
+        run: |
+          if [[ ${{ github.head_ref }} == *"tokens-sync"* ]]; then
+             echo "condition=false" >> $GITHUB_OUTPUT
+          else
+             echo "condition=true" >> $GITHUB_OUTPUT  
+          fi
   ci:
+    needs: setup
+    if: ${{ needs.setup.outputs.condition }} == 'true'
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."

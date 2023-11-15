@@ -1,22 +1,37 @@
 name: sync spectrum-tokens with tokens-studio-data
 run-name: ${{ github.actor }} is syncing up some tokens! 🚀
 on:
-  workflow_dispatch:
   pull_request:
     types: [closed]
     branches:
-      - main
+      - main                                                  # only run on PRs targetting main
+    paths:
+      - 'src/tokens-studio/spectrum2-colors/**'               # only run when files in this path change
+  workflow_dispatch:
 jobs:
-  Diff_Script:
+  setup:                                                      # we do not want to run this on our generated PRs
+    runs-on: ubuntu-latest
+    outputs:
+      condition: ${{ steps.condition.outputs.condition }}
+    steps:
+      - id: condition
+        run: |                                                # check if the event_name & head_ref passes our checks
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "condition=true" >> $GITHUB_OUTPUT
+          else
+            node -e "('${{ github.head_ref }}').indexOf('tokens-sync') === -1 ? console.log('condition=true') : console.log('condition=false')" >> $GITHUB_OUTPUT
+          fi
+  diff:
+    needs: [setup]
+    if: ${{ needs.setup.outputs.condition == 'true' }}        # only run if the setup job determined this was not a generated PR
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - run: echo "🔎 The name of your branch is ${{ github.head_ref }} and your repository is ${{ github.repository }}."
       - name: Check out tokens-studio-data code
         uses: actions/checkout@v4
         with:
           path: spectrum-tokens-studio-data
-          ref: main
       - name: Check out spectrum-tokens code
         uses: actions/checkout@v4
         with:
@@ -27,9 +42,24 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18.13.x
-      - name: try and run the diff script
-        run: node spectrum-tokens-studio-data/.github/workflows/diff.js  -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/ >> $GITHUB_STEP_SUMMARY
-      - name: Upload change logs...
+      - name: Run the diff script
+        run: node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/
+      - name: Add stuff to log
+        run: |
+          echo >> cout.log
+          echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> cout.log
+          echo >> cout.log
+          for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; cat $file; echo; echo '</p></details>'; echo; done >> cout.log
+      - name: Log the script summary
+        run: |
+          cat cout.log >> $GITHUB_STEP_SUMMARY
+      - name: Append script summary to PR
+        if: ${{ github.event_name == 'pull_request' }}
+        run: |
+          gh pr comment ${{ github.event.number }} --body-file cout.log --repo ${{ github.repository}}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Archive change logs
         if: ${{ hashFiles('./logs/*.json') != '' }}
         uses: actions/upload-artifact@v3
         with:

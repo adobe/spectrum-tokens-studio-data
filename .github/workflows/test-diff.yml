@@ -2,7 +2,7 @@ name: test tokens-studio-data against spectrum-tokens (s2-colors)
 on:
   pull_request:
     branches:
-      - main                                                  # only run on prs to main
+      - main                                                  # only run on PRs targetting main
     paths:
       - 'src/tokens-studio/spectrum2-colors/**'               # only run when files in this path change
   workflow_dispatch:
@@ -10,7 +10,7 @@ jobs:
   setup:                                                      # we do not want to run this on our generated PRs
     runs-on: ubuntu-latest
     outputs:
-      condition: ${{ steps.condition.outputs.condition }}     # set the condition output to the value of the condition step
+      condition: ${{ steps.condition.outputs.condition }}
     steps:
       - id: condition
         run: |                                                # check if the event_name & head_ref passes our checks
@@ -21,7 +21,7 @@ jobs:
           fi
   ci:
     needs: [setup]
-    if: ${{ needs.setup.outputs.condition == 'true' }}        # only run if the setup determined this was not a generated PR
+    if: ${{ needs.setup.outputs.condition == 'true' }}        # only run if the setup job determined this was not a generated PR
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -42,11 +42,17 @@ jobs:
           node-version: 18.13.x
       - name: Run the diff script
         run: node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/
+      - name: Add stuff to log
+        run: |
+          echo >> cout.log
+          echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> cout.log
+          echo >> cout.log
+          for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; cat $file; echo; echo '</p></details>'; echo; done >> cout.log
       - name: Log the script summary
-        if: success() || failure()
-        run: cat cout.log >> $GITHUB_STEP_SUMMARY
-      - name: Append script summary on failure
-        if: ${{ failure() && github.event_name == 'pull_request' }}
+        run: |
+          cat cout.log >> $GITHUB_STEP_SUMMARY
+      - name: Append script summary to PR
+        if: ${{ github.event_name == 'pull_request' }}
         run: |
           gh pr comment ${{ github.event.number }} --body-file cout.log --repo ${{ github.repository}}
         env:

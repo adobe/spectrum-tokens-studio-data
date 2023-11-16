@@ -39,10 +39,13 @@ jobs:
       - name: Sync the token data
         if: ${{ inputs.test == false }}
         run: node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.test }}/ -destination=./spectrum-tokens/packages/tokens/src/
-      - name: Add stuff to log
+      - name: Add action link to log
         run: |
           echo >> cout.log
           echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> cout.log
+      - name: Add change logs to log
+        if: ${{ hashFiles('./logs/*.json') != '' }}
+        run: |
           echo >> cout.log
           for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; cat $file; echo; echo '</p></details>'; echo; done >> cout.log
       - name: Log the script summary

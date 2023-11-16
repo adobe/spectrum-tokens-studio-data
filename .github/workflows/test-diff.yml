@@ -7,6 +7,10 @@ on:
       - 'src/tokens-studio/spectrum2-colors/**'               # only run when files in this path change
   workflow_dispatch:
 jobs:
+  intro:
+    uses: ./.github/actions/test-action
+    with:
+      who-to-greet: 'Mona the Octocat'
   setup:                                                      # we do not want to run this on our generated PRs
     runs-on: ubuntu-latest
     outputs:

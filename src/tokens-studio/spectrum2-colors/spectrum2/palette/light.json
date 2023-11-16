@@ -1,46 +1,13 @@
 {
   "Palette": {
     "black": {
-      "value": "#000003",
+      "value": "#000000",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "28dea8b0-4e9a-46f9-babb-c8910e6ae783",
           "name": "black",
           "constant-token-duplicate": true
-        }
-      }
-    },
-    "hork": {
-      "value": "#000000",
-      "type": "color",
-      "$extensions": {
-        "spectrum-tokens": {
-          "name": "hork",
-          "constant-token-duplicate": true,
-          "uuid": "2f4392ae-c122-4c12-a20d-d6f6c06a02d6"
-        }
-      }
-    },
-    "honk": {
-      "value": "#000000",
-      "type": "color",
-      "$extensions": {
-        "spectrum-tokens": {
-          "name": "honk",
-          "constant-token-duplicate": true,
-          "uuid": "a458a5a4-1a3a-4aef-8d64-5a5cac368c94"
-        }
-      }
-    },
-    "blonk": {
-      "value": "#000000",
-      "type": "color",
-      "$extensions": {
-        "spectrum-tokens": {
-          "name": "blonk",
-          "constant-token-duplicate": true,
-          "uuid": "8212579e-a6a0-420b-9931-50e6e6d0165f"
         }
       }
     },

@@ -1,4 +1,4 @@
-name: check if diff workflow should run or not
+name: (check whether test/sync should trigger)
 
 on:
   workflow_call:

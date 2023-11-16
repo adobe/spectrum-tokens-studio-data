@@ -1,8 +1,8 @@
-name: SYNC S2-COLORS
+name: TEST S2-COLORS
+
 on:
   workflow_dispatch:
   pull_request:
-    types: [closed]
     branches:
       - main                                                  # only run on PRs targetting main
     paths:
@@ -12,12 +12,12 @@ jobs:
   check_should_run:      
     uses: ./.github/workflows/_diff-should-run.yml
     secrets: inherit
-  diff_do:
+  diff_test:
     needs: [check_should_run]
-    if: ${{ needs.check_should_run.outputs.condition == 'true' && github.event.pull_request.merged == true }}
+    if: ${{ needs.check_should_run.outputs.condition == 'true' }}
     uses: ./.github/workflows/_diff-trigger-op.yml
     with:
       source: spectrum2-colors
       branch: beta
-      test: false
+      test: true
     secrets: inherit

@@ -1,4 +1,4 @@
-name: trigger the requested diff operations
+name: (trigger diff test/sync)
 
 on:
   workflow_call:

@@ -11,6 +11,16 @@
         }
       }
     },
+    "hork": {
+      "value": "#000000",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "hork",
+          "constant-token-duplicate": true
+        }
+      }
+    },
     "honk": {
       "value": "#000000",
       "type": "color",

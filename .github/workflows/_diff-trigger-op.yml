@@ -2,6 +2,10 @@ name: trigger the requested diff operations
 
 on:
   workflow_call:
+    inputs:
+      branch:
+        required: true
+        type: string
 
 jobs:
   should:                                                      # we do not want to run this on our generated PRs
@@ -18,7 +22,7 @@ jobs:
         with:
           repository: ${{ github.repository_owner }}/spectrum-tokens
           path: spectrum-tokens
-          ref: beta
+          ref: ${{ inputs.branch }}
       - name: Setup Node
         uses: actions/setup-node@v3
         with:

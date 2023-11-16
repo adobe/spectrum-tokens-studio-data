@@ -14,6 +14,8 @@ jobs:
     needs: [check_should_run]
     if: ${{ needs.check_should_run.outputs.condition == 'true' }}
     uses: ./.github/workflows/_diff-trigger-op.yml
+    with:
+      branch: beta
     secrets: inherit
     # runs-on: ubuntu-latest
     # steps:

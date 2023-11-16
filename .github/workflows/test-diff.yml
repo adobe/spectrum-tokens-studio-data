@@ -8,11 +8,11 @@ on:
   workflow_dispatch:
 jobs:
   intro:
-  - uses: actions/checkout@v3 # Necessary to access local action
-  - name: Hello world action step
-    uses: ./.github/actions/test-action
-    with:
-      who-to-greet: 'Mona the Octocat'
+    - uses: actions/checkout@v3 # Necessary to access local action
+    - name: Hello world action step
+      uses: ./.github/actions/test-action
+      with:
+        who-to-greet: 'Mona the Octocat'
   setup:                                                      # we do not want to run this on our generated PRs
     runs-on: ubuntu-latest
     outputs:

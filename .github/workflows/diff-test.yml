@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 jobs:
   setup:      
-    uses: ./gitub/workflows/_diff-should-run.yml              # we do not want to run this on our generated PRs
+    uses: ./.github/workflows/_diff-should-run.yml              # we do not want to run this on our generated PRs
     secrets: inherit
   ci:
     needs: [setup]

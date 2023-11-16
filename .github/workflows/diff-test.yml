@@ -7,7 +7,6 @@ on:
       - 'src/tokens-studio/spectrum2-colors/**'               # only run when files in this path change
   workflow_dispatch:
 jobs:
-jobs:
   setup:      
     uses: ./gitub/workflows/_diff-should-run.yml              # we do not want to run this on our generated PRs
     secrets: inherit

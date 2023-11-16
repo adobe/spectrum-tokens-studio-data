@@ -11,6 +11,16 @@
         }
       }
     },
+    "bark": {
+      "value": "#000000",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "bark",
+          "constant-token-duplicate": true
+        }
+      }
+    },
     "white": {
       "value": "#ffffff",
       "type": "color",

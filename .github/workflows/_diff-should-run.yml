@@ -13,8 +13,8 @@ jobs:
     outputs:
       condition: ${{ steps.condition.outputs.condition }}
     steps:
+      - run: echo "HEAD -> ${{ github.head_ref }}"
       - id: condition
-        run: echo "HEAD -> ${{ github.head_ref }}"
         run: |                                                # check if the event_name & head_ref passes our checks
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             echo "condition=true" >> $GITHUB_OUTPUT

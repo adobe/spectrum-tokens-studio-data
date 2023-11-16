@@ -42,7 +42,7 @@ jobs:
         if: ${{ inputs.test == false }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**SYNCING**\n\n$(cat cout.log)" > cout.log
+          echo -e "**SYNCING ${{ inputs.source }}**\n\n$(cat cout.log)" > cout.log
       - name: Add action link to log
         run: |
           echo >> cout.log

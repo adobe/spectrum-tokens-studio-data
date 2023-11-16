@@ -20,6 +20,5 @@ jobs:
     with:
       source: spectrum2-colors
       branch: beta
-      target: s2-colors
       test: false
     secrets: inherit

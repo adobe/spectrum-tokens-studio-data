@@ -38,7 +38,7 @@ jobs:
         run: node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
       - name: Sync the token data
         if: ${{ inputs.test == false }}
-        run: node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.test }}/ -destination=./spectrum-tokens/packages/tokens/src/
+        run: node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
       - name: Add action link to log
         run: |
           echo >> cout.log

@@ -9,20 +9,11 @@ on:
       - 'src/tokens-studio/spectrum2-colors/**'               # only run when files in this path change
   workflow_dispatch:
 jobs:
-  setup:                                                      # we do not want to run this on our generated PRs
-    runs-on: ubuntu-latest
-    outputs:
-      condition: ${{ steps.condition.outputs.condition }}
-    steps:
-      - id: condition
-        run: |                                                # check if the event_name & head_ref passes our checks
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            echo "condition=true" >> $GITHUB_OUTPUT
-          else
-            node -e "('${{ github.head_ref }}').indexOf('tokens-sync') === -1 ? console.log('condition=true') : console.log('condition=false')" >> $GITHUB_OUTPUT
-          fi
-  diff:
-    needs: [setup]
+  check_should_run:      
+    uses: ./.github/workflows/_diff-should-run.yml
+    secrets: inherit
+  diff_do:
+    needs: [check_should_run]
     if: ${{ needs.setup.outputs.condition == 'true' && github.event.pull_request.merged == true }}        # only run if the setup job determined this was not a generated PR
     runs-on: ubuntu-latest
     steps:

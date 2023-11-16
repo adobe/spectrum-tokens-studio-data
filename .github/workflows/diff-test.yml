@@ -16,6 +16,7 @@ jobs:
     if: ${{ needs.check_should_run.outputs.condition == 'true' }}
     uses: ./.github/workflows/_diff-trigger-op.yml
     with:
+      source: spectrum2-colors
       branch: beta
       test: true
     secrets: inherit

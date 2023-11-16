@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
 jobs:
   intro:
-    - uses: actions/checkout@v3 # Necessary to access local action
     - name: Hello world action step
-      uses: ./.github/actions/test-action
+      uses: actions/checkout@v3             # Necessary to access local action
+      uses: ./.github/actions/test-action   # This is the local action
       with:
         who-to-greet: 'Mona the Octocat'
   setup:                                                      # we do not want to run this on our generated PRs

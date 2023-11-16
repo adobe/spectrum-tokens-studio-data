@@ -14,7 +14,7 @@ jobs:
     secrets: inherit
   diff_do:
     needs: [check_should_run]
-    if: ${{ needs.setup.outputs.condition == 'true' && github.event.pull_request.merged == true }}        # only run if the setup job determined this was not a generated PR
+    if: ${{ needs.check_should_run.outputs.condition == 'true' && github.event.pull_request.merged == true }}        # only run if the setup job determined this was not a generated PR
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."

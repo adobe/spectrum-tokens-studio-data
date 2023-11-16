@@ -15,7 +15,7 @@ jobs:
     secrets: inherit
   diff_do:
     needs: [check_should_run]
-    if: ${{ needs.check_should_run.outputs.condition == 'true' && github.event.pull_request.merged == true }}
+    if: ${{ needs.check_should_run.outputs.condition == 'true' && (github.event.pull_request.merged == true || github.event_name == 'workflow_dispatch')}}
     uses: ./.github/workflows/_diff-trigger-op.yml
     with:
       source: spectrum-colors                     # the tokens-studio data we want to compare (folder in the repo)

@@ -1,13 +1,14 @@
 name: sync spectrum-tokens with tokens-studio-data
 run-name: ${{ github.actor }} is syncing up some tokens! 🚀
 on:
+  workflow_dispatch:
   pull_request:
     types: [closed]
     branches:
       - main                                                  # only run on PRs targetting main
     paths:
       - 'src/tokens-studio/spectrum2-colors/**'               # only run when files in this path change
-  workflow_dispatch:
+
 jobs:
   check_should_run:      
     uses: ./.github/workflows/_diff-should-run.yml

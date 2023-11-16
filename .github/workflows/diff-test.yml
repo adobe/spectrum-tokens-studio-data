@@ -13,47 +13,47 @@ jobs:
   diff_test:
     needs: [check_should_run]
     if: ${{ needs.setup.outputs.condition == 'true' }}
-    uses: ./.github/workflows/_diff-trigger-op.yml
-    secrets: inherit
-    # runs-on: ubuntu-latest
-    # steps:
-    #   - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-    #   - run: echo "🔎 The name of your branch is ${{ github.head_ref }} and your repository is ${{ github.repository }}."
-    #   - name: Check out tokens-studio-data code
-    #     uses: actions/checkout@v4
-    #     with:
-    #       path: spectrum-tokens-studio-data
-    #   - name: Check out spectrum-tokens code
-    #     uses: actions/checkout@v4
-    #     with:
-    #       repository: ${{ github.repository_owner }}/spectrum-tokens
-    #       path: spectrum-tokens
-    #       ref: beta
-    #   - name: Setup Node
-    #     uses: actions/setup-node@v3
-    #     with:
-    #       node-version: 18.13.x
-    #   - name: Run the diff script
-    #     run: node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/
-    #   - name: Add stuff to log
-    #     run: |
-    #       echo >> cout.log
-    #       echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> cout.log
-    #       echo >> cout.log
-    #       for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; cat $file; echo; echo '</p></details>'; echo; done >> cout.log
-    #   - name: Log the script summary
-    #     run: |
-    #       cat cout.log >> $GITHUB_STEP_SUMMARY
-    #   - name: Append script summary to PR
-    #     if: ${{ github.event_name == 'pull_request' }}
-    #     run: |
-    #       gh pr comment ${{ github.event.number }} --body-file cout.log --repo ${{ github.repository}}
-    #     env:
-    #       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-    #   - name: Archive change logs
-    #     if: ${{ hashFiles('./logs/*.json') != '' }}
-    #     uses: actions/upload-artifact@v3
-    #     with:
-    #       name: changes
-    #       path: ./logs/*.json
-    #   - run: echo "🍏 This job's status is ${{ job.status }}."
+    # uses: ./.github/workflows/_diff-trigger-op.yml
+    # secrets: inherit
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🔎 The name of your branch is ${{ github.head_ref }} and your repository is ${{ github.repository }}."
+      - name: Check out tokens-studio-data code
+        uses: actions/checkout@v4
+        with:
+          path: spectrum-tokens-studio-data
+      - name: Check out spectrum-tokens code
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/spectrum-tokens
+          path: spectrum-tokens
+          ref: beta
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.13.x
+      - name: Run the diff script
+        run: node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/spectrum2-colors/ -destination=./spectrum-tokens/packages/tokens/src/
+      - name: Add stuff to log
+        run: |
+          echo >> cout.log
+          echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> cout.log
+          echo >> cout.log
+          for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; cat $file; echo; echo '</p></details>'; echo; done >> cout.log
+      - name: Log the script summary
+        run: |
+          cat cout.log >> $GITHUB_STEP_SUMMARY
+      - name: Append script summary to PR
+        if: ${{ github.event_name == 'pull_request' }}
+        run: |
+          gh pr comment ${{ github.event.number }} --body-file cout.log --repo ${{ github.repository}}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Archive change logs
+        if: ${{ hashFiles('./logs/*.json') != '' }}
+        uses: actions/upload-artifact@v3
+        with:
+          name: changes
+          path: ./logs/*.json
+      - run: echo "🍏 This job's status is ${{ job.status }}."

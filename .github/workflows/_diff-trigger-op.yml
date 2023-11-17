@@ -37,16 +37,12 @@ jobs:
         if: ${{ inputs.test == true }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**TESTING ${{ inputs.source }}**\n\n$(cat cout.log)" > cout.log
+          echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
       - name: Sync the token data
         if: ${{ inputs.test == false }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**SYNCING ${{ inputs.source }}**\n\n$(cat cout.log)" > cout.log
-      - name: Add action link to log
-        run: |
-          echo >> cout.log
-          echo "[Action URL](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> cout.log
+          echo -e "**SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
       - name: Create spectrum-tokens PR...
         if: ${{ inputs.test == false }}
         id: cpr-spectrum-tokens
@@ -79,7 +75,7 @@ jobs:
         if: ${{ hashFiles('./logs/*.json') != '' }}
         run: |
           echo >> cout.log
-          for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; echo '```'; echo; cat $file; echo; echo '```'; echo '</p></details>'; echo; done >> cout.log
+          for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; echo; echo '```'; cat $file; echo; echo '```'; echo; echo '</p></details>'; echo; done >> cout.log
       - name: Archive change logs
         if: ${{ hashFiles('./logs/*.json') != '' }}
         uses: actions/upload-artifact@v3

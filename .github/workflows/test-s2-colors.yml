@@ -1,0 +1,12 @@
+name: TEST S2-COLORS
+
+on:
+  workflow_dispatch:
+jobs:
+  diff_test:
+    uses: ./.github/workflows/_diff-trigger-op.yml
+    with:
+      source: spectrum2-colors                    # the tokens-studio data we want to compare (folder in the repo)
+      branch: beta                                # the spectrum-tokens data we want to compare (branch of the repo)
+      test: true
+    secrets: inherit

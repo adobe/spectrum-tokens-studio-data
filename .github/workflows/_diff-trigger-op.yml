@@ -42,7 +42,7 @@ jobs:
         if: ${{ inputs.test == false }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
+          echo -e "**[SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
       - name: Create spectrum-tokens PR...
         if: ${{ inputs.test == false }}
         id: cpr-spectrum-tokens

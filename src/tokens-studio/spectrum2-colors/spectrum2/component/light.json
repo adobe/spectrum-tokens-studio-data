@@ -1,7 +1,7 @@
 {
   "Component": {
     "card": {
-      "selection-background": {
+      "🚫 selection-background": {
         "value": "{Palette.gray.100}",
         "type": "color",
         "$extensions": {
@@ -136,7 +136,7 @@
           }
         }
       },
-      "shadow": {
+      "🚫 shadow": {
         "value": "{Component.floating-action-button.drop-shadow}",
         "type": "color",
         "$extensions": {

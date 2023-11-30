@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: spectrum-tokens-studio-data
-      - name: Check out spectrum-tokens code
+      - name: Check out spectrum-tokens code from ${{ github.repository_owner }}/spectrum-tokens/${{ inputs.branch }}
         uses: actions/checkout@v4
         with:
           repository: ${{ github.repository_owner }}/spectrum-tokens

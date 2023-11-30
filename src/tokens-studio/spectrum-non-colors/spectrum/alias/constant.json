@@ -5,9 +5,12 @@
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "b7b25005-7188-4936-8dbc-e2dd15213f47",
+          "uuid": "7cefc8ae-7335-4f8f-97c6-37bf619d4608",
           "name": "background-opacity-default",
-          "constant-token-duplicate": false
+          "constant-token-duplicate": false,
+          "deprecated-uuids": [
+            "b7b25005-7188-4936-8dbc-e2dd15213f47"
+          ]
         }
       }
     },

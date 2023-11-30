@@ -71,6 +71,9 @@ jobs:
         if: ${{ inputs.test == false && steps.cpr-tokens-studio.outputs.pull-request-number }}
         run: |
           echo "[Tokens Studio Pull Request URL](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> cout.log
+          gh pr merge ${{ steps.cpr-tokens-studio.outputs.pull-request-number }} --merge --delete-branch --repo ${{ github.repository_owner }}/spectrum-tokens-studio-data
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Add change logs to summary
         if: ${{ hashFiles('./logs/*.json') != '' }}
         run: |

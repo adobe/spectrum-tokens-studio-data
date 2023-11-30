@@ -36,12 +36,12 @@ jobs:
       - name: Test the token data
         if: ${{ inputs.test == true }}
         run: |
-          node spectrum-tokens-studio-data/.github/workflows/diff.js -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
+          node spectrum-tokens-studio-data/.github/workflows/diff.js -action -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
           echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
       - name: Sync the token data
         if: ${{ inputs.test == false }}
         run: |
-          node spectrum-tokens-studio-data/.github/workflows/diff.js -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
+          node spectrum-tokens-studio-data/.github/workflows/diff.js -action -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
           echo -e "**[SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
       - name: Create spectrum-tokens PR...
         if: ${{ inputs.test == false }}

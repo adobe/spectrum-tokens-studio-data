@@ -37,12 +37,12 @@ jobs:
         if: ${{ inputs.test == true }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -action -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
+          echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
       - name: Sync the token data
         if: ${{ inputs.test == false }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -action -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**[SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat cout.log)" > cout.log
+          echo -e "**[SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
       - name: Create spectrum-tokens PR...
         if: ${{ inputs.test == false }}
         id: cpr-spectrum-tokens
@@ -56,7 +56,7 @@ jobs:
       - name: Check spectrum-tokens PR
         if: ${{ inputs.test == false && steps.cpr-spectrum-tokens.outputs.pull-request-number }}
         run: |
-          echo "[Spectrum Tokens Pull Request URL](${{ steps.cpr-spectrum-tokens.outputs.pull-request-url }})" >> cout.log
+          echo "[Spectrum Tokens Pull Request URL](${{ steps.cpr-spectrum-tokens.outputs.pull-request-url }})" >> ./logs/cout.log
       - name: Create spectrum-tokens-studio-data PR...
         if: ${{ inputs.test == false }}
         id: cpr-tokens-studio
@@ -70,14 +70,14 @@ jobs:
       - name: Check tokens-studio PR
         if: ${{ inputs.test == false && steps.cpr-tokens-studio.outputs.pull-request-number }}
         run: |
-          echo "[Tokens Studio Pull Request URL](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> cout.log
+          echo "[Tokens Studio Pull Request URL](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> ./logs/cout.log
           gh pr merge ${{ steps.cpr-tokens-studio.outputs.pull-request-number }} --merge --delete-branch --repo ${{ github.repository_owner }}/spectrum-tokens-studio-data
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Add change logs to summary
         if: ${{ hashFiles('./logs/*.json') != '' }}
         run: |
-          echo >> cout.log
+          echo >> ./logs/cout.log
           for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; echo; echo '```'; cat $file; echo; echo '```'; echo; echo '</p></details>'; echo; done >> cout.log
       - name: Archive change logs
         if: ${{ hashFiles('./logs/*.json') != '' }}
@@ -88,10 +88,10 @@ jobs:
       - name: Append script summary to PR
         if: ${{ github.event_name == 'pull_request' }}
         run: |
-          gh pr comment ${{ github.event.number }} --body-file cout.log --repo ${{ github.repository}}
+          gh pr comment ${{ github.event.number }} --body-file ./logs/cout.log --repo ${{ github.repository}}
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Log the script summary
         run: |
-          cat cout.log >> $GITHUB_STEP_SUMMARY
+          cat ./logs/cout.log >> $GITHUB_STEP_SUMMARY
       - run: echo "🍏 This job's status is ${{ job.status }}."

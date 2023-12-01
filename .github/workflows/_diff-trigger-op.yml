@@ -78,7 +78,7 @@ jobs:
         if: ${{ hashFiles('./logs/*.json') != '' }}
         run: |
           echo >> ./logs/cout.log
-          for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; echo; echo '```'; cat $file; echo; echo '```'; echo; echo '</p></details>'; echo; done >> cout.log
+          for file in ./logs/*; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; echo; echo '```'; cat $file; echo; echo '```'; echo; echo '</p></details>'; echo; done >> ./logs/cout.log
       - name: Archive change logs
         if: ${{ hashFiles('./logs/*.json') != '' }}
         uses: actions/upload-artifact@v3

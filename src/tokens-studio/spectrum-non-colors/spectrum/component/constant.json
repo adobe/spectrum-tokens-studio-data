@@ -34,7 +34,7 @@
       }
     },
     "avatar-opacity-disabled": {
-      "value": "{alias.opacity-disabled}",
+      "value": "{alias.opacity-disabled-potato}",
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {
@@ -1695,7 +1695,7 @@
       }
     },
     "thumbnail-opacity-disabled": {
-      "value": "{alias.opacity-disabled}",
+      "value": "{alias.opacity-disabled-potato}",
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {

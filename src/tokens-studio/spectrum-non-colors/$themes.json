@@ -7,7 +7,8 @@
       "spectrum/icon/mobile": "enabled",
       "spectrum/layout/mobile": "enabled",
       "spectrum/layout.component/mobile": "enabled",
-      "spectrum/typography/mobile": "enabled"
+      "spectrum/typography/mobile": "enabled",
+      "spectrum/typography.component/mobile": "enabled"
     },
     "group": "S.Scale"
   },
@@ -19,7 +20,8 @@
       "spectrum/icon/desktop": "enabled",
       "spectrum/layout/desktop": "enabled",
       "spectrum/layout.component/desktop": "enabled",
-      "spectrum/typography/desktop": "enabled"
+      "spectrum/typography/desktop": "enabled",
+      "spectrum/typography.component/desktop": "enabled"
     },
     "group": "S.Scale"
   },

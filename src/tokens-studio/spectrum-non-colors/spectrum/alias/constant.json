@@ -33,9 +33,12 @@
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "048c326d-93b1-435f-a9e3-a4cbd3144fdd",
+          "uuid": "29b1eec4-bdb1-46bc-98d1-f3619fde2098",
           "name": "background-opacity-hover",
-          "constant-token-duplicate": false
+          "constant-token-duplicate": false,
+          "deprecated-uuids": [
+            "048c326d-93b1-435f-a9e3-a4cbd3144fdd"
+          ]
         }
       }
     },
@@ -44,9 +47,12 @@
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "a35883a9-43fd-4be5-97ee-62fdf3a33f39",
+          "uuid": "cb51ecc8-43b7-4591-8e6e-4f020a7a6300",
           "name": "background-opacity-key-focus",
-          "constant-token-duplicate": false
+          "constant-token-duplicate": false,
+          "deprecated-uuids": [
+            "a35883a9-43fd-4be5-97ee-62fdf3a33f39"
+          ]
         }
       }
     },

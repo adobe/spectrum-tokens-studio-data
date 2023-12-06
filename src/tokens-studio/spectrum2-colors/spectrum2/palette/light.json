@@ -3015,6 +3015,184 @@
         }
       }
     },
+    "cinnamon": {
+      "100": {
+        "value": "#fdf7f3",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "200": {
+        "value": "#f9ece5",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "300": {
+        "value": "#f4dacb",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "400": {
+        "value": "#edc4ac",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "500": {
+        "value": "#e5aa88",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "600": {
+        "value": "#d4916c",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-600",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "700": {
+        "value": "#c67e58",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-700",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "800": {
+        "value": "#b86d46",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-800",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "900": {
+        "value": "#aa5e38",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-900",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1000": {
+        "value": "#934d2b",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-1000",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1100": {
+        "value": "#803e20",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-1100",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1200": {
+        "value": "#6e3015",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-1200",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1300": {
+        "value": "#5c230b",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-1300",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1400": {
+        "value": "#481906",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-1400",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1500": {
+        "value": "#341204",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-1500",
+            "constant-token-duplicate": false
+          }
+        }
+      },
+      "1600": {
+        "value": "#180802",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "cinnamon-1600",
+            "constant-token-duplicate": false
+          }
+        }
+      }
+    },
     "silver": {
       "100": {
         "value": "#f7f7f7",

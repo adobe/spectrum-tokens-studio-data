@@ -1,46 +1,46 @@
 [
   {
-    "id": "2083d14f7264328dfb689d5991f27a55c9069440",
+    "id": "e6e05eaed96a2e410f6a5e66dda1eaa68bf52fe1",
     "name": "mobile",
-    "$figmaStyleReferences": {},
+    "group": "S2.Scale",
     "selectedTokenSets": {
-      "spectrum/icon/mobile": "enabled",
-      "spectrum/layout/mobile": "enabled",
-      "spectrum/layout.component/mobile": "enabled",
-      "spectrum/typography/mobile": "enabled",
-      "spectrum/typography.component/mobile": "enabled"
+      "spectrum2/icon/mobile": "enabled",
+      "spectrum2/layout/mobile": "enabled",
+      "spectrum2/layout.component/mobile": "enabled",
+      "spectrum2/typography/mobile": "enabled",
+      "spectrum2/typography.component/mobile": "enabled"
     },
-    "group": "S.Scale"
+    "$figmaStyleReferences": {}
   },
   {
-    "id": "12629b2474b904be31cfd0ec84ae76e92c88576e",
+    "id": "689b644177e0122506b519097ecca2fa3a06ec8f",
     "name": "desktop",
-    "$figmaStyleReferences": {},
+    "group": "S2.Scale",
     "selectedTokenSets": {
-      "spectrum/icon/desktop": "enabled",
-      "spectrum/layout/desktop": "enabled",
-      "spectrum/layout.component/desktop": "enabled",
-      "spectrum/typography/desktop": "enabled",
-      "spectrum/typography.component/desktop": "enabled"
+      "spectrum2/icon/desktop": "enabled",
+      "spectrum2/layout/desktop": "enabled",
+      "spectrum2/layout.component/desktop": "enabled",
+      "spectrum2/typography/desktop": "enabled",
+      "spectrum2/typography.component/desktop": "enabled"
     },
-    "group": "S.Scale"
+    "$figmaStyleReferences": {}
   },
   {
-    "id": "738333a3145b5fb23c20797c93ee780d037a11d5",
+    "id": "ba475698596b2ca020b37426e165744c4279a9bf",
     "name": "light",
+    "group": "S2.Color-theme",
     "selectedTokenSets": {
-      "spectrum/opacity.alias/light": "enabled",
-      "spectrum/opacity.component/light": "enabled"
-    },
-    "group": "S.Color-theme"
+      "spectrum2/opacity.alias/light": "enabled",
+      "spectrum2/opacity.component/light": "enabled"
+    }
   },
   {
-    "id": "51d38b3af725b927e3fba235fa6c3bb6cfcaf59e",
+    "id": "34ebdf3e9738d322fca662fa5f779ed2cc3ec4e5",
     "name": "dark",
+    "group": "S2.Color-theme",
     "selectedTokenSets": {
-      "spectrum/opacity.alias/dark": "enabled",
-      "spectrum/opacity.component/dark": "enabled"
-    },
-    "group": "S.Color-theme"
+      "spectrum2/opacity.alias/dark": "enabled",
+      "spectrum2/opacity.component/dark": "enabled"
+    }
   }
 ]

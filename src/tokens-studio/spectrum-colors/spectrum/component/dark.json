@@ -135,19 +135,6 @@
             "constant-token-duplicate": true
           }
         }
-      },
-      "shadow": {
-        "value": "{Component.floating-action-button.drop-shadow}",
-        "type": "color",
-        "$extensions": {
-          "spectrum-tokens": {
-            "uuid": "f843b1b7-4b2f-496e-a679-b0372e49d575",
-            "name": "floating-action-button-shadow-color",
-            "constant-token-duplicate": true,
-            "deprecated": true,
-            "deprecated_comment": "Use `floating-action-button-drop-shadow-color` instead"
-          }
-        }
       }
     },
     "opacity-checkerboard": {

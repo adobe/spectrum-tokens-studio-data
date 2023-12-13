@@ -41,7 +41,8 @@ jobs:
         if: ${{ inputs.test == true }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -action -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
+          echo -e "'## CABLE SCRIPT SUMMARY'" > $GITHUB_STEP_SUMMARY
+          echo -e "[Running tests on ${{ inputs.source }} via git actions](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
       - name: Sync the token data
         if: ${{ inputs.test == false }}
         run: |
@@ -87,7 +88,7 @@ jobs:
           title: "feat: updates from spectrum-tokens sync"
           body-path: ./spectrum-tokens-pr-message.log
           token: ${{ secrets.GH_TOKEN }}
-      - name: Check tokens-studio PR
+      - name: Check spectrum-tokens-studio-data PR
         if: ${{ inputs.test == false && steps.cpr-tokens-studio.outputs.pull-request-number }}
         run: |
           echo "[Tokens Studio Pull Request](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> ./logs/cout.log

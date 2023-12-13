@@ -1,17 +1,22 @@
 {
   "tokenSetOrder": [
-    "spectrum/alias/constant",
-    "spectrum/alias/light",
-    "spectrum/alias/dark",
-    "spectrum/alias/darkest",
-    "spectrum/alias/wireframe",
+    "spectrum/opacity.alias/light",
+    "spectrum/opacity.alias/dark",
+    "spectrum/opacity.alias/darkest",
+    "spectrum/opacity.alias/wireframe",
+    "spectrum/opacity.component/light",
+    "spectrum/opacity.component/dark",
+    "spectrum/opacity.component/darkest",
+    "spectrum/opacity.component/wireframe",
     "spectrum/icon/desktop",
     "spectrum/icon/mobile",
-    "spectrum/component/constant",
-    "spectrum/component/desktop",
-    "spectrum/component/mobile",
-    "spectrum/typography/constant",
+    "spectrum/layout/desktop",
+    "spectrum/layout/mobile",
+    "spectrum/layout.component/desktop",
+    "spectrum/layout.component/mobile",
     "spectrum/typography/desktop",
-    "spectrum/typography/mobile"
+    "spectrum/typography/mobile",
+    "spectrum/typography.component/desktop",
+    "spectrum/typography.component/mobile"
   ]
 }

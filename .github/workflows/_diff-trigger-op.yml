@@ -69,7 +69,8 @@ jobs:
       - name: Check spectrum-tokens PR
         if: ${{ inputs.test == false && steps.cpr-spectrum-tokens.outputs.pull-request-number }}
         run: |
-          echo "\n[Spectrum Tokens Pull Request](${{ steps.cpr-spectrum-tokens.outputs.pull-request-url }})" >> ./logs/cout.log
+          echo >> ./logs/cout.log
+          echo "[Spectrum Tokens Pull Request](${{ steps.cpr-spectrum-tokens.outputs.pull-request-url }})" >> ./logs/cout.log
       - name: Update spectrum-tokens PR draft status
         if: ${{ inputs.test == false && steps.cpr-spectrum-tokens.outputs.pull-request-number && github.base_ref == 'main' }}
         run: |

@@ -563,13 +563,24 @@
     },
     "background": {
       "app-frame": {
-        "base": {
-          "value": "{Palette.gray.25}",
+        "elevated": {
+          "value": "{Palette.gray.75}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "cf1299aa-86c7-4523-b6ae-6de597ac3712",
-              "name": "background-base-color",
+              "uuid": "",
+              "name": "background-elevated-color",
+              "constant-token-duplicate": false
+            }
+          }
+        },
+        "layer-2": {
+          "value": "{Palette.gray.75}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "e30b7936-6ae7-4ada-8892-94a1f67d55c9",
+              "name": "background-layer-2-color",
               "constant-token-duplicate": false
             }
           }
@@ -585,13 +596,24 @@
             }
           }
         },
-        "layer-2": {
-          "value": "{Palette.gray.75}",
+        "pasteboard": {
+          "value": "{Palette.gray.25}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "e30b7936-6ae7-4ada-8892-94a1f67d55c9",
-              "name": "background-layer-2-color",
+              "uuid": "",
+              "name": "background-pasteboard-color",
+              "constant-token-duplicate": false
+            }
+          }
+        },
+        "base": {
+          "value": "{Palette.gray.25}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "cf1299aa-86c7-4523-b6ae-6de597ac3712",
+              "name": "background-base-color",
               "constant-token-duplicate": false
             }
           }

@@ -395,6 +395,42 @@
       }
     }
   },
+  "component-size-difference-down": {
+    "value": "2px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "component-size-difference-down",
+        "constant-token-duplicate": false
+      }
+    },
+    "description": "Down (2px)"
+  },
+  "component-size-width-ratio-down": {
+    "value": "3px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "component-size-width-ratio-down",
+        "constant-token-duplicate": false
+      }
+    },
+    "description": "Down (3px)"
+  },
+  "component-size-minimum-perspective-down": {
+    "value": "24px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "component-size-minimum-perspective-down",
+        "constant-token-duplicate": false
+      }
+    },
+    "description": "Down (24px)"
+  },
   "component-pill-edge-to-text-100": {
     "value": "20px",
     "type": "spacing",

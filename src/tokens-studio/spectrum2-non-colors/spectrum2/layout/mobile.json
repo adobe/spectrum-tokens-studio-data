@@ -318,6 +318,28 @@
       }
     }
   },
+  "component-height-50": {
+    "value": "26px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "fede8012-f00b-412b-8981-16f60a6133ab",
+        "name": "component-height-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "component-height-75": {
+    "value": "30px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "5f363452-6317-4e7c-965a-291b3dfa8a8f",
+        "name": "component-height-75",
+        "constant-token-duplicate": false
+      }
+    }
+  },
   "component-height-100": {
     "value": "40px",
     "type": "sizing",
@@ -362,17 +384,6 @@
       }
     }
   },
-  "component-height-50": {
-    "value": "26px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "fede8012-f00b-412b-8981-16f60a6133ab",
-        "name": "component-height-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "component-height-500": {
     "value": "80px",
     "type": "sizing",
@@ -380,17 +391,6 @@
       "spectrum-tokens": {
         "uuid": "8135e75c-9536-4743-ab6d-05ed5adb0448",
         "name": "component-height-500",
-        "constant-token-duplicate": false
-      }
-    }
-  },
-  "component-height-75": {
-    "value": "30px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "5f363452-6317-4e7c-965a-291b3dfa8a8f",
-        "name": "component-height-75",
         "constant-token-duplicate": false
       }
     }
@@ -404,8 +404,7 @@
         "name": "component-size-difference-down",
         "constant-token-duplicate": false
       }
-    },
-    "description": "Down (2px)"
+    }
   },
   "component-size-width-ratio-down": {
     "value": "3px",
@@ -416,8 +415,7 @@
         "name": "component-size-width-ratio-down",
         "constant-token-duplicate": false
       }
-    },
-    "description": "Down (3px)"
+    }
   },
   "component-size-minimum-perspective-down": {
     "value": "24px",
@@ -428,8 +426,7 @@
         "name": "component-size-minimum-perspective-down",
         "constant-token-duplicate": false
       }
-    },
-    "description": "Down (24px)"
+    }
   },
   "component-pill-edge-to-text-100": {
     "value": "20px",

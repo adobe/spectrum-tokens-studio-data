@@ -98,6 +98,28 @@
       }
     }
   },
+  "component-height-50": {
+    "value": "20px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "81ebf2b1-01fd-45a3-a099-72048e7d7991",
+        "name": "component-height-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "component-height-75": {
+    "value": "24px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "f70d4c16-f588-4fa9-9318-b7184a739193",
+        "name": "component-height-75",
+        "constant-token-duplicate": false
+      }
+    }
+  },
   "component-bottom-to-text-100": {
     "value": "9px",
     "type": "spacing",
@@ -362,17 +384,6 @@
       }
     }
   },
-  "component-height-50": {
-    "value": "20px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "81ebf2b1-01fd-45a3-a099-72048e7d7991",
-        "name": "component-height-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "component-height-500": {
     "value": "64px",
     "type": "sizing",
@@ -384,13 +395,35 @@
       }
     }
   },
-  "component-height-75": {
+  "component-size-difference-down": {
+    "value": "2px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "component-size-difference-down",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "component-size-width-ratio-down": {
+    "value": "3px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "component-size-width-ratio-down",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "component-size-minimum-perspective-down": {
     "value": "24px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "f70d4c16-f588-4fa9-9318-b7184a739193",
-        "name": "component-height-75",
+        "uuid": "",
+        "name": "component-size-minimum-perspective-down",
         "constant-token-duplicate": false
       }
     }

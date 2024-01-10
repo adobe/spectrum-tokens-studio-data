@@ -395,19 +395,8 @@
       }
     }
   },
-  "component-size-difference-down": {
-    "value": "2px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "6ab11315-8061-4235-bfda-97e6a6a23e3f",
-        "name": "component-size-difference-down",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "component-size-width-ratio-down": {
-    "value": "3px",
+    "value": "0.3333",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1701,6 +1690,17 @@
         "uuid": "13f36ce1-84bb-41db-bec8-6d6e8f5c6ed3",
         "name": "text-underline-thickness",
         "constant-token-duplicate": true
+      }
+    }
+  },
+  "component-size-difference-down": {
+    "value": "-2px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6ab11315-8061-4235-bfda-97e6a6a23e3f",
+        "name": "component-size-difference-down",
+        "constant-token-duplicate": false
       }
     }
   }

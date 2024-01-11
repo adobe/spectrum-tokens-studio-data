@@ -400,9 +400,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "9bb1fc4d-581d-4b1f-bb70-224ee4b08153",
+        "uuid": "4ee7342c-f2ef-4554-af0f-011052ff6177",
         "name": "component-size-width-ratio-down",
-        "constant-token-duplicate": false
+        "constant-token-duplicate": true
       }
     }
   },
@@ -411,9 +411,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "d64a2c90-deab-4eaa-8bd9-24310a1397a8",
+        "uuid": "103daec0-9711-4422-84d1-62ab77afa00d",
         "name": "component-size-minimum-perspective-down",
-        "constant-token-duplicate": false
+        "constant-token-duplicate": true
       }
     }
   },
@@ -1698,9 +1698,9 @@
     "type": "dimension",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "6ab11315-8061-4235-bfda-97e6a6a23e3f",
+        "uuid": "9ef4a0a5-b81c-4f54-8927-286ece29a824",
         "name": "component-size-difference-down",
-        "constant-token-duplicate": false
+        "constant-token-duplicate": true
       }
     }
   }

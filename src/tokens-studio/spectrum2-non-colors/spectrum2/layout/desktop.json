@@ -402,7 +402,7 @@
       "spectrum-tokens": {
         "uuid": "4ee7342c-f2ef-4554-af0f-011052ff6177",
         "name": "component-size-width-ratio-down",
-        "constant-token-duplicate": false
+        "constant-token-duplicate": true
       }
     }
   },
@@ -413,7 +413,7 @@
       "spectrum-tokens": {
         "uuid": "103daec0-9711-4422-84d1-62ab77afa00d",
         "name": "component-size-minimum-perspective-down",
-        "constant-token-duplicate": false
+        "constant-token-duplicate": true
       }
     }
   },
@@ -1700,7 +1700,7 @@
       "spectrum-tokens": {
         "uuid": "9ef4a0a5-b81c-4f54-8927-286ece29a824",
         "name": "component-size-difference-down",
-        "constant-token-duplicate": false
+        "constant-token-duplicate": true
       }
     }
   }

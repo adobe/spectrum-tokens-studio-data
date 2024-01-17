@@ -1,4 +1,15 @@
 {
+  "arrow-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b39b3ce3-6a48-4025-96ef-659b0c9ae9e8",
+        "name": "arrow-icon-size-75",
+        "constant-token-duplicate": false
+      }
+    }
+  },
   "arrow-icon-size-100": {
     "value": "10px",
     "type": "sizing",
@@ -65,13 +76,13 @@
       }
     }
   },
-  "arrow-icon-size-75": {
-    "value": "10px",
+  "asterisk-icon-size-75": {
+    "value": "8px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "b39b3ce3-6a48-4025-96ef-659b0c9ae9e8",
-        "name": "arrow-icon-size-75",
+        "uuid": "49ea57ee-7b12-4a8b-a9bb-a11cf2c9d72c",
+        "name": "asterisk-icon-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -109,13 +120,24 @@
       }
     }
   },
-  "asterisk-icon-size-75": {
-    "value": "8px",
+  "checkmark-icon-size-50": {
+    "value": "10px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "49ea57ee-7b12-4a8b-a9bb-a11cf2c9d72c",
-        "name": "asterisk-icon-size-75",
+        "uuid": "6335cb3a-6ceb-40e7-b241-ff9b36f1277c",
+        "name": "checkmark-icon-size-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "checkmark-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "0545a68c-f273-4348-84cd-9cd365bdb474",
+        "name": "checkmark-icon-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -164,17 +186,6 @@
       }
     }
   },
-  "checkmark-icon-size-50": {
-    "value": "10px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "6335cb3a-6ceb-40e7-b241-ff9b36f1277c",
-        "name": "checkmark-icon-size-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "checkmark-icon-size-500": {
     "value": "16px",
     "type": "sizing",
@@ -197,13 +208,24 @@
       }
     }
   },
-  "checkmark-icon-size-75": {
+  "chevron-icon-size-50": {
+    "value": "6px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "785a9152-a69b-4164-a8e2-cc201c1f8063",
+        "name": "chevron-icon-size-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "chevron-icon-size-75": {
     "value": "10px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "0545a68c-f273-4348-84cd-9cd365bdb474",
-        "name": "checkmark-icon-size-75",
+        "uuid": "43ef1792-b182-419d-966c-a8a2d77dbe03",
+        "name": "chevron-icon-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -252,17 +274,6 @@
       }
     }
   },
-  "chevron-icon-size-50": {
-    "value": "6px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "785a9152-a69b-4164-a8e2-cc201c1f8063",
-        "name": "chevron-icon-size-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "chevron-icon-size-500": {
     "value": "16px",
     "type": "sizing",
@@ -285,13 +296,13 @@
       }
     }
   },
-  "chevron-icon-size-75": {
-    "value": "10px",
+  "corner-triangle-icon-size-75": {
+    "value": "5px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "43ef1792-b182-419d-966c-a8a2d77dbe03",
-        "name": "chevron-icon-size-75",
+        "uuid": "490fac13-d347-4c21-85fa-57814bff7537",
+        "name": "corner-triangle-icon-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -329,13 +340,13 @@
       }
     }
   },
-  "corner-triangle-icon-size-75": {
-    "value": "5px",
+  "cross-icon-size-75": {
+    "value": "8px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "490fac13-d347-4c21-85fa-57814bff7537",
-        "name": "corner-triangle-icon-size-75",
+        "uuid": "8e597833-1025-4de4-b34a-2f34201487c3",
+        "name": "cross-icon-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -406,13 +417,24 @@
       }
     }
   },
-  "cross-icon-size-75": {
+  "dash-icon-size-50": {
     "value": "8px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "8e597833-1025-4de4-b34a-2f34201487c3",
-        "name": "cross-icon-size-75",
+        "uuid": "59e5a3f7-c1d0-4b76-bb7e-2bcddddb83da",
+        "name": "dash-icon-size-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "dash-icon-size-75": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "bfd0ad6e-6656-46d6-aa9f-0940b2c2902a",
+        "name": "dash-icon-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -461,17 +483,6 @@
       }
     }
   },
-  "dash-icon-size-50": {
-    "value": "8px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "59e5a3f7-c1d0-4b76-bb7e-2bcddddb83da",
-        "name": "dash-icon-size-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "dash-icon-size-500": {
     "value": "16px",
     "type": "sizing",
@@ -494,13 +505,24 @@
       }
     }
   },
-  "dash-icon-size-75": {
-    "value": "8px",
+  "workflow-icon-size-50": {
+    "value": "14px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "bfd0ad6e-6656-46d6-aa9f-0940b2c2902a",
-        "name": "dash-icon-size-75",
+        "uuid": "1423caf1-75ca-4ca8-aa6a-22dcf3655b0e",
+        "name": "workflow-icon-size-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "workflow-icon-size-75": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "85cdef34-0682-45eb-ac06-98c76883cdf7",
+        "name": "workflow-icon-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -534,28 +556,6 @@
       "spectrum-tokens": {
         "uuid": "25908278-79d3-47f4-9b53-adbdd1c13e2a",
         "name": "workflow-icon-size-300",
-        "constant-token-duplicate": false
-      }
-    }
-  },
-  "workflow-icon-size-50": {
-    "value": "14px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "1423caf1-75ca-4ca8-aa6a-22dcf3655b0e",
-        "name": "workflow-icon-size-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
-  "workflow-icon-size-75": {
-    "value": "16px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "85cdef34-0682-45eb-ac06-98c76883cdf7",
-        "name": "workflow-icon-size-75",
         "constant-token-duplicate": false
       }
     }

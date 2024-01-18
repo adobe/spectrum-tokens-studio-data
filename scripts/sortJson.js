@@ -68,7 +68,7 @@ const main = async () => {
 
   await convertFilesInDirectory(
     workingDir,
-    "src/tokens-studio/spectrum-non-colors/spectrum/",
+    "src/tokens-studio/spectrum2-non-colors/spectrum2/",
   );
 
   console.log("No Errors");

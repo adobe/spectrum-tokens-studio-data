@@ -516,6 +516,28 @@
       }
     }
   },
+  "avatar-size-50": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "60fd0b38-3bad-4a0f-8a69-d4cf79b635ff",
+        "name": "avatar-size-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "avatar-size-75": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6aa2d529-0e10-4eaf-8786-f38e04e4d438",
+        "name": "avatar-size-75",
+        "constant-token-duplicate": false
+      }
+    }
+  },
   "avatar-size-100": {
     "value": "20px",
     "type": "sizing",
@@ -560,17 +582,6 @@
       }
     }
   },
-  "avatar-size-50": {
-    "value": "16px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "60fd0b38-3bad-4a0f-8a69-d4cf79b635ff",
-        "name": "avatar-size-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "avatar-size-500": {
     "value": "32px",
     "type": "sizing",
@@ -600,17 +611,6 @@
       "spectrum-tokens": {
         "uuid": "92260f9e-ad2a-4e46-ad65-d83d99f7e7b7",
         "name": "avatar-size-700",
-        "constant-token-duplicate": false
-      }
-    }
-  },
-  "avatar-size-75": {
-    "value": "18px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "6aa2d529-0e10-4eaf-8786-f38e04e4d438",
-        "name": "avatar-size-75",
         "constant-token-duplicate": false
       }
     }
@@ -848,7 +848,7 @@
   },
   "button-minimum-width-multiplier": {
     "value": "2.25",
-    "type": "sizing",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "68b6ac88-d229-460d-8d59-3f5c141db358",
@@ -1398,7 +1398,7 @@
   },
   "combo-box-minimum-width-multiplier": {
     "value": "2.5",
-    "type": "sizing",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "eabcc77a-f263-43ed-9944-9daa78a56b66",
@@ -1409,7 +1409,7 @@
   },
   "combo-box-quiet-minimum-width-multiplier": {
     "value": "2",
-    "type": "sizing",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "4798728b-9a97-4ce1-b703-0182b1513e8b",
@@ -2388,7 +2388,7 @@
   },
   "picker-minimum-width-multiplier": {
     "value": "2",
-    "type": "sizing",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "67b68a30-ae00-4da2-9730-99196a2eaf96",
@@ -2729,7 +2729,7 @@
   },
   "search-field-minimum-width-multiplier": {
     "value": "3",
-    "type": "sizing",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "c4b2177d-4468-4180-be27-69d26a51ba0b",
@@ -3103,7 +3103,7 @@
   },
   "swatch-rectangle-width-multiplier": {
     "value": "2",
-    "type": "sizing",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "b3157e9d-82a0-429e-b987-8c240a669af7",
@@ -4830,12 +4830,34 @@
   },
   "text-field-minimum-width-multiplier": {
     "value": "1.5",
-    "type": "sizing",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "875bbeaf-b4b7-41b9-8e6f-d6a57ec03049",
         "name": "text-field-minimum-width-multiplier",
         "constant-token-duplicate": true
+      }
+    }
+  },
+  "thumbnail-size-50": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "0578d5e5-9c2d-46f2-9268-85bdf566b3a5",
+        "name": "thumbnail-size-50",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "thumbnail-size-75": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "20706cc7-9d07-4938-8328-debd3ab8d822",
+        "name": "thumbnail-size-75",
+        "constant-token-duplicate": false
       }
     }
   },
@@ -4846,17 +4868,6 @@
       "spectrum-tokens": {
         "uuid": "46dd2eca-598a-45e3-8c7d-c6cf17e148bf",
         "name": "thumbnail-size-100",
-        "constant-token-duplicate": false
-      }
-    }
-  },
-  "thumbnail-size-1000": {
-    "value": "56px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "48959be8-02f9-45b9-8190-af60c93cbb6c",
-        "name": "thumbnail-size-1000",
         "constant-token-duplicate": false
       }
     }
@@ -4894,17 +4905,6 @@
       }
     }
   },
-  "thumbnail-size-50": {
-    "value": "16px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "0578d5e5-9c2d-46f2-9268-85bdf566b3a5",
-        "name": "thumbnail-size-50",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "thumbnail-size-500": {
     "value": "32px",
     "type": "sizing",
@@ -4938,17 +4938,6 @@
       }
     }
   },
-  "thumbnail-size-75": {
-    "value": "18px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "20706cc7-9d07-4938-8328-debd3ab8d822",
-        "name": "thumbnail-size-75",
-        "constant-token-duplicate": false
-      }
-    }
-  },
   "thumbnail-size-800": {
     "value": "44px",
     "type": "sizing",
@@ -4967,6 +4956,17 @@
       "spectrum-tokens": {
         "uuid": "5b9fb77d-8a2e-4e1c-ba86-475cd66b4202",
         "name": "thumbnail-size-900",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "thumbnail-size-1000": {
+    "value": "56px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "48959be8-02f9-45b9-8190-af60c93cbb6c",
+        "name": "thumbnail-size-1000",
         "constant-token-duplicate": false
       }
     }

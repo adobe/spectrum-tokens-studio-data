@@ -1836,8 +1836,8 @@
       }
     }
   },
-  "help-text-top-to-workflow-icon-extra-large": {
-    "value": "9px",
+  "🚫 help-text-top-to-workflow-icon-extra-large": {
+    "value": "{component-top-to-workflow-icon-300}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1847,8 +1847,8 @@
       }
     }
   },
-  "help-text-top-to-workflow-icon-large": {
-    "value": "6px",
+  "🚫 help-text-top-to-workflow-icon-large": {
+    "value": "{component-top-to-workflow-icon-200}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1858,8 +1858,8 @@
       }
     }
   },
-  "help-text-top-to-workflow-icon-medium": {
-    "value": "3px",
+  "🚫 help-text-top-to-workflow-icon-medium": {
+    "value": "{component-top-to-workflow-icon-100}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1869,8 +1869,8 @@
       }
     }
   },
-  "help-text-top-to-workflow-icon-small": {
-    "value": "4px",
+  "🚫 help-text-top-to-workflow-icon-small": {
+    "value": "{component-top-to-workflow-icon-75}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

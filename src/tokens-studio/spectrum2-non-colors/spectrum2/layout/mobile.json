@@ -913,7 +913,7 @@
     }
   },
   "corner-radius-small-size-medium": {
-    "value": "{corner-radius-small-default}",
+    "value": "{corner-radius-100}",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
@@ -968,7 +968,7 @@
     }
   },
   "corner-radius-medium-size-medium": {
-    "value": "{corner-radius-medium-default}",
+    "value": "{corner-radius-500}",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
@@ -990,7 +990,7 @@
     }
   },
   "corner-radius-medium-size-extra-large": {
-    "value": "{corner-radius-large-default}",
+    "value": "{corner-radius-700}",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {

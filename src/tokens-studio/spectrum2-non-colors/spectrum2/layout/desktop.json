@@ -560,6 +560,17 @@
       }
     }
   },
+  "corner-radius-1000": {
+    "value": "0.5",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-1000",
+        "constant-token-duplicate": false
+      }
+    }
+  },
   "component-to-menu-extra-large": {
     "value": "8px",
     "type": "spacing",
@@ -714,8 +725,19 @@
       }
     }
   },
+  "corner-radius-0": {
+    "value": "0px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-0",
+        "constant-token-duplicate": false
+      }
+    }
+  },
   "corner-radius-75": {
-    "value": "2px",
+    "value": "3px",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
@@ -737,12 +759,243 @@
     }
   },
   "corner-radius-200": {
-    "value": "8px",
+    "value": "5px",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "52ad01be-f512-4fa3-ae67-8c6cef70810c",
         "name": "corner-radius-200",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-300": {
+    "value": "6px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-300",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-400": {
+    "value": "7px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-400",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-500": {
+    "value": "8px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-500",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-600": {
+    "value": "9px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-600",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-700": {
+    "value": "10px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-700",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-800": {
+    "value": "16px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-800",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-none": {
+    "value": "{corner-radius-0}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-none",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-small-default": {
+    "value": "{corner-radius-100}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-small-default",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-medium-default": {
+    "value": "{corner-radius-500}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-medium-default",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-large-default": {
+    "value": "{corner-radius-700}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-large-default",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-extra-large-default": {
+    "value": "{corner-radius-800}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-extra-large-default",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-full": {
+    "value": "{corner-radius-1000}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-full",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-small-size-small": {
+    "value": "{corner-radius-75}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-small-size-small",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-small-size-medium": {
+    "value": "{corner-radius-100}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-small-size-medium",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-small-size-large": {
+    "value": "{corner-radius-200}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-small-size-large",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-small-size-extra-large": {
+    "value": "{corner-radius-300}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-small-size-extra-large",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-medium-size-extra-small": {
+    "value": "{corner-radius-300}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-medium-size-extra-small",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-medium-size-small": {
+    "value": "{corner-radius-400}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-medium-size-small",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-medium-size-medium": {
+    "value": "{corner-radius-500}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-medium-size-medium",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-medium-size-large": {
+    "value": "{corner-radius-600}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-medium-size-large",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "corner-radius-medium-size-extra-large": {
+    "value": "{corner-radius-700}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "corner-radius-medium-size-extra-large",
         "constant-token-duplicate": false
       }
     }

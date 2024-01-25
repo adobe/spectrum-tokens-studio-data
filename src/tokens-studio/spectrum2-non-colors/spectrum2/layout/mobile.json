@@ -565,7 +565,7 @@
     "type": "number",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "e9c4078f-fc2d-4a3d-b648-09a77e9897e4",
+        "uuid": "9cd69903-8417-4d6a-92cf-7ec759d5f60f",
         "name": "corner-radius-1000",
         "constant-token-duplicate": false
       }
@@ -730,7 +730,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "bacd8396-8e58-4931-9dcf-6b14669ea5aa",
+        "uuid": "8db9a268-95ee-4d25-a664-41b7ff06bea2",
         "name": "corner-radius-0",
         "constant-token-duplicate": false
       }
@@ -774,7 +774,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "90ce9225-55c6-4e1c-b37b-aaeac06e52d2",
+        "uuid": "262d7b06-a9b2-4656-8175-fbe80fdc64ab",
         "name": "corner-radius-300",
         "constant-token-duplicate": false
       }
@@ -785,7 +785,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "e6d9b978-d54f-4e85-bc10-5e46cf38a73f",
+        "uuid": "76cd22ed-1466-48fd-bcac-55c06ee56e22",
         "name": "corner-radius-400",
         "constant-token-duplicate": false
       }
@@ -796,7 +796,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "1b25efaf-750d-47d8-8669-3c039b32e508",
+        "uuid": "fdfdb85e-6b60-4630-af09-415db7057791",
         "name": "corner-radius-500",
         "constant-token-duplicate": false
       }
@@ -807,7 +807,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "d338bbf4-68b3-420a-8bb3-3d442e13a1d1",
+        "uuid": "5538f603-bf69-4a30-bfe1-ea6f91a8b13a",
         "name": "corner-radius-600",
         "constant-token-duplicate": false
       }
@@ -818,7 +818,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "2c9e55fe-d1a6-4001-8904-1c910c081737",
+        "uuid": "1aacac8f-8fbc-4045-9b98-f260b1e1aa7e",
         "name": "corner-radius-700",
         "constant-token-duplicate": false
       }
@@ -829,7 +829,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "22712ece-7620-4390-aa13-c5b9e4917f0e",
+        "uuid": "0032ebbf-3428-4fc3-aa5a-9dd57a6ce566",
         "name": "corner-radius-800",
         "constant-token-duplicate": false
       }
@@ -840,7 +840,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "b7110b3b-9376-4e28-953c-91de7e883c67",
+        "uuid": "497ee71e-792d-449e-acc2-41c9de0d7f16",
         "name": "corner-radius-none",
         "constant-token-duplicate": false
       }
@@ -851,7 +851,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "47b40064-d402-4a6a-9d60-6e82e3f988a1",
+        "uuid": "b7bdc7fe-093e-4357-8df8-595872a0c600",
         "name": "corner-radius-small-default",
         "constant-token-duplicate": false
       }
@@ -862,7 +862,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "84261c7f-3bc4-4411-b75a-0c9650023bc8",
+        "uuid": "db528ae2-76c1-4685-9148-d1945f1e76e8",
         "name": "corner-radius-medium-default",
         "constant-token-duplicate": false
       }
@@ -873,7 +873,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "d856947a-4aef-43a7-8d4b-961d5f5de594",
+        "uuid": "470498fa-d118-4960-930e-30f8cc6bae8b",
         "name": "corner-radius-large-default",
         "constant-token-duplicate": false
       }
@@ -884,7 +884,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "b0ec6456-bafd-4f9f-9da4-ed61e8a21ea5",
+        "uuid": "f7720ff5-c618-4e55-9acf-83b1e171e20c",
         "name": "corner-radius-extra-large-default",
         "constant-token-duplicate": false
       }
@@ -895,7 +895,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "5fbe4a12-4867-4755-9ed6-7a2b9f5a6a82",
+        "uuid": "258f18c4-7c48-4087-bdcc-6cf625e11802",
         "name": "corner-radius-full",
         "constant-token-duplicate": false
       }
@@ -906,7 +906,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "019ad927-e760-44ff-86f1-e119205114df",
+        "uuid": "244d7ce4-3dfd-481b-b416-2b779a7d1d79",
         "name": "corner-radius-small-size-small",
         "constant-token-duplicate": false
       }
@@ -917,7 +917,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "54f150ab-ebb3-4666-9520-1de6bbee20fa",
+        "uuid": "07c45d1f-38be-4223-9f0e-f8ec768c43ff",
         "name": "corner-radius-small-size-medium",
         "constant-token-duplicate": false
       }
@@ -928,7 +928,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "9e93c66f-ec8f-4a45-b252-b03033616ac6",
+        "uuid": "12641f31-6e63-41ed-994c-af20210795c4",
         "name": "corner-radius-small-size-large",
         "constant-token-duplicate": false
       }
@@ -939,7 +939,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "6fd3d74d-3aef-4c32-9478-afa42ee15823",
+        "uuid": "c0413c6b-e7c3-4964-b4e9-1d9aaacdd6f4",
         "name": "corner-radius-small-size-extra-large",
         "constant-token-duplicate": false
       }
@@ -950,7 +950,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "4e9213e9-97a9-4976-a4d1-0e154b4a5c00",
+        "uuid": "7bea2457-9377-4919-a5ff-3c098c95651e",
         "name": "corner-radius-medium-size-extra-small",
         "constant-token-duplicate": false
       }
@@ -961,7 +961,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "f9955a64-3e22-4b79-bc9c-7ab5e97dcaa3",
+        "uuid": "92a31673-beba-4f48-a54d-fd9bd7e23907",
         "name": "corner-radius-medium-size-small",
         "constant-token-duplicate": false
       }
@@ -972,7 +972,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "8d26408e-1226-40e6-b274-7baee7a49948",
+        "uuid": "bc2c9277-6927-4655-9160-4f41011874c1",
         "name": "corner-radius-medium-size-medium",
         "constant-token-duplicate": false
       }
@@ -983,7 +983,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "ea82a7dd-e1e4-4ed3-96dd-64a3eb886a2d",
+        "uuid": "d56562a1-6958-4a3b-a1b4-e5fd159cf311",
         "name": "corner-radius-medium-size-large",
         "constant-token-duplicate": false
       }
@@ -994,7 +994,7 @@
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "068bd0c8-0e7e-4c6f-8ba3-7268840c9e46",
+        "uuid": "c63c5111-11b1-420e-b09e-26053802e0cd",
         "name": "corner-radius-medium-size-extra-large",
         "constant-token-duplicate": false
       }

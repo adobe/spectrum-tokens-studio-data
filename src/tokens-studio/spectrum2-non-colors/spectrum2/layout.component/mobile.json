@@ -5059,6 +5059,28 @@
       }
     }
   },
+  "divider-vertical-minimum-height": {
+    "value": "200px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "divider-vertical-minimum-height",
+        "constant-token-duplicate": false
+      }
+    }
+  },
+  "divider-horizontal-minimum-width": {
+    "value": "200px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "divider-horizontal-minimum-width",
+        "constant-token-duplicate": false
+      }
+    }
+  },
   "tray-top-to-content-area": {
     "value": "5px",
     "type": "spacing",

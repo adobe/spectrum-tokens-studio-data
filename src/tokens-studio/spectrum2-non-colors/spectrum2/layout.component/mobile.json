@@ -5038,7 +5038,7 @@
     }
   },
   "tooltip-tip-height": {
-    "value": "5px",
+    "value": "6px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5049,7 +5049,7 @@
     }
   },
   "tooltip-tip-width": {
-    "value": "10px",
+    "value": "12px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5067,6 +5067,17 @@
         "uuid": "794ad497-1725-4a03-a7c9-425eaee3178e",
         "name": "tray-top-to-content-area",
         "constant-token-duplicate": false
+      }
+    }
+  },
+  "tooltip-tip-corner-radius": {
+    "value": "1px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tooltip-tip-corner-radius",
+        "constant-token-duplicate": true
       }
     }
   }

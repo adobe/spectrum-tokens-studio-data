@@ -7,8 +7,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "622c6e86-dea6-416d-9f13-bb6ef112d3cb",
-            "name": "card-selection-background-color",
-            "constant-token-duplicate": true
+            "name": "card-selection-background-color"
           }
         }
       }
@@ -20,8 +19,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "f8cefe70-db2c-489e-bbbe-964050e96ab6",
-            "name": "coach-mark-pagination-color",
-            "constant-token-duplicate": true
+            "name": "coach-mark-pagination-color"
           }
         }
       }
@@ -33,8 +31,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "70fc4674-0f09-48f5-8850-48b4b38c2f01",
-            "name": "color-area-border-color",
-            "constant-token-duplicate": true
+            "name": "color-area-border-color"
           }
         }
       }
@@ -46,8 +43,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "0c93f310-d7c6-474b-8f07-0e8e76e2756e",
-            "name": "color-handle-inner-border-color",
-            "constant-token-duplicate": true
+            "name": "color-handle-inner-border-color"
           }
         }
       },
@@ -57,8 +53,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "e4733356-090e-4bb7-b32d-ab9df30fb785",
-            "name": "color-handle-outer-border-color",
-            "constant-token-duplicate": true
+            "name": "color-handle-outer-border-color"
           }
         }
       }
@@ -70,8 +65,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "918b8089-d89f-45d2-8c9c-f3f13f81b0b9",
-            "name": "color-loupe-drop-shadow-color",
-            "constant-token-duplicate": true
+            "name": "color-loupe-drop-shadow-color"
           }
         }
       },
@@ -81,8 +75,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "d2c4cb48-8a90-461d-95bc-d882ba01472b",
-            "name": "color-loupe-inner-border",
-            "constant-token-duplicate": true
+            "name": "color-loupe-inner-border"
           }
         }
       },
@@ -92,8 +85,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "4e1d1cc5-736e-4e82-9054-5c1a74ac1aca",
-            "name": "color-loupe-outer-border",
-            "constant-token-duplicate": true
+            "name": "color-loupe-outer-border"
           }
         }
       }
@@ -105,8 +97,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "0c85e7fa-f950-436c-a68a-dd7fb8dfac9e",
-            "name": "color-slider-border-color",
-            "constant-token-duplicate": true
+            "name": "color-slider-border-color"
           }
         }
       }
@@ -118,8 +109,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "866f3613-c12f-4475-87b1-ad86ef2ce153",
-            "name": "drop-zone-background-color",
-            "constant-token-duplicate": true
+            "name": "drop-zone-background-color"
           }
         }
       }
@@ -131,8 +121,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "d66d3a56-1ba0-4ce7-a263-eb46a4d17af0",
-            "name": "floating-action-button-drop-shadow-color",
-            "constant-token-duplicate": true
+            "name": "floating-action-button-drop-shadow-color"
           }
         }
       }
@@ -144,8 +133,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "5dbb3e96-fe86-43a2-be8b-3ceecfe2d5ba",
-            "name": "opacity-checkerboard-square-dark",
-            "constant-token-duplicate": false
+            "name": "opacity-checkerboard-square-dark"
           }
         }
       },
@@ -155,8 +143,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "c7e50676-3f61-49c3-a35f-2532fdb02360",
-            "name": "opacity-checkerboard-square-light",
-            "constant-token-duplicate": true
+            "name": "opacity-checkerboard-square-light"
           }
         }
       }
@@ -168,8 +155,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "7da5157d-7f25-405b-8de0-f3669565fb48",
-            "name": "swatch-border-color",
-            "constant-token-duplicate": true
+            "name": "swatch-border-color"
           }
         }
       },
@@ -179,8 +165,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "c49cd7ae-7657-458b-871a-6b4f28bca535",
-            "name": "swatch-disabled-icon-border-color",
-            "constant-token-duplicate": true
+            "name": "swatch-disabled-icon-border-color"
           }
         }
       }
@@ -192,8 +177,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "8578067a-6ce0-4059-84ad-4688c71df156",
-            "name": "table-selected-row-background-color-non-emphasized",
-            "constant-token-duplicate": true
+            "name": "table-selected-row-background-color-non-emphasized"
           }
         }
       },
@@ -203,8 +187,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "44aedb76-5483-4ac3-a6f5-8cf71c2bd376",
-            "name": "table-row-hover-color",
-            "constant-token-duplicate": true
+            "name": "table-row-hover-color"
           }
         }
       },
@@ -214,8 +197,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "b7537f50-bd49-44b6-a171-19943d443d24",
-            "name": "table-selected-row-background-color",
-            "constant-token-duplicate": true
+            "name": "table-selected-row-background-color"
           }
         }
       }
@@ -227,8 +209,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "5bd226f1-0a6b-42bc-80af-4a9dde99e9e9",
-            "name": "thumbnail-border-color",
-            "constant-token-duplicate": true
+            "name": "thumbnail-border-color"
           }
         }
       }

@@ -20,14 +20,14 @@
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-<li> [] Patch (bug fixes, typos, mistakes; non-breaking change which fixes an issue) </li>
-<li> [] Minor (add a new token, changing a value; non-breaking change which adds functionality) </li>
-<li> [] Major (deleting a token, changing token value type; fix or feature that would cause existing functionality to change) </li>
+<li> [ ] Patch (bug fixes, typos, mistakes; non-breaking change which fixes an issue) </li>
+<li> [ ] Minor (add a new token, changing a value; non-breaking change which adds functionality) </li>
+<li> [ ] Major (deleting a token, changing token value type; fix or feature that would cause existing functionality to change) </li>
 
 ## Checklist:
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-<li> [] I have signed the [Adobe Open Source CLA](https://opensource.adobe.com/cla.html). </li>
-<li> [] I updated the token in all applicable sets. This applies if updating, adding, or deleting a token that has data across different sets (for example, if the value differs across color themes.) </li>
+<li> [ ] I have signed the [Adobe Open Source CLA](https://opensource.adobe.com/cla.html). </li>
+<li> [ ] I updated the token in all applicable sets. This applies if updating, adding, or deleting a token that has data across different sets (for example, if the value differs across color themes.) </li>

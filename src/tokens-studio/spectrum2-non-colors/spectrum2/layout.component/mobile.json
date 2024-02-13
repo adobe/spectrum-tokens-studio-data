@@ -319,6 +319,86 @@
       }
     }
   },
+  "switch-handle-size-small": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-size-small"
+      }
+    }
+  },
+  "switch-handle-selected-size-small": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-selected-size-small"
+      }
+    }
+  },
+  "switch-handle-selected-size-medium": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-selected-size-medium"
+      }
+    }
+  },
+  "switch-handle-selected-size-large": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-selected-size-large"
+      }
+    }
+  },
+  "switch-handle-selected-size-extra-large": {
+    "value": "20px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-selected-size-extra-large"
+      }
+    }
+  },
+  "switch-handle-size-medium": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-size-medium"
+      }
+    }
+  },
+  "switch-handle-size-large": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-size-large"
+      }
+    }
+  },
+  "switch-handle-size-extra-large": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "switch-handle-size-extra-large"
+      }
+    }
+  },
   "action-bar-top-to-item-counter": {
     "value": "16px",
     "type": "spacing",
@@ -2910,7 +2990,7 @@
     }
   },
   "switch-control-height-extra-large": {
-    "value": "22px",
+    "value": "26px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -2920,7 +3000,7 @@
     }
   },
   "switch-control-height-large": {
-    "value": "20px",
+    "value": "22px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -2930,7 +3010,7 @@
     }
   },
   "switch-control-height-medium": {
-    "value": "18px",
+    "value": "20px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -2940,7 +3020,7 @@
     }
   },
   "switch-control-height-small": {
-    "value": "16px",
+    "value": "18px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -2960,7 +3040,7 @@
     }
   },
   "switch-control-width-large": {
-    "value": "41px",
+    "value": "38px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -2970,7 +3050,7 @@
     }
   },
   "switch-control-width-medium": {
-    "value": "36px",
+    "value": "34px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -2980,7 +3060,7 @@
     }
   },
   "switch-control-width-small": {
-    "value": "32px",
+    "value": "30px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {

@@ -2909,6 +2909,26 @@
       }
     }
   },
+  "tag-minimum-width-multiplier": {
+    "value": "1",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-minimum-width-multiplier"
+      }
+    }
+  },
+  "tag-maximum-width-multiplier": {
+    "value": "7",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-maximum-width-multiplier"
+      }
+    }
+  },
   "swatch-size-extra-small": {
     "value": "16px",
     "type": "sizing",
@@ -4386,6 +4406,66 @@
       "spectrum-tokens": {
         "uuid": "9b464ca8-f246-482d-b240-e12e097aaf8b",
         "name": "table-thumbnail-to-top-minimum-small-spacious"
+      }
+    }
+  },
+  "tag-label-to-clear-icon-small": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-label-to-clear-icon-small"
+      }
+    }
+  },
+  "tag-label-to-clear-icon-medium": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-label-to-clear-icon-medium"
+      }
+    }
+  },
+  "tag-label-to-clear-icon-large": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-label-to-clear-icon-large"
+      }
+    }
+  },
+  "tag-edge-to-clear-icon-small": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-edge-to-clear-icon-small"
+      }
+    }
+  },
+  "tag-edge-to-clear-icon-medium": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-edge-to-clear-icon-medium"
+      }
+    }
+  },
+  "tag-edge-to-clear-icon-large": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-edge-to-clear-icon-large"
       }
     }
   },

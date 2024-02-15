@@ -871,6 +871,48 @@
               }
             }
           }
+        },
+        "negative-subdued": {
+          "default": {
+            "value": "{Alias.semantic.negative.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "negative-subdued-background-color-default"
+              }
+            }
+          },
+          "hover": {
+            "value": "{Alias.semantic.negative.300}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "negative-subdued-background-color-hover"
+              }
+            }
+          },
+          "down": {
+            "value": "{Alias.semantic.negative.300}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "negative-subdued-background-color-down"
+              }
+            }
+          },
+          "key-focus": {
+            "value": "{Alias.semantic.negative.300}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "negative-subdued-background-color-key-focus"
+              }
+            }
+          }
         }
       },
       "disabled": {

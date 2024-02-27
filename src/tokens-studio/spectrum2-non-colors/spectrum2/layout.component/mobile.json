@@ -1281,7 +1281,7 @@
   },
   "color-slider-border-rounding": {
     "value": "4px",
-    "type": "spacing",
+    "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "991541a2-df44-4f32-90a5-de698adf5db3",

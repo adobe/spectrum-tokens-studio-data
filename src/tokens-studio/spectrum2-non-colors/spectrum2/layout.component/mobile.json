@@ -1280,7 +1280,7 @@
     }
   },
   "color-slider-border-rounding": {
-    "value": "4px",
+    "value": "{corner-radius-medium-size-small}",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {

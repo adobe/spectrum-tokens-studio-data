@@ -355,6 +355,26 @@
               }
             }
           },
+          "brown": {
+            "value": "{Palette.brown.900}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "brown-visual-color"
+              }
+            }
+          },
+          "cinnamon": {
+            "value": "{Palette.cinnamon.900}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "cinnamon-visual-color"
+              }
+            }
+          },
           "chartreuse": {
             "value": "{Palette.chartreuse.900}",
             "type": "color",
@@ -405,6 +425,16 @@
               }
             }
           },
+          "pink": {
+            "value": "{Palette.pink.900}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "pink-visual-color"
+              }
+            }
+          },
           "purple": {
             "value": "{Palette.purple.900}",
             "type": "color",
@@ -422,6 +452,26 @@
               "spectrum-tokens": {
                 "uuid": "736e4768-7944-40ec-a412-4cd36299e03d",
                 "name": "seafoam-visual-color"
+              }
+            }
+          },
+          "silver": {
+            "value": "{Palette.silver.900}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "silver-visual-color"
+              }
+            }
+          },
+          "turquoise": {
+            "value": "{Palette.turquoise.900}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "turquoise-visual-color"
               }
             }
           },
@@ -651,7 +701,7 @@
       },
       "neutral-subdued": {
         "default": {
-          "value": "{Palette.gray.400}",
+          "value": "{Palette.gray.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -661,7 +711,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.300}",
+          "value": "{Palette.gray.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -671,7 +721,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.300}",
+          "value": "{Palette.gray.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -681,7 +731,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.300}",
+          "value": "{Palette.gray.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -694,7 +744,7 @@
       "semantic": {
         "accent": {
           "default": {
-            "value": "{Alias.semantic.accent.600}",
+            "value": "{Alias.semantic.accent.700}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -704,7 +754,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.accent.500}",
+            "value": "{Alias.semantic.accent.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -714,7 +764,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.accent.500}",
+            "value": "{Alias.semantic.accent.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -724,7 +774,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.accent.500}",
+            "value": "{Alias.semantic.accent.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -736,7 +786,7 @@
         },
         "informative": {
           "default": {
-            "value": "{Alias.semantic.informative.600}",
+            "value": "{Alias.semantic.informative.700}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -746,7 +796,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.informative.500}",
+            "value": "{Alias.semantic.informative.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -756,7 +806,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.informative.500}",
+            "value": "{Alias.semantic.informative.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -766,7 +816,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.informative.500}",
+            "value": "{Alias.semantic.informative.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -778,7 +828,7 @@
         },
         "positive": {
           "default": {
-            "value": "{Alias.semantic.positive.600}",
+            "value": "{Alias.semantic.positive.700}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -788,7 +838,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.positive.500}",
+            "value": "{Alias.semantic.positive.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -798,7 +848,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.positive.500}",
+            "value": "{Alias.semantic.positive.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -808,7 +858,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.positive.500}",
+            "value": "{Alias.semantic.positive.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -820,7 +870,7 @@
         },
         "notice": {
           "default": {
-            "value": "{Alias.semantic.notice.800}",
+            "value": "{Alias.semantic.notice.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -832,7 +882,7 @@
         },
         "negative": {
           "default": {
-            "value": "{Alias.semantic.negative.600}",
+            "value": "{Alias.semantic.negative.700}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -842,7 +892,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.negative.500}",
+            "value": "{Alias.semantic.negative.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -852,7 +902,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.negative.500}",
+            "value": "{Alias.semantic.negative.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -862,7 +912,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.negative.500}",
+            "value": "{Alias.semantic.negative.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -949,7 +999,7 @@
       },
       "non-semantic": {
         "gray": {
-          "value": "{Palette.gray.700}",
+          "value": "{Palette.gray.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -979,7 +1029,7 @@
           }
         },
         "orange": {
-          "value": "{Palette.orange.800}",
+          "value": "{Palette.orange.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -998,8 +1048,28 @@
             }
           }
         },
+        "brown": {
+          "value": "{Palette.brown.700}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "brown-background-color-default"
+            }
+          }
+        },
+        "cinnamon": {
+          "value": "{Palette.cinnamon.700}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "cinnamon-background-color-default"
+            }
+          }
+        },
         "celery": {
-          "value": "{Palette.celery.800}",
+          "value": "{Palette.celery.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1009,7 +1079,7 @@
           }
         },
         "chartreuse": {
-          "value": "{Palette.chartreuse.900}",
+          "value": "{Palette.chartreuse.1000}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1058,6 +1128,16 @@
             }
           }
         },
+        "pink": {
+          "value": "{Palette.pink.700}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "pink-background-color-default"
+            }
+          }
+        },
         "purple": {
           "value": "{Palette.purple.700}",
           "type": "color",
@@ -1078,8 +1158,28 @@
             }
           }
         },
+        "silver": {
+          "value": "{Palette.silver.700}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "silver-background-color-default"
+            }
+          }
+        },
+        "turquoise": {
+          "value": "{Palette.turquoise.700}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "turquoise-background-color-default"
+            }
+          }
+        },
         "yellow": {
-          "value": "{Palette.yellow.1000}",
+          "value": "{Palette.yellow.1100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {

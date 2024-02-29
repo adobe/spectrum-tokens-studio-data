@@ -460,7 +460,7 @@
     }
   },
   "alert-banner-bottom-to-text": {
-    "value": "17px",
+    "value": "20px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -470,7 +470,7 @@
     }
   },
   "alert-banner-minimum-height": {
-    "value": "48px",
+    "value": "56px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -480,7 +480,7 @@
     }
   },
   "alert-banner-top-to-text": {
-    "value": "14px",
+    "value": "18px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -490,7 +490,7 @@
     }
   },
   "alert-banner-top-to-workflow-icon": {
-    "value": "15px",
+    "value": "19px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -2560,7 +2560,7 @@
     }
   },
   "search-field-minimum-width-multiplier": {
-    "value": "3",
+    "value": "4",
     "type": "number",
     "$extensions": {
       "spectrum-tokens": {

@@ -39,7 +39,7 @@
       }
     }
   },
-  "character-count-to-field-quiet-extra-large": {
+  "🚫 character-count-to-field-quiet-extra-large": {
     "value": "-4px",
     "type": "spacing",
     "$extensions": {
@@ -49,7 +49,7 @@
       }
     }
   },
-  "character-count-to-field-quiet-large": {
+  "🚫 character-count-to-field-quiet-large": {
     "value": "-3px",
     "type": "spacing",
     "$extensions": {
@@ -59,7 +59,7 @@
       }
     }
   },
-  "character-count-to-field-quiet-medium": {
+  "🚫 character-count-to-field-quiet-medium": {
     "value": "-3px",
     "type": "spacing",
     "$extensions": {
@@ -69,7 +69,7 @@
       }
     }
   },
-  "character-count-to-field-quiet-small": {
+  "🚫 character-count-to-field-quiet-small": {
     "value": "-3px",
     "type": "spacing",
     "$extensions": {
@@ -1009,7 +1009,7 @@
       }
     }
   },
-  "field-edge-to-alert-icon-quiet": {
+  "🚫 field-edge-to-alert-icon-quiet": {
     "value": "0px",
     "type": "spacing",
     "$extensions": {
@@ -1029,7 +1029,7 @@
       }
     }
   },
-  "field-edge-to-border-quiet": {
+  "🚫 field-edge-to-border-quiet": {
     "value": "0px",
     "type": "spacing",
     "$extensions": {
@@ -1079,7 +1079,7 @@
       }
     }
   },
-  "field-edge-to-text-quiet": {
+  "🚫 field-edge-to-text-quiet": {
     "value": "0px",
     "type": "spacing",
     "$extensions": {
@@ -1119,7 +1119,7 @@
       }
     }
   },
-  "field-edge-to-validation-icon-quiet": {
+  "🚫 field-edge-to-validation-icon-quiet": {
     "value": "0px",
     "type": "spacing",
     "$extensions": {
@@ -1429,13 +1429,44 @@
       }
     }
   },
-  "field-width": {
+  "field-width-small": {
     "value": "192px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "096ddcb7-5afd-416f-9a11-4275556c4b52",
-        "name": "field-width"
+        "uuid": "d316d676-b4cf-4d16-b89c-63ef1d969861",
+        "name": "field-width-small",
+        "deprecated-uuids": "096ddcb7-5afd-416f-9a11-4275556c4b52"
+      }
+    }
+  },
+  "field-width-medium": {
+    "value": "208px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "935927d3-b25e-468a-999a-938643901e50",
+        "name": "field-width-medium"
+      }
+    }
+  },
+  "field-width-large": {
+    "value": "224px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "cc43e053-1255-403f-aaf5-2182f5438592",
+        "name": "field-width-large"
+      }
+    }
+  },
+  "field-width-extra-large": {
+    "value": "240px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "a903b595-ffe8-43ae-af9b-7b6577191dc5",
+        "name": "field-width-extra-large"
       }
     }
   },
@@ -1510,7 +1541,7 @@
     }
   },
   "side-label-character-count-top-margin-extra-large": {
-    "value": "14px",
+    "value": "0px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1520,7 +1551,7 @@
     }
   },
   "side-label-character-count-top-margin-large": {
-    "value": "11px",
+    "value": "0px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1530,7 +1561,7 @@
     }
   },
   "side-label-character-count-top-margin-medium": {
-    "value": "8px",
+    "value": "0px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1540,7 +1571,7 @@
     }
   },
   "side-label-character-count-top-margin-small": {
-    "value": "4px",
+    "value": "0px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

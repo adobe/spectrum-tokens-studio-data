@@ -9,6 +9,16 @@
       }
     }
   },
+  "title-cjk-emphasized-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-emphasized-font-style"
+      }
+    }
+  },
   "body-cjk-emphasized-font-weight": {
     "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
@@ -16,6 +26,16 @@
       "spectrum-tokens": {
         "uuid": "0d8ada2f-272d-4f76-bf37-095e0b48cdae",
         "name": "body-cjk-emphasized-font-weight"
+      }
+    }
+  },
+  "title-cjk-emphasized-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-emphasized-font-weight"
       }
     }
   },
@@ -29,6 +49,16 @@
       }
     }
   },
+  "title-cjk-font-family": {
+    "value": "{cjk-font-family}",
+    "type": "fontFamilies",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-font-family"
+      }
+    }
+  },
   "body-cjk-font-style": {
     "value": "{default-font-style}",
     "type": "other",
@@ -36,6 +66,16 @@
       "spectrum-tokens": {
         "uuid": "41389b62-c449-485b-bfa8-1659bacc8c42",
         "name": "body-cjk-font-style"
+      }
+    }
+  },
+  "title-cjk-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-font-style"
       }
     }
   },
@@ -49,6 +89,16 @@
       }
     }
   },
+  "title-cjk-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-font-weight"
+      }
+    }
+  },
   "body-cjk-line-height": {
     "value": "{cjk-line-height-200}",
     "type": "lineHeights",
@@ -56,6 +106,16 @@
       "spectrum-tokens": {
         "uuid": "2106b188-8520-4261-968b-2eb2928857f9",
         "name": "body-cjk-line-height"
+      }
+    }
+  },
+  "title-cjk-line-height": {
+    "value": "{cjk-line-height-100}",
+    "type": "lineHeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-line-height"
       }
     }
   },
@@ -69,6 +129,16 @@
       }
     }
   },
+  "title-cjk-strong-emphasized-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-emphasized-font-style"
+      }
+    }
+  },
   "body-cjk-strong-emphasized-font-weight": {
     "value": "{black-font-weight}",
     "type": "fontWeights",
@@ -76,6 +146,16 @@
       "spectrum-tokens": {
         "uuid": "54020791-a975-4e5d-a905-8bffcc9d2d93",
         "name": "body-cjk-strong-emphasized-font-weight"
+      }
+    }
+  },
+  "title-cjk-strong-emphasized-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-emphasized-font-weight"
       }
     }
   },
@@ -89,6 +169,16 @@
       }
     }
   },
+  "title-cjk-strong-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-font-style"
+      }
+    }
+  },
   "body-cjk-strong-font-weight": {
     "value": "{black-font-weight}",
     "type": "fontWeights",
@@ -99,6 +189,16 @@
       }
     }
   },
+  "title-cjk-strong-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-font-weight"
+      }
+    }
+  },
   "body-line-height": {
     "value": "{line-height-200}",
     "type": "lineHeights",
@@ -106,6 +206,16 @@
       "spectrum-tokens": {
         "uuid": "39accad7-3de1-4850-9773-4e0ff8080049",
         "name": "body-line-height"
+      }
+    }
+  },
+  "title-line-height": {
+    "value": "{line-height-100}",
+    "type": "lineHeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-line-height"
       }
     }
   },
@@ -129,6 +239,16 @@
       }
     }
   },
+  "title-sans-serif-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-emphasized-font-style"
+      }
+    }
+  },
   "body-sans-serif-emphasized-font-weight": {
     "value": "{regular-font-weight}",
     "type": "fontWeights",
@@ -136,6 +256,16 @@
       "spectrum-tokens": {
         "uuid": "5640ac73-a482-4787-9ab2-035b57a87833",
         "name": "body-sans-serif-emphasized-font-weight"
+      }
+    }
+  },
+  "title-sans-serif-emphasized-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-emphasized-font-weight"
       }
     }
   },
@@ -149,6 +279,16 @@
       }
     }
   },
+  "title-sans-serif-font-family": {
+    "value": "{sans-serif-font-family}",
+    "type": "fontFamilies",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-font-family"
+      }
+    }
+  },
   "body-sans-serif-font-style": {
     "value": "{default-font-style}",
     "type": "other",
@@ -156,6 +296,16 @@
       "spectrum-tokens": {
         "uuid": "e1da0eff-7482-46a0-8190-4c54c6b1e1dd",
         "name": "body-sans-serif-font-style"
+      }
+    }
+  },
+  "title-sans-serif-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-font-style"
       }
     }
   },
@@ -169,6 +319,16 @@
       }
     }
   },
+  "title-sans-serif-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-font-weight"
+      }
+    }
+  },
   "body-sans-serif-strong-emphasized-font-style": {
     "value": "{italic-font-style}",
     "type": "other",
@@ -176,6 +336,16 @@
       "spectrum-tokens": {
         "uuid": "b87e6738-af38-49be-9945-f3a307ce7b6f",
         "name": "body-sans-serif-strong-emphasized-font-style"
+      }
+    }
+  },
+  "title-sans-serif-strong-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-emphasized-font-style"
       }
     }
   },
@@ -189,6 +359,16 @@
       }
     }
   },
+  "title-sans-serif-strong-emphasized-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-emphasized-font-weight"
+      }
+    }
+  },
   "body-sans-serif-strong-font-style": {
     "value": "{default-font-style}",
     "type": "other",
@@ -196,6 +376,16 @@
       "spectrum-tokens": {
         "uuid": "b36db31f-eaaa-4310-9f54-f7b509d5f571",
         "name": "body-sans-serif-strong-font-style"
+      }
+    }
+  },
+  "title-sans-serif-strong-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-font-style"
       }
     }
   },
@@ -209,6 +399,16 @@
       }
     }
   },
+  "title-sans-serif-strong-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-font-weight"
+      }
+    }
+  },
   "body-serif-emphasized-font-style": {
     "value": "{italic-font-style}",
     "type": "other",
@@ -216,6 +416,16 @@
       "spectrum-tokens": {
         "uuid": "c817210d-2b1a-4648-bff3-33fa212491f1",
         "name": "body-serif-emphasized-font-style"
+      }
+    }
+  },
+  "title-serif-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-emphasized-font-style"
       }
     }
   },
@@ -229,6 +439,16 @@
       }
     }
   },
+  "title-serif-emphasized-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-emphasized-font-weight"
+      }
+    }
+  },
   "body-serif-font-family": {
     "value": "{serif-font-family}",
     "type": "fontFamilies",
@@ -236,6 +456,16 @@
       "spectrum-tokens": {
         "uuid": "20df8bd4-5a61-4614-aa86-5b76c5976860",
         "name": "body-serif-font-family"
+      }
+    }
+  },
+  "title-serif-font-family": {
+    "value": "{serif-font-family}",
+    "type": "fontFamilies",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-font-family"
       }
     }
   },
@@ -249,6 +479,16 @@
       }
     }
   },
+  "title-serif-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-font-style"
+      }
+    }
+  },
   "body-serif-font-weight": {
     "value": "{regular-font-weight}",
     "type": "fontWeights",
@@ -256,6 +496,16 @@
       "spectrum-tokens": {
         "uuid": "f049ba7a-c52f-4d39-b38e-911b2b91d031",
         "name": "body-serif-font-weight"
+      }
+    }
+  },
+  "title-serif-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-font-weight"
       }
     }
   },
@@ -269,6 +519,16 @@
       }
     }
   },
+  "title-serif-strong-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-emphasized-font-style"
+      }
+    }
+  },
   "body-serif-strong-emphasized-font-weight": {
     "value": "{bold-font-weight}",
     "type": "fontWeights",
@@ -276,6 +536,16 @@
       "spectrum-tokens": {
         "uuid": "a87b77ff-5b27-47e0-a7df-f15092fb783e",
         "name": "body-serif-strong-emphasized-font-weight"
+      }
+    }
+  },
+  "title-serif-strong-emphasized-font-weight": {
+    "value": "{black-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-emphasized-font-weight"
       }
     }
   },
@@ -289,6 +559,16 @@
       }
     }
   },
+  "title-serif-strong-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-font-style"
+      }
+    }
+  },
   "body-serif-strong-font-weight": {
     "value": "{bold-font-weight}",
     "type": "fontWeights",
@@ -296,6 +576,16 @@
       "spectrum-tokens": {
         "uuid": "be263571-bd6b-4383-bdf9-3cdf80248b6a",
         "name": "body-serif-strong-font-weight"
+      }
+    }
+  },
+  "title-serif-strong-font-weight": {
+    "value": "{black-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-font-weight"
       }
     }
   },
@@ -309,6 +599,16 @@
       }
     }
   },
+  "title-size-l": {
+    "value": "{font-size-300}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-l"
+      }
+    }
+  },
   "body-size-m": {
     "value": "{font-size-200}",
     "type": "fontSizes",
@@ -316,6 +616,16 @@
       "spectrum-tokens": {
         "uuid": "4f7f6878-5304-48d3-8a42-5bb452c2163b",
         "name": "body-size-m"
+      }
+    }
+  },
+  "title-size-m": {
+    "value": "{font-size-200}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-m"
       }
     }
   },
@@ -329,6 +639,16 @@
       }
     }
   },
+  "title-size-s": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-s"
+      }
+    }
+  },
   "body-size-xl": {
     "value": "{font-size-400}",
     "type": "fontSizes",
@@ -336,6 +656,16 @@
       "spectrum-tokens": {
         "uuid": "3927604f-eaf3-4605-aa34-80b7bc88ac0f",
         "name": "body-size-xl"
+      }
+    }
+  },
+  "title-size-xl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xl"
       }
     }
   },
@@ -349,6 +679,16 @@
       }
     }
   },
+  "title-size-xs": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xs"
+      }
+    }
+  },
   "body-size-xxl": {
     "value": "{font-size-500}",
     "type": "fontSizes",
@@ -359,6 +699,16 @@
       }
     }
   },
+  "title-size-xxl": {
+    "value": "{font-size-500}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xxl"
+      }
+    }
+  },
   "body-size-xxxl": {
     "value": "{font-size-600}",
     "type": "fontSizes",
@@ -366,6 +716,16 @@
       "spectrum-tokens": {
         "uuid": "e0b8ceea-3404-4c4b-9145-fe5d445020fe",
         "name": "body-size-xxxl"
+      }
+    }
+  },
+  "title-size-xxxl": {
+    "value": "{font-size-600}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xxxl"
       }
     }
   },
@@ -1469,6 +1829,16 @@
       }
     }
   },
+  "title-cjk-size-l": {
+    "value": "{font-size-200}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-l"
+      }
+    }
+  },
   "heading-cjk-size-m": {
     "value": "{font-size-400}",
     "type": "fontSizes",
@@ -1476,6 +1846,16 @@
       "spectrum-tokens": {
         "uuid": "43f45659-314b-45aa-9886-1beb096fc4ce",
         "name": "heading-cjk-size-m"
+      }
+    }
+  },
+  "title-cjk-size-m": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-m"
       }
     }
   },
@@ -1489,6 +1869,16 @@
       }
     }
   },
+  "title-cjk-size-s": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-s"
+      }
+    }
+  },
   "heading-cjk-size-xl": {
     "value": "{font-size-800}",
     "type": "fontSizes",
@@ -1496,6 +1886,16 @@
       "spectrum-tokens": {
         "uuid": "43535e5f-607e-43f4-bd37-8230b1f7993f",
         "name": "heading-cjk-size-xl"
+      }
+    }
+  },
+  "title-cjk-size-xl": {
+    "value": "{font-size-300}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xl"
       }
     }
   },
@@ -1509,6 +1909,16 @@
       }
     }
   },
+  "title-cjk-size-xs": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xs"
+      }
+    }
+  },
   "heading-cjk-size-xxl": {
     "value": "{font-size-900}",
     "type": "fontSizes",
@@ -1516,6 +1926,16 @@
       "spectrum-tokens": {
         "uuid": "fbf59302-1ad2-4327-bfde-d638a0ca2429",
         "name": "heading-cjk-size-xxl"
+      }
+    }
+  },
+  "title-cjk-size-xxl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xxl"
       }
     }
   },
@@ -1536,6 +1956,16 @@
       "spectrum-tokens": {
         "uuid": "5a44e177-2478-4bb0-9212-ba2df64c8b00",
         "name": "heading-cjk-size-xxxl"
+      }
+    }
+  },
+  "title-cjk-size-xxxl": {
+    "value": "{font-size-500}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xxxl"
       }
     }
   },
@@ -1599,6 +2029,16 @@
       }
     }
   },
+  "title-margin-bottom-multiplier": {
+    "value": "0.25",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-margin-bottom-multiplier"
+      }
+    }
+  },
   "heading-margin-top-multiplier": {
     "value": "0.88888889",
     "type": "number",
@@ -1606,6 +2046,16 @@
       "spectrum-tokens": {
         "uuid": "008fa04b-6d74-416b-a6ae-ceec90f08642",
         "name": "heading-margin-top-multiplier"
+      }
+    }
+  },
+  "title-margin-top-multiplier": {
+    "value": "0.88888889",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-margin-top-multiplier"
       }
     }
   },

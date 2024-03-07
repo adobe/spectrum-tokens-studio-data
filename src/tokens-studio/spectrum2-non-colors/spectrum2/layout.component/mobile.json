@@ -1070,8 +1070,8 @@
     }
   },
   "color-area-border-rounding": {
-    "value": "{corner-radius-100}",
-    "type": "spacing",
+    "value": "{corner-radius-medium-size-small}",
+    "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "ab656bf4-8814-42fa-9036-b1e67159e4e1",
@@ -4680,7 +4680,7 @@
     }
   },
   "toast-bottom-to-text": {
-    "value": "19px",
+    "value": "22px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -4690,7 +4690,7 @@
     }
   },
   "toast-height": {
-    "value": "56px",
+    "value": "60px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -4710,7 +4710,7 @@
     }
   },
   "toast-top-to-text": {
-    "value": "16px",
+    "value": "20px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -4720,7 +4720,7 @@
     }
   },
   "toast-top-to-workflow-icon": {
-    "value": "17px",
+    "value": "20px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

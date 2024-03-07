@@ -1434,8 +1434,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "096ddcb7-5afd-416f-9a11-4275556c4b52",
-        "name": "field-width-small"
+        "uuid": "d316d676-b4cf-4d16-b89c-63ef1d969861",
+        "name": "field-width-small",
+        "deprecated-uuids": "096ddcb7-5afd-416f-9a11-4275556c4b52"
       }
     }
   },
@@ -1444,7 +1445,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "935927d3-b25e-468a-999a-938643901e50",
         "name": "field-width-medium"
       }
     }
@@ -1454,7 +1455,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "cc43e053-1255-403f-aaf5-2182f5438592",
         "name": "field-width-large"
       }
     }
@@ -1464,7 +1465,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "a903b595-ffe8-43ae-af9b-7b6577191dc5",
         "name": "field-width-extra-large"
       }
     }

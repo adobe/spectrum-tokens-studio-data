@@ -1434,8 +1434,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "08c2390a-353b-4e6b-b025-dbaeaa5fdff2",
-        "name": "field-width"
+        "uuid": "4edc5620-2fd6-4656-ad4f-f5e44fc77ce9",
+        "name": "field-width-small",
+        "deprecated-uuids": "08c2390a-353b-4e6b-b025-dbaeaa5fdff2"
       }
     }
   },
@@ -1444,7 +1445,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "4504fa00-b3ee-4065-9202-0ad226e731d7",
         "name": "field-width-medium"
       }
     }
@@ -1454,7 +1455,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "1767d955-b8c4-41b0-82d4-4aadc9f12ab1",
         "name": "field-width-large"
       }
     }
@@ -1464,7 +1465,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "3abf72b5-5ed7-4d18-8eda-e137b2ac2f51",
         "name": "field-width-extra-large"
       }
     }
@@ -1544,7 +1545,7 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "c2c4ddf3-f273-4e23-9be0-e1227e9999a8",
+        "uuid": "9b1f15bf-ea4f-4f82-8c4f-3770b7f47353",
         "name": "side-label-character-count-top-margin-extra-large"
       }
     }
@@ -1554,7 +1555,7 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "ca10a5d6-a8b2-414d-978a-14481e2a21cb",
+        "uuid": "e2d9e241-469a-4b03-bd6a-a105a8ed5e00",
         "name": "side-label-character-count-top-margin-large"
       }
     }
@@ -1564,7 +1565,7 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "a2b20c88-d28c-4261-8160-62630c5e0da8",
+        "uuid": "4d93210f-f01a-4d1c-8c10-2cb4b9d14626",
         "name": "side-label-character-count-top-margin-medium"
       }
     }
@@ -1574,7 +1575,7 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "9196a2ad-67cd-44d8-b4c6-bca25e37eb4a",
+        "uuid": "a86ae363-b6b4-4da0-9630-97336922b3a1",
         "name": "side-label-character-count-top-margin-small"
       }
     }

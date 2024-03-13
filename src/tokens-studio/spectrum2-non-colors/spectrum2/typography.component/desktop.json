@@ -2188,5 +2188,455 @@
         "name": "heading-size-xxxl"
       }
     }
+  },
+  "title-cjk-emphasized-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-emphasized-font-style"
+      }
+    }
+  },
+  "title-cjk-emphasized-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-emphasized-font-weight"
+      }
+    }
+  },
+  "title-cjk-font-family": {
+    "value": "{cjk-font-family}",
+    "type": "fontFamilies",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-font-family"
+      }
+    }
+  },
+  "title-cjk-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-font-style"
+      }
+    }
+  },
+  "title-cjk-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-font-weight"
+      }
+    }
+  },
+  "title-cjk-line-height": {
+    "value": "{cjk-line-height-100}",
+    "type": "lineHeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-line-height"
+      }
+    }
+  },
+  "title-cjk-size-l": {
+    "value": "{font-size-200}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-l"
+      }
+    }
+  },
+  "title-cjk-size-m": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-m"
+      }
+    }
+  },
+  "title-cjk-size-s": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-s"
+      }
+    }
+  },
+  "title-cjk-size-xl": {
+    "value": "{font-size-300}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xl"
+      }
+    }
+  },
+  "title-cjk-size-xs": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xs"
+      }
+    }
+  },
+  "title-cjk-size-xxl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xxl"
+      }
+    }
+  },
+  "title-cjk-size-xxxl": {
+    "value": "{font-size-500}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-size-xxxl"
+      }
+    }
+  },
+  "title-cjk-strong-emphasized-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-emphasized-font-style"
+      }
+    }
+  },
+  "title-cjk-strong-emphasized-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-emphasized-font-weight"
+      }
+    }
+  },
+  "title-cjk-strong-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-font-style"
+      }
+    }
+  },
+  "title-cjk-strong-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-cjk-strong-font-weight"
+      }
+    }
+  },
+  "title-line-height": {
+    "value": "{line-height-100}",
+    "type": "lineHeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-line-height"
+      }
+    }
+  },
+  "title-margin-bottom-multiplier": {
+    "value": "0.25",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-margin-bottom-multiplier"
+      }
+    }
+  },
+  "title-margin-top-multiplier": {
+    "value": "0.88888889",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-margin-top-multiplier"
+      }
+    }
+  },
+  "title-sans-serif-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-emphasized-font-style"
+      }
+    }
+  },
+  "title-sans-serif-emphasized-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-emphasized-font-weight"
+      }
+    }
+  },
+  "title-sans-serif-font-family": {
+    "value": "{sans-serif-font-family}",
+    "type": "fontFamilies",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-font-family"
+      }
+    }
+  },
+  "title-sans-serif-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-font-style"
+      }
+    }
+  },
+  "title-sans-serif-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-font-weight"
+      }
+    }
+  },
+  "title-sans-serif-strong-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-emphasized-font-style"
+      }
+    }
+  },
+  "title-sans-serif-strong-emphasized-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-emphasized-font-weight"
+      }
+    }
+  },
+  "title-sans-serif-strong-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-font-style"
+      }
+    }
+  },
+  "title-sans-serif-strong-font-weight": {
+    "value": "{extra-bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-sans-serif-strong-font-weight"
+      }
+    }
+  },
+  "title-serif-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-emphasized-font-style"
+      }
+    }
+  },
+  "title-serif-emphasized-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-emphasized-font-weight"
+      }
+    }
+  },
+  "title-serif-font-family": {
+    "value": "{serif-font-family}",
+    "type": "fontFamilies",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-font-family"
+      }
+    }
+  },
+  "title-serif-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-font-style"
+      }
+    }
+  },
+  "title-serif-font-weight": {
+    "value": "{bold-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-font-weight"
+      }
+    }
+  },
+  "title-serif-strong-emphasized-font-style": {
+    "value": "{italic-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-emphasized-font-style"
+      }
+    }
+  },
+  "title-serif-strong-emphasized-font-weight": {
+    "value": "{black-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-emphasized-font-weight"
+      }
+    }
+  },
+  "title-serif-strong-font-style": {
+    "value": "{default-font-style}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-font-style"
+      }
+    }
+  },
+  "title-serif-strong-font-weight": {
+    "value": "{black-font-weight}",
+    "type": "fontWeights",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-serif-strong-font-weight"
+      }
+    }
+  },
+  "title-size-l": {
+    "value": "{font-size-300}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-l"
+      }
+    }
+  },
+  "title-size-m": {
+    "value": "{font-size-200}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-m"
+      }
+    }
+  },
+  "title-size-s": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-s"
+      }
+    }
+  },
+  "title-size-xl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xl"
+      }
+    }
+  },
+  "title-size-xs": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xs"
+      }
+    }
+  },
+  "title-size-xxl": {
+    "value": "{font-size-500}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xxl"
+      }
+    }
+  },
+  "title-size-xxxl": {
+    "value": "{font-size-600}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "title-size-xxxl"
+      }
+    }
   }
 }

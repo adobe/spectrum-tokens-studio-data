@@ -2219,13 +2219,23 @@
       }
     }
   },
-  "opacity-checkerboard-square-size": {
+  "opacity-checkerboard-square-size-small": {
+    "value": "4px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "opacity-checkerboard-square-size-small"
+      }
+    }
+  },
+  "opacity-checkerboard-square-size-medium": {
     "value": "8px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "9ddf2e73-ad74-46d7-a79d-fe961b06dbbd",
-        "name": "opacity-checkerboard-square-size"
+        "name": "opacity-checkerboard-square-size-medium"
       }
     }
   },

@@ -2224,7 +2224,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "2537f52b-5cae-4a35-a1f3-b1d4fe89060d",
         "name": "opacity-checkerboard-square-size-small"
       }
     }
@@ -2234,8 +2234,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "9ddf2e73-ad74-46d7-a79d-fe961b06dbbd",
-        "name": "opacity-checkerboard-square-size-medium"
+        "uuid": "ead3f34f-55b1-4012-a4af-0f7fbf226020",
+        "name": "opacity-checkerboard-square-size-medium",
+        "deprecated-uuids": "9ddf2e73-ad74-46d7-a79d-fe961b06dbbd"
       }
     }
   },

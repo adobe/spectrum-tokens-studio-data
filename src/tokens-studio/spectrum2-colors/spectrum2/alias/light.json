@@ -498,6 +498,16 @@
             }
           }
         },
+        "title": {
+          "value": "{Palette.gray.900}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "title-color"
+            }
+          }
+        },
         "body": {
           "value": "{Palette.gray.800}",
           "type": "color",

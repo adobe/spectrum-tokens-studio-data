@@ -189,7 +189,7 @@
       }
     }
   },
-  "accordion-small-top-to-text-spacious": {
+  "🚫 accordion-small-top-to-text-spacious": {
     "value": "9px",
     "type": "spacing",
     "$extensions": {
@@ -306,6 +306,16 @@
       "spectrum-tokens": {
         "uuid": "19c91104-bdf4-4969-8d92-c9cd47d39d13",
         "name": "accordion-top-to-text-spacious-medium"
+      }
+    }
+  },
+  "accordion-top-to-text-spacious-small": {
+    "value": "9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-top-to-text-spacious-small"
       }
     }
   },

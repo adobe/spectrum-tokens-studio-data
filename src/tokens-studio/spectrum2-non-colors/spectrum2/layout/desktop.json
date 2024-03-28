@@ -949,18 +949,8 @@
       }
     }
   },
-  "drop-shadow-blur": {
-    "value": "4px",
-    "type": "other",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "ac20a6da-31a7-4c8b-b361-0ad820cd8429",
-        "name": "drop-shadow-blur"
-      }
-    }
-  },
-  "drop-shadow-x": {
-    "value": "0px",
+  "🚫 drop-shadow-x": {
+    "value": "{drop-shadow-x-100}",
     "type": "other",
     "$extensions": {
       "spectrum-tokens": {
@@ -969,13 +959,173 @@
       }
     }
   },
-  "drop-shadow-y": {
-    "value": "1px",
+  "🚫 drop-shadow-y": {
+    "value": "{drop-shadow-y-100}",
     "type": "other",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "c530129f-248c-4e36-ba7f-05d6d6a53962",
         "name": "drop-shadow-y"
+      }
+    }
+  },
+  "🚫 drop-shadow-blur": {
+    "value": "{drop-shadow-blur-100}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "ac20a6da-31a7-4c8b-b361-0ad820cd8429",
+        "name": "drop-shadow-blur"
+      }
+    }
+  },
+  "drop-shadow-x-100": {
+    "value": "0px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-x-100"
+      }
+    }
+  },
+  "drop-shadow-y-100": {
+    "value": "1px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-y-100"
+      }
+    }
+  },
+  "drop-shadow-blur-100": {
+    "value": "6px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-blur-100"
+      }
+    }
+  },
+  "drop-shadow-x-200": {
+    "value": "0px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-x-200"
+      }
+    }
+  },
+  "drop-shadow-y-200": {
+    "value": "2px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-y-200"
+      }
+    }
+  },
+  "drop-shadow-blur-200": {
+    "value": "8px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-blur-200"
+      }
+    }
+  },
+  "drop-shadow-emphasized-default-x": {
+    "value": "{drop-shadow-x-100}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-emphasized-default-x"
+      }
+    }
+  },
+  "drop-shadow-emphasized-default-y": {
+    "value": "{drop-shadow-y-100}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-emphasized-default-y"
+      }
+    }
+  },
+  "drop-shadow-emphasized-default-blur": {
+    "value": "{drop-shadow-blur-100}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-emphasized-default-blur"
+      }
+    }
+  },
+  "drop-shadow-emphasized-hover-x": {
+    "value": "{drop-shadow-x-200}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-emphasized-hover-x"
+      }
+    }
+  },
+  "drop-shadow-emphasized-hover-y": {
+    "value": "{drop-shadow-y-200}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-emphasized-hover-y"
+      }
+    }
+  },
+  "drop-shadow-emphasized-hover-blur": {
+    "value": "{drop-shadow-blur-200}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-emphasized-hover-blur"
+      }
+    }
+  },
+  "drop-shadow-elevated-x": {
+    "value": "{drop-shadow-x-200}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-elevated-x"
+      }
+    }
+  },
+  "drop-shadow-elevated-y": {
+    "value": "{drop-shadow-y-200}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-elevated-y"
+      }
+    }
+  },
+  "drop-shadow-elevated-blur": {
+    "value": "{drop-shadow-blur-200}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-elevated-blur"
       }
     }
   },

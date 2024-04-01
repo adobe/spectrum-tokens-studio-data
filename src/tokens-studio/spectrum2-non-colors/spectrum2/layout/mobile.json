@@ -1350,7 +1350,7 @@
     }
   },
   "field-top-to-progress-circle-extra-large": {
-    "value": "22px",
+    "value": "15px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1360,7 +1360,7 @@
     }
   },
   "field-top-to-progress-circle-large": {
-    "value": "17px",
+    "value": "11px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1370,7 +1370,7 @@
     }
   },
   "field-top-to-progress-circle-medium": {
-    "value": "12px",
+    "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1380,7 +1380,7 @@
     }
   },
   "field-top-to-progress-circle-small": {
-    "value": "7px",
+    "value": "6px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1429,8 +1429,8 @@
       }
     }
   },
-  "field-width-small": {
-    "value": "240px",
+  "🚫 field-width-small": {
+    "value": "{field-default-width-small}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1440,8 +1440,19 @@
       }
     }
   },
-  "field-width-medium": {
-    "value": "256px",
+  "field-default-width-small": {
+    "value": "240px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-default-width-small",
+        "deprecated-uuids": "08c2390a-353b-4e6b-b025-dbaeaa5fdff2"
+      }
+    }
+  },
+  "🚫 field-width-medium": {
+    "value": "{field-default-width-medium}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1450,8 +1461,18 @@
       }
     }
   },
-  "field-width-large": {
-    "value": "272px",
+  "field-default-width-medium": {
+    "value": "256px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-default-width-medium"
+      }
+    }
+  },
+  "🚫 field-width-large": {
+    "value": "{field-default-width-large}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1460,13 +1481,33 @@
       }
     }
   },
-  "field-width-extra-large": {
-    "value": "288px",
+  "field-default-width-large": {
+    "value": "272px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-default-width-large"
+      }
+    }
+  },
+  "🚫 field-width-extra-large": {
+    "value": "{field-default-width-extra-large}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "3abf72b5-5ed7-4d18-8eda-e137b2ac2f51",
         "name": "field-width-extra-large"
+      }
+    }
+  },
+  "field-default-width-extra-large": {
+    "value": "288px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-default-width-extra-large"
       }
     }
   },

@@ -2940,7 +2940,7 @@
       }
     }
   },
-  "tag-minimum-width-multiplier": {
+  "🚫 tag-minimum-width-multiplier": {
     "value": "1",
     "type": "number",
     "$extensions": {
@@ -4317,6 +4317,36 @@
       "spectrum-tokens": {
         "uuid": "2cd8dc05-2f95-45b5-b8a4-0273baf3ba0e",
         "name": "table-section-header-row-height-small"
+      }
+    }
+  },
+  "tag-minimum-width-small": {
+    "value": "25px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-minimum-width-small"
+      }
+    }
+  },
+  "tag-minimum-width-medium": {
+    "value": "34px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-minimum-width-medium"
+      }
+    }
+  },
+  "tag-minimum-width-large": {
+    "value": "42px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-minimum-width-large"
       }
     }
   },

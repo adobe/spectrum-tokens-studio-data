@@ -1379,7 +1379,7 @@
       }
     }
   },
-  "combo-box-quiet-minimum-width-multiplier": {
+  "🚫 combo-box-quiet-minimum-width-multiplier": {
     "value": "2",
     "type": "number",
     "$extensions": {
@@ -1389,8 +1389,8 @@
       }
     }
   },
-  "combo-box-visual-to-field-button-extra-large": {
-    "value": "10px",
+  "🚫 combo-box-visual-to-field-button-extra-large": {
+    "value": "{combo-box-visual-to-field-button}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1399,8 +1399,8 @@
       }
     }
   },
-  "combo-box-visual-to-field-button-large": {
-    "value": "9px",
+  "🚫 combo-box-visual-to-field-button-large": {
+    "value": "{combo-box-visual-to-field-button}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1409,8 +1409,8 @@
       }
     }
   },
-  "combo-box-visual-to-field-button-medium": {
-    "value": "8px",
+  "🚫 combo-box-visual-to-field-button-medium": {
+    "value": "{combo-box-visual-to-field-button}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1419,8 +1419,8 @@
       }
     }
   },
-  "combo-box-visual-to-field-button-quiet": {
-    "value": "0px",
+  "🚫 combo-box-visual-to-field-button-quiet": {
+    "value": "{combo-box-visual-to-field-button}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1429,8 +1429,18 @@
       }
     }
   },
-  "combo-box-visual-to-field-button-small": {
-    "value": "7px",
+  "combo-box-visual-to-field-button": {
+    "value": "0px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "combo-box-visual-to-field-button"
+      }
+    }
+  },
+  "🚫 combo-box-visual-to-field-button-small": {
+    "value": "{combo-box-visual-to-field-button}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1889,13 +1899,53 @@
       }
     }
   },
-  "in-field-button-edge-to-fill": {
+  "🚫 in-field-button-edge-to-fill": {
     "value": "0px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "5bffe992-2982-49e8-aa3a-e4e93c884f43",
         "name": "in-field-button-edge-to-fill"
+      }
+    }
+  },
+  "in-field-button-edge-to-fill-small": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-button-edge-to-fill-small"
+      }
+    }
+  },
+  "in-field-button-edge-to-fill-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-button-edge-to-fill-medium"
+      }
+    }
+  },
+  "in-field-button-edge-to-fill-large": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-button-edge-to-fill-large"
+      }
+    }
+  },
+  "in-field-button-edge-to-fill-extra-large": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-button-edge-to-fill-extra-large"
       }
     }
   },
@@ -1999,6 +2049,16 @@
       }
     }
   },
+  "in-field-progress-circle-edge-to-fill": {
+    "value": "1px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-progress-circle-edge-to-fill"
+      }
+    }
+  },
   "in-field-button-width-stacked-extra-large": {
     "value": "44px",
     "type": "sizing",
@@ -2036,6 +2096,46 @@
       "spectrum-tokens": {
         "uuid": "24125066-c8d1-4c4a-85b3-493d112d3ca0",
         "name": "in-field-button-width-stacked-small"
+      }
+    }
+  },
+  "in-field-progress-circle-size-75": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-progress-circle-size-75"
+      }
+    }
+  },
+  "in-field-progress-circle-size-100": {
+    "value": "20px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-progress-circle-size-100"
+      }
+    }
+  },
+  "in-field-progress-circle-size-200": {
+    "value": "22px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-progress-circle-size-200"
+      }
+    }
+  },
+  "in-field-progress-circle-size-300": {
+    "value": "26px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-progress-circle-size-300"
       }
     }
   },

@@ -529,13 +529,23 @@
       }
     }
   },
-  "alert-dialog-description-size": {
-    "value": "{body-size-m}",
+  "🚫 alert-dialog-description-size": {
+    "value": "{alert-dialog-description-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "9dc42d1a-b87d-4a5d-a5a3-6afd4d5bd599",
         "name": "alert-dialog-description-size"
+      }
+    }
+  },
+  "alert-dialog-description-font-size": {
+    "value": "{body-size-m}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "alert-dialog-description-font-size"
       }
     }
   },
@@ -559,13 +569,23 @@
       }
     }
   },
-  "alert-dialog-title-size": {
-    "value": "{title-size-xxl}",
+  "🚫 alert-dialog-title-size": {
+    "value": "{alert-dialog-title-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "9b7ce1fc-ea8a-4d7b-a926-0accbd6b1197",
         "name": "alert-dialog-title-size"
+      }
+    }
+  },
+  "alert-dialog-title-font-size": {
+    "value": "{title-size-xxl}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "alert-dialog-title-font-size"
       }
     }
   },

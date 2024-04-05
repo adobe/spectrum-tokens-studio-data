@@ -529,13 +529,23 @@
       }
     }
   },
-  "alert-dialog-description-size": {
-    "value": "{body-size-s}",
+  "🚫 alert-dialog-description-size": {
+    "value": "{alert-dialog-description-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "43c5762a-d3a6-49db-9e5e-4a524604fecc",
         "name": "alert-dialog-description-size"
+      }
+    }
+  },
+  "alert-dialog-description-font-size": {
+    "value": "{body-size-s}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "alert-dialog-description-font-size"
       }
     }
   },
@@ -559,13 +569,23 @@
       }
     }
   },
-  "alert-dialog-title-size": {
-    "value": "{title-size-xl}",
+  "🚫 alert-dialog-title-size": {
+    "value": "{alert-dialog-title-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "3f362b57-09eb-4147-b366-5c1f04c9a29f",
         "name": "alert-dialog-title-size"
+      }
+    }
+  },
+  "alert-dialog-title-font-size": {
+    "value": "{title-size-xl}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "alert-dialog-title-font-size"
       }
     }
   },

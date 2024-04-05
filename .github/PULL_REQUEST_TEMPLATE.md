@@ -1,6 +1,6 @@
 <!--- Title: Provide a general summary of your changes in the Title above -->
 <!--- Reviewers: Include @karstens, @GarthDB, @mrcjhicks, @lynnhao, @KayiuCarlson, @nabuhasan -->
-**Reminder:** PRs should have two reviews at the minimum (one from the engineering team and one from the design team) in order to be considered "approved" and ready to merge.
+<!--- Approval: PRs require two two reviews at the minimum (one from the engineering team and one from the design team) in order to be considered "approved" and ready to merge -->
 
 ## Description
 

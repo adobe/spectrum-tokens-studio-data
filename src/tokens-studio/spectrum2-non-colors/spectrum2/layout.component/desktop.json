@@ -1000,7 +1000,7 @@
     }
   },
   "coach-mark-body-font-size": {
-    "value": "{body-size-s}",
+    "value": "{body-size-m}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1100,7 +1100,7 @@
     }
   },
   "coach-mark-title-font-size": {
-    "value": "{heading-size-xs}",
+    "value": "{title-size-m}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {

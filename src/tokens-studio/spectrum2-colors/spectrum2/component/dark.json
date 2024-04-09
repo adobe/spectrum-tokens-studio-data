@@ -59,8 +59,8 @@
       }
     },
     "color-loupe": {
-      "drop-shadow": {
-        "value": "{Palette.transparent-black.300}",
+      "🚫drop-shadow": {
+        "value": "{Alias.drop-shadow.elevated}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {

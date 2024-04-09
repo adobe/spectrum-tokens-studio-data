@@ -1239,8 +1239,8 @@
       }
     }
   },
-  "color-loupe-drop-shadow-blur": {
-    "value": "8px",
+  "🚫 color-loupe-drop-shadow-blur": {
+    "value": "{drop-shadow-elevated-blur}",
     "type": "other",
     "$extensions": {
       "spectrum-tokens": {
@@ -1249,8 +1249,8 @@
       }
     }
   },
-  "color-loupe-drop-shadow-y": {
-    "value": "2px",
+  "🚫 color-loupe-drop-shadow-y": {
+    "value": "{drop-shadow-elevated-y}",
     "type": "other",
     "$extensions": {
       "spectrum-tokens": {

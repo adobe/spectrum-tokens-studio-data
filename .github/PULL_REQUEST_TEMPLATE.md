@@ -1,5 +1,6 @@
 <!--- Title: Provide a general summary of your changes in the Title above -->
-<!--- Reviewers: Include @karstens, @GarthDB, @mrcjhicks, @lynnhao -->
+<!--- Reviewers: Include @karstens, @GarthDB, @mrcjhicks, @lynnhao, @KayiuCarlson, @nabuhasan -->
+<!--- Approval: PRs require two reviews at the minimum (one from the engineering team and one from the design team) in order to be considered "approved" and ready to merge -->
 
 ## Description
 
@@ -21,8 +22,8 @@
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
 <li> [ ] Patch (bug fixes, typos, mistakes; non-breaking change which fixes an issue) </li>
-<li> [ ] Minor (add a new token, changing a value; non-breaking change which adds functionality) </li>
-<li> [ ] Major (deleting a token, changing token value type; fix or feature that would cause existing functionality to change) </li>
+<li> [ ] Minor (add a new token, changing a value, deprecating a token; non-breaking change which adds functionality) </li>
+<li> [ ] Major (deleting a token, changing token value type, renaming a token by deprecating the old one; fix or feature that would cause existing functionality to change) </li>
 
 ## Checklist:
 

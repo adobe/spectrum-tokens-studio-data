@@ -1009,13 +1009,23 @@
       }
     }
   },
-  "coach-mark-body-size": {
-    "value": "{body-size-xs}",
+  "🚫 coach-mark-body-size": {
+    "value": "{coach-mark-body-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "a0abef77-dafe-4158-9faa-a4b4b2871e54",
         "name": "coach-mark-body-size"
+      }
+    }
+  },
+  "coach-mark-body-font-size": {
+    "value": "{body-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-mark-body-font-size"
       }
     }
   },
@@ -1069,13 +1079,23 @@
       }
     }
   },
-  "coach-mark-pagination-body-size": {
-    "value": "{body-size-xs}",
+  "🚫 coach-mark-pagination-body-size": {
+    "value": "{coach-mark-pagination-body-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "350d9235-ff9e-43d7-9298-56b36d58d6de",
         "name": "coach-mark-pagination-body-size"
+      }
+    }
+  },
+  "coach-mark-pagination-body-font-size": {
+    "value": "{body-size-xs}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-mark-pagination-body-font-size"
       }
     }
   },
@@ -1089,13 +1109,23 @@
       }
     }
   },
-  "coach-mark-title-size": {
-    "value": "{heading-size-xxs}",
+  "🚫 coach-mark-title-size": {
+    "value": "{coach-mark-title-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "cd4848b6-d560-475a-9d80-f7b5acebce10",
         "name": "coach-mark-title-size"
+      }
+    }
+  },
+  "coach-mark-title-font-size": {
+    "value": "{title-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-mark-title-font-size"
       }
     }
   },

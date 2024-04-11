@@ -1001,7 +1001,7 @@
   },
   "coach-mark-body-font-size": {
     "value": "{body-size-s}",
-    "type": "sizing",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -1071,7 +1071,7 @@
   },
   "coach-mark-pagination-body-font-size": {
     "value": "{body-size-xs}",
-    "type": "sizing",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -1101,7 +1101,7 @@
   },
   "coach-mark-title-font-size": {
     "value": "{title-size-s}",
-    "type": "sizing",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",

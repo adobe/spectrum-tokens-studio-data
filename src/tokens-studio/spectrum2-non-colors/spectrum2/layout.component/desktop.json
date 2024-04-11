@@ -541,7 +541,7 @@
   },
   "alert-dialog-description-font-size": {
     "value": "{body-size-m}",
-    "type": "sizing",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -581,7 +581,7 @@
   },
   "alert-dialog-title-font-size": {
     "value": "{title-size-xxl}",
-    "type": "sizing",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",

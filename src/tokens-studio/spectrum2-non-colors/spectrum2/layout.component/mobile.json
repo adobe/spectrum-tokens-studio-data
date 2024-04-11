@@ -1009,13 +1009,23 @@
       }
     }
   },
-  "coach-mark-body-size": {
-    "value": "{body-size-xs}",
+  "🚫 coach-mark-body-size": {
+    "value": "{coach-mark-body-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "a0abef77-dafe-4158-9faa-a4b4b2871e54",
+        "uuid": "eba9f466-deda-48d5-a120-14419d5a670f",
         "name": "coach-mark-body-size"
+      }
+    }
+  },
+  "coach-mark-body-font-size": {
+    "value": "{body-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "73959c3d-afc2-4f6e-bd34-0399bf3b5b73",
+        "name": "coach-mark-body-font-size"
       }
     }
   },
@@ -1069,13 +1079,23 @@
       }
     }
   },
-  "coach-mark-pagination-body-size": {
-    "value": "{body-size-xs}",
+  "🚫 coach-mark-pagination-body-size": {
+    "value": "{coach-mark-pagination-body-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "350d9235-ff9e-43d7-9298-56b36d58d6de",
+        "uuid": "df8bc8ae-b6fa-4414-93b7-c89d8097fe11",
         "name": "coach-mark-pagination-body-size"
+      }
+    }
+  },
+  "coach-mark-pagination-body-font-size": {
+    "value": "{body-size-xs}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4f8c99a5-0942-41b0-ac41-923ea9ca2bf2",
+        "name": "coach-mark-pagination-body-font-size"
       }
     }
   },
@@ -1089,13 +1109,23 @@
       }
     }
   },
-  "coach-mark-title-size": {
-    "value": "{heading-size-xxs}",
+  "🚫 coach-mark-title-size": {
+    "value": "{coach-mark-title-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "cd4848b6-d560-475a-9d80-f7b5acebce10",
+        "uuid": "331604db-3f28-472e-810d-9010ed2c8e33",
         "name": "coach-mark-title-size"
+      }
+    }
+  },
+  "coach-mark-title-font-size": {
+    "value": "{title-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "45855bc5-3b86-49a9-b443-7be9aa763c4e",
+        "name": "coach-mark-title-font-size"
       }
     }
   },

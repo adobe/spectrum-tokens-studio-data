@@ -1009,13 +1009,23 @@
       }
     }
   },
-  "coach-mark-body-size": {
-    "value": "{body-size-s}",
+  "🚫 coach-mark-body-size": {
+    "value": "{coach-mark-body-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "eba9f466-deda-48d5-a120-14419d5a670f",
         "name": "coach-mark-body-size"
+      }
+    }
+  },
+  "coach-mark-body-font-size": {
+    "value": "{body-size-m}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4b88a0d5-2d07-4e63-afa6-cdd611f0a8c1",
+        "name": "coach-mark-body-font-size"
       }
     }
   },
@@ -1069,13 +1079,23 @@
       }
     }
   },
-  "coach-mark-pagination-body-size": {
-    "value": "{body-size-s}",
+  "🚫 coach-mark-pagination-body-size": {
+    "value": "{coach-mark-pagination-body-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "df8bc8ae-b6fa-4414-93b7-c89d8097fe11",
         "name": "coach-mark-pagination-body-size"
+      }
+    }
+  },
+  "coach-mark-pagination-body-font-size": {
+    "value": "{body-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "06ae2458-8490-4741-8a02-97f60cc01592",
+        "name": "coach-mark-pagination-body-font-size"
       }
     }
   },
@@ -1089,13 +1109,23 @@
       }
     }
   },
-  "coach-mark-title-size": {
-    "value": "{heading-size-xs}",
+  "🚫 coach-mark-title-size": {
+    "value": "{coach-mark-title-font-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "331604db-3f28-472e-810d-9010ed2c8e33",
         "name": "coach-mark-title-size"
+      }
+    }
+  },
+  "coach-mark-title-font-size": {
+    "value": "{title-size-m}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "5b132698-4ee2-40e4-83c0-9ad80f36f5fd",
+        "name": "coach-mark-title-font-size"
       }
     }
   },

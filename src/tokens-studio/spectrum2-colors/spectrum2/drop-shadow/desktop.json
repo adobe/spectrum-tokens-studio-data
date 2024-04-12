@@ -211,11 +211,11 @@
         "type": "dropShadow"
       },
       {
-        "x": "{alias.drop-shadow.elevated-x.100}",
-        "y": "{alias.drop-shadow.elevated-x.100}",
-        "blur": "{alias.drop-shadow.elevated-blur.100}",
+        "x": "{alias.drop-shadow.elevated-x}",
+        "y": "{alias.drop-shadow.elevated-y}",
+        "blur": "{alias.drop-shadow.elevated-blur}",
         "spread": "0",
-        "color": "{Alias.drop-shadow.100}",
+        "color": "{Alias.drop-shadow.elevated}",
         "type": "dropShadow"
       }
     ],

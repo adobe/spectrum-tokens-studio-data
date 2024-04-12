@@ -199,5 +199,26 @@
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "drop-shadow-with-two-layer": {
+    "value": [
+      {
+        "x": "{alias.drop-shadow-x.100}",
+        "y": "{alias.drop-shadow-y.100}",
+        "blur": "{alias.drop-shadow-blur.100}",
+        "spread": "0",
+        "color": "{Alias.drop-shadow.100}",
+        "type": "dropShadow"
+      },
+      {
+        "x": "{alias.drop-shadow.elevated-x.100}",
+        "y": "{alias.drop-shadow.elevated-x.100}",
+        "blur": "{alias.drop-shadow.elevated-blur.100}",
+        "spread": "0",
+        "color": "{Alias.drop-shadow.100}",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
   }
 }

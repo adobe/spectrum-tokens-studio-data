@@ -189,6 +189,46 @@
       }
     }
   },
+  "standard-dialog-maximum-width-small": {
+    "value": "400px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-maximum-width-small"
+      }
+    }
+  },
+  "standard-dialog-minimum-width": {
+    "value": "288px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-minimum-width"
+      }
+    }
+  },
+  "standard-dialog-maximum-width-medium": {
+    "value": "480px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-maximum-width-medium"
+      }
+    }
+  },
+  "standard-dialog-maximum-width-large": {
+    "value": "640px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-maximum-width-large"
+      }
+    }
+  },
   "🚫 accordion-small-top-to-text-spacious": {
     "value": "9px",
     "type": "spacing",
@@ -586,6 +626,16 @@
       "spectrum-tokens": {
         "uuid": "749fa425-de12-464d-a1e2-80eb135d3ea6",
         "name": "alert-dialog-title-font-size"
+      }
+    }
+  },
+  "standard-dialog-title-font-size": {
+    "value": "{title-size-xxl}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-title-font-size"
       }
     }
   },
@@ -1026,6 +1076,16 @@
       "spectrum-tokens": {
         "uuid": "4b88a0d5-2d07-4e63-afa6-cdd611f0a8c1",
         "name": "coach-mark-body-font-size"
+      }
+    }
+  },
+  "standard-dialog-body-font-size": {
+    "value": "{body-size-m}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-body-font-size"
       }
     }
   },

@@ -589,6 +589,16 @@
       }
     }
   },
+  "standard-dialog-title-font-size": {
+    "value": "{title-size-xl}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-title-font-size"
+      }
+    }
+  },
   "avatar-size-50": {
     "value": "20px",
     "type": "sizing",
@@ -1026,6 +1036,16 @@
       "spectrum-tokens": {
         "uuid": "73959c3d-afc2-4f6e-bd34-0399bf3b5b73",
         "name": "coach-mark-body-font-size"
+      }
+    }
+  },
+  "standard-dialog-body-font-size": {
+    "value": "{body-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-body-font-size"
       }
     }
   },

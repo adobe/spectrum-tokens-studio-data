@@ -6,9 +6,7 @@
       "spectrum2/palette/light": "enabled",
       "spectrum2/alias/light": "enabled",
       "spectrum2/component/light": "enabled",
-      "spectrum2/icon/light": "enabled",
-      "spectrum2/drop-shadow/desktop": "disabled",
-      "spectrum2/drop-shadow/mobile": "disabled"
+      "spectrum2/icon/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:801:2",
     "$figmaModeId": "801:0",
@@ -590,9 +588,7 @@
       "spectrum2/palette/dark": "enabled",
       "spectrum2/alias/dark": "enabled",
       "spectrum2/component/dark": "enabled",
-      "spectrum2/icon/dark": "enabled",
-      "spectrum2/drop-shadow/desktop": "disabled",
-      "spectrum2/drop-shadow/mobile": "disabled"
+      "spectrum2/icon/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:801:2",
     "$figmaModeId": "801:1",
@@ -1172,19 +1168,55 @@
     "name": "desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "spectrum2/drop-shadow/desktop": "enabled",
-      "spectrum2/drop-shadow/mobile": "disabled"
+      "spectrum2/drop-shadow/desktop": "enabled"
     },
-    "group": "S2.Scale"
+    "group": "S2.Scale",
+    "$figmaCollectionId": "VariableCollectionId:923:89",
+    "$figmaModeId": "923:0",
+    "$figmaVariableReferences": {
+      "drop-shadow-x-100": "9ed4b4dc84bc8377d808bfedb601fcac34c37823",
+      "drop-shadow-y-100": "a5ab69395499ae950b65da93d51d0d500d7f83e0",
+      "drop-shadow-blur-100": "7201af39f558f0392774fc02fc3d8bcf3de7ae13",
+      "drop-shadow-x-200": "9b1d3bda1d3940ba4b0c70bf89d839b913535eeb",
+      "drop-shadow-y-200": "6c502706d762de2b6dd84f24cdf73d1c799a9f57",
+      "drop-shadow-blur-200": "fb48d3482723a75e0c1c61359ab78e3130047447",
+      "drop-shadow-emphasized-default-x": "1415281a59de489ba5ebfcc68b661fe002ac2d64",
+      "drop-shadow-emphasized-default-y": "04cde5f3674277f76a3033ee287d1347a9b64c5e",
+      "drop-shadow-emphasized-default-blur": "64186a0b04bf682d24b0a1116ddbb429cb1e7efb",
+      "drop-shadow-emphasized-hover-x": "0ca20259e971f74e8a6a2abadc1c7f9152630cfa",
+      "drop-shadow-emphasized-hover-y": "594352b8e0d7342405028b7318839ab2874c1b41",
+      "drop-shadow-emphasized-hover-blur": "117fbd002416d2d5dcf29633a7a66f1f73fac913",
+      "drop-shadow-elevated-x": "95a05ceb85047b859f877793a4c831af864fe270",
+      "drop-shadow-elevated-y": "bd638532536c25c8b6cb0752079313498c16e19f",
+      "drop-shadow-elevated-blur": "53be0b7c9779e170a5d5e76b74c7cb1e2e8d1f2d"
+    }
   },
   {
     "id": "9e087229686a3a5c0c0ecf127878ab51947ddfc5",
     "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "spectrum2/drop-shadow/desktop": "disabled",
       "spectrum2/drop-shadow/mobile": "enabled"
     },
-    "group": "S2.Scale"
+    "group": "S2.Scale",
+    "$figmaCollectionId": "VariableCollectionId:923:89",
+    "$figmaModeId": "923:1",
+    "$figmaVariableReferences": {
+      "drop-shadow-x-100": "9ed4b4dc84bc8377d808bfedb601fcac34c37823",
+      "drop-shadow-y-100": "a5ab69395499ae950b65da93d51d0d500d7f83e0",
+      "drop-shadow-blur-100": "7201af39f558f0392774fc02fc3d8bcf3de7ae13",
+      "drop-shadow-x-200": "9b1d3bda1d3940ba4b0c70bf89d839b913535eeb",
+      "drop-shadow-y-200": "6c502706d762de2b6dd84f24cdf73d1c799a9f57",
+      "drop-shadow-blur-200": "fb48d3482723a75e0c1c61359ab78e3130047447",
+      "drop-shadow-emphasized-default-x": "1415281a59de489ba5ebfcc68b661fe002ac2d64",
+      "drop-shadow-emphasized-default-y": "04cde5f3674277f76a3033ee287d1347a9b64c5e",
+      "drop-shadow-emphasized-default-blur": "64186a0b04bf682d24b0a1116ddbb429cb1e7efb",
+      "drop-shadow-emphasized-hover-x": "0ca20259e971f74e8a6a2abadc1c7f9152630cfa",
+      "drop-shadow-emphasized-hover-y": "594352b8e0d7342405028b7318839ab2874c1b41",
+      "drop-shadow-emphasized-hover-blur": "117fbd002416d2d5dcf29633a7a66f1f73fac913",
+      "drop-shadow-elevated-x": "95a05ceb85047b859f877793a4c831af864fe270",
+      "drop-shadow-elevated-y": "bd638532536c25c8b6cb0752079313498c16e19f",
+      "drop-shadow-elevated-blur": "53be0b7c9779e170a5d5e76b74c7cb1e2e8d1f2d"
+    }
   }
 ]

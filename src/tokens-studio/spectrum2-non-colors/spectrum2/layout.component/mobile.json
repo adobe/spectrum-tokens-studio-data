@@ -559,6 +559,46 @@
       }
     }
   },
+  "standard-dialog-maximum-width-small": {
+    "value": "400px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-maximum-width-small"
+      }
+    }
+  },
+  "standard-dialog-minimum-width": {
+    "value": "288px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-minimum-width"
+      }
+    }
+  },
+  "standard-dialog-maximum-width-medium": {
+    "value": "480px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-maximum-width-medium"
+      }
+    }
+  },
+  "standard-dialog-maximum-width-large": {
+    "value": "640px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-dialog-maximum-width-large"
+      }
+    }
+  },
   "alert-dialog-minimum-width": {
     "value": "288px",
     "type": "sizing",

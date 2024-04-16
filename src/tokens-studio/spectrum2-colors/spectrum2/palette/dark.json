@@ -1,5 +1,14 @@
 {
   "Palette": {
+    "banana": {
+      "value": "#003333",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "banana"
+        }
+      }
+    },
     "black": {
       "value": "#000000",
       "type": "color",

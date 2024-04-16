@@ -91,7 +91,7 @@ jobs:
         if: ${{ inputs.test == false && steps.cpr-tokens-studio.outputs.pull-request-number }}
         run: |
           echo "[Tokens Studio Pull Request](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> ./logs/cout.log
-          gh pr merge ${{ steps.cpr-tokens-studio.outputs.pull-request-number }} --merge --delete-branch --repo ${{ github.repository_owner }}/spectrum-tokens-studio-data
+          gh pr merge ${{ steps.cpr-tokens-studio.outputs.pull-request-number }} --admin --merge --delete-branch --repo ${{ github.repository_owner }}/spectrum-tokens-studio-data
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Append script summary to PR

@@ -3061,7 +3061,7 @@
     }
   },
   "status-light-dot-size-extra-large": {
-    "value": "12px",
+    "value": "16px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3071,7 +3071,7 @@
     }
   },
   "status-light-dot-size-large": {
-    "value": "12px",
+    "value": "14px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3081,7 +3081,7 @@
     }
   },
   "status-light-dot-size-medium": {
-    "value": "10px",
+    "value": "12px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3091,7 +3091,7 @@
     }
   },
   "status-light-dot-size-small": {
-    "value": "8px",
+    "value": "10px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3101,7 +3101,7 @@
     }
   },
   "status-light-top-to-dot-extra-large": {
-    "value": "24px",
+    "value": "22px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3111,7 +3111,7 @@
     }
   },
   "status-light-top-to-dot-large": {
-    "value": "19px",
+    "value": "18px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3121,7 +3121,7 @@
     }
   },
   "status-light-top-to-dot-medium": {
-    "value": "15px",
+    "value": "14px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3131,12 +3131,52 @@
     }
   },
   "status-light-top-to-dot-small": {
-    "value": "11px",
+    "value": "10px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "a4f43adc-1db1-4e2f-a5d1-3ec06c62c9ff",
         "name": "status-light-top-to-dot-small"
+      }
+    }
+  },
+  "status-light-text-to-visual-75": {
+    "value": "{text-to-visual-75}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "status-light-text-to-visual-75"
+      }
+    }
+  },
+  "status-light-text-to-visual-100": {
+    "value": "{text-to-visual-100}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "status-light-text-to-visual-100"
+      }
+    }
+  },
+  "status-light-text-to-visual-200": {
+    "value": "{text-to-visual-200}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "status-light-text-to-visual-200"
+      }
+    }
+  },
+  "status-light-text-to-visual-300": {
+    "value": "{text-to-visual-300}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "status-light-text-to-visual-300"
       }
     }
   },

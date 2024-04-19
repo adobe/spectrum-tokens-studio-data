@@ -16,9 +16,8 @@ jobs:
   diff_do:
     needs: [check_should_run]
     if: ${{ needs.check_should_run.outputs.condition == 'true' && (github.event.pull_request.merged == true || github.event_name == 'workflow_dispatch')}}
-    uses: ./.github/workflows/_diff-trigger-op.yml
+    uses: ./.github/workflows/_diff-trigger-sync.yml
     with:
       source: spectrum2-non-colors                    # the tokens-studio data we want to compare (folder in the repo)
       branch: beta                                    # the spectrum-tokens data we want to compare (branch of the repo)
-      test: false
     secrets: inherit

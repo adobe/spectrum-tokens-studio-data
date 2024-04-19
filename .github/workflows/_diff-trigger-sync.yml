@@ -1,4 +1,4 @@
-name: (trigger diff test/sync)
+name: (trigger diff sync)
 
 on:
   workflow_call:
@@ -9,15 +9,16 @@ on:
       branch:
         required: true
         type: string
-      test:
-        required: true
-        type: boolean
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   diff:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🎉 The '${{ github.workflow }}' was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🔎 The name of your branch is head=${{ github.head_ref }} and base=${{ github.base_ref }} and your repository is ${{ github.repository }}."
       - name: Extract branch name
         shell: bash
@@ -34,31 +35,39 @@ jobs:
           path: spectrum-tokens
           ref: ${{ inputs.branch }}
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18.13.x
-      - name: Test the token data
-        if: ${{ inputs.test == true }}
-        run: |
-          node spectrum-tokens-studio-data/.github/workflows/diff.js -action -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
-          echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
+          node-version: '20.11.1'
       - name: Sync the token data
-        if: ${{ inputs.test == false }}
         run: |
           node spectrum-tokens-studio-data/.github/workflows/diff.js -action -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
           echo -e "**[SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
       - name: Create PR Body Message
-        if: ${{ inputs.test == false }}
         run: |
           echo "Created by Action: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" > ./spectrum-tokens-pr-message.log
       - name: Append Triggering PR URL to PR Body Message
-        if: ${{ inputs.test == false && github.event_name == 'pull_request' }}
+        if: ${{ github.event_name == 'pull_request' }}
         run: |
           echo "Token Studio PR: ${{ github.event.pull_request.html_url }}" >> ./spectrum-tokens-pr-message.log
+      - name: Create spectrum-tokens-studio-data PR...
+        id: cpr-tokens-studio
+        uses: peter-evans/create-pull-request@v6
+        with:
+          path: spectrum-tokens-studio-data
+          branch: tokens-sync/patch-${{ inputs.source }}-for-${{ steps.extract_branch.outputs.branch }}
+          title: "feat: updates from spectrum-tokens sync"
+          body-path: ./spectrum-tokens-pr-message.log
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Check tokens-studio PR
+        if: ${{ steps.cpr-tokens-studio.outputs.pull-request-number }}
+        run: |
+          echo "[Tokens Studio Pull Request](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> ./logs/cout.log
+          gh pr merge ${{ steps.cpr-tokens-studio.outputs.pull-request-number }} --admin --merge --delete-branch --repo ${{ github.repository_owner }}/spectrum-tokens-studio-data
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Create spectrum-tokens PR...
-        if: ${{ inputs.test == false }}
         id: cpr-spectrum-tokens
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v6
         with:
           path: spectrum-tokens
           draft: ${{ github.base_ref != 'main' }}
@@ -67,31 +76,14 @@ jobs:
           body-path: ./spectrum-tokens-pr-message.log
           token: ${{ secrets.GH_TOKEN }}
       - name: Check spectrum-tokens PR
-        if: ${{ inputs.test == false && steps.cpr-spectrum-tokens.outputs.pull-request-number }}
+        if: ${{ steps.cpr-spectrum-tokens.outputs.pull-request-number }}
         run: |
           echo >> ./logs/cout.log
           echo "[Spectrum Tokens Pull Request](${{ steps.cpr-spectrum-tokens.outputs.pull-request-url }})" >> ./logs/cout.log
       - name: Update spectrum-tokens PR draft status
-        if: ${{ inputs.test == false && steps.cpr-spectrum-tokens.outputs.pull-request-number && github.base_ref == 'main' }}
+        if: ${{ steps.cpr-spectrum-tokens.outputs.pull-request-number && github.base_ref == 'main' }}
         run: |
           gh pr ready ${{ steps.cpr-spectrum-tokens.outputs.pull-request-number }} --repo ${{ github.repository_owner }}/spectrum-tokens
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - name: Create spectrum-tokens-studio-data PR...
-        if: ${{ inputs.test == false }}
-        id: cpr-tokens-studio
-        uses: peter-evans/create-pull-request@v5
-        with:
-          path: spectrum-tokens-studio-data
-          branch: tokens-sync/patch-${{ inputs.source }}-for-${{ steps.extract_branch.outputs.branch }}
-          title: "feat: updates from spectrum-tokens sync"
-          body-path: ./spectrum-tokens-pr-message.log
-          token: ${{ secrets.GH_TOKEN }}
-      - name: Check tokens-studio PR
-        if: ${{ inputs.test == false && steps.cpr-tokens-studio.outputs.pull-request-number }}
-        run: |
-          echo "[Tokens Studio Pull Request](${{ steps.cpr-tokens-studio.outputs.pull-request-url }})" >> ./logs/cout.log
-          gh pr merge ${{ steps.cpr-tokens-studio.outputs.pull-request-number }} --admin --merge --delete-branch --repo ${{ github.repository_owner }}/spectrum-tokens-studio-data
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Append script summary to PR
@@ -111,8 +103,9 @@ jobs:
           cat ./logs/cout.log >> $GITHUB_STEP_SUMMARY
       - name: Archive change logs
         if: ${{ hashFiles('./logs/*.json') != '' }}
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: changes
           path: ./logs/*.json
+          overwrite: true
       - run: echo "🍏 This job's status is ${{ job.status }}."

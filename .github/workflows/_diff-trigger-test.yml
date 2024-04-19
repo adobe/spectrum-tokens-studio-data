@@ -1,0 +1,63 @@
+name: (trigger diff test)
+
+on:
+  workflow_call:
+    inputs:
+      source:
+        required: true
+        type: string
+      branch:
+        required: true
+        type: string
+
+jobs:
+  diff:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The '${{ github.workflow }}' was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🔎 The name of your branch is head=${{ github.head_ref }} and base=${{ github.base_ref }} and your repository is ${{ github.repository }}."
+      - name: Extract branch name
+        shell: bash
+        run: echo "branch=$(echo ${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}} | sed -r 's/[\/]+/--/g')" >> $GITHUB_OUTPUT
+        id: extract_branch
+      - name: Check out tokens-studio-data code
+        uses: actions/checkout@v4
+        with:
+          path: spectrum-tokens-studio-data
+      - name: Check out spectrum-tokens code from ${{ github.repository_owner }}/spectrum-tokens/${{ inputs.branch }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/spectrum-tokens
+          path: spectrum-tokens
+          ref: ${{ inputs.branch }}
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.11.1'
+      - name: Test the token data
+        run: |
+          node spectrum-tokens-studio-data/.github/workflows/diff.js -action -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }}/ -destination=./spectrum-tokens/packages/tokens/src/
+          echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
+      - name: Append script summary to PR
+        if: ${{ github.event_name == 'pull_request' }}
+        run: |
+          gh pr comment ${{ github.event.number }} --body-file ./logs/cout.log --repo ${{ github.repository}}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Add change logs to summary
+        if: ${{ hashFiles('./logs/*.json') != '' }}
+        run: |
+          echo >> ./logs/cout.log
+          for file in ./logs/*.json; do echo '<details><summary>'; echo $file; echo '</summary>'; echo '<p>'; echo; echo '```'; cat $file; echo; echo '```'; echo; echo '</p></details>'; echo; done >> ./logs/cout.log
+      - name: Log the script summary
+        if: ${{ always() }}
+        run: |
+          cat ./logs/cout.log >> $GITHUB_STEP_SUMMARY
+      - name: Archive change logs
+        if: ${{ hashFiles('./logs/*.json') != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: changes
+          path: ./logs/*.json
+          overwrite: true
+      - run: echo "🍏 This job's status is ${{ job.status }}."

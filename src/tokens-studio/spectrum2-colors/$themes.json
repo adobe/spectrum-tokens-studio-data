@@ -6,7 +6,9 @@
       "spectrum2/palette/light": "enabled",
       "spectrum2/alias/light": "enabled",
       "spectrum2/component/light": "enabled",
-      "spectrum2/icon/light": "enabled"
+      "spectrum2/icon/light": "enabled",
+      "spectrum2/opacity.alias/light": "enabled",
+      "spectrum2/opacity.component/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:11",
@@ -583,7 +585,9 @@
       "spectrum2/palette/dark": "enabled",
       "spectrum2/alias/dark": "enabled",
       "spectrum2/component/dark": "enabled",
-      "spectrum2/icon/dark": "enabled"
+      "spectrum2/icon/dark": "enabled",
+      "spectrum2/opacity.alias/dark": "enabled",
+      "spectrum2/opacity.component/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:12",

@@ -2349,6 +2349,46 @@
       }
     }
   },
+  "menu-section-header-to-description-small": {
+    "value": "1px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "menu-section-header-to-description-small"
+      }
+    }
+  },
+  "menu-section-header-to-description-medium": {
+    "value": "1px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "menu-section-header-to-description-medium"
+      }
+    }
+  },
+  "menu-section-header-to-description-large": {
+    "value": "2px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "menu-section-header-to-description-large"
+      }
+    }
+  },
+  "menu-section-header-to-description-extra-large": {
+    "value": "2px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "menu-section-header-to-description-extra-large"
+      }
+    }
+  },
   "menu-item-section-divider-height": {
     "value": "12px",
     "type": "sizing",

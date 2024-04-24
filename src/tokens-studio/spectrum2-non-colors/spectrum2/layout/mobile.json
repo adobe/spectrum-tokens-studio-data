@@ -1981,6 +1981,16 @@
       }
     }
   },
+  "text-to-visual-400": {
+    "value": "11px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-to-visual-400"
+      }
+    }
+  },
   "text-underline-gap": {
     "value": "1px",
     "type": "spacing",

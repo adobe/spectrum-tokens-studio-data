@@ -126,6 +126,64 @@
         }
       }
     },
+    "menu-item": {
+      "background-color": {
+        "default": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "menu-item-background-color-default"
+            }
+          }
+        },
+        "hover": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "menu-item-background-color-hover"
+            }
+          }
+        },
+        "down": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "menu-item-background-color-down"
+            }
+          }
+        },
+        "key-focus": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "menu-item-background-color-keyboard-focus"
+            }
+          }
+        },
+        "disabled": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "menu-item-background-color-disabled"
+            }
+          }
+        }
+      },
+      "background-opacity": {
+        "value": "0",
+        "type": "opacity"
+      }
+    },
     "opacity-checkerboard": {
       "square-dark": {
         "value": "{Palette.gray.200}",

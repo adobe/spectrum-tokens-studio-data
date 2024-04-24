@@ -717,10 +717,8 @@
               "name": "neutral-background-color-key-focus"
             }
           }
-        }
-      },
-      "neutral-subtle": {
-        "default": {
+        },
+        "subtle-default": {
           "value": "{Palette.gray.100}",
           "type": "color",
           "$extensions": {
@@ -898,10 +896,8 @@
                 "name": "informative-background-color-key-focus"
               }
             }
-          }
-        },
-        "informative-subtle": {
-          "default": {
+          },
+          "subtle-default": {
             "value": "{Palette.blue.200}",
             "type": "color",
             "$extensions": {
@@ -952,10 +948,8 @@
                 "name": "positive-background-color-key-focus"
               }
             }
-          }
-        },
-        "positive-subtle": {
-          "default": {
+          },
+          "subtle-default": {
             "value": "{Palette.green.200}",
             "type": "color",
             "$extensions": {
@@ -976,10 +970,8 @@
                 "name": "notice-background-color-default"
               }
             }
-          }
-        },
-        "notice-subtle": {
-          "default": {
+          },
+          "subtle-default": {
             "value": "{Palette.orange.200}",
             "type": "color",
             "$extensions": {
@@ -1030,10 +1022,8 @@
                 "name": "negative-background-color-key-focus"
               }
             }
-          }
-        },
-        "negative-subtle": {
-          "default": {
+          },
+          "subtle-default": {
             "value": "{Palette.red.200}",
             "type": "color",
             "$extensions": {

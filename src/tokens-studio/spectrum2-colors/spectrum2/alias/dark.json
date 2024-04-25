@@ -717,6 +717,16 @@
               "name": "neutral-background-color-key-focus"
             }
           }
+        },
+        "subtle-default": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "cc79fbaf-a2e1-4761-82e7-1dbea52acee8",
+              "name": "neutral-subtle-background-color-default"
+            }
+          }
         }
       },
       "neutral-selected": {
@@ -886,6 +896,16 @@
                 "name": "informative-background-color-key-focus"
               }
             }
+          },
+          "subtle-default": {
+            "value": "{Palette.blue.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "62dfb07f-5eee-451c-9c77-745d8f714766",
+                "name": "informative-subtle-background-color-default"
+              }
+            }
           }
         },
         "positive": {
@@ -928,6 +948,16 @@
                 "name": "positive-background-color-key-focus"
               }
             }
+          },
+          "subtle-default": {
+            "value": "{Palette.green.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "57a1aa8f-5c06-4ff6-8d1c-0e278a433ebf",
+                "name": "positive-subtle-background-color-default"
+              }
+            }
           }
         },
         "notice": {
@@ -938,6 +968,16 @@
               "spectrum-tokens": {
                 "uuid": "323428c1-792d-41b4-8a17-a12f1ac00e2a",
                 "name": "notice-background-color-default"
+              }
+            }
+          },
+          "subtle-default": {
+            "value": "{Palette.orange.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "f0799e87-dbb2-4e71-8253-65f45eddc078",
+                "name": "notice-subtle-background-color-default"
               }
             }
           }
@@ -980,6 +1020,16 @@
               "spectrum-tokens": {
                 "uuid": "f1470931-f4f8-47d9-b118-5b813e4c154a",
                 "name": "negative-background-color-key-focus"
+              }
+            }
+          },
+          "subtle-default": {
+            "value": "{Palette.red.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "8e9429cf-4c89-47be-bc6e-eeecc632aeb1",
+                "name": "negative-subtle-background-color-default"
               }
             }
           }

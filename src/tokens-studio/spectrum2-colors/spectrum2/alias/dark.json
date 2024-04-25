@@ -717,6 +717,16 @@
               "name": "neutral-background-color-key-focus"
             }
           }
+        },
+        "subtle-default": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "neutral-subtle-background-color-default"
+            }
+          }
         }
       },
       "neutral-selected": {
@@ -886,6 +896,16 @@
                 "name": "informative-background-color-key-focus"
               }
             }
+          },
+          "subtle-default": {
+            "value": "{Palette.blue.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "informative-subtle-background-color-default"
+              }
+            }
           }
         },
         "positive": {
@@ -928,6 +948,16 @@
                 "name": "positive-background-color-key-focus"
               }
             }
+          },
+          "subtle-default": {
+            "value": "{Palette.green.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "positive-subtle-background-color-default"
+              }
+            }
           }
         },
         "notice": {
@@ -938,6 +968,16 @@
               "spectrum-tokens": {
                 "uuid": "323428c1-792d-41b4-8a17-a12f1ac00e2a",
                 "name": "notice-background-color-default"
+              }
+            }
+          },
+          "subtle-default": {
+            "value": "{Palette.orange.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "notice-subtle-background-color-default"
               }
             }
           }
@@ -980,6 +1020,16 @@
               "spectrum-tokens": {
                 "uuid": "f1470931-f4f8-47d9-b118-5b813e4c154a",
                 "name": "negative-background-color-key-focus"
+              }
+            }
+          },
+          "subtle-default": {
+            "value": "{Palette.red.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "negative-subtle-background-color-default"
               }
             }
           }

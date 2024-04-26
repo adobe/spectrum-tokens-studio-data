@@ -193,36 +193,39 @@
       }
     }
   },
-  "drop-shadow-with-one-layer": {
+  "drop-shadow-elevated": {
     "value": {
-      "x": "{Alias.drop-shadow-x.100}",
-      "y": "{Alias.drop-shadow-y.100}",
-      "blur": "{Alias.drop-shadow-blur.100}",
+      "x": "{Alias.drop-shadow.elevated.x}",
+      "y": "{Alias.drop-shadow.elevated.y}",
+      "blur": "{Alias.drop-shadow.elevated.blur}",
       "spread": "0",
-      "color": "{Alias.drop-shadow.100}",
+      "color": "{Alias.drop-shadow.elevated}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
   },
-  "drop-shadow-with-two-layer": {
+  "drop-shadow-emphasized-default": {
     "value": [
       {
-        "x": "{Alias.drop-shadow-x.100}",
-        "y": "{Alias.drop-shadow-y.100}",
-        "blur": "{Alias.drop-shadow-blur.100}",
+        "x": "{Alias.drop-shadow.emphasized.default-x}",
+        "y": "{Alias.drop-shadow.emphasized.default-y}",
+        "blur": "{Alias.drop-shadow.emphasized.default-blur}",
         "spread": "0",
-        "color": "{Alias.drop-shadow.100}",
-        "type": "dropShadow"
-      },
-      {
-        "x": "{Alias.drop-shadow.elevated.x}",
-        "y": "{Alias.drop-shadow.elevated.y}",
-        "blur": "{Alias.drop-shadow.elevated.blur}",
-        "spread": "0",
-        "color": "{Alias.drop-shadow.elevated}",
+        "color": "{Alias.drop-shadow.emphasized-default}",
         "type": "dropShadow"
       }
     ],
+    "type": "boxShadow"
+  },
+  "drop-shadow-emphasized-hover": {
+    "value": {
+      "x": "{Alias.drop-shadow.emphasized.hover-x}",
+      "y": "{Alias.drop-shadow.emphasized.hover-y}",
+      "blur": "{Alias.drop-shadow.emphasized.hover-blur}",
+      "spread": "0",
+      "color": "{Alias.drop-shadow.emphasized-hover}",
+      "type": "dropShadow"
+    },
     "type": "boxShadow"
   }
 }

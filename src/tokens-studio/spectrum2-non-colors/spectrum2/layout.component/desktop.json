@@ -1189,6 +1189,96 @@
       }
     }
   },
+  "illustrated-message-small-title-font-size": {
+    "value": "{title-size-m}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-small-title-font-size"
+      }
+    }
+  },
+  "illustrated-message-small-cjk-title-font-size": {
+    "value": "{title-cjk-size-m}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-small-cjk-title-font-size"
+      }
+    }
+  },
+  "illustrated-message-medium-title-font-size": {
+    "value": "{title-size-xl}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-medium-title-font-size"
+      }
+    }
+  },
+  "illustrated-message-medium-cjk-title-font-size": {
+    "value": "{title-cjk-size-xl}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-medium-cjk-title-font-size"
+      }
+    }
+  },
+  "illustrated-message-large-title-font-size": {
+    "value": "{title-size-xxl}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-large-title-font-size"
+      }
+    }
+  },
+  "illustrated-message-large-cjk-title-font-size": {
+    "value": "{title-cjk-size-xxl}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-large-cjk-title-font-size"
+      }
+    }
+  },
+  "illustrated-message-small-body-font-size": {
+    "value": "{body-size-xs}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-small-body-font-size"
+      }
+    }
+  },
+  "illustrated-message-medium-body-font-size": {
+    "value": "{body-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-medium-body-font-size"
+      }
+    }
+  },
+  "illustrated-message-large-body-font-size": {
+    "value": "{body-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-large-body-font-size"
+      }
+    }
+  },
   "coach-mark-width": {
     "value": "296px",
     "type": "sizing",
@@ -1620,7 +1710,7 @@
     }
   },
   "drop-zone-body-size": {
-    "value": "{illustrated-message-body-size}",
+    "value": "{🚫 illustrated-message-body-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1650,7 +1740,7 @@
     }
   },
   "drop-zone-cjk-title-size": {
-    "value": "{illustrated-message-cjk-title-size}",
+    "value": "{🚫 illustrated-message-cjk-title-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1670,7 +1760,7 @@
     }
   },
   "drop-zone-title-size": {
-    "value": "{illustrated-message-title-size}",
+    "value": "{🚫 illustrated-message-title-size}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1929,9 +2019,9 @@
       }
     }
   },
-  "illustrated-message-body-size": {
-    "value": "{body-size-s}",
-    "type": "sizing",
+  "🚫 illustrated-message-body-size": {
+    "value": "{illustrated-message-large-body-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "4140710f-ae31-4ae3-b8b6-2d3eb6a1ae78",
@@ -1939,9 +2029,9 @@
       }
     }
   },
-  "illustrated-message-cjk-title-size": {
-    "value": "{heading-cjk-size-m}",
-    "type": "sizing",
+  "🚫 illustrated-message-cjk-title-size": {
+    "value": "{illustrated-message-large-cjk-title-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "e77279df-bc62-441a-8a30-5faa41d0df10",
@@ -1959,9 +2049,9 @@
       }
     }
   },
-  "illustrated-message-title-size": {
-    "value": "{heading-size-m}",
-    "type": "sizing",
+  "🚫 illustrated-message-title-size": {
+    "value": "{illustrated-message-large-title-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "365ec548-431b-4e1e-9f9d-7b04d337f001",

@@ -459,6 +459,36 @@
       }
     }
   },
+  "link-out-icon-size-75": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "link-out-icon-size-75"
+      }
+    }
+  },
+  "link-out-icon-size-100": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "link-out-icon-size-100"
+      }
+    }
+  },
+  "link-out-icon-size-200": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "link-out-icon-size-200"
+      }
+    }
+  },
   "workflow-icon-size-50": {
     "value": "16px",
     "type": "sizing",

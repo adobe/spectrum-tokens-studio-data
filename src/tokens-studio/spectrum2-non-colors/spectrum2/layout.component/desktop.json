@@ -1279,6 +1279,36 @@
       }
     }
   },
+  "drop-zone-title-font-size": {
+    "value": "{illustrated-message-medium-title-font-size}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-zone-title-font-size"
+      }
+    }
+  },
+  "drop-zone-cjk-title-font-size": {
+    "value": "{illustrated-message-medium-cjk-title-font-size}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-zone-cjk-title-font-size"
+      }
+    }
+  },
+  "drop-zone-body-font-size": {
+    "value": "{illustrated-message-medium-body-font-size}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-zone-body-font-size"
+      }
+    }
+  },
   "coach-mark-width": {
     "value": "296px",
     "type": "sizing",
@@ -1709,9 +1739,9 @@
       }
     }
   },
-  "drop-zone-body-size": {
-    "value": "{🚫 illustrated-message-body-size}",
-    "type": "sizing",
+  "🚫 drop-zone-body-size": {
+    "value": "{drop-zone-body-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "bb3fee51-24cc-4643-9f22-fa1592ab2457",
@@ -1720,7 +1750,7 @@
     }
   },
   "drop-zone-border-dash-gap": {
-    "value": "4px",
+    "value": "6px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1739,9 +1769,9 @@
       }
     }
   },
-  "drop-zone-cjk-title-size": {
-    "value": "{🚫 illustrated-message-cjk-title-size}",
-    "type": "sizing",
+  "🚫 drop-zone-cjk-title-size": {
+    "value": "{drop-zone-cjk-title-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "013387e8-8925-4bb4-a8ee-94420141fde9",
@@ -1759,9 +1789,9 @@
       }
     }
   },
-  "drop-zone-title-size": {
-    "value": "{🚫 illustrated-message-title-size}",
-    "type": "sizing",
+  "🚫 drop-zone-title-size": {
+    "value": "{drop-zone-title-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "edc68bfe-7ad3-4a12-81fa-ded8fb6fc2e3",

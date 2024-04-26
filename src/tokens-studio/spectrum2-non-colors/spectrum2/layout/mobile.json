@@ -2000,18 +2000,5 @@
         "name": "text-underline-thickness"
       }
     }
-  },
-  "drop-shadow": {
-    "emphasized-default": {
-      "value": {
-        "x": "0",
-        "y": "1",
-        "blur": "6",
-        "spread": "0",
-        "color": "#00000032",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    }
   }
 }

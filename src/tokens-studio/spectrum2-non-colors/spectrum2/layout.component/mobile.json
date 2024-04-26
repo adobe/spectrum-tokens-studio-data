@@ -2680,13 +2680,23 @@
       }
     }
   },
-  "popover-top-to-content-area": {
-    "value": "5px",
+  "🚫 popover-top-to-content-area": {
+    "value": "{popover-edge-to-content-area}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "6165bae4-7148-4cb2-a1b4-38a25f2d8cde",
         "name": "popover-top-to-content-area"
+      }
+    }
+  },
+  "popover-edge-to-content-area": {
+    "value": "{spacing-100}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "popover-edge-to-content-area"
       }
     }
   },

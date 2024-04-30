@@ -16,5 +16,23 @@
     },
     "$figmaStyleReferences": {},
     "group": "S2.Scale"
+  },
+  {
+    "id": "59e1002ba787acbcdfce1cfa569d76b9e24b6eb8",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/typography/mobile": "enabled"
+    },
+    "group": "S2.Scale"
+  },
+  {
+    "id": "82278f44b78907a4686c98515b24aa1f9c39f812",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/typography/desktop": "enabled"
+    },
+    "group": "S2.Scale"
   }
 ]

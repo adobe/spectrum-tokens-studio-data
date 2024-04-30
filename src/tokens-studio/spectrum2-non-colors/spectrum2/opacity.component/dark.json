@@ -89,6 +89,16 @@
       }
     }
   },
+  "popover-border-opacity": {
+    "value": "1.0",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "popover-border-opacity"
+      }
+    }
+  },
   "swatch-border-opacity": {
     "value": "0.51",
     "type": "opacity",

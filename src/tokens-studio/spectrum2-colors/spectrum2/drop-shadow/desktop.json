@@ -97,8 +97,8 @@
       }
     },
     "drop-shadow": {
-      "emphasized": {
-        "default-x": {
+      "emphasized-default": {
+        "x": {
           "value": "{Alias.drop-shadow-x.100}",
           "type": "sizing",
           "$extensions": {
@@ -108,7 +108,7 @@
             }
           }
         },
-        "default-y": {
+        "y": {
           "value": "{Alias.drop-shadow-y.100}",
           "type": "sizing",
           "$extensions": {
@@ -118,7 +118,7 @@
             }
           }
         },
-        "default-blur": {
+        "blur": {
           "value": "{Alias.drop-shadow-blur.100}",
           "type": "sizing",
           "$extensions": {
@@ -127,8 +127,10 @@
               "name": "drop-shadow-emphasized-default-blur"
             }
           }
-        },
-        "hover-x": {
+        }
+      },
+      "emphasized-hover": {
+        "x": {
           "value": "{Alias.drop-shadow-x.200}",
           "type": "sizing",
           "$extensions": {
@@ -138,7 +140,7 @@
             }
           }
         },
-        "hover-y": {
+        "y": {
           "value": "{Alias.drop-shadow-y.200}",
           "type": "sizing",
           "$extensions": {
@@ -148,7 +150,7 @@
             }
           }
         },
-        "hover-blur": {
+        "blur": {
           "value": "{Alias.drop-shadow-blur.200}",
           "type": "sizing",
           "$extensions": {
@@ -193,39 +195,41 @@
       }
     }
   },
-  "drop-shadow-elevated": {
-    "value": {
-      "x": "{Alias.drop-shadow.elevated.x}",
-      "y": "{Alias.drop-shadow.elevated.y}",
-      "blur": "{Alias.drop-shadow.elevated.blur}",
-      "spread": "0",
-      "color": "{Alias.drop-shadow.elevated}",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
-  },
-  "drop-shadow-emphasized-default": {
-    "value": [
-      {
-        "x": "{Alias.drop-shadow.emphasized.default-x}",
-        "y": "{Alias.drop-shadow.emphasized.default-y}",
-        "blur": "{Alias.drop-shadow.emphasized.default-blur}",
+  "Drop shadow": {
+    "elevated": {
+      "value": {
+        "x": "{Alias.drop-shadow.elevated.x}",
+        "y": "{Alias.drop-shadow.elevated.y}",
+        "blur": "{Alias.drop-shadow.elevated.blur}",
         "spread": "0",
-        "color": "{Alias.drop-shadow.emphasized-default}",
+        "color": "{Alias.drop-shadow.elevated}",
         "type": "dropShadow"
-      }
-    ],
-    "type": "boxShadow"
-  },
-  "drop-shadow-emphasized-hover": {
-    "value": {
-      "x": "{Alias.drop-shadow.emphasized.hover-x}",
-      "y": "{Alias.drop-shadow.emphasized.hover-y}",
-      "blur": "{Alias.drop-shadow.emphasized.hover-blur}",
-      "spread": "0",
-      "color": "{Alias.drop-shadow.emphasized-hover}",
-      "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
+    "emphasized-default": {
+      "value": [
+        {
+          "x": "{Alias.drop-shadow.emphasized-default.x}",
+          "y": "{Alias.drop-shadow.emphasized-default.y}",
+          "blur": "{Alias.drop-shadow.emphasized-default.blur}",
+          "spread": "0",
+          "color": "{Alias.drop-shadow.emphasized-default}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "emphasized-hover": {
+      "value": {
+        "x": "{Alias.drop-shadow.emphasized-hover.x}",
+        "y": "{Alias.drop-shadow.emphasized-hover.y}",
+        "blur": "{Alias.drop-shadow.emphasized-hover.blur}",
+        "spread": "0",
+        "color": "{Alias.drop-shadow.emphasized-hover}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }

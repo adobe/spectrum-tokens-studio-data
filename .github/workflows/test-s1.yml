@@ -1,4 +1,4 @@
-name: TEST S1-NON-COLORS
+name: TEST S1
 
 on:
   workflow_dispatch:
@@ -7,7 +7,8 @@ on:
     branches:
       - main                                          # only run on PRs targetting main
     paths:
-      - 'src/tokens-studio/spectrum-non-colors/**'    # only run when files in this path change
+      - 'src/tokens-studio/spectrum-colors/**'        # only run when files in these paths change
+      - 'src/tokens-studio/spectrum-non-colors/**'
 
 jobs:
   check_should_run:      
@@ -18,6 +19,6 @@ jobs:
     if: ${{ needs.check_should_run.outputs.condition == 'true' }}
     uses: ./.github/workflows/_diff-trigger-test.yml
     with:
-      source: spectrum-non-colors                     # the tokens-studio data we want to compare (folder in the repo)
-      branch: main                                    # the spectrum-tokens data we want to compare (branch of the repo)
+      source: spectrum                            # the tokens-studio data we want to compare (folder prefix in the repo)
+      branch: main                                # the spectrum-tokens data we want to compare (branch of the repo)
     secrets: inherit

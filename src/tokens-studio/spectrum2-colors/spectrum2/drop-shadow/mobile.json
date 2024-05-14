@@ -205,7 +205,13 @@
         "color": "{Alias.drop-shadow.elevated}",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "drop-shadow-elevated"
+        }
+      }
     },
     "emphasized-default": {
       "value": [
@@ -218,7 +224,13 @@
           "type": "dropShadow"
         }
       ],
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "drop-shadow-emphasized-default"
+        }
+      }
     },
     "emphasized-hover": {
       "value": {
@@ -229,7 +241,13 @@
         "color": "{Alias.drop-shadow.emphasized-hover}",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "drop-shadow-emphasized-hover"
+        }
+      }
     }
   }
 }

@@ -60,7 +60,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "",
-              "name": "icon-color-blue-primary-hover"
+              "name": "icon-color-blue-primary-down"
             }
           }
         }
@@ -604,7 +604,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "",
-              "name": "icon-color-yellow-primary-hover"
+              "name": "icon-color-yellow-primary-down"
             }
           }
         }
@@ -819,7 +819,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "",
-            "name": "icon-color-yellow-background"
+            "name": "icon-color-inverse-background"
           }
         }
       },
@@ -829,7 +829,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "",
-            "name": "icon-color-yellow-background"
+            "name": "icon-color-emphasized-background"
           }
         }
       }

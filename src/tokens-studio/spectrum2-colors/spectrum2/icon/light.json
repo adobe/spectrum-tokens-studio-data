@@ -610,7 +610,7 @@
         }
       },
       "disabled": {
-        "disabled": {
+        "default": {
           "value": "{Palette.gray.400}",
           "type": "color",
           "$extensions": {

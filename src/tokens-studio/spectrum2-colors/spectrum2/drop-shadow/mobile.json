@@ -214,16 +214,14 @@
       }
     },
     "emphasized-default": {
-      "value": [
-        {
-          "x": "{Alias.drop-shadow.emphasized-default.x}",
-          "y": "{Alias.drop-shadow.emphasized-default.y}",
-          "blur": "{Alias.drop-shadow.emphasized-default.blur}",
-          "spread": "0",
-          "color": "{Alias.drop-shadow.emphasized-default}",
-          "type": "dropShadow"
-        }
-      ],
+      "value": {
+        "x": "{Alias.drop-shadow.emphasized-default.x}",
+        "y": "{Alias.drop-shadow.emphasized-default.y}",
+        "blur": "{Alias.drop-shadow.emphasized-default.blur}",
+        "spread": "0",
+        "color": "{Alias.drop-shadow.emphasized-default}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow",
       "$extensions": {
         "spectrum-tokens": {

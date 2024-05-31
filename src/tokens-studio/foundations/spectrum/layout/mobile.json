@@ -1591,7 +1591,7 @@
   },
   "corner-radius-1000": {
     "value": "0.5",
-    "type": "borderRadius",
+    "type": "number",
     "$extensions": {
       "spectrum-tokens": {
         "name": "corner-radius-1000",

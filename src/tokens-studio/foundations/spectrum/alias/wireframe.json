@@ -1,15 +1,5 @@
 {
   "Alias": {
-    "drop-shadow": {
-      "value": "rgba(0, 0, 0, 0.15)",
-      "type": "color",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "1deef94a-efba-4670-a1be-78ee021bdfe8",
-          "name": "drop-shadow-color"
-        }
-      }
-    },
     "overlay": {
       "value": "{Palette.black}",
       "type": "color",
@@ -17,6 +7,58 @@
         "spectrum-tokens": {
           "uuid": "af66daa6-9e52-4e68-a605-86d1de4ee971",
           "name": "overlay-color"
+        }
+      }
+    },
+    "drop-shadow": {
+      "100": {
+        "value": "rgba(0, 0, 0, 0.12)",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "drop-shadow-color-100",
+            "uuid": "8e496445-97fc-4ff6-96d4-81b0215b8ffe"
+          }
+        }
+      },
+      "200": {
+        "value": "rgba(0, 0, 0, 0.16)",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "drop-shadow-color-200",
+            "uuid": "aa54be1b-bf30-42b7-91ec-09259bea0bd3"
+          }
+        }
+      },
+      "emphasized-default": {
+        "value": "{Alias.drop-shadow.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "drop-shadow-emphasized-default-color",
+            "uuid": "af4e0a7a-7c6a-4cf2-a17b-0b07ef365869"
+          }
+        }
+      },
+      "emphasized-hover": {
+        "value": "{Alias.drop-shadow.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "drop-shadow-emphasized-hover-color",
+            "uuid": "4c84adb3-9edf-4a5d-b39a-5f31a0d3529c"
+          }
+        }
+      },
+      "elevated": {
+        "value": "{Alias.drop-shadow.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "drop-shadow-elevated-color",
+            "uuid": "e475981f-97af-479c-859b-7619dd87c448"
+          }
         }
       }
     },
@@ -105,7 +147,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.900}",
+          "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -158,7 +200,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.accent.1100}",
+            "value": "{Alias.semantic.accent.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -210,7 +252,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.negative.1100}",
+            "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -345,6 +387,26 @@
               }
             }
           },
+          "brown": {
+            "value": "{Palette.brown.800}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "brown-visual-color",
+                "uuid": "986418d6-3e22-441d-ba7f-732ee47aad04"
+              }
+            }
+          },
+          "cinnamon": {
+            "value": "{Palette.cinnamon.800}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "cinnamon-visual-color",
+                "uuid": "0535836b-ff76-4619-8e53-20f400b9996c"
+              }
+            }
+          },
           "celery": {
             "value": "{Palette.celery.900}",
             "type": "color",
@@ -405,6 +467,16 @@
               }
             }
           },
+          "pink": {
+            "value": "{Palette.pink.800}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "pink-visual-color",
+                "uuid": "b2fc4b00-4b9e-4e57-9892-0b4a59df4868"
+              }
+            }
+          },
           "purple": {
             "value": "{Palette.purple.900}",
             "type": "color",
@@ -422,6 +494,26 @@
               "spectrum-tokens": {
                 "uuid": "7f641817-9a7d-4625-b534-3b7e38bb5eae",
                 "name": "seafoam-visual-color"
+              }
+            }
+          },
+          "silver": {
+            "value": "{Palette.silver.800}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "silver-visual-color",
+                "uuid": "dca6ce31-57d3-4bb9-8d6a-cc2c66a3a3f4"
+              }
+            }
+          },
+          "turquoise": {
+            "value": "{Palette.turquoise.800}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "turquoise-visual-color",
+                "uuid": "47319d06-bec7-4520-893c-f4442b85cfd5"
               }
             }
           },
@@ -445,6 +537,16 @@
             "spectrum-tokens": {
               "uuid": "60300cd2-9b30-4ee3-b7a1-b8dae00270d9",
               "name": "heading-color"
+            }
+          }
+        },
+        "title": {
+          "value": "{Palette.gray.900}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "title-color",
+              "uuid": "a7e9c20c-ab9b-46de-bf6a-c8fec9a8986b"
             }
           }
         },
@@ -491,7 +593,7 @@
           }
         },
         "static-black": {
-          "value": "{Palette.transparent-black.500}",
+          "value": "{Palette.transparent-black.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -501,7 +603,7 @@
           }
         },
         "static-white": {
-          "value": "{Palette.transparent-white.500}",
+          "value": "{Palette.transparent-white.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -514,23 +616,13 @@
     },
     "background": {
       "app-frame": {
-        "base": {
-          "value": "{Palette.gray.200}",
+        "elevated": {
+          "value": "{Palette.gray.25}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "6945b976-83b4-4aec-a687-cb461bc9fe70",
-              "name": "background-base-color"
-            }
-          }
-        },
-        "layer-1": {
-          "value": "{Palette.gray.100}",
-          "type": "color",
-          "$extensions": {
-            "spectrum-tokens": {
-              "uuid": "3ccfa493-5375-492a-93b0-7418655c3b56",
-              "name": "background-layer-1-color"
+              "name": "background-elevated-color",
+              "uuid": "d9cb27b8-5535-4e3a-8ca5-6eda69b934af"
             }
           }
         },
@@ -543,6 +635,36 @@
               "name": "background-layer-2-color"
             }
           }
+        },
+        "layer-1": {
+          "value": "{Palette.gray.50}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "7e6678b7-2903-434b-8ee2-06c83815b01d",
+              "name": "background-layer-1-color"
+            }
+          }
+        },
+        "pasteboard": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "background-pasteboard-color",
+              "uuid": "6a60aa01-d789-4d39-9867-2264e66d419c"
+            }
+          }
+        },
+        "base": {
+          "value": "{Palette.gray.25}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "e0d8739d-18dd-44bc-92ea-e443882a780b",
+              "name": "background-base-color"
+            }
+          }
         }
       },
       "neutral": {
@@ -551,7 +673,7 @@
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "9ff12440-fe4e-4f47-ab43-aea39f9ce6f2",
+              "uuid": "95cf1481-f476-47ce-a45a-54da64b44255",
               "name": "neutral-background-color-default"
             }
           }
@@ -561,7 +683,7 @@
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "b6c12c43-39da-415b-a828-43883dfa212d",
+              "uuid": "142f9467-e519-4ed7-bd98-69a31e876e70",
               "name": "neutral-background-color-hover"
             }
           }
@@ -571,7 +693,7 @@
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "69c94cbb-b852-4b5c-8e5f-26664dbf083a",
+              "uuid": "5a0fdda5-6ac2-4a31-a7b9-6b3a5dd868d6",
               "name": "neutral-background-color-down"
             }
           }
@@ -581,7 +703,7 @@
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "83e3eea6-e59e-4aca-8126-a9e984e90b08",
+              "uuid": "f52c6bfb-2d62-4fc8-a1cd-6c8d7420eeb4",
               "name": "neutral-background-color-key-focus"
             }
           }
@@ -589,7 +711,7 @@
       },
       "neutral-selected": {
         "default": {
-          "value": "{Palette.gray.700}",
+          "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -599,7 +721,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.800}",
+          "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -619,7 +741,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.800}",
+          "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -804,7 +926,7 @@
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
-                "uuid": "640e857c-c62c-4289-b83a-1e36cee90ad4",
+                "uuid": "0fdc01c4-459a-4f74-a8e0-fdbe93f8138f",
                 "name": "notice-background-color-default"
               }
             }
@@ -851,11 +973,53 @@
               }
             }
           }
+        },
+        "negative-subdued": {
+          "default": {
+            "value": "{Alias.semantic.negative.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "negative-subdued-background-color-default",
+                "uuid": "a553db3e-a051-4023-87eb-da6545b983b2"
+              }
+            }
+          },
+          "hover": {
+            "value": "{Alias.semantic.negative.300}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "negative-subdued-background-color-hover",
+                "uuid": "9513cf13-8537-443f-81ce-f9d88292ba32"
+              }
+            }
+          },
+          "down": {
+            "value": "{Alias.semantic.negative.300}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "negative-subdued-background-color-down",
+                "uuid": "1eea917c-52e7-4295-b0e1-d33c2e73a137"
+              }
+            }
+          },
+          "key-focus": {
+            "value": "{Alias.semantic.negative.300}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "name": "negative-subdued-background-color-key-focus",
+                "uuid": "4b6aaf76-e0ab-4be0-81c0-d5f64cacee88"
+              }
+            }
+          }
         }
       },
       "disabled": {
         "default": {
-          "value": "{Palette.gray.200}",
+          "value": "{Palette.gray.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -865,7 +1029,7 @@
           }
         },
         "static-black": {
-          "value": "{Palette.transparent-black.200}",
+          "value": "{Palette.transparent-black.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -875,7 +1039,7 @@
           }
         },
         "static-white": {
-          "value": "{Palette.transparent-white.200}",
+          "value": "{Palette.transparent-white.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -887,11 +1051,11 @@
       },
       "non-semantic": {
         "gray": {
-          "value": "{Palette.gray.600}",
+          "value": "{Palette.gray.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
-              "uuid": "6a74ab0a-e481-4d38-9db7-ea8ef885940b",
+              "uuid": "c41bb795-182e-45c0-afea-4ae2148e37a4",
               "name": "gray-background-color-default"
             }
           }
@@ -933,6 +1097,26 @@
             "spectrum-tokens": {
               "uuid": "4b943658-87e5-4026-87de-0265d1f48a49",
               "name": "red-background-color-default"
+            }
+          }
+        },
+        "brown": {
+          "value": "{Palette.brown.900}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "brown-background-color-default",
+              "uuid": "5f0767be-3be9-4d10-a708-740565e1c457"
+            }
+          }
+        },
+        "cinnamon": {
+          "value": "{Palette.cinnamon.900}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "cinnamon-background-color-default",
+              "uuid": "d2c78c57-304d-4d62-87b0-2adb4085552f"
             }
           }
         },
@@ -996,6 +1180,16 @@
             }
           }
         },
+        "pink": {
+          "value": "{Palette.pink.900}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "pink-background-color-default",
+              "uuid": "636ebb71-7386-4a6a-b0c3-5778dd993b22"
+            }
+          }
+        },
         "purple": {
           "value": "{Palette.purple.1100}",
           "type": "color",
@@ -1013,6 +1207,26 @@
             "spectrum-tokens": {
               "uuid": "4152095a-615b-4562-b183-78f765f6b3b0",
               "name": "seafoam-background-color-default"
+            }
+          }
+        },
+        "silver": {
+          "value": "{Palette.silver.900}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "silver-background-color-default",
+              "uuid": "422a0b99-1222-4c78-ac55-615992ed607c"
+            }
+          }
+        },
+        "turquoise": {
+          "value": "{Palette.turquoise.900}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "turquoise-background-color-default",
+              "uuid": "73e40908-216f-406e-993f-287477753e65"
             }
           }
         },
@@ -1267,6 +1481,26 @@
               "name": "accent-color-1400"
             }
           }
+        },
+        "1500": {
+          "value": "{Palette.blue.1500}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "accent-color-1500",
+              "uuid": "c43d9991-8929-4b1c-8631-670eef6bde83"
+            }
+          }
+        },
+        "1600": {
+          "value": "{Palette.blue.1600}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "accent-color-1600",
+              "uuid": "4b70c929-f48d-403d-9607-5963203433dc"
+            }
+          }
         }
       },
       "informative": {
@@ -1407,6 +1641,26 @@
             "spectrum-tokens": {
               "uuid": "b178b13b-93ee-422c-af98-3bf89105754b",
               "name": "informative-color-1400"
+            }
+          }
+        },
+        "1500": {
+          "value": "{Palette.blue.1500}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "informative-color-1500",
+              "uuid": "beeee44c-dc6b-4892-949e-67f069fc4a94"
+            }
+          }
+        },
+        "1600": {
+          "value": "{Palette.blue.1600}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "informative-color-1600",
+              "uuid": "68aa069d-d8a6-413a-b330-0ec6af905e6d"
             }
           }
         }
@@ -1551,6 +1805,26 @@
               "name": "positive-color-1400"
             }
           }
+        },
+        "1500": {
+          "value": "{Palette.green.1500}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "positive-color-1500",
+              "uuid": "2381ba55-11ff-4ef0-a770-dfd402650d5d"
+            }
+          }
+        },
+        "1600": {
+          "value": "{Palette.green.1600}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "positive-color-1600",
+              "uuid": "de206438-991f-4580-8aa1-1488acb03a09"
+            }
+          }
         }
       },
       "notice": {
@@ -1693,6 +1967,26 @@
               "name": "notice-color-1400"
             }
           }
+        },
+        "1500": {
+          "value": "{Palette.orange.1500}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "notice-color-1500",
+              "uuid": "3da89d37-cf33-4408-b316-05bb61c25759"
+            }
+          }
+        },
+        "1600": {
+          "value": "{Palette.orange.1600}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "notice-color-1600",
+              "uuid": "67e534f5-5421-493c-9324-624f0fd491f3"
+            }
+          }
         }
       },
       "negative": {
@@ -1833,6 +2127,26 @@
             "spectrum-tokens": {
               "uuid": "58824d04-e2c0-4f0c-a3d7-9b88a01bf28d",
               "name": "negative-color-1400"
+            }
+          }
+        },
+        "1500": {
+          "value": "{Palette.red.1500}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "negative-color-1500",
+              "uuid": "b4c1f747-e665-43bb-a1a9-1bf9f252471d"
+            }
+          }
+        },
+        "1600": {
+          "value": "{Palette.red.1600}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "name": "negative-color-1600",
+              "uuid": "62beb7ee-c347-4cd7-a84b-40c84fcbc135"
             }
           }
         }

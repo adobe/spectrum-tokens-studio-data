@@ -1681,7 +1681,7 @@
   },
   "contextual-help-body-size": {
     "value": "{body-size-s}",
-    "type": "sizing",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "e458fa68-ab9c-4441-a7d5-a02f42df1cae",
@@ -1700,8 +1700,8 @@
     }
   },
   "contextual-help-title-size": {
-    "value": "{heading-size-xs}",
-    "type": "sizing",
+    "value": "{title-size-m}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "5358fd6c-d9a0-4caa-a85e-af82ed82efaf",

@@ -1036,7 +1036,7 @@
         },
         "🚫 negative-subdued": {
           "default": {
-            "value": "{Alias.semantic.negative.200}",
+            "value": "{Alias.background.semantic.negative.subtle-default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {

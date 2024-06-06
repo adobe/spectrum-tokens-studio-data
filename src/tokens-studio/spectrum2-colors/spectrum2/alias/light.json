@@ -1034,8 +1034,8 @@
             }
           }
         },
-        "negative-subdued": {
-          "🚫 default": {
+        "🚫 negative-subdued": {
+          "default": {
             "value": "{Alias.background.semantic.negative.subtle-default}",
             "type": "color",
             "$extensions": {
@@ -1045,7 +1045,7 @@
               }
             }
           },
-          "🚫 hover": {
+          "hover": {
             "value": "{Alias.semantic.negative.300}",
             "type": "color",
             "$extensions": {
@@ -1055,7 +1055,7 @@
               }
             }
           },
-          "🚫 down": {
+          "down": {
             "value": "{Alias.semantic.negative.300}",
             "type": "color",
             "$extensions": {
@@ -1065,7 +1065,7 @@
               }
             }
           },
-          "🚫 key-focus": {
+          "key-focus": {
             "value": "{Alias.semantic.negative.300}",
             "type": "color",
             "$extensions": {

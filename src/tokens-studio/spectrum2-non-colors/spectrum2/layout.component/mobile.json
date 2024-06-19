@@ -1759,13 +1759,23 @@
       }
     }
   },
-  "contextual-help-body-size": {
-    "value": "{body-size-xs}",
-    "type": "sizing",
+  "🚫 contextual-help-body-size": {
+    "value": "{contextual-help-body-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "c180fa75-254e-4ee1-8b79-31a3d90254cc",
         "name": "contextual-help-body-size"
+      }
+    }
+  },
+  "contextual-help-body-font-size": {
+    "value": "{body-size-xs}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "contextual-help-body-font-size"
       }
     }
   },
@@ -1779,13 +1789,23 @@
       }
     }
   },
-  "contextual-help-title-size": {
-    "value": "{heading-size-xxs}",
-    "type": "sizing",
+  "🚫 contextual-help-title-size": {
+    "value": "{contextual-help-title-font-size}",
+    "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "e91709ce-79e3-4a81-88fa-e124960d4389",
         "name": "contextual-help-title-size"
+      }
+    }
+  },
+  "contextual-help-title-font-size": {
+    "value": "{title-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "contextual-help-title-font-size"
       }
     }
   },

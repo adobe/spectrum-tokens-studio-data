@@ -12,6 +12,7 @@
     "$figmaModeId": "8:11",
     "$figmaVariableReferences": {
       "Component.card.selection-background": "a84382a58c67eeff04a0a2033dfc04ac8abff32c",
+      "Component.coach-indicator": "8b93219a2e97a8a5c0aebb1e45edadd5371f756e",
       "Component.coach-mark.pagination": "c73cabd94e42f67692e10d7d152754f3ec280dcf",
       "Component.color-area.border": "34a0ec3c7e0acfc890c6ac1021b0fe841c934d32",
       "Component.color-handle.inner-border": "3bdc6483aefb8301420b9ba71fe8172e966ce4f7",
@@ -93,6 +94,7 @@
       "Icon.primary.yellow.default": "34ea0effbfa548c92ac7a28428625b1fc9dbc47e",
       "Icon.primary.yellow.hover": "700d42cb84cda11aca5eb68e14e9d91ebee5adff",
       "Icon.primary.yellow.down": "7f0eb5eb33d81e15ee2ba181930776efadcccd6f",
+      "Icon.primary.disabled.default": "99b973292918e2c767311e3bca5831040c7f9ae9",
       "Icon.🚫 background": "b3219cb28d91ab90e570dfb45e84f4cebf7e0978",
       "Icon.background.blue": "8019ec50f60c2f47f23693e44a22dbbe0f62f252",
       "Icon.background.brown": "4dba299fcb39e896b6b0380e318211436a33c857",
@@ -664,8 +666,7 @@
       "Palette.transparent-white.700": "fbac60c7cd862f46eba4908ae9cc5c7346156320",
       "Palette.transparent-white.800": "ea5e834dbe202dc1dbbce86ba074ab50155812c1",
       "Palette.transparent-white.900": "cc73dfce811bf9bab293a95d9342fd6a9135c9ab",
-      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30",
-      "Icon.primary.disabled.default": "99b973292918e2c767311e3bca5831040c7f9ae9"
+      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
@@ -683,6 +684,7 @@
     "$figmaModeId": "8:12",
     "$figmaVariableReferences": {
       "Component.card.selection-background": "a84382a58c67eeff04a0a2033dfc04ac8abff32c",
+      "Component.coach-indicator": "8b93219a2e97a8a5c0aebb1e45edadd5371f756e",
       "Component.coach-mark.pagination": "c73cabd94e42f67692e10d7d152754f3ec280dcf",
       "Component.color-area.border": "34a0ec3c7e0acfc890c6ac1021b0fe841c934d32",
       "Component.color-handle.inner-border": "3bdc6483aefb8301420b9ba71fe8172e966ce4f7",
@@ -764,6 +766,7 @@
       "Icon.primary.yellow.default": "34ea0effbfa548c92ac7a28428625b1fc9dbc47e",
       "Icon.primary.yellow.hover": "700d42cb84cda11aca5eb68e14e9d91ebee5adff",
       "Icon.primary.yellow.down": "7f0eb5eb33d81e15ee2ba181930776efadcccd6f",
+      "Icon.primary.disabled.default": "99b973292918e2c767311e3bca5831040c7f9ae9",
       "Icon.background.blue": "8019ec50f60c2f47f23693e44a22dbbe0f62f252",
       "Icon.background.brown": "4dba299fcb39e896b6b0380e318211436a33c857",
       "Icon.background.celery": "b39df0d47d44b7ed8866177ba4f57cd747d18bc1",
@@ -1335,8 +1338,7 @@
       "Palette.transparent-white.700": "fbac60c7cd862f46eba4908ae9cc5c7346156320",
       "Palette.transparent-white.800": "ea5e834dbe202dc1dbbce86ba074ab50155812c1",
       "Palette.transparent-white.900": "cc73dfce811bf9bab293a95d9342fd6a9135c9ab",
-      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30",
-      "Icon.primary.disabled.default": "99b973292918e2c767311e3bca5831040c7f9ae9"
+      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"

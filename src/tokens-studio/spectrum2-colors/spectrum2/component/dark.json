@@ -12,6 +12,16 @@
         }
       }
     },
+    "coach-indicator": {
+      "value": "{Palette.blue.800}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "coach-indicator-color"
+        }
+      }
+    },
     "coach-mark": {
       "pagination": {
         "value": "{Palette.gray.600}",

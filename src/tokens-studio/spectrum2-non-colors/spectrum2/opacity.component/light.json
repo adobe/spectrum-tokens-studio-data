@@ -19,6 +19,16 @@
       }
     }
   },
+  "coach-indicator-opacity": {
+    "value": "0.2",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-indicator-opacity"
+      }
+    }
+  },
   "color-area-border-opacity": {
     "value": "0.1",
     "type": "opacity",

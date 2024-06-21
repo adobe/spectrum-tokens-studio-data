@@ -150,7 +150,7 @@
     }
   },
   "component-edge-to-text-75": {
-    "value": "9px",
+    "value": "10px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -180,7 +180,7 @@
     }
   },
   "component-edge-to-text-300": {
-    "value": "18px",
+    "value": "17px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -190,7 +190,7 @@
     }
   },
   "component-edge-to-visual-50": {
-    "value": "6px",
+    "value": "7px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -200,7 +200,7 @@
     }
   },
   "component-edge-to-visual-75": {
-    "value": "7px",
+    "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -230,7 +230,7 @@
     }
   },
   "component-edge-to-visual-300": {
-    "value": "15px",
+    "value": "14px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -260,7 +260,7 @@
     }
   },
   "component-edge-to-visual-only-100": {
-    "value": "7px",
+    "value": "6px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -270,7 +270,7 @@
     }
   },
   "component-edge-to-visual-only-200": {
-    "value": "10px",
+    "value": "9px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -280,7 +280,7 @@
     }
   },
   "component-edge-to-visual-only-300": {
-    "value": "13px",
+    "value": "11px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -360,7 +360,7 @@
     }
   },
   "component-pill-edge-to-text-75": {
-    "value": "12px",
+    "value": "13px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -390,7 +390,7 @@
     }
   },
   "component-pill-edge-to-text-300": {
-    "value": "24px",
+    "value": "23px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -400,7 +400,7 @@
     }
   },
   "component-pill-edge-to-visual-75": {
-    "value": "10px",
+    "value": "11px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -430,7 +430,7 @@
     }
   },
   "component-pill-edge-to-visual-300": {
-    "value": "21px",
+    "value": "20px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -590,7 +590,7 @@
     }
   },
   "component-top-to-workflow-icon-100": {
-    "value": "7px",
+    "value": "6px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -600,7 +600,7 @@
     }
   },
   "component-top-to-workflow-icon-200": {
-    "value": "10px",
+    "value": "9px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -610,7 +610,7 @@
     }
   },
   "component-top-to-workflow-icon-300": {
-    "value": "13px",
+    "value": "11px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1450,7 +1450,7 @@
     }
   },
   "text-to-visual-50": {
-    "value": "6px",
+    "value": "5px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1460,7 +1460,7 @@
     }
   },
   "text-to-visual-75": {
-    "value": "7px",
+    "value": "5px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1470,7 +1470,7 @@
     }
   },
   "text-to-visual-100": {
-    "value": "8px",
+    "value": "6px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1480,7 +1480,7 @@
     }
   },
   "text-to-visual-200": {
-    "value": "9px",
+    "value": "7px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1490,12 +1490,22 @@
     }
   },
   "text-to-visual-300": {
-    "value": "10px",
+    "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "4366909e-3bfb-481c-abdc-4ae71f965bc3",
         "name": "text-to-visual-300"
+      }
+    }
+  },
+  "text-to-visual-400": {
+    "value": "9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "3d393d59-b358-48a7-82c6-a7802408cd0d",
+        "name": "text-to-visual-400"
       }
     }
   },

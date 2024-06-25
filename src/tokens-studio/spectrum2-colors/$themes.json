@@ -220,10 +220,6 @@
       "Alias.background.semantic.negative.down": "9095addc7f9714ce5fc32b64ae0102ecbf134a85",
       "Alias.background.semantic.negative.key-focus": "d9a32780f52800f4645f0dfdf579613329d35dd8",
       "Alias.background.semantic.negative.subtle-default": "f5288745c7f25c10ecaf7b3ec7add9b15473c861",
-      "Alias.background.semantic.negative-subdued.default": "66085d5299a29a419ec429850e20ec133b40b216",
-      "Alias.background.semantic.negative-subdued.hover": "838c8c9c06d4b3d39b6e4d8a745b0c32d8ffea1f",
-      "Alias.background.semantic.negative-subdued.down": "f0010804af2b5ff6aea1fbe53b0f8c2b6740de80",
-      "Alias.background.semantic.negative-subdued.key-focus": "ec04a1e92ee56604023f7b73d10f9f3eec57d9d2",
       "Alias.background.disabled.default": "a56187cfdbb23df0ea40e02f846cd538dcf5e6ee",
       "Alias.background.disabled.static-black": "db5ade4e714b074e7cf37329a5f43ab611735493",
       "Alias.background.disabled.static-white": "2990a6bbed915eb5432d96adea2b93c3fc7e6229",
@@ -666,7 +662,11 @@
       "Palette.transparent-white.700": "fbac60c7cd862f46eba4908ae9cc5c7346156320",
       "Palette.transparent-white.800": "ea5e834dbe202dc1dbbce86ba074ab50155812c1",
       "Palette.transparent-white.900": "cc73dfce811bf9bab293a95d9342fd6a9135c9ab",
-      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30"
+      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30",
+      "Alias.background.semantic.🚫 negative-subdued.default": "66085d5299a29a419ec429850e20ec133b40b216",
+      "Alias.background.semantic.🚫 negative-subdued.hover": "838c8c9c06d4b3d39b6e4d8a745b0c32d8ffea1f",
+      "Alias.background.semantic.🚫 negative-subdued.down": "f0010804af2b5ff6aea1fbe53b0f8c2b6740de80",
+      "Alias.background.semantic.🚫 negative-subdued.key-focus": "ec04a1e92ee56604023f7b73d10f9f3eec57d9d2"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
@@ -892,10 +892,6 @@
       "Alias.background.semantic.negative.down": "9095addc7f9714ce5fc32b64ae0102ecbf134a85",
       "Alias.background.semantic.negative.key-focus": "d9a32780f52800f4645f0dfdf579613329d35dd8",
       "Alias.background.semantic.negative.subtle-default": "f5288745c7f25c10ecaf7b3ec7add9b15473c861",
-      "Alias.background.semantic.negative-subdued.default": "66085d5299a29a419ec429850e20ec133b40b216",
-      "Alias.background.semantic.negative-subdued.hover": "838c8c9c06d4b3d39b6e4d8a745b0c32d8ffea1f",
-      "Alias.background.semantic.negative-subdued.down": "f0010804af2b5ff6aea1fbe53b0f8c2b6740de80",
-      "Alias.background.semantic.negative-subdued.key-focus": "ec04a1e92ee56604023f7b73d10f9f3eec57d9d2",
       "Alias.background.disabled.default": "a56187cfdbb23df0ea40e02f846cd538dcf5e6ee",
       "Alias.background.disabled.static-black": "db5ade4e714b074e7cf37329a5f43ab611735493",
       "Alias.background.disabled.static-white": "2990a6bbed915eb5432d96adea2b93c3fc7e6229",
@@ -1338,7 +1334,11 @@
       "Palette.transparent-white.700": "fbac60c7cd862f46eba4908ae9cc5c7346156320",
       "Palette.transparent-white.800": "ea5e834dbe202dc1dbbce86ba074ab50155812c1",
       "Palette.transparent-white.900": "cc73dfce811bf9bab293a95d9342fd6a9135c9ab",
-      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30"
+      "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30",
+      "Alias.background.semantic.🚫 negative-subdued.default": "66085d5299a29a419ec429850e20ec133b40b216",
+      "Alias.background.semantic.🚫 negative-subdued.hover": "838c8c9c06d4b3d39b6e4d8a745b0c32d8ffea1f",
+      "Alias.background.semantic.🚫 negative-subdued.down": "f0010804af2b5ff6aea1fbe53b0f8c2b6740de80",
+      "Alias.background.semantic.🚫 negative-subdued.key-focus": "ec04a1e92ee56604023f7b73d10f9f3eec57d9d2"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"

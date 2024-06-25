@@ -48,5 +48,15 @@
         "name": "opacity-disabled"
       }
     }
+  },
+  "overlay-opacity": {
+    "value": "0.4",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "26b9803c-577f-4a29-badd-dfc459e8b73e",
+        "name": "overlay-opacity"
+      }
+    }
   }
 }

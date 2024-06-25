@@ -1059,6 +1059,26 @@
       }
     }
   },
+  "coach-indicator-collapsed-ring-rounding-increment": {
+    "value": "6px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-indicator-collapsed-ring-rounding-increment"
+      }
+    }
+  },
+  "coach-indicator-expanded-ring-rounding-increment": {
+    "value": "14px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-indicator-expanded-ring-rounding-increment"
+      }
+    }
+  },
   "card-minimum-width": {
     "value": "100px",
     "type": "sizing",
@@ -1169,6 +1189,16 @@
       }
     }
   },
+  "coach-indicator-collapsed-ring-thickness": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-indicator-collapsed-ring-thickness"
+      }
+    }
+  },
   "🚫 coach-mark-body-size": {
     "value": "{coach-mark-body-font-size}",
     "type": "sizing",
@@ -1196,6 +1226,16 @@
       "spectrum-tokens": {
         "uuid": "84aa108a-3c23-494f-b9c0-da64acdbeb79",
         "name": "standard-dialog-body-font-size"
+      }
+    }
+  },
+  "coach-indicator-expanded-ring-thickness": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-indicator-expanded-ring-thickness"
       }
     }
   },
@@ -1876,6 +1916,26 @@
       "spectrum-tokens": {
         "uuid": "bb3fee51-24cc-4643-9f22-fa1592ab2457",
         "name": "drop-zone-body-size"
+      }
+    }
+  },
+  "coach-indicator-collapsed-gap": {
+    "value": "2px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-indicator-collapsed-gap"
+      }
+    }
+  },
+  "coach-indicator-expanded-gap": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "coach-indicator-expanded-gap"
       }
     }
   },

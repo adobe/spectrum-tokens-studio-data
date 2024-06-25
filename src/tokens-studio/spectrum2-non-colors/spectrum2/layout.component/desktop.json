@@ -1061,7 +1061,7 @@
   },
   "coach-indicator-collapsed-ring-rounding-increment": {
     "value": "6px",
-    "type": "number",
+    "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -1071,7 +1071,7 @@
   },
   "coach-indicator-expanded-ring-rounding-increment": {
     "value": "14px",
-    "type": "number",
+    "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",

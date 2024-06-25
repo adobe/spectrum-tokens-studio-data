@@ -2790,12 +2790,32 @@
     }
   },
   "meter-thickness-large": {
-    "value": "6px",
+    "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "06751674-2222-433d-9dc6-40f14b2add6c",
         "name": "meter-thickness-large"
+      }
+    }
+  },
+  "meter-thickness-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "meter-thickness-medium"
+      }
+    }
+  },
+  "meter-thickness-extra-large": {
+    "value": "10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "meter-thickness-extra-large"
       }
     }
   },

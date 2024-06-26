@@ -19,6 +19,16 @@
       }
     }
   },
+  "coach-indicator-opacity": {
+    "value": "0.2",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6fa9bbc8-4c96-45a4-b133-bb2556a003de",
+        "name": "coach-indicator-opacity"
+      }
+    }
+  },
   "color-area-border-opacity": {
     "value": "0.1",
     "type": "opacity",

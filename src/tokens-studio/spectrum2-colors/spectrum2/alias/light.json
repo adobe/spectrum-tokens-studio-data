@@ -624,6 +624,28 @@
         }
       }
     },
+    "static-text": {
+      "static-black": {
+        "value": "{Palette.black}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "static-black-text-color"
+          }
+        }
+      },
+      "static-white": {
+        "value": "{Palette.white}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "static-white-text-color"
+          }
+        }
+      }
+    },
     "background": {
       "app-frame": {
         "elevated": {
@@ -2240,6 +2262,60 @@
           "spectrum-tokens": {
             "uuid": "1dd6dc5b-47a2-41eb-80fc-f06293ae8e13",
             "name": "static-white-focus-indicator-color"
+          }
+        }
+      }
+    },
+    "track": {
+      "default": {
+        "value": "{Palette.gray.300}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "track-color"
+          }
+        }
+      },
+      "static-black": {
+        "value": "{Palette.transparent-black.300}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "static-black-track-color"
+          }
+        }
+      },
+      "static-white": {
+        "value": "{Palette.transparent-white.300}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "static-white-track-color"
+          }
+        }
+      }
+    },
+    "track-indicator": {
+      "static-black": {
+        "value": "{Palette.transparent-black.900}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "static-black-track-indicator-color"
+          }
+        }
+      },
+      "static-white": {
+        "value": "{Palette.transparent-white.900}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "static-white-track-indicator-color"
           }
         }
       }

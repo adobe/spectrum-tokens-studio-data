@@ -1000,7 +1000,7 @@
     }
   },
   "color-area-border-rounding": {
-    "value": "{corner-radius-100}",
+    "value": "{corner-radius-medium-size-small}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1210,7 +1210,7 @@
     }
   },
   "color-slider-border-rounding": {
-    "value": "4px",
+    "value": "{corner-radius-medium-size-small}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

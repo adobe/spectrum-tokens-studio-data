@@ -1,4 +1,4 @@
-name: (trigger diff sync)
+name: (trigger a sync)
 
 on:
   workflow_call:
@@ -40,7 +40,7 @@ jobs:
           node-version: '20.11.1'
       - name: Sync the token data
         run: |
-          node spectrum-tokens-studio-data/.github/workflows/diff.js -action -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }} -destination=./spectrum-tokens/packages/tokens/src/
+          node spectrum-tokens-studio-data/.github/workflows/sync.js -action -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }} -destination=./spectrum-tokens/packages/tokens/src/
           echo -e "**[SYNCING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
       - name: Create PR Body Message
         run: |

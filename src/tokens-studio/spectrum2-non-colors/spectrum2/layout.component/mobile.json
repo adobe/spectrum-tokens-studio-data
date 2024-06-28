@@ -139,7 +139,47 @@
       }
     }
   },
-  "accordion-disclosure-indicator-to-text": {
+  "accordion-content-area-edge-to-content-small": {
+    "value": "10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-content-area-edge-to-content-small"
+      }
+    }
+  },
+  "accordion-content-area-edge-to-content-medium": {
+    "value": "11px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-content-area-edge-to-content-medium"
+      }
+    }
+  },
+  "accordion-content-area-edge-to-content-large": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-content-area-edge-to-content-large"
+      }
+    }
+  },
+  "accordion-content-area-edge-to-content-extra-large": {
+    "value": "19px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-content-area-edge-to-content-extra-large"
+      }
+    }
+  },
+  "🚫 accordion-disclosure-indicator-to-text": {
     "value": "0px",
     "type": "spacing",
     "$extensions": {
@@ -149,7 +189,47 @@
       }
     }
   },
-  "accordion-edge-to-disclosure-indicator": {
+  "accordion-disclosure-indicator-to-text-small": {
+    "value": "9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-disclosure-indicator-to-text-small"
+      }
+    }
+  },
+  "accordion-disclosure-indicator-to-text-medium": {
+    "value": "13px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-disclosure-indicator-to-text-small"
+      }
+    }
+  },
+  "accordion-disclosure-indicator-to-text-large": {
+    "value": "17px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-disclosure-indicator-to-text-small"
+      }
+    }
+  },
+  "accordion-disclosure-indicator-to-text-extra-large": {
+    "value": "22px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-disclosure-indicator-to-text-small"
+      }
+    }
+  },
+  "🚫 accordion-edge-to-disclosure-indicator": {
     "value": "0px",
     "type": "spacing",
     "$extensions": {
@@ -176,6 +256,16 @@
       "spectrum-tokens": {
         "uuid": "318c5cda-be1b-416b-b1b7-b962e5f45c0c",
         "name": "accordion-focus-indicator-gap"
+      }
+    }
+  },
+  "accordion-item-to-divider": {
+    "value": "0px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "accordion-item-to-divider"
       }
     }
   },

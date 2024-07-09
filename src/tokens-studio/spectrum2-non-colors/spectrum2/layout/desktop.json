@@ -1891,6 +1891,16 @@
       }
     }
   },
+  "text-to-control-50": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-to-control-50"
+      }
+    }
+  },
   "text-to-control-75": {
     "value": "9px",
     "type": "spacing",

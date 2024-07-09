@@ -110,7 +110,7 @@
     }
   },
   "swatch-border-opacity": {
-    "value": "0.51",
+    "value": "0.42",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -119,8 +119,18 @@
       }
     }
   },
+  "swatch-group-border-opacity": {
+    "value": "0.2",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "swatch-group-border-opacity"
+      }
+    }
+  },
   "swatch-disabled-icon-border-opacity": {
-    "value": "0.51",
+    "value": "0.42",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {

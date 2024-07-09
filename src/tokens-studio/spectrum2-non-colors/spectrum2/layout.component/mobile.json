@@ -5420,6 +5420,16 @@
       }
     }
   },
+  "thumbnail-opacity-checkerboard-square-size": {
+    "value": "4px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "thumbnail-opacity-checkerboard-square-size"
+      }
+    }
+  },
   "thumbnail-size-50": {
     "value": "20px",
     "type": "sizing",
@@ -5431,7 +5441,7 @@
     }
   },
   "thumbnail-size-75": {
-    "value": "22px",
+    "value": "24px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5441,7 +5451,7 @@
     }
   },
   "thumbnail-size-100": {
-    "value": "26px",
+    "value": "28px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5451,7 +5461,7 @@
     }
   },
   "thumbnail-size-200": {
-    "value": "28px",
+    "value": "32px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5461,7 +5471,7 @@
     }
   },
   "thumbnail-size-300": {
-    "value": "32px",
+    "value": "36px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5471,7 +5481,7 @@
     }
   },
   "thumbnail-size-400": {
-    "value": "36px",
+    "value": "40px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5481,7 +5491,7 @@
     }
   },
   "thumbnail-size-500": {
-    "value": "40px",
+    "value": "44px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5491,7 +5501,7 @@
     }
   },
   "thumbnail-size-600": {
-    "value": "46px",
+    "value": "48px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5501,7 +5511,7 @@
     }
   },
   "thumbnail-size-700": {
-    "value": "50px",
+    "value": "52px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5511,7 +5521,7 @@
     }
   },
   "thumbnail-size-800": {
-    "value": "55px",
+    "value": "56px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5521,7 +5531,7 @@
     }
   },
   "thumbnail-size-900": {
-    "value": "62px",
+    "value": "64px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5531,7 +5541,7 @@
     }
   },
   "thumbnail-size-1000": {
-    "value": "70px",
+    "value": "72px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5657,6 +5667,16 @@
       "spectrum-tokens": {
         "uuid": "53fef925-59e3-4df5-9ac2-e2b4d34d9bca",
         "name": "tooltip-tip-corner-radius"
+      }
+    }
+  },
+  "thumbnail-corner-radius": {
+    "value": "{corner-radius-75}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "thumbnail-corner-radius"
       }
     }
   }

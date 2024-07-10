@@ -430,7 +430,7 @@
     }
   },
   "action-bar-height": {
-    "value": "70px",
+    "value": "{component-height-400}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -520,7 +520,7 @@
     }
   },
   "action-bar-top-to-item-counter": {
-    "value": "15px",
+    "value": "{component-top-to-text-300}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -530,7 +530,7 @@
     }
   },
   "action-bar-top-to-content-area": {
-    "value": "12px",
+    "value": "{spacing-200}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -540,7 +540,7 @@
     }
   },
   "action-bar-bottom-to-content-area": {
-    "value": "12px",
+    "value": "{spacing-200}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -550,7 +550,7 @@
     }
   },
   "action-bar-edge-to-content-area": {
-    "value": "8px",
+    "value": "{spacing-100}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -560,7 +560,7 @@
     }
   },
   "action-bar-close-button-to-counter": {
-    "value": "5px",
+    "value": "{text-to-control-50}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

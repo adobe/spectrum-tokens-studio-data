@@ -1039,6 +1039,16 @@
       }
     }
   },
+  "drop-shadow-x-300": {
+    "value": "0px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-x-300"
+      }
+    }
+  },
   "drop-shadow-emphasized-default-x": {
     "value": "{drop-shadow-x-100}",
     "type": "other",

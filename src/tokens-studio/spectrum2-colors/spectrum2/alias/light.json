@@ -41,6 +41,16 @@
           }
         }
       },
+      "300": {
+        "value": "#00000033",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "drop-shadow-color-300"
+          }
+        }
+      },
       "emphasized-default": {
         "value": "{Alias.drop-shadow.100}",
         "type": "color",

@@ -1,5 +1,17 @@
 {
   "Component": {
+    "avatar": {
+      "border": {
+        "value": "{Palette.gray.25}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "avatar-border-color"
+          }
+        }
+      }
+    },
     "card": {
       "selection-background": {
         "value": "{Palette.gray.100}",

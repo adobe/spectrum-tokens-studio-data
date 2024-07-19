@@ -1049,6 +1049,26 @@
       }
     }
   },
+  "drop-shadow-y-300": {
+    "value": "6px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-y-300"
+      }
+    }
+  },
+  "drop-shadow-blur-300": {
+    "value": "16px",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-blur-300"
+      }
+    }
+  },
   "drop-shadow-emphasized-default-x": {
     "value": "{drop-shadow-x-100}",
     "type": "other",
@@ -1136,6 +1156,36 @@
       "spectrum-tokens": {
         "uuid": "f3487a86-3aea-4527-8b5c-287c0bddad6c",
         "name": "drop-shadow-elevated-blur"
+      }
+    }
+  },
+  "drop-shadow-dragged-x": {
+    "value": "{drop-shadow-x-300}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-dragged-x"
+      }
+    }
+  },
+  "drop-shadow-dragged-y": {
+    "value": "{drop-shadow-y-300}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-dragged-y"
+      }
+    }
+  },
+  "drop-shadow-dragged-blur": {
+    "value": "{drop-shadow-blur-300}",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drop-shadow-dragged-blur"
       }
     }
   },

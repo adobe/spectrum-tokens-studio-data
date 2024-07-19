@@ -749,6 +749,16 @@
       }
     }
   },
+  "avatar-border-thickness": {
+    "value": "1px",
+    "type": "borderWidth",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-border-thickness"
+      }
+    }
+  },
   "avatar-size-50": {
     "value": "20px",
     "type": "sizing",
@@ -760,7 +770,7 @@
     }
   },
   "avatar-size-75": {
-    "value": "22px",
+    "value": "24px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -770,7 +780,7 @@
     }
   },
   "avatar-size-100": {
-    "value": "26px",
+    "value": "28px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -780,7 +790,7 @@
     }
   },
   "avatar-size-200": {
-    "value": "28px",
+    "value": "32px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -790,7 +800,7 @@
     }
   },
   "avatar-size-300": {
-    "value": "32px",
+    "value": "36px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -800,7 +810,7 @@
     }
   },
   "avatar-size-400": {
-    "value": "36px",
+    "value": "40px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -810,7 +820,7 @@
     }
   },
   "avatar-size-500": {
-    "value": "40px",
+    "value": "44px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -820,7 +830,7 @@
     }
   },
   "avatar-size-600": {
-    "value": "46px",
+    "value": "48px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -830,12 +840,232 @@
     }
   },
   "avatar-size-700": {
-    "value": "50px",
+    "value": "52px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "0bec4f0f-efb2-44f9-a131-28f8fe248c40",
         "name": "avatar-size-700"
+      }
+    }
+  },
+  "avatar-size-800": {
+    "value": "56px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-800"
+      }
+    }
+  },
+  "avatar-size-900": {
+    "value": "64px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-900"
+      }
+    }
+  },
+  "avatar-size-1000": {
+    "value": "72px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-1000"
+      }
+    }
+  },
+  "avatar-size-1100": {
+    "value": "80px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-1100"
+      }
+    }
+  },
+  "avatar-size-1200": {
+    "value": "88px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-1200"
+      }
+    }
+  },
+  "avatar-size-1300": {
+    "value": "96px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-1300"
+      }
+    }
+  },
+  "avatar-size-1400": {
+    "value": "104px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-1400"
+      }
+    }
+  },
+  "avatar-size-1500": {
+    "value": "112px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-size-1500"
+      }
+    }
+  },
+  "avatar-group-size-50": {
+    "value": "{avatar-size-50}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-group-size-50"
+      }
+    }
+  },
+  "avatar-group-size-75": {
+    "value": "{avatar-size-75}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-group-size-75"
+      }
+    }
+  },
+  "avatar-group-size-100": {
+    "value": "{avatar-size-100}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-group-size-100"
+      }
+    }
+  },
+  "avatar-group-size-200": {
+    "value": "{avatar-size-200}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-group-size-200"
+      }
+    }
+  },
+  "avatar-group-size-300": {
+    "value": "{avatar-size-300}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-group-size-300"
+      }
+    }
+  },
+  "avatar-group-size-400": {
+    "value": "{avatar-size-400}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-group-size-400"
+      }
+    }
+  },
+  "avatar-group-size-500": {
+    "value": "{avatar-size-500}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-group-size-500"
+      }
+    }
+  },
+  "avatar-to-avatar-50": {
+    "value": "-5px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-to-avatar-50"
+      }
+    }
+  },
+  "avatar-to-avatar-75": {
+    "value": "-6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-to-avatar-75"
+      }
+    }
+  },
+  "avatar-to-avatar-100": {
+    "value": "-7px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-to-avatar-100"
+      }
+    }
+  },
+  "avatar-to-avatar-200": {
+    "value": "-8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-to-avatar-200"
+      }
+    }
+  },
+  "avatar-to-avatar-300": {
+    "value": "-9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-to-avatar-300"
+      }
+    }
+  },
+  "avatar-to-avatar-400": {
+    "value": "-10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-to-avatar-400"
+      }
+    }
+  },
+  "avatar-to-avatar-500": {
+    "value": "-11px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "avatar-to-avatar-500"
       }
     }
   },

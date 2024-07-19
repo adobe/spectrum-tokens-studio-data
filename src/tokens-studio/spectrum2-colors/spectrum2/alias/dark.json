@@ -80,6 +80,16 @@
             "name": "drop-shadow-elevated-color"
           }
         }
+      },
+      "dragged": {
+        "value": "{Alias.drop-shadow.300}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "drop-shadow-dragged-color"
+          }
+        }
       }
     },
     "content": {

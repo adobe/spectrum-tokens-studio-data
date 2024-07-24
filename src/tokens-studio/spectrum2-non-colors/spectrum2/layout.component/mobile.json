@@ -3600,6 +3600,26 @@
       }
     }
   },
+  "slider-track-height-medium": {
+    "value": "4px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-track-height-medium"
+      }
+    }
+  },
+  "slider-track-height-large": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-track-height-large"
+      }
+    }
+  },
   "slider-track-thickness": {
     "value": "2px",
     "type": "spacing",

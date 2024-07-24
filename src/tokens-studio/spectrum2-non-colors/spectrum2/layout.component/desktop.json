@@ -3580,6 +3580,16 @@
       }
     }
   },
+  "slider-handle-size-small": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "1384d419-bfad-44d7-847c-a0f2c195fb93",
+        "name": "slider-handle-size-small"
+      }
+    }
+  },
   "slider-handle-size-medium": {
     "value": "16px",
     "type": "sizing",
@@ -3590,13 +3600,23 @@
       }
     }
   },
-  "slider-handle-size-small": {
-    "value": "14px",
+  "slider-track-height-medium": {
+    "value": "4px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "1384d419-bfad-44d7-847c-a0f2c195fb93",
-        "name": "slider-handle-size-small"
+        "uuid": "",
+        "name": "slider-track-height-medium"
+      }
+    }
+  },
+  "slider-track-height-large": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-track-height-large"
       }
     }
   },

@@ -246,6 +246,18 @@
         }
       }
     },
+    "standard-panel": {
+      "gripper-default": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "standard-panel-gripper-default-color"
+          }
+        }
+      }
+    },
     "table": {
       "non-emphasized-selected-row-background": {
         "value": "{Alias.background.neutral-selected.default}",

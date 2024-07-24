@@ -679,6 +679,26 @@
       }
     }
   },
+  "standard-panel-width": {
+    "value": "260px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-width"
+      }
+    }
+  },
+  "standard-panel-minimum-width": {
+    "value": "200px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-minimum-width"
+      }
+    }
+  },
   "standard-dialog-minimum-width": {
     "value": "288px",
     "type": "sizing",

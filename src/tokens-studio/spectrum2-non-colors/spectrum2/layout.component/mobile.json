@@ -699,6 +699,16 @@
       }
     }
   },
+  "standard-panel-maximum-width": {
+    "value": "400px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-maximum-width"
+      }
+    }
+  },
   "standard-dialog-minimum-width": {
     "value": "288px",
     "type": "sizing",
@@ -3667,6 +3677,66 @@
       "spectrum-tokens": {
         "uuid": "5945e9fe-311a-4d2c-8052-ca4eae4c7c63",
         "name": "status-light-dot-size-small"
+      }
+    }
+  },
+  "standard-panel-top-to-close-button-compact": {
+    "value": "5px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-top-to-close-button-compact"
+      }
+    }
+  },
+  "standard-panel-top-to-close-button-regular": {
+    "value": "9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-top-to-close-button-regular"
+      }
+    }
+  },
+  "standard-panel-top-to-close-button-spacious": {
+    "value": "17px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-top-to-close-button-spacious"
+      }
+    }
+  },
+  "standard-panel-edge-to-close-button-compact": {
+    "value": "3px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-edge-to-close-button-compact"
+      }
+    }
+  },
+  "standard-panel-edge-to-close-button-regular": {
+    "value": "7px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-edge-to-close-button-regular"
+      }
+    }
+  },
+  "standard-panel-edge-to-close-button-spacious": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-edge-to-close-button-spacious"
       }
     }
   },

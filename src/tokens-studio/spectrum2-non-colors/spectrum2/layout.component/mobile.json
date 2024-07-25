@@ -3780,6 +3780,16 @@
       }
     }
   },
+  "swatch-group-spacing-spacious": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "swatch-group-spacing-spacious"
+      }
+    }
+  },
   "swatch-rectangle-width-multiplier": {
     "value": "2",
     "type": "number",

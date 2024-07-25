@@ -430,7 +430,7 @@
     }
   },
   "action-bar-height": {
-    "value": "56px",
+    "value": "{component-height-400}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -520,12 +520,52 @@
     }
   },
   "action-bar-top-to-item-counter": {
-    "value": "16px",
+    "value": "{component-top-to-text-300}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "b8466a83-3409-47c0-a329-b8e83b83abdb",
         "name": "action-bar-top-to-item-counter"
+      }
+    }
+  },
+  "action-bar-top-to-content-area": {
+    "value": "{spacing-200}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "action-bar-top-to-content-area"
+      }
+    }
+  },
+  "action-bar-bottom-to-content-area": {
+    "value": "{spacing-200}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "action-bar-bottom-to-content-area"
+      }
+    }
+  },
+  "action-bar-edge-to-content-area": {
+    "value": "{spacing-100}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "action-bar-edge-to-content-area"
+      }
+    }
+  },
+  "action-bar-close-button-to-counter": {
+    "value": "{text-to-control-50}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "action-bar-close-button-to-counter"
       }
     }
   },
@@ -649,13 +689,13 @@
       }
     }
   },
-  "alert-dialog-description-font-size": {
-    "value": "{body-size-s}",
+  "action-bar-counter-font-size": {
+    "value": "{font-size-100}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "e969f730-9eea-4a35-8981-2804d660c23e",
-        "name": "alert-dialog-description-font-size"
+        "uuid": "",
+        "name": "action-bar-counter-font-size"
       }
     }
   },
@@ -726,6 +766,16 @@
       "spectrum-tokens": {
         "uuid": "9b7ce1fc-ea8a-4d7b-a926-0accbd6b1197",
         "name": "alert-dialog-title-size"
+      }
+    }
+  },
+  "alert-dialog-description-font-size": {
+    "value": "{body-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "e969f730-9eea-4a35-8981-2804d660c23e",
+        "name": "alert-dialog-description-font-size"
       }
     }
   },

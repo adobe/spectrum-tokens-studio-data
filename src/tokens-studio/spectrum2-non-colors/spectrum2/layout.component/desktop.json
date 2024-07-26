@@ -3470,26 +3470,6 @@
       }
     }
   },
-  "slider-control-to-field-label-extra-large": {
-    "value": "-20px",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "309b149c-306a-49ee-b14c-a0eb4826e3b1",
-        "name": "slider-control-to-field-label-extra-large"
-      }
-    }
-  },
-  "slider-control-to-field-label-large": {
-    "value": "-16px",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "a4be5828-2176-42e7-97de-1f80e7dc08bb",
-        "name": "slider-control-to-field-label-large"
-      }
-    }
-  },
   "slider-control-to-field-label-small": {
     "value": "-4px",
     "type": "spacing",
@@ -3507,6 +3487,106 @@
       "spectrum-tokens": {
         "uuid": "b257bf97-d632-4488-a954-57b16bcf18b9",
         "name": "slider-control-to-field-label-medium"
+      }
+    }
+  },
+  "slider-control-to-field-label-large": {
+    "value": "-16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "a4be5828-2176-42e7-97de-1f80e7dc08bb",
+        "name": "slider-control-to-field-label-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-extra-large": {
+    "value": "-20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "309b149c-306a-49ee-b14c-a0eb4826e3b1",
+        "name": "slider-control-to-field-label-extra-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-small": {
+    "value": "-4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-small"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-medium": {
+    "value": "-12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-medium"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-large": {
+    "value": "-16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-extra-large": {
+    "value": "-20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-extra-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-small": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-small"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-medium": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-medium"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-large": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-extra-large": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-extra-large"
       }
     }
   },
@@ -3590,7 +3670,7 @@
       }
     }
   },
-  "slider-handle-gap": {
+  "🚫 slider-handle-gap": {
     "value": "4px",
     "type": "spacing",
     "$extensions": {
@@ -3600,28 +3680,58 @@
       }
     }
   },
-  "slider-handle-size-extra-large": {
+  "slider-handle-height-precision-small": {
     "value": "20px",
-    "type": "sizing",
+    "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "10ccce0d-5a2c-414e-8055-0be76709c180",
-        "name": "slider-handle-size-extra-large"
+        "uuid": "",
+        "name": "slider-handle-height-precision-small"
       }
     }
   },
-  "slider-handle-size-large": {
-    "value": "18px",
-    "type": "sizing",
+  "slider-handle-height-precision-medium": {
+    "value": "22px",
+    "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "3df3c866-faf0-43db-8c18-f442e7f94822",
-        "name": "slider-handle-size-large"
+        "uuid": "",
+        "name": "slider-handle-height-precision-medium"
+      }
+    }
+  },
+  "slider-handle-height-precision-large": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-height-precision-large"
+      }
+    }
+  },
+  "slider-handle-height-precision-extra-large": {
+    "value": "26px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-height-precision-extra-large"
+      }
+    }
+  },
+  "slider-handle-precision-width": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-precision-width"
       }
     }
   },
   "slider-handle-size-small": {
-    "value": "14px",
+    "value": "18px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3631,12 +3741,32 @@
     }
   },
   "slider-handle-size-medium": {
-    "value": "16px",
+    "value": "20px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "a8a02181-c797-461d-a666-a63f7535a096",
         "name": "slider-handle-size-medium"
+      }
+    }
+  },
+  "slider-handle-size-large": {
+    "value": "22px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "3df3c866-faf0-43db-8c18-f442e7f94822",
+        "name": "slider-handle-size-large"
+      }
+    }
+  },
+  "slider-handle-size-extra-large": {
+    "value": "24px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "10ccce0d-5a2c-414e-8055-0be76709c180",
+        "name": "slider-handle-size-extra-large"
       }
     }
   },

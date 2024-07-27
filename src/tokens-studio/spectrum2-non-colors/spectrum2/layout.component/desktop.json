@@ -3732,7 +3732,7 @@
   },
   "slider-handle-height-precision-small": {
     "value": "20px",
-    "type": "spacing",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -3742,7 +3742,7 @@
   },
   "slider-handle-height-precision-medium": {
     "value": "22px",
-    "type": "spacing",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -3752,7 +3752,7 @@
   },
   "slider-handle-height-precision-large": {
     "value": "24px",
-    "type": "spacing",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -3762,7 +3762,7 @@
   },
   "slider-handle-height-precision-extra-large": {
     "value": "26px",
-    "type": "spacing",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -3772,7 +3772,7 @@
   },
   "slider-handle-precision-width": {
     "value": "6px",
-    "type": "spacing",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",

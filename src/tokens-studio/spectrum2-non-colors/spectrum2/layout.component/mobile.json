@@ -3560,7 +3560,7 @@
       }
     }
   },
-  "slider-handle-border-width-down-extra-large": {
+  "🚫 slider-handle-border-width-down-extra-large": {
     "value": "11px",
     "type": "borderWidth",
     "$extensions": {
@@ -3570,7 +3570,7 @@
       }
     }
   },
-  "slider-handle-border-width-down-large": {
+  "🚫 slider-handle-border-width-down-large": {
     "value": "9px",
     "type": "borderWidth",
     "$extensions": {
@@ -3580,7 +3580,7 @@
       }
     }
   },
-  "slider-handle-border-width-down-medium": {
+  "🚫 slider-handle-border-width-down-medium": {
     "value": "8px",
     "type": "borderWidth",
     "$extensions": {
@@ -3590,7 +3590,7 @@
       }
     }
   },
-  "slider-handle-border-width-down-small": {
+  "🚫 slider-handle-border-width-down-small": {
     "value": "7px",
     "type": "borderWidth",
     "$extensions": {
@@ -3600,7 +3600,7 @@
       }
     }
   },
-  "slider-handle-gap": {
+  "🚫 slider-handle-gap": {
     "value": "4px",
     "type": "spacing",
     "$extensions": {
@@ -3610,7 +3610,7 @@
       }
     }
   },
-  "slider-handle-size-extra-large": {
+  "🚫 slider-handle-size-extra-large": {
     "value": "26px",
     "type": "sizing",
     "$extensions": {
@@ -3620,7 +3620,27 @@
       }
     }
   },
-  "slider-handle-size-large": {
+  "slider-track-height-medium": {
+    "value": "4px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-track-height-medium"
+      }
+    }
+  },
+  "slider-track-height-large": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-track-height-large"
+      }
+    }
+  },
+  "🚫 slider-handle-size-large": {
     "value": "22px",
     "type": "sizing",
     "$extensions": {
@@ -3630,7 +3650,7 @@
       }
     }
   },
-  "slider-handle-size-medium": {
+  "🚫 slider-handle-size-medium": {
     "value": "20px",
     "type": "sizing",
     "$extensions": {
@@ -3640,7 +3660,7 @@
       }
     }
   },
-  "slider-handle-size-small": {
+  "🚫 slider-handle-size-small": {
     "value": "18px",
     "type": "sizing",
     "$extensions": {
@@ -3650,7 +3670,7 @@
       }
     }
   },
-  "slider-track-thickness": {
+  "🚫 slider-track-thickness": {
     "value": "2px",
     "type": "spacing",
     "$extensions": {

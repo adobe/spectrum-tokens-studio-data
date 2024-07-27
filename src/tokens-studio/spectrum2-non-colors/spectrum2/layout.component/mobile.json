@@ -3521,7 +3521,7 @@
     }
   },
   "slider-control-to-field-label-extra-large": {
-    "value": "17px",
+    "value": "-28px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3531,7 +3531,7 @@
     }
   },
   "slider-control-to-field-label-large": {
-    "value": "14px",
+    "value": "-20px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3541,7 +3541,7 @@
     }
   },
   "slider-control-to-field-label-medium": {
-    "value": "10px",
+    "value": "-16px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3551,12 +3551,132 @@
     }
   },
   "slider-control-to-field-label-small": {
-    "value": "6px",
+    "value": "-8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "d20768dd-dbf4-48a9-8cc8-3370fa6ef810",
         "name": "slider-control-to-field-label-small"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-small": {
+    "value": "-8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-small"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-medium": {
+    "value": "-16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-medium"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-large": {
+    "value": "-20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-editable-extra-large": {
+    "value": "-24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-editable-extra-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-small": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-small"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-medium": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-medium"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-large": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-side-extra-large": {
+    "value": "28px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-field-label-side-extra-large"
+      }
+    }
+  },
+  "slider-control-to-text-field-small": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-text-field-small"
+      }
+    }
+  },
+  "slider-control-to-text-field-medium": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-text-field-medium"
+      }
+    }
+  },
+  "slider-control-to-text-field-large": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-text-field-large"
+      }
+    }
+  },
+  "slider-control-to-text-field-extra-large": {
+    "value": "28px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-control-to-text-field-extra-large"
       }
     }
   },
@@ -3610,6 +3730,56 @@
       }
     }
   },
+  "slider-handle-height-precision-small": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-height-precision-small"
+      }
+    }
+  },
+  "slider-handle-height-precision-medium": {
+    "value": "26px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-height-precision-medium"
+      }
+    }
+  },
+  "slider-handle-height-precision-large": {
+    "value": "30px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-height-precision-large"
+      }
+    }
+  },
+  "slider-handle-height-precision-extra-large": {
+    "value": "32px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-height-precision-extra-large"
+      }
+    }
+  },
+  "slider-handle-precision-width": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-precision-width"
+      }
+    }
+  },
   "🚫 slider-handle-size-extra-large": {
     "value": "26px",
     "type": "sizing",
@@ -3617,6 +3787,46 @@
       "spectrum-tokens": {
         "uuid": "413dc697-1f14-47c8-a7f2-e52254513e6e",
         "name": "slider-handle-size-extra-large"
+      }
+    }
+  },
+  "slider-handle-small": {
+    "value": "22px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-small"
+      }
+    }
+  },
+  "slider-handle-medium": {
+    "value": "24px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-medium"
+      }
+    }
+  },
+  "slider-handle-large": {
+    "value": "28px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-large"
+      }
+    }
+  },
+  "slider-handle-extra-large": {
+    "value": "30px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-extra-large"
       }
     }
   },

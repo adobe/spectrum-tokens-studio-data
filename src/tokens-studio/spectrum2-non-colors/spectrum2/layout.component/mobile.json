@@ -3781,7 +3781,7 @@
     }
   },
   "🚫 slider-handle-size-extra-large": {
-    "value": "26px",
+    "value": "{slider-handle-extra-large}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3851,7 +3851,7 @@
     }
   },
   "🚫 slider-handle-size-large": {
-    "value": "22px",
+    "value": "{slider-handle-large}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3861,7 +3861,7 @@
     }
   },
   "🚫 slider-handle-size-medium": {
-    "value": "20px",
+    "value": "{slider-handle-medium}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3871,7 +3871,7 @@
     }
   },
   "🚫 slider-handle-size-small": {
-    "value": "18px",
+    "value": "{slider-handle-small}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3881,7 +3881,7 @@
     }
   },
   "🚫 slider-track-thickness": {
-    "value": "2px",
+    "value": "{slider-track-height-medium}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

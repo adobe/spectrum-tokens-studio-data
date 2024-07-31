@@ -3520,23 +3520,13 @@
       }
     }
   },
-  "slider-control-to-field-label-extra-large": {
-    "value": "-20px",
+  "slider-control-to-field-label-small": {
+    "value": "-4px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "309b149c-306a-49ee-b14c-a0eb4826e3b1",
-        "name": "slider-control-to-field-label-extra-large"
-      }
-    }
-  },
-  "slider-control-to-field-label-large": {
-    "value": "-16px",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "a4be5828-2176-42e7-97de-1f80e7dc08bb",
-        "name": "slider-control-to-field-label-large"
+        "uuid": "cbf9c42b-c14e-440d-97ad-3c937c464446",
+        "name": "slider-control-to-field-label-small"
       }
     }
   },
@@ -3550,13 +3540,23 @@
       }
     }
   },
-  "slider-control-to-field-label-small": {
-    "value": "-4px",
+  "slider-control-to-field-label-large": {
+    "value": "-16px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "cbf9c42b-c14e-440d-97ad-3c937c464446",
-        "name": "slider-control-to-field-label-small"
+        "uuid": "a4be5828-2176-42e7-97de-1f80e7dc08bb",
+        "name": "slider-control-to-field-label-large"
+      }
+    }
+  },
+  "slider-control-to-field-label-extra-large": {
+    "value": "-20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "309b149c-306a-49ee-b14c-a0eb4826e3b1",
+        "name": "slider-control-to-field-label-extra-large"
       }
     }
   },
@@ -3770,16 +3770,6 @@
       }
     }
   },
-  "slider-handle-precision-width": {
-    "value": "6px",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "",
-        "name": "slider-handle-precision-width"
-      }
-    }
-  },
   "slider-handle-small": {
     "value": "18px",
     "type": "sizing",
@@ -3817,6 +3807,16 @@
       "spectrum-tokens": {
         "uuid": "",
         "name": "slider-handle-extra-large"
+      }
+    }
+  },
+  "slider-handle-precision-width": {
+    "value": "6px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "slider-handle-precision-width"
       }
     }
   },

@@ -529,6 +529,16 @@
       }
     }
   },
+  "code-size-xl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "7879adbc-6c38-4d29-9a90-a4ad91c75b90",
+        "name": "code-size-xl"
+      }
+    }
+  },
   "code-size-l": {
     "value": "{font-size-300}",
     "type": "fontSizes",
@@ -556,16 +566,6 @@
       "spectrum-tokens": {
         "uuid": "efa9311b-27c5-45ea-93a7-bef6f9370179",
         "name": "code-size-s"
-      }
-    }
-  },
-  "code-size-xl": {
-    "value": "{font-size-400}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "7879adbc-6c38-4d29-9a90-a4ad91c75b90",
-        "name": "code-size-xl"
       }
     }
   },

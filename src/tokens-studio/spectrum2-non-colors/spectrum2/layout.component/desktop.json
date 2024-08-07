@@ -729,13 +729,13 @@
       }
     }
   },
-  "avatar-border-thickness": {
-    "value": "1px",
+  "avatar-border-width": {
+    "value": "{border-width-100}",
     "type": "borderWidth",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
-        "name": "avatar-border-thickness"
+        "name": "avatar-border-width"
       }
     }
   },

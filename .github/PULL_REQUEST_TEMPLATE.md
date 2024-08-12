@@ -1,5 +1,5 @@
 <!--- Title: Provide a general summary of your changes in the Title above -->
-<!--- Reviewers: Include @karstens, @GarthDB, @mrcjhicks, @lynnhao, @KayiuCarlson, @nabuhasan -->
+<!--- Reviewers: All members of the Spectrum Design Data team are included by default. Tag individuals in your Slack review request message instead. -->
 <!--- Approval: PRs require two reviews at the minimum (one from the engineering team and one from the design team) in order to be considered "approved" and ready to merge -->
 
 ## Description
@@ -8,7 +8,7 @@
 
 ## Motivation and context
 
-<!--- Why is this change required? What problem does it solve? -->
+<!--- Why is this change required? What problem does it solve? Note that the information here is included directly in Spectrum Tokens releases. When relevant, include language from our Figma library release notes.  -->
 
 ## Related issue
 

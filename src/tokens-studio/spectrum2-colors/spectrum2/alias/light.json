@@ -41,6 +41,16 @@
           }
         }
       },
+      "300": {
+        "value": "#00000033",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "84ced765-054d-44f4-9dbe-5be607f65a16",
+            "name": "drop-shadow-color-300"
+          }
+        }
+      },
       "emphasized-default": {
         "value": "{Alias.drop-shadow.100}",
         "type": "color",
@@ -68,6 +78,16 @@
           "spectrum-tokens": {
             "uuid": "e475981f-97af-479c-859b-7619dd87c448",
             "name": "drop-shadow-elevated-color"
+          }
+        }
+      },
+      "dragged": {
+        "value": "{Alias.drop-shadow.300}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "83c30113-68b5-475b-ba46-9179c9ff7e8d",
+            "name": "drop-shadow-dragged-color"
           }
         }
       }

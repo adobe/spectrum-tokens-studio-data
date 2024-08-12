@@ -247,23 +247,23 @@
       }
     },
     "standard-panel": {
-      "gripper-default": {
+      "gripper": {
         "value": "{Palette.gray.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "",
-            "name": "standard-panel-gripper-default-color"
+            "name": "standard-panel-gripper-color"
           }
         }
       },
-      "gripper-drag": {
+      "gripper-color-drag": {
         "value": "{Palette.gray.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "",
-            "name": "standard-panel-gripper-drag-color"
+            "name": "standard-panel-gripper-color-drag"
           }
         }
       }

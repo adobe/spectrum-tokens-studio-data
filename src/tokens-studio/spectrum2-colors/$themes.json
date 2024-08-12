@@ -34,7 +34,6 @@
       "Component.popover.border": "716363d37a9959c100d120da64dc12ca43af2cc7",
       "Component.swatch.border": "0921def4f90864fbeb1e361239484a95d7296f3b",
       "Component.swatch.disabled-icon-border": "926608b75d469011fdab4effff4b928a9010a99f",
-      "Component.standard-panel.gripper-drag": "2ca345196c834ec63d6f65f998770dbdd9717d69",
       "Component.table.non-emphasized-selected-row-background": "527483e7ad502b89308da567c4202d583a1fd4fd",
       "Component.table.row-hover": "7400108dc6ecce96e0b2c7801eadc2f060e77828",
       "Component.table.selected-row-background": "1149aafef0a2f857f1acf1ab8b5463fd312cc527",
@@ -678,7 +677,8 @@
       "Palette.transparent-white.800": "ea5e834dbe202dc1dbbce86ba074ab50155812c1",
       "Palette.transparent-white.900": "cc73dfce811bf9bab293a95d9342fd6a9135c9ab",
       "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30",
-      "Component.standard-panel.gripper": "b352e01720f30f5a2223b49cc6871e9120109d7b"
+      "Component.standard-panel.gripper": "b352e01720f30f5a2223b49cc6871e9120109d7b",
+      "Component.standard-panel.gripper-color-drag": "2ca345196c834ec63d6f65f998770dbdd9717d69"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
@@ -718,7 +718,6 @@
       "Component.popover.border": "716363d37a9959c100d120da64dc12ca43af2cc7",
       "Component.swatch.border": "0921def4f90864fbeb1e361239484a95d7296f3b",
       "Component.swatch.disabled-icon-border": "926608b75d469011fdab4effff4b928a9010a99f",
-      "Component.standard-panel.gripper-drag": "2ca345196c834ec63d6f65f998770dbdd9717d69",
       "Component.table.non-emphasized-selected-row-background": "527483e7ad502b89308da567c4202d583a1fd4fd",
       "Component.table.row-hover": "7400108dc6ecce96e0b2c7801eadc2f060e77828",
       "Component.table.selected-row-background": "1149aafef0a2f857f1acf1ab8b5463fd312cc527",
@@ -1362,7 +1361,8 @@
       "Palette.transparent-white.800": "ea5e834dbe202dc1dbbce86ba074ab50155812c1",
       "Palette.transparent-white.900": "cc73dfce811bf9bab293a95d9342fd6a9135c9ab",
       "Palette.transparent-white.1000": "0ae4fb367bd6d70103b8df1fd1fff8a237a94b30",
-      "Component.standard-panel.gripper": "b352e01720f30f5a2223b49cc6871e9120109d7b"
+      "Component.standard-panel.gripper": "b352e01720f30f5a2223b49cc6871e9120109d7b",
+      "Component.standard-panel.gripper-color-drag": "2ca345196c834ec63d6f65f998770dbdd9717d69"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"

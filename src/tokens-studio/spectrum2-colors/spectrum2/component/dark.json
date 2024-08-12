@@ -258,6 +258,28 @@
         }
       }
     },
+    "standard-panel": {
+      "gripper": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "standard-panel-gripper-default-color"
+          }
+        }
+      },
+      "gripper-drag": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "standard-panel-gripper-drag-color"
+          }
+        }
+      }
+    },
     "swatch-group": {
       "border": {
         "value": "{Palette.gray.1000}",

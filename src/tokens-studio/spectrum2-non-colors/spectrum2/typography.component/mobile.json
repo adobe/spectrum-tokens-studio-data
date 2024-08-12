@@ -2299,6 +2299,16 @@
       }
     }
   },
+  "standard-panel-title-font-size": {
+    "value": "{title-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "standard-panel-title-font-size"
+      }
+    }
+  },
   "title-cjk-size-l": {
     "value": "{font-size-200}",
     "type": "fontSizes",

@@ -4670,13 +4670,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-extra-large-regular": {
+  "table-row-bottom-to-text-extra-large": {
     "value": "22px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "c9ac99be-86c3-4f6c-a2a5-3487041bc95e",
-        "name": "table-row-bottom-to-text-extra-large-regular"
+        "name": "table-row-bottom-to-text-extra-large"
       }
     }
   },
@@ -4700,13 +4700,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-large-regular": {
+  "table-row-bottom-to-text-large": {
     "value": "18px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "151bf172-2889-4c98-8f15-5b6cdcb30d4b",
-        "name": "table-row-bottom-to-text-large-regular"
+        "name": "table-row-bottom-to-text-large"
       }
     }
   },
@@ -4730,13 +4730,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-medium-regular": {
+  "table-row-bottom-to-text-medium": {
     "value": "15px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "e80339a8-22c4-4b53-9a4a-a4456f6cab3f",
-        "name": "table-row-bottom-to-text-medium-regular"
+        "name": "table-row-bottom-to-text-medium"
       }
     }
   },
@@ -4760,13 +4760,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-small-regular": {
+  "table-row-bottom-to-text-small": {
     "value": "11px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "d3147ee6-dc34-46e2-8379-02d9690ff80a",
-        "name": "table-row-bottom-to-text-small-regular"
+        "name": "table-row-bottom-to-text-small"
       }
     }
   },
@@ -4790,13 +4790,13 @@
       }
     }
   },
-  "table-row-checkbox-to-top-extra-large-regular": {
+  "table-row-checkbox-to-top-extra-large": {
     "value": "26px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "2171aee7-d013-459e-a13f-33075090cbe3",
-        "name": "table-row-checkbox-to-top-extra-large-regular"
+        "name": "table-row-checkbox-to-top-extra-large"
       }
     }
   },
@@ -4820,13 +4820,13 @@
       }
     }
   },
-  "table-row-checkbox-to-top-large-regular": {
+  "table-row-checkbox-to-top-large": {
     "value": "22px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "2e16e4ef-fec6-41fb-9d96-bc6bb6c88f69",
-        "name": "table-row-checkbox-to-top-large-regular"
+        "name": "table-row-checkbox-to-top-large"
       }
     }
   },
@@ -4850,13 +4850,13 @@
       }
     }
   },
-  "table-row-checkbox-to-top-medium-regular": {
+  "table-row-checkbox-to-top-medium": {
     "value": "16px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "36505a4f-01b6-4b83-adf1-592818eb2c0d",
-        "name": "table-row-checkbox-to-top-medium-regular"
+        "name": "table-row-checkbox-to-top-medium"
       }
     }
   },
@@ -4880,13 +4880,13 @@
       }
     }
   },
-  "table-row-checkbox-to-top-small-regular": {
+  "table-row-checkbox-to-top-small": {
     "value": "14px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "a63aa24e-c956-4af5-bf4f-4c5d44bd1e16",
-        "name": "table-row-checkbox-to-top-small-regular"
+        "name": "table-row-checkbox-to-top-small"
       }
     }
   },
@@ -4910,13 +4910,13 @@
       }
     }
   },
-  "table-row-height-extra-large-regular": {
+  "table-row-height-extra-large": {
     "value": "70px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "b7753c9a-8854-4927-89dd-80d47bff5fa5",
-        "name": "table-row-height-extra-large-regular"
+        "name": "table-row-height-extra-large"
       }
     }
   },
@@ -4940,13 +4940,13 @@
       }
     }
   },
-  "table-row-height-large-regular": {
+  "table-row-height-large": {
     "value": "60px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "b92bc058-27ea-4e86-a1a2-e5dbae3c2ee8",
-        "name": "table-row-height-large-regular"
+        "name": "table-row-height-large"
       }
     }
   },
@@ -4970,13 +4970,13 @@
       }
     }
   },
-  "table-row-height-medium-regular": {
+  "table-row-height-medium": {
     "value": "50px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "72e6564c-2acf-4f77-80d9-b21d2d55a580",
-        "name": "table-row-height-medium-regular"
+        "name": "table-row-height-medium"
       }
     }
   },
@@ -5000,13 +5000,13 @@
       }
     }
   },
-  "table-row-height-small-regular": {
+  "table-row-height-small": {
     "value": "40px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "cdbb999d-c2a9-4325-9689-bede2ad3559a",
-        "name": "table-row-height-small-regular"
+        "name": "table-row-height-small"
       }
     }
   },
@@ -5030,13 +5030,13 @@
       }
     }
   },
-  "table-row-top-to-text-extra-large-regular": {
+  "table-row-top-to-text-extra-large": {
     "value": "21px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "c381a3c4-e0a3-4e86-b279-f51ee6e9e532",
-        "name": "table-row-top-to-text-extra-large-regular"
+        "name": "table-row-top-to-text-extra-large"
       }
     }
   },
@@ -5060,13 +5060,13 @@
       }
     }
   },
-  "table-row-top-to-text-large-regular": {
+  "table-row-top-to-text-large": {
     "value": "18px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "0108018e-6146-45c9-b032-e3d44dfb8d84",
-        "name": "table-row-top-to-text-large-regular"
+        "name": "table-row-top-to-text-large"
       }
     }
   },
@@ -5090,13 +5090,13 @@
       }
     }
   },
-  "table-row-top-to-text-medium-regular": {
+  "table-row-top-to-text-medium": {
     "value": "14px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "7df1dc32-b96d-41e3-a372-9bcaec7c2ccb",
-        "name": "table-row-top-to-text-medium-regular"
+        "name": "table-row-top-to-text-medium"
       }
     }
   },
@@ -5120,13 +5120,13 @@
       }
     }
   },
-  "table-row-top-to-text-small-regular": {
+  "table-row-top-to-text-small": {
     "value": "10px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "98014297-14dc-4547-944a-8951c7f6f253",
-        "name": "table-row-top-to-text-small-regular"
+        "name": "table-row-top-to-text-small"
       }
     }
   },
@@ -5220,13 +5220,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-extra-large-regular": {
+  "table-thumbnail-to-top-minimum-extra-large": {
     "value": "10px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "b60c33b8-acc1-4af1-b30f-b467054ee417",
-        "name": "table-thumbnail-to-top-minimum-extra-large-regular"
+        "name": "table-thumbnail-to-top-minimum-extra-large"
       }
     }
   },
@@ -5250,13 +5250,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-large-regular": {
+  "table-thumbnail-to-top-minimum-large": {
     "value": "10px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "fc7efe7c-ef97-424f-89c2-2211daf44b4a",
-        "name": "table-thumbnail-to-top-minimum-large-regular"
+        "name": "table-thumbnail-to-top-minimum-large"
       }
     }
   },
@@ -5280,13 +5280,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-medium-regular": {
+  "table-thumbnail-to-top-minimum-medium": {
     "value": "9px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "75af7a67-e0ae-4f41-9c70-09babbc587d1",
-        "name": "table-thumbnail-to-top-minimum-medium-regular"
+        "name": "table-thumbnail-to-top-minimum-medium"
       }
     }
   },
@@ -5310,13 +5310,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-small-regular": {
+  "table-thumbnail-to-top-minimum-small": {
     "value": "6px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "e25b14a7-cb9e-406b-bab6-b27575f00a52",
-        "name": "table-thumbnail-to-top-minimum-small-regular"
+        "name": "table-thumbnail-to-top-minimum-small"
       }
     }
   },

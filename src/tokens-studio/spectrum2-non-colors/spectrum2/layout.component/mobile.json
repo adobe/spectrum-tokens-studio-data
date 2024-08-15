@@ -2659,13 +2659,33 @@
       }
     }
   },
-  "illustrated-message-maximum-width": {
-    "value": "380px",
+  "🚫 illustrated-message-maximum-width": {
+    "value": "{illustrated-message-vertical-maximum-width}",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "0e464925-5524-4fcc-a2f1-54ef42a2990a",
         "name": "illustrated-message-maximum-width"
+      }
+    }
+  },
+  "illustrated-message-horizontal-maximum-width": {
+    "value": "535px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-horizontal-maximum-width"
+      }
+    }
+  },
+  "illustrated-message-vertical-maximum-width": {
+    "value": "380px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "illustrated-message-vertical-maximum-width"
       }
     }
   },

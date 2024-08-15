@@ -289,6 +289,36 @@
       }
     }
   },
+  "standard-panel-width": {
+    "value": "260px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "41cd9d92-4d69-4aaa-9c95-e980aa5eb992",
+        "name": "standard-panel-width"
+      }
+    }
+  },
+  "standard-panel-minimum-width": {
+    "value": "200px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "37ab7428-8175-409f-8e74-55e51a962139",
+        "name": "standard-panel-minimum-width"
+      }
+    }
+  },
+  "standard-panel-maximum-width": {
+    "value": "400px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "11400ef3-c995-41bc-8a9d-eb389d95f360",
+        "name": "standard-panel-maximum-width"
+      }
+    }
+  },
   "standard-dialog-minimum-width": {
     "value": "288px",
     "type": "sizing",
@@ -779,6 +809,16 @@
       }
     }
   },
+  "avatar-border-width": {
+    "value": "{border-width-100}",
+    "type": "borderWidth",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "2d4cd3ad-cc2c-4ad5-9475-c73882c5201e",
+        "name": "avatar-border-width"
+      }
+    }
+  },
   "avatar-size-50": {
     "value": "16px",
     "type": "sizing",
@@ -790,7 +830,7 @@
     }
   },
   "avatar-size-75": {
-    "value": "18px",
+    "value": "20px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -800,7 +840,7 @@
     }
   },
   "avatar-size-100": {
-    "value": "20px",
+    "value": "24px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -810,7 +850,7 @@
     }
   },
   "avatar-size-200": {
-    "value": "22px",
+    "value": "28px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -820,7 +860,7 @@
     }
   },
   "avatar-size-300": {
-    "value": "26px",
+    "value": "32px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -830,7 +870,7 @@
     }
   },
   "avatar-size-400": {
-    "value": "28px",
+    "value": "36px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -840,7 +880,7 @@
     }
   },
   "avatar-size-500": {
-    "value": "32px",
+    "value": "40px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -850,7 +890,7 @@
     }
   },
   "avatar-size-600": {
-    "value": "36px",
+    "value": "44px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -860,12 +900,232 @@
     }
   },
   "avatar-size-700": {
-    "value": "40px",
+    "value": "48px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "92260f9e-ad2a-4e46-ad65-d83d99f7e7b7",
         "name": "avatar-size-700"
+      }
+    }
+  },
+  "avatar-size-800": {
+    "value": "52px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4c3c7ee0-637c-4c0f-b79b-ba8d4f8aaf9d",
+        "name": "avatar-size-800"
+      }
+    }
+  },
+  "avatar-size-900": {
+    "value": "56px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "531b56b5-3abd-4bcc-a4fa-9cceb08b0b8d",
+        "name": "avatar-size-900"
+      }
+    }
+  },
+  "avatar-size-1000": {
+    "value": "64px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "7f677464-22fe-47c5-b4da-e6c60740aafe",
+        "name": "avatar-size-1000"
+      }
+    }
+  },
+  "avatar-size-1100": {
+    "value": "72px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "63e8bd84-a7e2-4aed-9ac8-44ae2fe70424",
+        "name": "avatar-size-1100"
+      }
+    }
+  },
+  "avatar-size-1200": {
+    "value": "80px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "d8af9c52-b267-4c77-8ca2-ffa5dc27a45e",
+        "name": "avatar-size-1200"
+      }
+    }
+  },
+  "avatar-size-1300": {
+    "value": "88px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "77d45064-5013-417e-9663-a91e97e40d01",
+        "name": "avatar-size-1300"
+      }
+    }
+  },
+  "avatar-size-1400": {
+    "value": "96px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "974ccab6-b9d9-4101-ba6c-69dd75b8602f",
+        "name": "avatar-size-1400"
+      }
+    }
+  },
+  "avatar-size-1500": {
+    "value": "104px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "2ab3cbdf-5791-41ca-b6e3-66d5a4970f32",
+        "name": "avatar-size-1500"
+      }
+    }
+  },
+  "avatar-group-size-50": {
+    "value": "{avatar-size-50}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "d55ab204-ee6c-47e3-a21b-25543c8fc36b",
+        "name": "avatar-group-size-50"
+      }
+    }
+  },
+  "avatar-group-size-75": {
+    "value": "{avatar-size-75}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "420c8327-fa41-4919-9e01-4d58178d739b",
+        "name": "avatar-group-size-75"
+      }
+    }
+  },
+  "avatar-group-size-100": {
+    "value": "{avatar-size-100}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "1c869018-8c56-4c10-acea-7fc6e838aa09",
+        "name": "avatar-group-size-100"
+      }
+    }
+  },
+  "avatar-group-size-200": {
+    "value": "{avatar-size-200}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "590ef940-55ea-4690-a403-e4b47a185a64",
+        "name": "avatar-group-size-200"
+      }
+    }
+  },
+  "avatar-group-size-300": {
+    "value": "{avatar-size-300}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "5e60d980-21db-4bbd-b321-a20808571411",
+        "name": "avatar-group-size-300"
+      }
+    }
+  },
+  "avatar-group-size-400": {
+    "value": "{avatar-size-400}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "80e446ee-0091-4c6e-9158-e15fbc6207a4",
+        "name": "avatar-group-size-400"
+      }
+    }
+  },
+  "avatar-group-size-500": {
+    "value": "{avatar-size-500}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4bf63b03-931b-47ce-bb1a-4bd4e2cd82c1",
+        "name": "avatar-group-size-500"
+      }
+    }
+  },
+  "avatar-to-avatar-50": {
+    "value": "-4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4328bc86-01d4-4467-b99a-33099effe781",
+        "name": "avatar-to-avatar-50"
+      }
+    }
+  },
+  "avatar-to-avatar-75": {
+    "value": "-5px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4970f7de-506d-4e2c-9412-8ebd268c5da3",
+        "name": "avatar-to-avatar-75"
+      }
+    }
+  },
+  "avatar-to-avatar-100": {
+    "value": "-6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "273888c7-abc9-4af8-802a-e8ecf864f2fa",
+        "name": "avatar-to-avatar-100"
+      }
+    }
+  },
+  "avatar-to-avatar-200": {
+    "value": "-7px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "629d5ce9-487d-4ee9-be0d-5ff24c66d174",
+        "name": "avatar-to-avatar-200"
+      }
+    }
+  },
+  "avatar-to-avatar-300": {
+    "value": "-8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "e345324b-640f-4f45-88c6-4765ca97ea22",
+        "name": "avatar-to-avatar-300"
+      }
+    }
+  },
+  "avatar-to-avatar-400": {
+    "value": "-9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "63c5deff-94da-4981-ba9a-fd46b4372830",
+        "name": "avatar-to-avatar-400"
+      }
+    }
+  },
+  "avatar-to-avatar-500": {
+    "value": "-10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "8b6b74b4-e7c3-4f7c-a2b6-f410fcc17a83",
+        "name": "avatar-to-avatar-500"
       }
     }
   },
@@ -3697,6 +3957,66 @@
       "spectrum-tokens": {
         "uuid": "04485265-2983-4377-9ec5-f2456863a1df",
         "name": "status-light-dot-size-small"
+      }
+    }
+  },
+  "standard-panel-top-to-close-button-compact": {
+    "value": "5px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "66f385cd-b60b-42dd-bfdc-aba2db6e35a2",
+        "name": "standard-panel-top-to-close-button-compact"
+      }
+    }
+  },
+  "standard-panel-top-to-close-button-regular": {
+    "value": "9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "968a056e-4397-4a71-91f1-a0f1ebb6f751",
+        "name": "standard-panel-top-to-close-button-regular"
+      }
+    }
+  },
+  "standard-panel-top-to-close-button-spacious": {
+    "value": "17px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "96572147-20a9-4089-9904-0a0efa42a5af",
+        "name": "standard-panel-top-to-close-button-spacious"
+      }
+    }
+  },
+  "standard-panel-edge-to-close-button-compact": {
+    "value": "3px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6364d657-804c-4753-832d-09bfdf5ad36a",
+        "name": "standard-panel-edge-to-close-button-compact"
+      }
+    }
+  },
+  "standard-panel-edge-to-close-button-regular": {
+    "value": "7px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "f2c9847f-2c3f-4e2e-94ed-59b6cc58f34a",
+        "name": "standard-panel-edge-to-close-button-regular"
+      }
+    }
+  },
+  "standard-panel-edge-to-close-button-spacious": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b9c04337-a6f5-42db-9bf9-a761c0d9f876",
+        "name": "standard-panel-edge-to-close-button-spacious"
       }
     }
   },

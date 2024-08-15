@@ -1,5 +1,17 @@
 {
   "Component": {
+    "avatar": {
+      "border": {
+        "value": "{Palette.gray.25}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "bae79ea7-2b3e-4d43-af42-7deab67acc7c",
+            "name": "avatar-border-color"
+          }
+        }
+      }
+    },
     "card": {
       "selection-background": {
         "value": "{Palette.gray.100}",
@@ -242,6 +254,28 @@
           "spectrum-tokens": {
             "uuid": "c49cd7ae-7657-458b-871a-6b4f28bca535",
             "name": "swatch-disabled-icon-border-color"
+          }
+        }
+      }
+    },
+    "standard-panel": {
+      "gripper": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "71840c7b-acdd-45b9-a228-5091591f5405",
+            "name": "standard-panel-gripper-color"
+          }
+        }
+      },
+      "gripper-drag": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "e0533561-893d-4947-a0bb-d29c0bb42a2b",
+            "name": "standard-panel-gripper-color-drag"
           }
         }
       }

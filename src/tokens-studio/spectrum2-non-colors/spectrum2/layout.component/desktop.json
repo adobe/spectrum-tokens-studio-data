@@ -3650,6 +3650,66 @@
       }
     }
   },
+  "rating-top-to-content-area-small": {
+    "value": "{spacing-75}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-top-to-content-area-small"
+      }
+    }
+  },
+  "rating-bottom-to-content-area-small": {
+    "value": "{spacing-75}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-bottom-to-content-area-small"
+      }
+    }
+  },
+  "rating-edge-to-content-area-small": {
+    "value": "{spacing-75}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-edge-to-content-area-small"
+      }
+    }
+  },
+  "rating-top-to-content-area-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-top-to-content-area-medium"
+      }
+    }
+  },
+  "rating-bottom-to-content-area-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-bottom-to-content-area-medium"
+      }
+    }
+  },
+  "rating-edge-to-content-area-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-edge-to-content-area-medium"
+      }
+    }
+  },
   "🚫 rating-indicator-width": {
     "value": "18px",
     "type": "sizing",

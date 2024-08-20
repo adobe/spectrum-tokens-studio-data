@@ -336,7 +336,7 @@
             }
           },
           "positive": {
-            "value": "{Alias.semantic.positive.700}",
+            "value": "{Alias.semantic.positive.800}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -346,7 +346,7 @@
             }
           },
           "notice": {
-            "value": "{Alias.semantic.notice.700}",
+            "value": "{Alias.semantic.notice.800}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -940,7 +940,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.blue.200}",
+            "value": "{Alias.semantic.informative.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -992,7 +992,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.green.200}",
+            "value": "{Alias.semantic.positive.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1014,7 +1014,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.orange.200}",
+            "value": "{Alias.semantic.notice.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1066,7 +1066,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.red.200}",
+            "value": "{Alias.semantic.negative.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {

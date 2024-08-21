@@ -896,6 +896,16 @@
                 "name": "accent-background-color-key-focus"
               }
             }
+          },
+          "subtle-default": {
+            "value": "{Alias.semantic.accent.200}",
+            "type": "color",
+            "$extensions": {
+              "spectrum-tokens": {
+                "uuid": "",
+                "name": "accent-subtle-background-color-default"
+              }
+            }
           }
         },
         "informative": {
@@ -1339,6 +1349,196 @@
             "spectrum-tokens": {
               "uuid": "f8e435de-1630-4628-8b6d-128987d66ddc",
               "name": "yellow-background-color-default"
+            }
+          }
+        },
+        "subtle-gray": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "gray-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-blue": {
+          "value": "{Palette.blue.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "blue-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-green": {
+          "value": "{Palette.green.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "green-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-orange": {
+          "value": "{Palette.orange.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "orange-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-red": {
+          "value": "{Palette.red.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "red-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-brown": {
+          "value": "{Palette.brown.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "brown-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-cinnamon": {
+          "value": "{Palette.cinnamon.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "cinnamon-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-celery": {
+          "value": "{Palette.celery.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "celery-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-chartreuse": {
+          "value": "{Palette.chartreuse.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "chartreuse-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-cyan": {
+          "value": "{Palette.cyan.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "cyan-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-fuchsia": {
+          "value": "{Palette.fuchsia.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "fuchsia-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-indigo": {
+          "value": "{Palette.indigo.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "indigo-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-magenta": {
+          "value": "{Palette.magenta.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "magenta-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-pink": {
+          "value": "{Palette.pink.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "pink-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-purple": {
+          "value": "{Palette.purple.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "purple-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-seafoam": {
+          "value": "{Palette.seafoam.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "seafoam-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-silver": {
+          "value": "{Palette.silver.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "silver-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-turquoise": {
+          "value": "{Palette.turquoise.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "turquoise-subtle-background-color-default"
+            }
+          }
+        },
+        "subtle-yellow": {
+          "value": "{Palette.yellow.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "yellow-subtle-background-color-default"
             }
           }
         }

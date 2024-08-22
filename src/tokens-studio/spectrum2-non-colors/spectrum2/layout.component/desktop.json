@@ -4931,7 +4931,7 @@
     }
   },
   "table-column-header-row-top-to-text-medium": {
-    "value": "7px",
+    "value": "6px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -4981,7 +4981,7 @@
     }
   },
   "table-header-row-checkbox-to-top-medium": {
-    "value": "9px",
+    "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5010,13 +5010,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-extra-large-regular": {
+  "table-row-bottom-to-text-extra-large": {
     "value": "17px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "d13d2f2e-9425-403d-a95f-889d67f03425",
-        "name": "table-row-bottom-to-text-extra-large-regular"
+        "name": "table-row-bottom-to-text-extra-large"
       }
     }
   },
@@ -5040,13 +5040,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-large-regular": {
+  "table-row-bottom-to-text-large": {
     "value": "14px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "775139b2-3fb4-4019-8a3e-2377211ed0ec",
-        "name": "table-row-bottom-to-text-large-regular"
+        "name": "table-row-bottom-to-text-large"
       }
     }
   },
@@ -5070,13 +5070,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-medium-regular": {
-    "value": "12px",
+  "table-row-bottom-to-text-medium": {
+    "value": "13px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "c66ff3f2-3661-464c-b722-151f72d03f2a",
-        "name": "table-row-bottom-to-text-medium-regular"
+        "name": "table-row-bottom-to-text-medium"
       }
     }
   },
@@ -5100,13 +5100,13 @@
       }
     }
   },
-  "table-row-bottom-to-text-small-regular": {
+  "table-row-bottom-to-text-small": {
     "value": "9px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "90ae4c5b-a49d-40ad-8dd8-b25720c13f79",
-        "name": "table-row-bottom-to-text-small-regular"
+        "name": "table-row-bottom-to-text-small"
       }
     }
   },
@@ -5130,13 +5130,13 @@
       }
     }
   },
-  "table-row-checkbox-to-top-extra-large-regular": {
+  "table-row-checkbox-to-top-extra-large": {
     "value": "19px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "9b775e1f-9348-431d-9ba8-bffb19bcbf85",
-        "name": "table-row-checkbox-to-top-extra-large-regular"
+        "name": "table-row-checkbox-to-top-extra-large"
       }
     }
   },
@@ -5160,13 +5160,13 @@
       }
     }
   },
-  "table-row-checkbox-to-top-large-regular": {
+  "table-row-checkbox-to-top-large": {
     "value": "16px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "559b9fc0-389e-4e2f-985c-8741f218850a",
-        "name": "table-row-checkbox-to-top-large-regular"
+        "name": "table-row-checkbox-to-top-large"
       }
     }
   },
@@ -5181,7 +5181,7 @@
     }
   },
   "table-row-checkbox-to-top-medium-compact": {
-    "value": "9px",
+    "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5190,18 +5190,18 @@
       }
     }
   },
-  "table-row-checkbox-to-top-medium-regular": {
-    "value": "13px",
+  "table-row-checkbox-to-top-medium": {
+    "value": "12px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "2c8f9b97-f4df-48c2-ab1a-82373d335b83",
-        "name": "table-row-checkbox-to-top-medium-regular"
+        "name": "table-row-checkbox-to-top-medium"
       }
     }
   },
   "table-row-checkbox-to-top-medium-spacious": {
-    "value": "17px",
+    "value": "16px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -5220,13 +5220,13 @@
       }
     }
   },
-  "table-row-checkbox-to-top-small-regular": {
+  "table-row-checkbox-to-top-small": {
     "value": "10px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "4435c143-a75a-47c1-a629-3574b70247a3",
-        "name": "table-row-checkbox-to-top-small-regular"
+        "name": "table-row-checkbox-to-top-small"
       }
     }
   },
@@ -5250,13 +5250,13 @@
       }
     }
   },
-  "table-row-height-extra-large-regular": {
+  "table-row-height-extra-large": {
     "value": "56px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "face2717-9c2c-4e18-9632-4e4a595b1fc7",
-        "name": "table-row-height-extra-large-regular"
+        "name": "table-row-height-extra-large"
       }
     }
   },
@@ -5280,13 +5280,13 @@
       }
     }
   },
-  "table-row-height-large-regular": {
+  "table-row-height-large": {
     "value": "48px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "3b22a4c7-525c-4482-9e58-19cbe46d318b",
-        "name": "table-row-height-large-regular"
+        "name": "table-row-height-large"
       }
     }
   },
@@ -5310,13 +5310,13 @@
       }
     }
   },
-  "table-row-height-medium-regular": {
+  "table-row-height-medium": {
     "value": "40px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "1dc88a25-18bc-491a-ab02-2c1ec36f4c1e",
-        "name": "table-row-height-medium-regular"
+        "name": "table-row-height-medium"
       }
     }
   },
@@ -5340,13 +5340,13 @@
       }
     }
   },
-  "table-row-height-small-regular": {
+  "table-row-height-small": {
     "value": "32px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "fd53964b-cf4a-4cdf-b088-418364b1c518",
-        "name": "table-row-height-small-regular"
+        "name": "table-row-height-small"
       }
     }
   },
@@ -5370,13 +5370,13 @@
       }
     }
   },
-  "table-row-top-to-text-extra-large-regular": {
+  "table-row-top-to-text-extra-large": {
     "value": "17px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "03555438-78f5-429a-a0dd-c6777dc36372",
-        "name": "table-row-top-to-text-extra-large-regular"
+        "name": "table-row-top-to-text-extra-large"
       }
     }
   },
@@ -5400,13 +5400,13 @@
       }
     }
   },
-  "table-row-top-to-text-large-regular": {
+  "table-row-top-to-text-large": {
     "value": "14px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "2ed03fb3-fed4-41d4-8a14-f7446bb76486",
-        "name": "table-row-top-to-text-large-regular"
+        "name": "table-row-top-to-text-large"
       }
     }
   },
@@ -5430,13 +5430,13 @@
       }
     }
   },
-  "table-row-top-to-text-medium-regular": {
-    "value": "11px",
+  "table-row-top-to-text-medium": {
+    "value": "10px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "8e1448f8-5806-4629-8131-4e8422b26870",
-        "name": "table-row-top-to-text-medium-regular"
+        "name": "table-row-top-to-text-medium"
       }
     }
   },
@@ -5460,13 +5460,13 @@
       }
     }
   },
-  "table-row-top-to-text-small-regular": {
+  "table-row-top-to-text-small": {
     "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "5e5a6837-34c9-4f01-8769-b66c3f602d1f",
-        "name": "table-row-top-to-text-small-regular"
+        "name": "table-row-top-to-text-small"
       }
     }
   },
@@ -5560,13 +5560,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-extra-large-regular": {
+  "table-thumbnail-to-top-minimum-extra-large": {
     "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "17c4c578-d3e1-44c0-bd21-ee4df5cb2027",
-        "name": "table-thumbnail-to-top-minimum-extra-large-regular"
+        "name": "table-thumbnail-to-top-minimum-extra-large"
       }
     }
   },
@@ -5590,13 +5590,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-large-regular": {
+  "table-thumbnail-to-top-minimum-large": {
     "value": "8px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "de6e6ae5-eae6-4f7a-89be-176674176242",
-        "name": "table-thumbnail-to-top-minimum-large-regular"
+        "name": "table-thumbnail-to-top-minimum-large"
       }
     }
   },
@@ -5620,13 +5620,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-medium-regular": {
+  "table-thumbnail-to-top-minimum-medium": {
     "value": "7px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "12a6fd11-d3a5-4d72-9942-89d828d1d256",
-        "name": "table-thumbnail-to-top-minimum-medium-regular"
+        "name": "table-thumbnail-to-top-minimum-medium"
       }
     }
   },
@@ -5650,13 +5650,13 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-small-regular": {
+  "table-thumbnail-to-top-minimum-small": {
     "value": "5px",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "db98283d-1f25-4323-9f3a-0555b9670ba6",
-        "name": "table-thumbnail-to-top-minimum-small-regular"
+        "name": "table-thumbnail-to-top-minimum-small"
       }
     }
   },

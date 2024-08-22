@@ -1721,6 +1721,16 @@
       }
     }
   },
+  "side-focus-indicator": {
+    "value": "4px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "side-focus-indicator"
+      }
+    }
+  },
   "focus-indicator-gap": {
     "value": "2px",
     "type": "spacing",

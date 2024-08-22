@@ -336,7 +336,7 @@
             }
           },
           "positive": {
-            "value": "{Alias.semantic.positive.800}",
+            "value": "{Alias.semantic.positive.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -356,7 +356,7 @@
             }
           },
           "negative": {
-            "value": "{Alias.semantic.negative.700}",
+            "value": "{Alias.semantic.negative.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -761,7 +761,7 @@
           }
         },
         "subtle-default": {
-          "value": "{Palette.gray.100}",
+          "value": "{Palette.gray.300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -950,7 +950,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.blue.200}",
+            "value": "{Alias.semantic.informative.300}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1002,7 +1002,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.green.200}",
+            "value": "{Alias.semantic.positive.300}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1024,7 +1024,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.orange.200}",
+            "value": "{Alias.semantic.notice.300}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1076,7 +1076,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Palette.red.200}",
+            "value": "{Alias.semantic.negative.300}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {

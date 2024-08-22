@@ -2674,7 +2674,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "4413ee4d-86b1-4d88-b2ee-64c0939698b9",
         "name": "illustrated-message-horizontal-maximum-width"
       }
     }
@@ -2684,7 +2684,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "95c055b0-f688-4405-8426-1b2302e32ebd",
         "name": "illustrated-message-vertical-maximum-width"
       }
     }
@@ -5015,8 +5015,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "c9ac99be-86c3-4f6c-a2a5-3487041bc95e",
-        "name": "table-row-bottom-to-text-extra-large"
+        "uuid": "f25c6bfd-0a0d-4fd1-ab7b-9cd1d13053e1",
+        "name": "table-row-bottom-to-text-extra-large",
+        "deprecated-uuids": "c9ac99be-86c3-4f6c-a2a5-3487041bc95e"
       }
     }
   },
@@ -5045,8 +5046,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "151bf172-2889-4c98-8f15-5b6cdcb30d4b",
-        "name": "table-row-bottom-to-text-large"
+        "uuid": "0de2f0a5-b32a-4f7b-b46c-1a6c25abc1ec",
+        "name": "table-row-bottom-to-text-large",
+        "deprecated-uuids": "151bf172-2889-4c98-8f15-5b6cdcb30d4b"
       }
     }
   },
@@ -5075,8 +5077,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "e80339a8-22c4-4b53-9a4a-a4456f6cab3f",
-        "name": "table-row-bottom-to-text-medium"
+        "uuid": "6ff9a81f-a2f8-4966-a48b-c8561aa4f833",
+        "name": "table-row-bottom-to-text-medium",
+        "deprecated-uuids": "e80339a8-22c4-4b53-9a4a-a4456f6cab3f"
       }
     }
   },
@@ -5105,8 +5108,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "d3147ee6-dc34-46e2-8379-02d9690ff80a",
-        "name": "table-row-bottom-to-text-small"
+        "uuid": "d6100789-7076-403a-b878-7bb204093c52",
+        "name": "table-row-bottom-to-text-small",
+        "deprecated-uuids": "d3147ee6-dc34-46e2-8379-02d9690ff80a"
       }
     }
   },
@@ -5135,8 +5139,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "2171aee7-d013-459e-a13f-33075090cbe3",
-        "name": "table-row-checkbox-to-top-extra-large"
+        "uuid": "fb02243f-0490-4eb2-aac2-fa364c6eab59",
+        "name": "table-row-checkbox-to-top-extra-large",
+        "deprecated-uuids": "2171aee7-d013-459e-a13f-33075090cbe3"
       }
     }
   },
@@ -5165,8 +5170,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "2e16e4ef-fec6-41fb-9d96-bc6bb6c88f69",
-        "name": "table-row-checkbox-to-top-large"
+        "uuid": "a0fa4e03-c1de-400d-8629-0ae9ffb9b9d8",
+        "name": "table-row-checkbox-to-top-large",
+        "deprecated-uuids": "2e16e4ef-fec6-41fb-9d96-bc6bb6c88f69"
       }
     }
   },
@@ -5195,8 +5201,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "36505a4f-01b6-4b83-adf1-592818eb2c0d",
-        "name": "table-row-checkbox-to-top-medium"
+        "uuid": "2ae09505-d43f-4e2c-b8a6-014ccfef5c10",
+        "name": "table-row-checkbox-to-top-medium",
+        "deprecated-uuids": "36505a4f-01b6-4b83-adf1-592818eb2c0d"
       }
     }
   },
@@ -5225,8 +5232,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "a63aa24e-c956-4af5-bf4f-4c5d44bd1e16",
-        "name": "table-row-checkbox-to-top-small"
+        "uuid": "365d9c3f-d287-4feb-b020-89434dd29378",
+        "name": "table-row-checkbox-to-top-small",
+        "deprecated-uuids": "a63aa24e-c956-4af5-bf4f-4c5d44bd1e16"
       }
     }
   },
@@ -5255,8 +5263,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "b7753c9a-8854-4927-89dd-80d47bff5fa5",
-        "name": "table-row-height-extra-large"
+        "uuid": "c2e3068b-c0be-4615-bbf7-c65e58ef126b",
+        "name": "table-row-height-extra-large",
+        "deprecated-uuids": "b7753c9a-8854-4927-89dd-80d47bff5fa5"
       }
     }
   },
@@ -5285,8 +5294,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "b92bc058-27ea-4e86-a1a2-e5dbae3c2ee8",
-        "name": "table-row-height-large"
+        "uuid": "ff04cae7-7f96-4db2-bf64-948c22d104ff",
+        "name": "table-row-height-large",
+        "deprecated-uuids": "b92bc058-27ea-4e86-a1a2-e5dbae3c2ee8"
       }
     }
   },
@@ -5315,8 +5325,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "72e6564c-2acf-4f77-80d9-b21d2d55a580",
-        "name": "table-row-height-medium"
+        "uuid": "2cf7918c-f84a-4903-a6ba-b110807842ba",
+        "name": "table-row-height-medium",
+        "deprecated-uuids": "72e6564c-2acf-4f77-80d9-b21d2d55a580"
       }
     }
   },
@@ -5345,8 +5356,9 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "cdbb999d-c2a9-4325-9689-bede2ad3559a",
-        "name": "table-row-height-small"
+        "uuid": "77a26f7c-2f71-4021-a1f2-a2af7c69a111",
+        "name": "table-row-height-small",
+        "deprecated-uuids": "cdbb999d-c2a9-4325-9689-bede2ad3559a"
       }
     }
   },
@@ -5375,8 +5387,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "c381a3c4-e0a3-4e86-b279-f51ee6e9e532",
-        "name": "table-row-top-to-text-extra-large"
+        "uuid": "40de40fd-4bae-4a49-8aec-38dad2a1c5fb",
+        "name": "table-row-top-to-text-extra-large",
+        "deprecated-uuids": "c381a3c4-e0a3-4e86-b279-f51ee6e9e532"
       }
     }
   },
@@ -5405,8 +5418,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "0108018e-6146-45c9-b032-e3d44dfb8d84",
-        "name": "table-row-top-to-text-large"
+        "uuid": "4d55e632-588b-4e82-90c0-4fa434998d15",
+        "name": "table-row-top-to-text-large",
+        "deprecated-uuids": "0108018e-6146-45c9-b032-e3d44dfb8d84"
       }
     }
   },
@@ -5435,8 +5449,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "7df1dc32-b96d-41e3-a372-9bcaec7c2ccb",
-        "name": "table-row-top-to-text-medium"
+        "uuid": "0cd86854-57ca-4023-b544-8a4a76418164",
+        "name": "table-row-top-to-text-medium",
+        "deprecated-uuids": "7df1dc32-b96d-41e3-a372-9bcaec7c2ccb"
       }
     }
   },
@@ -5465,8 +5480,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "98014297-14dc-4547-944a-8951c7f6f253",
-        "name": "table-row-top-to-text-small"
+        "uuid": "dfa553a2-b771-4a31-9294-3800d2126952",
+        "name": "table-row-top-to-text-small",
+        "deprecated-uuids": "98014297-14dc-4547-944a-8951c7f6f253"
       }
     }
   },
@@ -5565,8 +5581,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "b60c33b8-acc1-4af1-b30f-b467054ee417",
-        "name": "table-thumbnail-to-top-minimum-extra-large"
+        "uuid": "17051925-5eda-45a3-8d45-d329e88bf63a",
+        "name": "table-thumbnail-to-top-minimum-extra-large",
+        "deprecated-uuids": "b60c33b8-acc1-4af1-b30f-b467054ee417"
       }
     }
   },
@@ -5595,8 +5612,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "fc7efe7c-ef97-424f-89c2-2211daf44b4a",
-        "name": "table-thumbnail-to-top-minimum-large"
+        "uuid": "92ade1a0-ea78-4930-82e7-fedafce42aed",
+        "name": "table-thumbnail-to-top-minimum-large",
+        "deprecated-uuids": "fc7efe7c-ef97-424f-89c2-2211daf44b4a"
       }
     }
   },
@@ -5625,8 +5643,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "75af7a67-e0ae-4f41-9c70-09babbc587d1",
-        "name": "table-thumbnail-to-top-minimum-medium"
+        "uuid": "2268750d-4c5f-46f1-bad7-dec21818bfe6",
+        "name": "table-thumbnail-to-top-minimum-medium",
+        "deprecated-uuids": "75af7a67-e0ae-4f41-9c70-09babbc587d1"
       }
     }
   },
@@ -5655,8 +5674,9 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "e25b14a7-cb9e-406b-bab6-b27575f00a52",
-        "name": "table-thumbnail-to-top-minimum-small"
+        "uuid": "43955cdb-afaf-4e59-bb26-3063661141d7",
+        "name": "table-thumbnail-to-top-minimum-small",
+        "deprecated-uuids": "e25b14a7-cb9e-406b-bab6-b27575f00a52"
       }
     }
   },

@@ -89,6 +89,16 @@
       }
     }
   },
+  "font-size-25": {
+    "value": "12px",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "font-size-25"
+      }
+    }
+  },
   "font-size-50": {
     "value": "13px",
     "type": "fontSizes",
@@ -239,6 +249,26 @@
       }
     }
   },
+  "font-size-1400": {
+    "value": "79px",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "font-size-1400"
+      }
+    }
+  },
+  "font-size-1500": {
+    "value": "88px",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "font-size-1500"
+      }
+    }
+  },
   "italic-font-style": {
     "value": "Italic",
     "type": "other",
@@ -246,6 +276,36 @@
       "spectrum-tokens": {
         "uuid": "9a58e4ae-dfa1-428b-9d90-11f4275418da",
         "name": "italic-font-style"
+      }
+    }
+  },
+  "text-align-start": {
+    "value": "start",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-align-start"
+      }
+    }
+  },
+  "text-align-center": {
+    "value": "center",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-align-center"
+      }
+    }
+  },
+  "text-align-end": {
+    "value": "end",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-align-end"
       }
     }
   },

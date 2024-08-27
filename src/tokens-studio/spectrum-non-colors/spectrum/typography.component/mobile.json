@@ -1320,7 +1320,7 @@
     }
   },
   "heading-cjk-heavy-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -1480,7 +1480,7 @@
     }
   },
   "heading-cjk-size-s": {
-    "value": "{font-size-300}",
+    "value": "{font-size-200}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1500,7 +1500,7 @@
     }
   },
   "heading-cjk-size-xs": {
-    "value": "{font-size-200}",
+    "value": "{font-size-100}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1510,7 +1510,7 @@
     }
   },
   "heading-cjk-size-xxl": {
-    "value": "{font-size-900}",
+    "value": "{font-size-1000}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1520,7 +1520,7 @@
     }
   },
   "heading-cjk-size-xxs": {
-    "value": "{font-size-100}",
+    "value": "{font-size-75}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1530,7 +1530,7 @@
     }
   },
   "heading-cjk-size-xxxl": {
-    "value": "{font-size-1300}",
+    "value": "{font-size-1200}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {

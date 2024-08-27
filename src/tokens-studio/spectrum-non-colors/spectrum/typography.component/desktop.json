@@ -1239,6 +1239,46 @@
       }
     }
   },
+  "detail-cjk-size-xl": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-xl"
+      }
+    }
+  },
+  "detail-cjk-size-l": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-l"
+      }
+    }
+  },
+  "detail-cjk-size-m": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-m"
+      }
+    }
+  },
+  "detail-cjk-size-s": {
+    "value": "{font-size-25}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-s"
+      }
+    }
+  },
   "heading-cjk-emphasized-font-style": {
     "value": "{default-font-style}",
     "type": "other",

@@ -6070,6 +6070,16 @@
       }
     }
   },
+  "segmented-control-item-height": {
+    "value": "{component-height-100}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "segmented-control-item-height"
+      }
+    }
+  },
   "tray-top-to-content-area": {
     "value": "5px",
     "type": "spacing",

@@ -29,8 +29,18 @@
       }
     }
   },
+  "letter-spacing": {
+    "value": "0em",
+    "type": "letterSpacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "letter-spacing"
+      }
+    }
+  },
   "cjk-letter-spacing": {
-    "value": "5%",
+    "value": "{letter-spacing}",
     "type": "letterSpacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -86,6 +96,16 @@
       "spectrum-tokens": {
         "uuid": "ccadf44e-5424-4920-979f-ea1ef39687c4",
         "name": "extra-bold-font-weight"
+      }
+    }
+  },
+  "font-size-25": {
+    "value": "12px",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "font-size-25"
       }
     }
   },

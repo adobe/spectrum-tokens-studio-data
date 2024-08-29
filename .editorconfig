@@ -7,7 +7,7 @@ root = true
 # Tokens Studio removes the new line at the end of the json files, so prettier should, too.
 insert_final_newline = false
 # Caveat: Prettier won’t trim trailing whitespace inside template strings, but your editor might.
-trim_trailing_whitespace = true
+trim_trailing_whitespace = false
 
 # Configurable Prettier behaviors
 # (change these if your Prettier config differs)

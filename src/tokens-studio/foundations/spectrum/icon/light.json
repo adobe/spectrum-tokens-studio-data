@@ -1,0 +1,64 @@
+{
+  "Icon": {
+    "fill-primary": {
+      "value": "{Alias.content.neutral.default}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "d143f2f2-e0d8-4eb3-b06c-86233321fb61",
+          "name": "icon-color-primary-default"
+        }
+      }
+    },
+    "background": {
+      "value": "{Palette.gray.50}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "9e04025f-b58c-491a-8569-1965ae074f7b",
+          "name": "icon-color-inverse"
+        }
+      }
+    },
+    "blue": {
+      "value": "{Palette.blue.900}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "f53f030b-755f-46ca-b411-7d62f4eb901e",
+          "name": "icon-color-blue-primary-default"
+        }
+      }
+    },
+    "green": {
+      "value": "{Palette.green.900}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "a0717159-cc62-4ba1-b1f1-a69dfb88c6ee",
+          "name": "icon-color-green-primary-default"
+        }
+      }
+    },
+    "red": {
+      "value": "{Palette.red.900}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "89656cae-d490-4b9f-93eb-75912b29ecf5",
+          "name": "icon-color-red-primary-default"
+        }
+      }
+    },
+    "yellow": {
+      "value": "{Palette.yellow.400}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "59cd6057-b3d8-4bdf-b752-7df17c2c4a95",
+          "name": "icon-color-yellow-primary-default"
+        }
+      }
+    }
+  }
+}

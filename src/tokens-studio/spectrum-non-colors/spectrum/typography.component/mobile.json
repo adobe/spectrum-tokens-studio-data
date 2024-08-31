@@ -630,7 +630,7 @@
     }
   },
   "detail-cjk-emphasized-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -770,7 +770,7 @@
     }
   },
   "detail-cjk-strong-emphasized-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -790,7 +790,7 @@
     }
   },
   "detail-cjk-strong-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -1236,6 +1236,46 @@
       "spectrum-tokens": {
         "uuid": "ab476eec-b592-4890-af8f-74de808cb87f",
         "name": "detail-size-xl"
+      }
+    }
+  },
+  "detail-cjk-size-xl": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-xl"
+      }
+    }
+  },
+  "detail-cjk-size-l": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-l"
+      }
+    }
+  },
+  "detail-cjk-size-m": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-m"
+      }
+    }
+  },
+  "detail-cjk-size-s": {
+    "value": "{font-size-25}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-s"
       }
     }
   },

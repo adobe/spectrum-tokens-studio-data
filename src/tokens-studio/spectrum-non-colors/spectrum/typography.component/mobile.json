@@ -70,7 +70,7 @@
     }
   },
   "body-cjk-strong-emphasized-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -90,7 +90,7 @@
     }
   },
   "body-cjk-strong-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -1536,6 +1536,76 @@
       "spectrum-tokens": {
         "uuid": "5a44e177-2478-4bb0-9212-ba2df64c8b00",
         "name": "heading-cjk-size-xxxl"
+      }
+    }
+  },
+  "body-cjk-size-xxxl": {
+    "value": "{font-size-500}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-xxxl"
+      }
+    }
+  },
+  "body-cjk-size-xxl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-xxl"
+      }
+    }
+  },
+  "body-cjk-size-xl": {
+    "value": "{font-size-300}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-xl"
+      }
+    }
+  },
+  "body-cjk-size-l": {
+    "value": "{font-size-200}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-l"
+      }
+    }
+  },
+  "body-cjk-size-m": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-m"
+      }
+    }
+  },
+  "body-cjk-size-s": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-s"
+      }
+    }
+  },
+  "body-cjk-size-xs": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-xs"
       }
     }
   },

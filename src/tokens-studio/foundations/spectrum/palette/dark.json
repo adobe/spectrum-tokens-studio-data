@@ -1,0 +1,3336 @@
+{
+  "Palette": {
+    "black": {
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "black",
+          "uuid": "28dea8b0-4e9a-46f9-babb-c8910e6ae783"
+        }
+      },
+      "type": "color",
+      "value": "#000000"
+    },
+    "blue": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-100",
+            "uuid": "7d56ac58-fd58-41b3-9bbd-448ae0a7dd85"
+          }
+        },
+        "type": "color",
+        "value": "#0e173f"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-200",
+            "uuid": "7b7d1fd8-cc1e-4053-b320-e481b8f64c46"
+          }
+        },
+        "type": "color",
+        "value": "#0f1c52"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-300",
+            "uuid": "d88d1685-29dc-486b-a0b9-9c90f60b8cde"
+          }
+        },
+        "type": "color",
+        "value": "#0c2175"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-400",
+            "uuid": "29d339bb-ef80-40f8-a69b-afa778b60805"
+          }
+        },
+        "type": "color",
+        "value": "#122d9a"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-500",
+            "uuid": "a61ed901-7f77-4667-9d19-fff6bab20623"
+          }
+        },
+        "type": "color",
+        "value": "#1a3ac3"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-600",
+            "uuid": "7e770996-780a-4494-91ea-08c1ae6cfa80"
+          }
+        },
+        "type": "color",
+        "value": "#2549e5"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-700",
+            "uuid": "5cc66280-e13a-459d-8529-c3f531aa5e4e"
+          }
+        },
+        "type": "color",
+        "value": "#345bf8"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-800",
+            "uuid": "cf0bafc5-f5c6-4986-a17a-6660dc542b71"
+          }
+        },
+        "type": "color",
+        "value": "#456efe"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-900",
+            "uuid": "82b09b04-6a70-4a95-9eb5-a321a66a6465"
+          }
+        },
+        "type": "color",
+        "value": "#5681ff"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-1000",
+            "uuid": "147ed079-b4f0-4cd7-89cd-7ec93750d688"
+          }
+        },
+        "type": "color",
+        "value": "#6995fe"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-1100",
+            "uuid": "2a5d2e32-930d-4c50-b1fd-6781a1dc1db5"
+          }
+        },
+        "type": "color",
+        "value": "#7ca9fc"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-1200",
+            "uuid": "ce7da4ba-77ed-4bdd-a154-90f389af6c2a"
+          }
+        },
+        "type": "color",
+        "value": "#98c0fc"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-1300",
+            "uuid": "2bc63c0d-691c-4cc4-95b6-b4e530a44978"
+          }
+        },
+        "type": "color",
+        "value": "#b5d5fd"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-1400",
+            "uuid": "eb86d777-ec23-47e4-adc6-1203709dc00d"
+          }
+        },
+        "type": "color",
+        "value": "#d5e7fe"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-1500",
+            "uuid": "616c28b4-d9bf-4ff3-9075-6acaad6c112c"
+          }
+        },
+        "type": "color",
+        "value": "#eef5ff"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "blue-1600",
+            "uuid": "7e8a7cd3-c803-41a9-9178-b43f9eb2e735"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "brown": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-100",
+            "uuid": "478633c7-4a14-4e39-a05c-bfa07aeb4a85"
+          }
+        },
+        "type": "color",
+        "value": "#231808"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-200",
+            "uuid": "ec81816f-120e-46f9-a5b0-adb94814d1eb"
+          }
+        },
+        "type": "color",
+        "value": "#2c1f0b"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-300",
+            "uuid": "3c253e65-bd9a-4e52-ad68-83aca3b197e6"
+          }
+        },
+        "type": "color",
+        "value": "#3a280e"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-400",
+            "uuid": "a9daa02d-c0aa-4c05-80ee-2bf55165dd36"
+          }
+        },
+        "type": "color",
+        "value": "#4e3713"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-500",
+            "uuid": "f455957b-e647-44b3-a917-7d6e19807d40"
+          }
+        },
+        "type": "color",
+        "value": "#62471e"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-600",
+            "uuid": "41f83cff-cdd4-4760-a4bd-0bb1ceb46854"
+          }
+        },
+        "type": "color",
+        "value": "#73582f"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-700",
+            "uuid": "dc738913-4af6-446e-8a1b-09c84993c8e5"
+          }
+        },
+        "type": "color",
+        "value": "#84683d"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-800",
+            "uuid": "e21a0edf-a81a-46a0-a849-11111cb89516"
+          }
+        },
+        "type": "color",
+        "value": "#947649"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-900",
+            "uuid": "79d7de9d-7bab-4762-acd9-ecf28556906a"
+          }
+        },
+        "type": "color",
+        "value": "#a38454"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-1000",
+            "uuid": "6fd7a375-e670-4bde-8061-b1b2ba5116be"
+          }
+        },
+        "type": "color",
+        "value": "#b59362"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-1100",
+            "uuid": "26df5572-cbdb-4988-8847-672ee1669acd"
+          }
+        },
+        "type": "color",
+        "value": "#c7a370"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-1200",
+            "uuid": "c1965544-ed0e-438f-aed0-b1f31836950c"
+          }
+        },
+        "type": "color",
+        "value": "#deb982"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-1300",
+            "uuid": "41d1432f-1b3a-4e93-8b57-2e48d0e66096"
+          }
+        },
+        "type": "color",
+        "value": "#e8cfa9"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-1400",
+            "uuid": "91db9b52-530b-4147-be4f-c4d73a82eac3"
+          }
+        },
+        "type": "color",
+        "value": "#f2e3ce"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-1500",
+            "uuid": "d4d71d28-ce37-4f3f-8487-807cd1c42b9a"
+          }
+        },
+        "type": "color",
+        "value": "#faf4ec"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "brown-1600",
+            "uuid": "bca1e3d9-9242-4b81-95ab-08735905047b"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "celery": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-100",
+            "uuid": "43feed9a-9a2a-44e0-9506-9bc5eb8eab1d"
+          }
+        },
+        "type": "color",
+        "value": "#0b1f00"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-200",
+            "uuid": "741a30fb-62a9-4c76-a78e-cc2590af9c7d"
+          }
+        },
+        "type": "color",
+        "value": "#0f2600"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-300",
+            "uuid": "5eda4487-8f82-48ed-8b22-aa38601bbf88"
+          }
+        },
+        "type": "color",
+        "value": "#153301"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-400",
+            "uuid": "646d80c1-7073-4e13-bbfe-4bd0c2226079"
+          }
+        },
+        "type": "color",
+        "value": "#1f4304"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-500",
+            "uuid": "7d4c282b-78ce-4b2c-ab39-26bf02366e4d"
+          }
+        },
+        "type": "color",
+        "value": "#295608"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-600",
+            "uuid": "260d8921-3810-4a5d-a20f-cd00170cf951"
+          }
+        },
+        "type": "color",
+        "value": "#32690b"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-700",
+            "uuid": "7e7e6abb-a2e9-4308-ac8e-e6866ec17c64"
+          }
+        },
+        "type": "color",
+        "value": "#3c7a0f"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-800",
+            "uuid": "3b130e0d-eb9b-49e6-84db-eda6ee95eee5"
+          }
+        },
+        "type": "color",
+        "value": "#458a13"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-900",
+            "uuid": "706f3a95-ab27-497f-aab7-f4ed806eef30"
+          }
+        },
+        "type": "color",
+        "value": "#4e9a17"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-1000",
+            "uuid": "021a55b8-26ae-4767-82fb-06b20c58762b"
+          }
+        },
+        "type": "color",
+        "value": "#58ac1c"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-1100",
+            "uuid": "e091babe-6e02-4393-a67e-63222ab860b4"
+          }
+        },
+        "type": "color",
+        "value": "#64be23"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-1200",
+            "uuid": "9913e84a-4070-476f-a570-a16781a924cf"
+          }
+        },
+        "type": "color",
+        "value": "#74d52e"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-1300",
+            "uuid": "d2d8dc91-da75-4c56-a0d8-e6e9802434ad"
+          }
+        },
+        "type": "color",
+        "value": "#88ea41"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-1400",
+            "uuid": "c5c3c68c-8293-4ebb-a8d1-9f4af902906e"
+          }
+        },
+        "type": "color",
+        "value": "#aafb70"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-1500",
+            "uuid": "ad9c1278-7296-4aef-9e19-6cabc2997bfa"
+          }
+        },
+        "type": "color",
+        "value": "#deffc6"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "celery-1600",
+            "uuid": "f1a7d5b6-4414-493a-a5d8-77d81a0121a2"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "chartreuse": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-100",
+            "uuid": "bdc6a473-3109-44c6-9e2f-198d3224d75f"
+          }
+        },
+        "type": "color",
+        "value": "#171c00"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-200",
+            "uuid": "b18f4550-5bbe-496c-b4a5-13df8fd0c7d7"
+          }
+        },
+        "type": "color",
+        "value": "#1e2400"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-300",
+            "uuid": "b98dec90-df71-4593-946d-91df7918caac"
+          }
+        },
+        "type": "color",
+        "value": "#272f00"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-400",
+            "uuid": "6a974b7d-ccd2-4778-baae-8caf419a529c"
+          }
+        },
+        "type": "color",
+        "value": "#353f00"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-500",
+            "uuid": "46d8fd3b-0e51-4cdd-a33c-de184b82dcc5"
+          }
+        },
+        "type": "color",
+        "value": "#445200"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-600",
+            "uuid": "965174d2-e743-41df-a8e2-570b2ae2f447"
+          }
+        },
+        "type": "color",
+        "value": "#536400"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-700",
+            "uuid": "a615bb51-0249-4201-b1c9-1c6269b82ec2"
+          }
+        },
+        "type": "color",
+        "value": "#617400"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-800",
+            "uuid": "343f1685-2314-4a64-bc7a-5b7b3fd9fdcf"
+          }
+        },
+        "type": "color",
+        "value": "#6d8300"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-900",
+            "uuid": "1637c50e-88e4-4273-8a75-6e8a233a690c"
+          }
+        },
+        "type": "color",
+        "value": "#7a9300"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-1000",
+            "uuid": "7dbedc59-e21c-4953-a7af-5e91d170604a"
+          }
+        },
+        "type": "color",
+        "value": "#88a400"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-1100",
+            "uuid": "90417b40-97dd-47b3-9dbc-4ac45f8e4a5f"
+          }
+        },
+        "type": "color",
+        "value": "#97b500"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-1200",
+            "uuid": "e4b04d5d-e99d-41c5-8b24-540d653ef3ff"
+          }
+        },
+        "type": "color",
+        "value": "#a9cb00"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-1300",
+            "uuid": "615841b9-08b2-4e21-981a-b8f5247e9e89"
+          }
+        },
+        "type": "color",
+        "value": "#bbe100"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-1400",
+            "uuid": "a75188c9-02e3-4337-8056-9a6f8f39001f"
+          }
+        },
+        "type": "color",
+        "value": "#dbf075"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-1500",
+            "uuid": "d7f569e2-f91c-439e-8e5a-8c8c825367ff"
+          }
+        },
+        "type": "color",
+        "value": "#f2f9ce"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "chartreuse-1600",
+            "uuid": "753f7aa2-6c7d-4b43-baf9-c72adbd9279d"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "cinnamon": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-100",
+            "uuid": "4d68b861-ba0c-438b-b10b-c209d4943206"
+          }
+        },
+        "type": "color",
+        "value": "#301104"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-200",
+            "uuid": "bd680dfb-0c2f-45e8-b814-627b496a986c"
+          }
+        },
+        "type": "color",
+        "value": "#3b1505"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-300",
+            "uuid": "4d086a5c-1b70-4750-be79-db934e7bc010"
+          }
+        },
+        "type": "color",
+        "value": "#4f1c07"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-400",
+            "uuid": "e5ab12a9-84b3-4bfe-94be-f734ae39f10d"
+          }
+        },
+        "type": "color",
+        "value": "#64290f"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-500",
+            "uuid": "641a2424-c699-4920-8a27-68bc1bb178a1"
+          }
+        },
+        "type": "color",
+        "value": "#7a391c"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-600",
+            "uuid": "6ccccd38-af76-4045-8ffb-a70bed76b365"
+          }
+        },
+        "type": "color",
+        "value": "#8f4a28"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-700",
+            "uuid": "74c0ef96-2f6e-434a-bd89-69c6d9745a45"
+          }
+        },
+        "type": "color",
+        "value": "#a35834"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-800",
+            "uuid": "58777c5b-8e62-49fe-8e0b-0f8b5127225c"
+          }
+        },
+        "type": "color",
+        "value": "#b36740"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-900",
+            "uuid": "7b65cc42-f559-42de-8077-d808c9e096b6"
+          }
+        },
+        "type": "color",
+        "value": "#c07750"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-1000",
+            "uuid": "40d50298-0ea6-4c7f-8349-2e149ca288aa"
+          }
+        },
+        "type": "color",
+        "value": "#ce8863"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-1100",
+            "uuid": "219f9efa-0717-4d41-80ac-695297b92cf8"
+          }
+        },
+        "type": "color",
+        "value": "#dc9a76"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-1200",
+            "uuid": "a48f0d44-c67a-4e95-b5b9-81379363aebe"
+          }
+        },
+        "type": "color",
+        "value": "#e8b395"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-1300",
+            "uuid": "4aae0490-5f12-430c-824f-f7de008a4e15"
+          }
+        },
+        "type": "color",
+        "value": "#efcbb7"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-1400",
+            "uuid": "1e29a372-600e-4cda-a190-b865c5521aa6"
+          }
+        },
+        "type": "color",
+        "value": "#f6e1d6"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-1500",
+            "uuid": "7b880574-db1b-47ee-8c66-6504ada37f56"
+          }
+        },
+        "type": "color",
+        "value": "#fcf4ef"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cinnamon-1600",
+            "uuid": "1d04ed6a-8efc-472b-b7c7-0fbc160ce7fd"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "cyan": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-100",
+            "uuid": "24a8bb5a-93c3-4dd1-9ea2-d48c11479fe7"
+          }
+        },
+        "type": "color",
+        "value": "#001d27"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-200",
+            "uuid": "3445cf4b-2460-4692-acf2-71844d687da4"
+          }
+        },
+        "type": "color",
+        "value": "#002431"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-300",
+            "uuid": "e4bcf4fc-aaec-49a5-a2bb-6bb55e7fff47"
+          }
+        },
+        "type": "color",
+        "value": "#003041"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-400",
+            "uuid": "94a5bd53-d69a-4063-b630-1976230d4f2d"
+          }
+        },
+        "type": "color",
+        "value": "#004058"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-500",
+            "uuid": "909baeef-fd2f-4550-89ea-fb7ac9ea2db5"
+          }
+        },
+        "type": "color",
+        "value": "#005271"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-600",
+            "uuid": "d753ef33-bfc0-424b-a2ac-ea87ecbee590"
+          }
+        },
+        "type": "color",
+        "value": "#03638c"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-700",
+            "uuid": "3cb348d4-14a9-43da-84c4-068cf46c8c6f"
+          }
+        },
+        "type": "color",
+        "value": "#0873a8"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-800",
+            "uuid": "ee8673ca-c39c-437e-b3a5-416f4e8664d3"
+          }
+        },
+        "type": "color",
+        "value": "#0f80c2"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-900",
+            "uuid": "9c183829-4858-4908-b1ac-d89f40f2e903"
+          }
+        },
+        "type": "color",
+        "value": "#188edc"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-1000",
+            "uuid": "04f3d463-9118-43d5-973d-8bf94417912d"
+          }
+        },
+        "type": "color",
+        "value": "#269ff4"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-1100",
+            "uuid": "62a7ebff-a49b-4e7a-981f-692a506b4146"
+          }
+        },
+        "type": "color",
+        "value": "#3fb1ff"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-1200",
+            "uuid": "36a2af99-eef4-476b-a3b8-58eade0931b7"
+          }
+        },
+        "type": "color",
+        "value": "#6bc7ff"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-1300",
+            "uuid": "5f3df12b-1330-4482-ad34-c623bd36253c"
+          }
+        },
+        "type": "color",
+        "value": "#98dbff"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-1400",
+            "uuid": "fe63b8a3-ebb9-45fe-99c2-e246b53e06a6"
+          }
+        },
+        "type": "color",
+        "value": "#c3ecfc"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-1500",
+            "uuid": "ce687c28-38ce-4fbe-8181-060e566b4196"
+          }
+        },
+        "type": "color",
+        "value": "#e6f8fd"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "cyan-1600",
+            "uuid": "291e6a5c-41b3-4bf1-ad10-38d427e80e48"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "fuchsia": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-100",
+            "uuid": "3a434405-c4b0-40ef-b383-7cb9a9b60cab"
+          }
+        },
+        "type": "color",
+        "value": "#32003d"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-200",
+            "uuid": "779ec441-475d-41de-b207-3e139c7c3168"
+          }
+        },
+        "type": "color",
+        "value": "#3d004a"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-300",
+            "uuid": "5fa7110f-0c33-4139-8277-eff40921939e"
+          }
+        },
+        "type": "color",
+        "value": "#4f005f"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-400",
+            "uuid": "a81bfdd6-4b80-4f1a-922d-2f6e04c27e01"
+          }
+        },
+        "type": "color",
+        "value": "#660978"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-500",
+            "uuid": "7ecdb8fa-7c4b-4392-bca8-a00a9b931cb4"
+          }
+        },
+        "type": "color",
+        "value": "#7f1792"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-600",
+            "uuid": "0fb76488-9965-4cf9-878f-ceed7fc2be43"
+          }
+        },
+        "type": "color",
+        "value": "#9726aa"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-700",
+            "uuid": "5f971453-aa30-4c1f-8cbc-be45ff042fcd"
+          }
+        },
+        "type": "color",
+        "value": "#ad33c0"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-800",
+            "uuid": "5848fed6-5b42-42ef-9800-8f32e42cf6ba"
+          }
+        },
+        "type": "color",
+        "value": "#c040d4"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-900",
+            "uuid": "3c6d42c9-4cba-4373-a61c-c8617c509f92"
+          }
+        },
+        "type": "color",
+        "value": "#d549eb"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-1000",
+            "uuid": "a13d5f15-e4cc-4f7c-928f-aaccbf0d590e"
+          }
+        },
+        "type": "color",
+        "value": "#e85bfd"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-1100",
+            "uuid": "0a4eb3af-d067-4d9f-af91-66c676e49e26"
+          }
+        },
+        "type": "color",
+        "value": "#f07aff"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-1200",
+            "uuid": "0d93ff9f-63e8-4caf-9e7b-714e56d968d4"
+          }
+        },
+        "type": "color",
+        "value": "#f59fff"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-1300",
+            "uuid": "abd44b32-b837-4e11-95c7-4ba1c34db44b"
+          }
+        },
+        "type": "color",
+        "value": "#f8bfff"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-1400",
+            "uuid": "7c819391-d74c-4326-ae0d-fe3534eb44e3"
+          }
+        },
+        "type": "color",
+        "value": "#fbdbff"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-1500",
+            "uuid": "ff510e34-7c7c-4795-a224-b1e1c5cc25e0"
+          }
+        },
+        "type": "color",
+        "value": "#fdf1ff"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "fuchsia-1600",
+            "uuid": "c06ab95f-6471-4840-99cc-710851d25de4"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "gray": {
+      "25": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-25",
+            "uuid": "ac61b090-d356-4f7f-ac6d-b4f20617c9e3"
+          }
+        },
+        "type": "color",
+        "value": "#111111"
+      },
+      "50": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-50",
+            "uuid": "0913be1e-b648-4b80-9976-fd8e5e53f4fc"
+          }
+        },
+        "type": "color",
+        "value": "#1b1b1b"
+      },
+      "75": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-75",
+            "uuid": "1666d544-ad1b-445a-9a57-d2277fb752eb"
+          }
+        },
+        "type": "color",
+        "value": "#222222"
+      },
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-100",
+            "uuid": "abd011c4-87a5-4b1f-82e2-e94d118f417f"
+          }
+        },
+        "type": "color",
+        "value": "#2c2c2c"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-200",
+            "uuid": "0a676e7a-8a89-4607-a918-3abcfb0234a2"
+          }
+        },
+        "type": "color",
+        "value": "#323232"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-300",
+            "uuid": "cc8c4299-c40d-4e93-80b2-c052ee8aaf40"
+          }
+        },
+        "type": "color",
+        "value": "#393939"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-400",
+            "uuid": "c34dd99f-e576-4c98-a89d-86dd47514c55"
+          }
+        },
+        "type": "color",
+        "value": "#444444"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-500",
+            "uuid": "05808575-f14b-49d1-aefb-e3667ec0f5a4"
+          }
+        },
+        "type": "color",
+        "value": "#6d6d6d"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-600",
+            "uuid": "8880b8f1-7850-49ef-a7ab-fd4e16cb37a6"
+          }
+        },
+        "type": "color",
+        "value": "#8a8a8a"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-700",
+            "uuid": "3cc563c6-386e-4b08-850d-68d4a292e559"
+          }
+        },
+        "type": "color",
+        "value": "#afafaf"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-800",
+            "uuid": "d39fc368-ec71-40cd-85e9-afb07862f2b7"
+          }
+        },
+        "type": "color",
+        "value": "#dbdbdb"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-900",
+            "uuid": "90d25d68-afb1-4b2a-9dba-3fe22d44976f"
+          }
+        },
+        "type": "color",
+        "value": "#f2f2f2"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "gray-1000",
+            "uuid": "5ce8c477-ae6e-427a-ac5c-79d15c8056ab"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "green": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-100",
+            "uuid": "e5a14d4a-47c5-4a53-84c5-589a0749d906"
+          }
+        },
+        "type": "color",
+        "value": "#001e17"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-200",
+            "uuid": "e8f294f5-cb17-4fdc-b370-ca2e3f95d342"
+          }
+        },
+        "type": "color",
+        "value": "#00261d"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-300",
+            "uuid": "cd5e0471-a8c0-46cd-b98c-be3a74c2b6d2"
+          }
+        },
+        "type": "color",
+        "value": "#003326"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-400",
+            "uuid": "c5e88879-9773-446c-883e-96531bcb8fad"
+          }
+        },
+        "type": "color",
+        "value": "#004430"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-500",
+            "uuid": "27649ccc-69a8-48d6-9d52-6d6e2e28ae17"
+          }
+        },
+        "type": "color",
+        "value": "#02573a"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-600",
+            "uuid": "a0513e49-8483-40f8-8b8f-41fdc222f13d"
+          }
+        },
+        "type": "color",
+        "value": "#036a43"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-700",
+            "uuid": "9c24175e-34a5-46c8-b646-f70c08292776"
+          }
+        },
+        "type": "color",
+        "value": "#047c4b"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-800",
+            "uuid": "412da16e-4db2-47d8-84d4-583ae35534f9"
+          }
+        },
+        "type": "color",
+        "value": "#068c52"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-900",
+            "uuid": "5afee2ee-a5d5-4dcf-a917-11dfdd0c3691"
+          }
+        },
+        "type": "color",
+        "value": "#099d59"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-1000",
+            "uuid": "3d6732a1-a1f9-4e18-927b-93cebaae3895"
+          }
+        },
+        "type": "color",
+        "value": "#0eaf62"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-1100",
+            "uuid": "a2f8f6c6-07b4-43a4-8f59-995ea2bf4e82"
+          }
+        },
+        "type": "color",
+        "value": "#18c16e"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-1200",
+            "uuid": "07fa1b72-bf84-4fd5-9565-28373fae6a1f"
+          }
+        },
+        "type": "color",
+        "value": "#39d786"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-1300",
+            "uuid": "c5ec27ed-3a16-44fe-bb8d-a21edd2f4d73"
+          }
+        },
+        "type": "color",
+        "value": "#7ee7ac"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-1400",
+            "uuid": "df5458e5-891b-4a88-a96c-748a812978a7"
+          }
+        },
+        "type": "color",
+        "value": "#bdf1d0"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-1500",
+            "uuid": "8efbb45d-4d6d-423e-8a3d-cb7117f9fbf8"
+          }
+        },
+        "type": "color",
+        "value": "#e5faec"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "green-1600",
+            "uuid": "ce6f19ce-d3fe-4bad-a4fc-7863ea9fd186"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "indigo": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-100",
+            "uuid": "e60cb247-c265-4009-9f0a-bcbbbb801dd4"
+          }
+        },
+        "type": "color",
+        "value": "#1e005d"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-200",
+            "uuid": "56c709dd-b41e-478a-8098-21014e3f9ec8"
+          }
+        },
+        "type": "color",
+        "value": "#23006e"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-300",
+            "uuid": "716f244e-67c5-4566-b824-ed7f2192b585"
+          }
+        },
+        "type": "color",
+        "value": "#2f008c"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-400",
+            "uuid": "c256e06e-07bc-4dcd-9239-48841916c93b"
+          }
+        },
+        "type": "color",
+        "value": "#3e0cae"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-500",
+            "uuid": "1ea0564b-6e88-456e-a796-4620d57b8771"
+          }
+        },
+        "type": "color",
+        "value": "#4f1ed1"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-600",
+            "uuid": "df590853-ce16-4ddf-bbe9-a912695eae17"
+          }
+        },
+        "type": "color",
+        "value": "#5f34eb"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-700",
+            "uuid": "0ea3a7e0-35c5-46ec-ae9d-500c5ee06a16"
+          }
+        },
+        "type": "color",
+        "value": "#6d4bf8"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-800",
+            "uuid": "97e84a30-1de4-4e84-8d59-e625f9ec9ab1"
+          }
+        },
+        "type": "color",
+        "value": "#7761fc"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-900",
+            "uuid": "5cb7ff5e-ec53-4df8-b59d-a1419190a6cf"
+          }
+        },
+        "type": "color",
+        "value": "#8077fe"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-1000",
+            "uuid": "0bf6170c-50d7-4600-96fe-2d1af93f173a"
+          }
+        },
+        "type": "color",
+        "value": "#8b8dfe"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-1100",
+            "uuid": "c85ea1d9-e28d-46c5-abd0-c053858770e0"
+          }
+        },
+        "type": "color",
+        "value": "#99a1ff"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-1200",
+            "uuid": "91f9622a-03b4-47b0-b380-5f6d64c13b5d"
+          }
+        },
+        "type": "color",
+        "value": "#b0baff"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-1300",
+            "uuid": "c0bfd081-7859-4ed5-aa4c-c1f547dab8f3"
+          }
+        },
+        "type": "color",
+        "value": "#c7d0ff"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-1400",
+            "uuid": "080f9ea4-1d87-4691-adb7-3875a7708555"
+          }
+        },
+        "type": "color",
+        "value": "#dfe4ff"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-1500",
+            "uuid": "498d2f9c-7304-406d-a3f8-802a2cbd3502"
+          }
+        },
+        "type": "color",
+        "value": "#f3f4ff"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "indigo-1600",
+            "uuid": "c498c300-86e8-4c71-bd3e-5a344324b9c1"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "magenta": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-100",
+            "uuid": "9149371a-1978-4136-a89c-8895edd35e7d"
+          }
+        },
+        "type": "color",
+        "value": "#3b0016"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-200",
+            "uuid": "f5ffc5b3-d3e6-4d7e-b8a8-850324b5d9b8"
+          }
+        },
+        "type": "color",
+        "value": "#4a001b"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-300",
+            "uuid": "673ab9b4-e296-4472-b0b5-15adf9f1f762"
+          }
+        },
+        "type": "color",
+        "value": "#5d0022"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-400",
+            "uuid": "60560de2-28e6-44b4-bcff-f357fe13a4a7"
+          }
+        },
+        "type": "color",
+        "value": "#7b002d"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-500",
+            "uuid": "830123a6-0e42-4c4f-9b20-2f4204d37af8"
+          }
+        },
+        "type": "color",
+        "value": "#98073c"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-600",
+            "uuid": "e6b14a1d-e26e-41c4-b386-7fb3f95b8c93"
+          }
+        },
+        "type": "color",
+        "value": "#b5134c"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-700",
+            "uuid": "11055a6b-7e81-4b59-9feb-8b0b6352be07"
+          }
+        },
+        "type": "color",
+        "value": "#cf1f5c"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-800",
+            "uuid": "6676db79-7b7e-4fcf-868b-321f9372517a"
+          }
+        },
+        "type": "color",
+        "value": "#e72969"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-900",
+            "uuid": "fa5e523e-7ee3-46d0-971f-4ee95c7222b8"
+          }
+        },
+        "type": "color",
+        "value": "#ff3377"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-1000",
+            "uuid": "bdabbfb5-1ae6-44a7-bc2e-55e11f4e5154"
+          }
+        },
+        "type": "color",
+        "value": "#ff6095"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-1100",
+            "uuid": "548a74eb-4401-44f4-85b4-921287d84ac9"
+          }
+        },
+        "type": "color",
+        "value": "#ff80ab"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-1200",
+            "uuid": "9c634688-1ad5-438b-bd44-a92c64ef9934"
+          }
+        },
+        "type": "color",
+        "value": "#ffa3c2"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-1300",
+            "uuid": "6c441ca7-0294-462f-ac18-7b28ff20d7ff"
+          }
+        },
+        "type": "color",
+        "value": "#ffc1d6"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-1400",
+            "uuid": "15f36ded-01af-4c5d-8b11-45523e7d908e"
+          }
+        },
+        "type": "color",
+        "value": "#ffdce8"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-1500",
+            "uuid": "d2814529-9c64-47fd-a317-8669d565cf67"
+          }
+        },
+        "type": "color",
+        "value": "#fff1f6"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "magenta-1600",
+            "uuid": "c24954cd-f17c-47b4-8a3e-8cb019a3e330"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "orange": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-100",
+            "uuid": "974ab8ec-6691-4696-b38c-77e16fb3df88"
+          }
+        },
+        "type": "color",
+        "value": "#311000"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-200",
+            "uuid": "587d4ce3-4275-4d2a-916c-2b1bf78c38ea"
+          }
+        },
+        "type": "color",
+        "value": "#3d1500"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-300",
+            "uuid": "74f40bbb-5afd-4c88-89d3-e69de9e2b604"
+          }
+        },
+        "type": "color",
+        "value": "#501b00"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-400",
+            "uuid": "b912089a-b6c9-49ef-8a4b-0a1f6fbbe963"
+          }
+        },
+        "type": "color",
+        "value": "#6a2400"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-500",
+            "uuid": "8a56b352-d7d4-45d4-b403-448557656dab"
+          }
+        },
+        "type": "color",
+        "value": "#872f00"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-600",
+            "uuid": "27b198b5-bf02-476a-a440-84c9a5bd2ce3"
+          }
+        },
+        "type": "color",
+        "value": "#a23b00"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-700",
+            "uuid": "f9e84513-57d6-4786-b8db-c86055cebfc6"
+          }
+        },
+        "type": "color",
+        "value": "#b94900"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-800",
+            "uuid": "5a88ed4e-94f9-4533-ab13-3995b5a60a5a"
+          }
+        },
+        "type": "color",
+        "value": "#cd5600"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-900",
+            "uuid": "0fbe4f46-02a8-444d-ace5-c245c6f15112"
+          }
+        },
+        "type": "color",
+        "value": "#e06400"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-1000",
+            "uuid": "92e06ff6-8347-4320-9a98-3054ba458d0e"
+          }
+        },
+        "type": "color",
+        "value": "#f37500"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-1100",
+            "uuid": "a571e2cd-2aff-4344-b608-45a48162cb61"
+          }
+        },
+        "type": "color",
+        "value": "#ff8900"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-1200",
+            "uuid": "8e3fe8e0-2b14-4331-869f-de2680ea60ac"
+          }
+        },
+        "type": "color",
+        "value": "#ffad2d"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-1300",
+            "uuid": "06afaefe-7e0a-42e2-99b5-e62674e1185d"
+          }
+        },
+        "type": "color",
+        "value": "#ffc974"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-1400",
+            "uuid": "9f2f551f-b606-48ce-9493-888587d3ccb6"
+          }
+        },
+        "type": "color",
+        "value": "#ffe1b2"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-1500",
+            "uuid": "48b0167c-d675-4fc5-9130-1b36a94fd163"
+          }
+        },
+        "type": "color",
+        "value": "#fff3e1"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "orange-1600",
+            "uuid": "b2f21ea2-e546-4b1a-a72d-e840172857b4"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "pink": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-100",
+            "uuid": "bd616b1d-fe15-498b-b8c3-02b3ec12917c"
+          }
+        },
+        "type": "color",
+        "value": "#3a0025"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-200",
+            "uuid": "b27db3ca-2a1d-40f0-aa6b-d7256262a70c"
+          }
+        },
+        "type": "color",
+        "value": "#47002c"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-300",
+            "uuid": "b4a885e9-96d3-498f-b8a9-87c448723198"
+          }
+        },
+        "type": "color",
+        "value": "#5a0039"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-400",
+            "uuid": "3a4e3a24-0f21-44a4-ad80-f721ad6acb38"
+          }
+        },
+        "type": "color",
+        "value": "#73074b"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-500",
+            "uuid": "14b4ffb1-3dcb-4155-b470-1006982eec4c"
+          }
+        },
+        "type": "color",
+        "value": "#8f1261"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-600",
+            "uuid": "77da83cc-1a57-486b-bb43-e74e6b5ac041"
+          }
+        },
+        "type": "color",
+        "value": "#ab1d77"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-700",
+            "uuid": "6c1ae7db-8ca1-4dbe-9d1e-2b3f5ab28a5c"
+          }
+        },
+        "type": "color",
+        "value": "#c4278a"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-800",
+            "uuid": "86b686e1-d580-4fc0-9246-8b94ad2fed96"
+          }
+        },
+        "type": "color",
+        "value": "#dc2f9c"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-900",
+            "uuid": "fb259e11-a051-4116-a7cb-f567cf814df5"
+          }
+        },
+        "type": "color",
+        "value": "#ec43af"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-1000",
+            "uuid": "89cc3b46-c438-4e65-bf43-c373cb6af83f"
+          }
+        },
+        "type": "color",
+        "value": "#fb5ac4"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-1100",
+            "uuid": "ee41ab95-9c22-4523-94ce-efab466cc261"
+          }
+        },
+        "type": "color",
+        "value": "#ff7ad2"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-1200",
+            "uuid": "670f5ea8-1435-4dd6-9ee9-f1886378b18f"
+          }
+        },
+        "type": "color",
+        "value": "#ff9fdf"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-1300",
+            "uuid": "c70eb5b9-80fa-4e03-9589-88001bbed4e2"
+          }
+        },
+        "type": "color",
+        "value": "#ffbfea"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-1400",
+            "uuid": "bb85af92-a0c8-4b12-b651-a2a084d6d1cc"
+          }
+        },
+        "type": "color",
+        "value": "#ffdbf3"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-1500",
+            "uuid": "0344a02f-ae86-4c77-bb36-480da43b3be1"
+          }
+        },
+        "type": "color",
+        "value": "#fff1fa"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "pink-1600",
+            "uuid": "fd715951-5fb7-433c-8a9d-2d10707893e5"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "purple": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-100",
+            "uuid": "ffc5aa7a-c339-4583-a586-3e8b1329d16d"
+          }
+        },
+        "type": "color",
+        "value": "#29004f"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-200",
+            "uuid": "2d67627b-372c-46af-b015-6c95bd027664"
+          }
+        },
+        "type": "color",
+        "value": "#320060"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-300",
+            "uuid": "be628028-f41d-4ace-abf3-f7f38ecb2e01"
+          }
+        },
+        "type": "color",
+        "value": "#40007a"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-400",
+            "uuid": "474fed30-921a-4795-8999-2310521c64c5"
+          }
+        },
+        "type": "color",
+        "value": "#53009f"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-500",
+            "uuid": "b912e8ba-ed77-4179-9b80-7448f9e37193"
+          }
+        },
+        "type": "color",
+        "value": "#6b06c3"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-600",
+            "uuid": "05638159-aaf7-4f3e-849e-a46e80cd9ee6"
+          }
+        },
+        "type": "color",
+        "value": "#8222d7"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-700",
+            "uuid": "fb186f5e-72a8-4a27-8ba2-d2fdf53d5a5c"
+          }
+        },
+        "type": "color",
+        "value": "#943ee0"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-800",
+            "uuid": "30aae683-83e3-47a1-bdcb-ebe658e110a3"
+          }
+        },
+        "type": "color",
+        "value": "#a154e5"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-900",
+            "uuid": "12d86845-fd54-4d30-aac8-bb9451560ba5"
+          }
+        },
+        "type": "color",
+        "value": "#ad69e9"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-1000",
+            "uuid": "e527a3bd-3543-4b40-8a9c-eb465695bdb9"
+          }
+        },
+        "type": "color",
+        "value": "#ba7fed"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-1100",
+            "uuid": "18265c0a-e466-4575-a364-3dfda9e71bd4"
+          }
+        },
+        "type": "color",
+        "value": "#c595f0"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-1200",
+            "uuid": "ae071768-dcdd-4e30-8f72-d066abac97af"
+          }
+        },
+        "type": "color",
+        "value": "#d4b0f4"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-1300",
+            "uuid": "fbaaff02-da93-4f45-830a-5fc449a58f0b"
+          }
+        },
+        "type": "color",
+        "value": "#e1c9f7"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-1400",
+            "uuid": "9ae063c9-5817-45b4-9f57-4b2196c845b9"
+          }
+        },
+        "type": "color",
+        "value": "#eee0fa"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-1500",
+            "uuid": "d96c8fa3-5872-4bd2-81a3-0109ddf0bf18"
+          }
+        },
+        "type": "color",
+        "value": "#f8f3fd"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "purple-1600",
+            "uuid": "0f10b720-c0f8-46db-9205-fdde265d05f7"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "red": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-100",
+            "uuid": "04f6044b-d0fa-4705-858c-2dc5721ec30f"
+          }
+        },
+        "type": "color",
+        "value": "#360a03"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-200",
+            "uuid": "b18ca77b-898e-4e09-88e2-8901de3e9172"
+          }
+        },
+        "type": "color",
+        "value": "#440d05"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-300",
+            "uuid": "fcfcf026-be31-4a05-b833-6757cacb8b05"
+          }
+        },
+        "type": "color",
+        "value": "#571107"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-400",
+            "uuid": "8f9fa135-5aca-4e42-b247-fdfbf74bc07b"
+          }
+        },
+        "type": "color",
+        "value": "#73180b"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-500",
+            "uuid": "ec50a21c-88aa-41a8-b607-c8b1c407ac4f"
+          }
+        },
+        "type": "color",
+        "value": "#931f11"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-600",
+            "uuid": "ff0fa040-17d6-4570-84b5-7a88c5bb9f45"
+          }
+        },
+        "type": "color",
+        "value": "#b12617"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-700",
+            "uuid": "cb2486de-b2be-45e5-b459-6e371b29d357"
+          }
+        },
+        "type": "color",
+        "value": "#cd2e1d"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-800",
+            "uuid": "9ff36ad0-608e-46a7-ab56-00af3d307d83"
+          }
+        },
+        "type": "color",
+        "value": "#e63623"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-900",
+            "uuid": "ccb79099-59f4-4bf2-b149-0de72f556a45"
+          }
+        },
+        "type": "color",
+        "value": "#fc432e"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-1000",
+            "uuid": "95621c5a-1768-4707-a2ce-bd15c61c89f4"
+          }
+        },
+        "type": "color",
+        "value": "#ff6756"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-1100",
+            "uuid": "53617d38-1075-4b47-87c7-4695b385a2d7"
+          }
+        },
+        "type": "color",
+        "value": "#ff8678"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-1200",
+            "uuid": "e7820c1c-ff58-431d-b521-b81ee3281db0"
+          }
+        },
+        "type": "color",
+        "value": "#ffa79d"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-1300",
+            "uuid": "7691bca6-3749-4cb7-a950-a94fe3d2910f"
+          }
+        },
+        "type": "color",
+        "value": "#ffc4bd"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-1400",
+            "uuid": "aaafa24c-cb3c-48cd-9cb7-e164be140ab5"
+          }
+        },
+        "type": "color",
+        "value": "#ffdedb"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-1500",
+            "uuid": "e99ac2fd-25ab-4202-a279-41808cc8dbc6"
+          }
+        },
+        "type": "color",
+        "value": "#fff2f0"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "red-1600",
+            "uuid": "685778a4-bc17-4d74-a713-1776fc2516af"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "seafoam": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-100",
+            "uuid": "080b56a3-6f95-422a-9f4b-d850966c4984"
+          }
+        },
+        "type": "color",
+        "value": "#001e1b"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-200",
+            "uuid": "2876bdd7-af97-4cd6-89cc-bdb9c2110946"
+          }
+        },
+        "type": "color",
+        "value": "#002723"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-300",
+            "uuid": "d90b7496-0f54-41ce-96eb-c973457661ae"
+          }
+        },
+        "type": "color",
+        "value": "#00322c"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-400",
+            "uuid": "ec603c2c-b2b2-4769-a889-ba7c91a458eb"
+          }
+        },
+        "type": "color",
+        "value": "#00433b"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-500",
+            "uuid": "c24b866c-5ac0-49de-857b-48c655fa9990"
+          }
+        },
+        "type": "color",
+        "value": "#02564b"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-600",
+            "uuid": "73b58f7e-008b-44ae-8969-19d981d444d6"
+          }
+        },
+        "type": "color",
+        "value": "#046959"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-700",
+            "uuid": "0b8528e6-ceea-47a5-9727-24e97d7bc138"
+          }
+        },
+        "type": "color",
+        "value": "#067a67"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-800",
+            "uuid": "df8f47d4-5c3b-4ecb-b9fb-5d2dbd39d696"
+          }
+        },
+        "type": "color",
+        "value": "#088a74"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-900",
+            "uuid": "dca23a18-2b19-48bf-9894-2f0948f6c05e"
+          }
+        },
+        "type": "color",
+        "value": "#0a9a80"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-1000",
+            "uuid": "c416b5c5-0506-419f-88ca-f722f12a9d86"
+          }
+        },
+        "type": "color",
+        "value": "#0cad8e"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-1100",
+            "uuid": "4a853bfc-f1b0-4e39-8cd8-da0350c99cd5"
+          }
+        },
+        "type": "color",
+        "value": "#0ebe9c"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-1200",
+            "uuid": "8e4c65b7-d819-4ffd-9398-71e9d294ba63"
+          }
+        },
+        "type": "color",
+        "value": "#1dd6b0"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-1300",
+            "uuid": "ef35ace8-870d-42e0-8ce6-2df61415431f"
+          }
+        },
+        "type": "color",
+        "value": "#7ae5cb"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-1400",
+            "uuid": "9499384b-336c-4a41-af05-645a92ae40d4"
+          }
+        },
+        "type": "color",
+        "value": "#baf1de"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-1500",
+            "uuid": "6e538a2b-05f7-41f5-af4b-89bc3039c25a"
+          }
+        },
+        "type": "color",
+        "value": "#e5f9f3"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "seafoam-1600",
+            "uuid": "29aae26e-f4a4-4e5a-acd2-02df01f6cc90"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "silver": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-100",
+            "uuid": "0c4a28ee-a473-4437-924e-c46a9bc0771b"
+          }
+        },
+        "type": "color",
+        "value": "#1a1a1a"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-200",
+            "uuid": "99b20fba-8fa9-414b-9119-dbaccc5af3c5"
+          }
+        },
+        "type": "color",
+        "value": "#212121"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-300",
+            "uuid": "27ca065d-5baf-470f-b1aa-09e9934055d0"
+          }
+        },
+        "type": "color",
+        "value": "#2c2c2c"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-400",
+            "uuid": "0c4f7cca-a9fc-40d5-9503-04c505962f33"
+          }
+        },
+        "type": "color",
+        "value": "#3b3b3b"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-500",
+            "uuid": "98e7bc6e-bfed-47c4-8f6e-ab1e035deef7"
+          }
+        },
+        "type": "color",
+        "value": "#4c4c4c"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-600",
+            "uuid": "9e46a3c3-25d1-41f5-b76d-d4d136668589"
+          }
+        },
+        "type": "color",
+        "value": "#5c5c5c"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-700",
+            "uuid": "d66afc23-a9aa-4a50-a094-3dfebe044a08"
+          }
+        },
+        "type": "color",
+        "value": "#6c6c6c"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-800",
+            "uuid": "3f481be4-bdd3-45b8-bcfe-c7577cac40d4"
+          }
+        },
+        "type": "color",
+        "value": "#7b7b7b"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-900",
+            "uuid": "66efbf5e-008b-41f6-a623-ee3722e41c69"
+          }
+        },
+        "type": "color",
+        "value": "#898989"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-1000",
+            "uuid": "ee71e6fd-283f-4ba3-a6a3-b23491ce86d0"
+          }
+        },
+        "type": "color",
+        "value": "#989898"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-1100",
+            "uuid": "e1239867-313d-44f8-8ac7-ebdb9f34724e"
+          }
+        },
+        "type": "color",
+        "value": "#a9a9a9"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-1200",
+            "uuid": "5ce07115-c390-4b72-b1ce-4e1f5346ac59"
+          }
+        },
+        "type": "color",
+        "value": "#bebebe"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-1300",
+            "uuid": "426823de-8002-4acb-a591-8ace92d1e0cd"
+          }
+        },
+        "type": "color",
+        "value": "#d3d3d3"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-1400",
+            "uuid": "b4cae4c1-1075-4776-a217-940423c4297c"
+          }
+        },
+        "type": "color",
+        "value": "#e5e5e5"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-1500",
+            "uuid": "196c4205-2175-4317-82e1-c2fdeb990c4b"
+          }
+        },
+        "type": "color",
+        "value": "#f4f4f4"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "silver-1600",
+            "uuid": "8509cb0b-461b-441c-b909-0384737ca553"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "transparent-black": {
+      "25": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-25",
+            "uuid": "e8321e01-5206-4a78-882d-47405a6065ba"
+          }
+        },
+        "type": "color",
+        "value": "#00000000"
+      },
+      "50": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-50",
+            "uuid": "228387c9-a5c3-4aa1-9e4c-a65d84fea99b"
+          }
+        },
+        "type": "color",
+        "value": "#00000008"
+      },
+      "75": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-75",
+            "uuid": "27fef00f-d114-45aa-b94c-c8fac605f351"
+          }
+        },
+        "type": "color",
+        "value": "#0000000d"
+      },
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-100",
+            "uuid": "699fb95a-015c-45de-be32-ba750b6c16f8"
+          }
+        },
+        "type": "color",
+        "value": "#00000017"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-200",
+            "uuid": "84a8c61c-4059-4828-918f-b70996ffeafb"
+          }
+        },
+        "type": "color",
+        "value": "#0000001f"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-300",
+            "uuid": "0294bb74-f403-47b9-aef7-8a63a7a3c5ab"
+          }
+        },
+        "type": "color",
+        "value": "#00000026"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-400",
+            "uuid": "034be0c8-8fcf-48f5-8bd2-d11bf4cba93c"
+          }
+        },
+        "type": "color",
+        "value": "#00000038"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-500",
+            "uuid": "5b23dafc-45f9-40fc-9502-1844ec612bb1"
+          }
+        },
+        "type": "color",
+        "value": "#00000070"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-600",
+            "uuid": "763a8a56-6256-46e7-90bf-01a79bf9f2f6"
+          }
+        },
+        "type": "color",
+        "value": "#0000008f"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-700",
+            "uuid": "df49b786-f1b1-4e1d-ad4a-62de014ccf92"
+          }
+        },
+        "type": "color",
+        "value": "#000000b0"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-800",
+            "uuid": "82cbfab1-b325-43bd-b78d-f1d75fe26178"
+          }
+        },
+        "type": "color",
+        "value": "#000000d6"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-900",
+            "uuid": "ddbacddc-7f8a-45be-8acc-b97090170ae9"
+          }
+        },
+        "type": "color",
+        "value": "#000000ed"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-black-1000",
+            "uuid": "098f2f56-e52f-47b1-943a-d1d7218de484"
+          }
+        },
+        "type": "color",
+        "value": "#000000"
+      }
+    },
+    "transparent-white": {
+      "25": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-25",
+            "uuid": "36836eeb-c856-4d93-9749-ccba9ae0a0dd"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff00"
+      },
+      "50": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-50",
+            "uuid": "c3f8bb0d-0da4-46aa-917d-7dd87967e032"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff0a"
+      },
+      "75": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-75",
+            "uuid": "619029b2-6fa5-4666-b887-93050805aaa8"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff12"
+      },
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-100",
+            "uuid": "4bf0daef-44bf-4dcc-b8d5-3a82cb11bb15"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff1c"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-200",
+            "uuid": "97c06fc2-f6d1-429d-8af7-1bf696d65ad1"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff24"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-300",
+            "uuid": "fd032f5d-57cc-49a3-b9ec-503ed93c3fd0"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff2b"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-400",
+            "uuid": "9a0d6111-830e-4766-9d0d-faa59e9b4129"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff36"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-500",
+            "uuid": "7a8e8bc8-8901-4692-92a6-5aa7e1b4c8e4"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff63"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-600",
+            "uuid": "35cf5848-f813-43ad-8546-47c463541254"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff82"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-700",
+            "uuid": "f283c695-2fd7-4c57-894e-2d23268a79fd"
+          }
+        },
+        "type": "color",
+        "value": "#ffffffa8"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-800",
+            "uuid": "504a6e8a-d593-4bd2-bde6-979236d2b1e0"
+          }
+        },
+        "type": "color",
+        "value": "#ffffffd9"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-900",
+            "uuid": "b4414f26-9a65-4f03-a096-ffd408c335e6"
+          }
+        },
+        "type": "color",
+        "value": "#fffffff0"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "transparent-white-1000",
+            "uuid": "7999ff9d-883c-4502-9444-36ec5a572464"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "turquoise": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-100",
+            "uuid": "7be82e76-2525-4496-9425-c180746f12df"
+          }
+        },
+        "type": "color",
+        "value": "#001e21"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-200",
+            "uuid": "f70fdb17-da0b-4163-8af6-2daa65327e3a"
+          }
+        },
+        "type": "color",
+        "value": "#002529"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-300",
+            "uuid": "eb6f8d2a-1a82-42ef-b668-0aac077d4053"
+          }
+        },
+        "type": "color",
+        "value": "#003136"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-400",
+            "uuid": "e354eda3-17c2-4f07-b64b-3620692a12f3"
+          }
+        },
+        "type": "color",
+        "value": "#004248"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-500",
+            "uuid": "de4d07fb-1d63-44cc-a9bf-1cd2e2ed4e59"
+          }
+        },
+        "type": "color",
+        "value": "#03545c"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-600",
+            "uuid": "ae1d9dc7-e778-4c78-b12d-ab187cc3c254"
+          }
+        },
+        "type": "color",
+        "value": "#056770"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-700",
+            "uuid": "08f4307e-74f1-446d-9051-8a4c11546289"
+          }
+        },
+        "type": "color",
+        "value": "#077883"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-800",
+            "uuid": "69ae2217-ba32-41ca-a38f-8f19dcc5cf76"
+          }
+        },
+        "type": "color",
+        "value": "#098793"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-900",
+            "uuid": "2ce15c64-8c38-4935-bc65-7580df395231"
+          }
+        },
+        "type": "color",
+        "value": "#0b97a4"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-1000",
+            "uuid": "89d12308-9718-40d6-a089-73b9fcf1185b"
+          }
+        },
+        "type": "color",
+        "value": "#0da8b6"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-1100",
+            "uuid": "7f0dafc6-6863-4542-b58c-610bd97f79fa"
+          }
+        },
+        "type": "color",
+        "value": "#10baca"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-1200",
+            "uuid": "70ca07eb-a370-4059-9d5a-b55f6a9c9f31"
+          }
+        },
+        "type": "color",
+        "value": "#40d0dc"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-1300",
+            "uuid": "c1f51874-6699-4250-bcd3-9d15add56a86"
+          }
+        },
+        "type": "color",
+        "value": "#80e1e7"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-1400",
+            "uuid": "f2f63354-d6fb-4687-abf8-554c4ab95fbf"
+          }
+        },
+        "type": "color",
+        "value": "#b7f0f0"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-1500",
+            "uuid": "d4b79c34-286d-40f0-87ce-bbfb6b217dba"
+          }
+        },
+        "type": "color",
+        "value": "#e4f9f9"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "turquoise-1600",
+            "uuid": "4ae14c01-10b1-4daf-a064-dab9f6fdea9d"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    },
+    "white": {
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "white",
+          "uuid": "4991f956-c2d6-4e96-9826-a1db42efd527"
+        }
+      },
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "yellow": {
+      "100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-100",
+            "uuid": "7bef094a-1523-4392-a0ca-59c48409f17a"
+          }
+        },
+        "type": "color",
+        "value": "#251700"
+      },
+      "200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-200",
+            "uuid": "f4fdc925-63b3-4670-9f2b-a057c27c834a"
+          }
+        },
+        "type": "color",
+        "value": "#2f1d00"
+      },
+      "300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-300",
+            "uuid": "238147c6-0302-4d43-b3a3-42df832c7857"
+          }
+        },
+        "type": "color",
+        "value": "#3d2700"
+      },
+      "400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-400",
+            "uuid": "62ab6892-66ea-4b55-8c1a-fcc191d29717"
+          }
+        },
+        "type": "color",
+        "value": "#533400"
+      },
+      "500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-500",
+            "uuid": "efa1fdd8-4478-411a-892c-0ecf23939489"
+          }
+        },
+        "type": "color",
+        "value": "#6b4300"
+      },
+      "600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-600",
+            "uuid": "8ae3c5ec-aabe-47a0-b822-ba0907e67ed4"
+          }
+        },
+        "type": "color",
+        "value": "#825200"
+      },
+      "700": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-700",
+            "uuid": "ac3e5d40-51eb-45aa-b4e0-87d3f6e8e359"
+          }
+        },
+        "type": "color",
+        "value": "#976100"
+      },
+      "800": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-800",
+            "uuid": "67e8d9aa-d843-4536-9c97-bd51e62da8ee"
+          }
+        },
+        "type": "color",
+        "value": "#a96e00"
+      },
+      "900": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-900",
+            "uuid": "a12f6cac-7fdc-4fd4-8120-ad957823ff6b"
+          }
+        },
+        "type": "color",
+        "value": "#ba7c00"
+      },
+      "1000": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-1000",
+            "uuid": "4cf4a500-37a2-4dd8-a243-14f6c012b53c"
+          }
+        },
+        "type": "color",
+        "value": "#cb8d00"
+      },
+      "1100": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-1100",
+            "uuid": "4eee9daf-e19d-4e0b-b12d-4fdcc4852956"
+          }
+        },
+        "type": "color",
+        "value": "#da9f00"
+      },
+      "1200": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-1200",
+            "uuid": "69059dfa-e2e1-4f8d-b06b-058a8724e071"
+          }
+        },
+        "type": "color",
+        "value": "#ebb700"
+      },
+      "1300": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-1300",
+            "uuid": "b2a1039c-cbfe-44bf-a0fe-822c5f576f52"
+          }
+        },
+        "type": "color",
+        "value": "#f9ce00"
+      },
+      "1400": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-1400",
+            "uuid": "dfd355e7-82fd-4fdb-96bd-b584d7268ee9"
+          }
+        },
+        "type": "color",
+        "value": "#ffe656"
+      },
+      "1500": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-1500",
+            "uuid": "166ee2cc-b727-4f3c-9c08-5c586a0f6c11"
+          }
+        },
+        "type": "color",
+        "value": "#fff6c3"
+      },
+      "1600": {
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "yellow-1600",
+            "uuid": "3df0b31f-656a-4400-99c4-d559da586714"
+          }
+        },
+        "type": "color",
+        "value": "#ffffff"
+      }
+    }
+  }
+}

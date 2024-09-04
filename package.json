@@ -1,9 +1,9 @@
 {
   "name": "@adobe/spectrum-tokens-studio-data",
   "version": "1.0.0",
-  "description": "@adobe/spectrum-tokens-for-tokens-studio",
+  "description": "@adobe/spectrum-tokens-studio-data",
   "scripts": {
-    "pre-commit": "lint-staged",
+    "pre-commit": "echo 'Nothing to do'",
     "prepare": "husky install"
   },
   "author": "",
@@ -12,8 +12,6 @@
     "@commitlint/cli": "^18.4.3",
     "@commitlint/config-conventional": "^18.4.3",
     "fs-extra": "^11.1.1",
-    "husky": "^8.0.3",
-    "lint-staged": "^14.0.1",
-    "prettier": "^3.3.3"
+    "husky": "^8.0.3"
   }
 }

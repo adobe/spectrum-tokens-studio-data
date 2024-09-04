@@ -1,7 +1,7 @@
 # Stop the editor from looking for .editorconfig files in the parent directories
 root = true
 
-[*.json]
+[*]
 # Non-configurable Prettier behaviors
 # charset = utf-8
 # Tokens Studio removes the new line at the end of the json files, so prettier should, too.
@@ -11,7 +11,7 @@ trim_trailing_whitespace = false
 
 # Configurable Prettier behaviors
 # (change these if your Prettier config differs)
-# end_of_line = lf
+end_of_line = lf
 # indent_style = space
 # indent_size = 2
 # max_line_length = 80

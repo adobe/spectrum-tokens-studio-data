@@ -3821,7 +3821,7 @@
     }
   },
   "🚫 slider-handle-size-extra-large": {
-    "value": "{slider-handle-extra-large}",
+    "value": "20px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3831,7 +3831,7 @@
     }
   },
   "🚫 slider-handle-size-large": {
-    "value": "{slider-handle-large}",
+    "value": "18px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
@@ -3841,7 +3841,7 @@
     }
   },
   "🚫 slider-handle-size-medium": {
-    "value": "{slider-handle-medium}",
+    "value": "16px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {

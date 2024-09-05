@@ -440,7 +440,7 @@
     }
   },
   "code-cjk-strong-emphasized-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -460,7 +460,7 @@
     }
   },
   "code-cjk-strong-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -529,6 +529,16 @@
       }
     }
   },
+  "code-size-xl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "7879adbc-6c38-4d29-9a90-a4ad91c75b90",
+        "name": "code-size-xl"
+      }
+    }
+  },
   "code-size-l": {
     "value": "{font-size-300}",
     "type": "fontSizes",
@@ -559,16 +569,6 @@
       }
     }
   },
-  "code-size-xl": {
-    "value": "{font-size-400}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "7879adbc-6c38-4d29-9a90-a4ad91c75b90",
-        "name": "code-size-xl"
-      }
-    }
-  },
   "code-size-xs": {
     "value": "{font-size-75}",
     "type": "fontSizes",
@@ -576,6 +576,56 @@
       "spectrum-tokens": {
         "uuid": "f0c5e6fb-fb48-45d2-a043-558b3dc28bc7",
         "name": "code-size-xs"
+      }
+    }
+  },
+  "code-cjk-size-xl": {
+    "value": "{code-size-xl}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "a2e258a0-21f6-44d7-9bfe-0052620e5ac2",
+        "name": "code-cjk-size-xl"
+      }
+    }
+  },
+  "code-cjk-size-l": {
+    "value": "{code-size-l}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "15e8593b-1b86-40e0-ae88-fcc587e24373",
+        "name": "code-cjk-size-l"
+      }
+    }
+  },
+  "code-cjk-size-m": {
+    "value": "{code-size-m}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "69436fba-18a7-4a28-b6c5-683a8838917c",
+        "name": "code-cjk-size-m"
+      }
+    }
+  },
+  "code-cjk-size-s": {
+    "value": "{code-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "80c3d9ab-39d1-4329-a88f-bb84c3afd17f",
+        "name": "code-cjk-size-s"
+      }
+    }
+  },
+  "code-cjk-size-xs": {
+    "value": "{code-size-xs}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6b577e2a-09c0-42bb-8b94-42034df63036",
+        "name": "code-cjk-size-xs"
       }
     }
   },
@@ -2246,6 +2296,16 @@
       "spectrum-tokens": {
         "uuid": "999ba22a-87b6-45fe-9e89-9911f34ea330",
         "name": "title-cjk-line-height"
+      }
+    }
+  },
+  "standard-panel-title-font-size": {
+    "value": "{title-size-s}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "ce8278ea-da1b-4a42-bf7d-4018c9e9d18e",
+        "name": "standard-panel-title-font-size"
       }
     }
   },

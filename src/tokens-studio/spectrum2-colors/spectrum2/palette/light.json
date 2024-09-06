@@ -3331,6 +3331,118 @@
           }
         }
       }
+    },
+    "static": {
+      "blue": {
+        "900": {
+          "value": "#3B63FB",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-blue-900"
+            }
+          }
+        },
+        "1000": {
+          "value": "#274DEA",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-blue-1000"
+            }
+          }
+        }
+      },
+      "fuchsia": {
+        "900": {
+          "value": "#B539C8",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-fuchsia-900"
+            }
+          }
+        },
+        "1000": {
+          "value": "#9C28AF",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-fuchsia-1000"
+            }
+          }
+        }
+      },
+      "indigo": {
+        "900": {
+          "value": "#7155FA",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-indigo-900"
+            }
+          }
+        },
+        "1000": {
+          "value": "#6338EE",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-indigo-1000"
+            }
+          }
+        }
+      },
+      "magenta": {
+        "900": {
+          "value": "#D92361",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-magenta-900"
+            }
+          }
+        },
+        "1000": {
+          "value": "#BA1650",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-magenta-1000"
+            }
+          }
+        }
+      },
+      "red": {
+        "900": {
+          "value": "#D73220",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-red-900"
+            }
+          }
+        },
+        "1000": {
+          "value": "#B72818",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "static-red-1000"
+            }
+          }
+        }
+      }
     }
   }
 }

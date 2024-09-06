@@ -519,6 +519,66 @@
       }
     }
   },
+  "gradient-stop-1-genai": {
+    "value": "0",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gradient-stop-1-genai"
+      }
+    }
+  },
+  "gradient-stop-2-genai": {
+    "value": "0.3333",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gradient-stop-2-genai"
+      }
+    }
+  },
+  "gradient-stop-3-genai": {
+    "value": "1",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gradient-stop-3-genai"
+      }
+    }
+  },
+  "gradient-stop-1-premium": {
+    "value": "0",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gradient-stop-1-premium"
+      }
+    }
+  },
+  "gradient-stop-2-premium": {
+    "value": "0.6666",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gradient-stop-2-premium"
+      }
+    }
+  },
+  "gradient-stop-3-premium": {
+    "value": "1",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gradient-stop-3-premium"
+      }
+    }
+  },
   "component-to-menu-extra-large": {
     "value": "10px",
     "type": "spacing",

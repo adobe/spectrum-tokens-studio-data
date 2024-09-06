@@ -70,7 +70,7 @@
     }
   },
   "body-cjk-strong-emphasized-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -336,6 +336,16 @@
       "spectrum-tokens": {
         "uuid": "3927604f-eaf3-4605-aa34-80b7bc88ac0f",
         "name": "body-size-xl"
+      }
+    }
+  },
+  "body-size-xxs": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-size-xxs"
       }
     }
   },
@@ -1586,6 +1596,86 @@
       "spectrum-tokens": {
         "uuid": "5a44e177-2478-4bb0-9212-ba2df64c8b00",
         "name": "heading-cjk-size-xxxl"
+      }
+    }
+  },
+  "body-cjk-size-xxxl": {
+    "value": "{font-size-500}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "71a41f9e-73da-4632-8877-7af7acf4db03",
+        "name": "body-cjk-size-xxxl"
+      }
+    }
+  },
+  "body-cjk-size-xxl": {
+    "value": "{font-size-400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "9aab03eb-c0c1-462c-aa7c-88c93b06f714",
+        "name": "body-cjk-size-xxl"
+      }
+    }
+  },
+  "body-cjk-size-xl": {
+    "value": "{font-size-300}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "25d65a6e-e8e1-4849-848a-984373fd9cf9",
+        "name": "body-cjk-size-xl"
+      }
+    }
+  },
+  "body-cjk-size-l": {
+    "value": "{font-size-200}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "9f0e0ddb-a4d2-416e-a425-8d71527f77b2",
+        "name": "body-cjk-size-l"
+      }
+    }
+  },
+  "body-cjk-size-m": {
+    "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "7e01bc65-5823-456f-a830-9848a96ad85a",
+        "name": "body-cjk-size-m"
+      }
+    }
+  },
+  "body-cjk-size-s": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "081aa502-e2f1-4bc8-8fb2-a00dcd4236dd",
+        "name": "body-cjk-size-s"
+      }
+    }
+  },
+  "body-cjk-size-xs": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "ba73926d-2ef4-4d7b-86c2-9044aa1cdf95",
+        "name": "body-cjk-size-xs"
+      }
+    }
+  },
+  "body-cjk-size-xxs": {
+    "value": "{font-size-25}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "body-cjk-size-xxs"
       }
     }
   },

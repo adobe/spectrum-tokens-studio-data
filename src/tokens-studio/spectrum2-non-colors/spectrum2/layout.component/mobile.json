@@ -439,6 +439,36 @@
       }
     }
   },
+  "bar-panel-width": {
+    "value": "56px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-width"
+      }
+    }
+  },
+  "bar-panel-minimum-width": {
+    "value": "40px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-minimum-width"
+      }
+    }
+  },
+  "bar-panel-maximum-width": {
+    "value": "72px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-maximum-width"
+      }
+    }
+  },
   "switch-handle-size-small": {
     "value": "10px",
     "type": "sizing",
@@ -1146,6 +1176,16 @@
       "spectrum-tokens": {
         "uuid": "c980c4f4-f2c5-4963-873e-de275f3353d1",
         "name": "avatar-to-avatar-500"
+      }
+    }
+  },
+  "bar-panel-spacing-extra-spacious": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-spacing-extra-spacious"
       }
     }
   },

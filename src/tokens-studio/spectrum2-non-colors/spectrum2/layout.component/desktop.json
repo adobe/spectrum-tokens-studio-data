@@ -3660,7 +3660,7 @@
       }
     }
   },
-  "rating-indicator-to-icon": {
+  "🚫 rating-indicator-to-icon": {
     "value": "4px",
     "type": "spacing",
     "$extensions": {
@@ -3670,13 +3670,113 @@
       }
     }
   },
-  "rating-indicator-width": {
+  "rating-top-to-content-area-small": {
+    "value": "{spacing-75}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-top-to-content-area-small"
+      }
+    }
+  },
+  "rating-bottom-to-content-area-small": {
+    "value": "{spacing-75}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-bottom-to-content-area-small"
+      }
+    }
+  },
+  "rating-edge-to-content-area-small": {
+    "value": "{spacing-75}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-edge-to-content-area-small"
+      }
+    }
+  },
+  "rating-top-to-content-area-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-top-to-content-area-medium"
+      }
+    }
+  },
+  "rating-bottom-to-content-area-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-bottom-to-content-area-medium"
+      }
+    }
+  },
+  "rating-edge-to-content-area-medium": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-edge-to-content-area-medium"
+      }
+    }
+  },
+  "🚫 rating-indicator-width": {
     "value": "18px",
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "f0958cee-9688-43db-9542-1aef164f9dfe",
         "name": "rating-indicator-width"
+      }
+    }
+  },
+  "rating-width-small": {
+    "value": "104px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-width-small"
+      }
+    }
+  },
+  "rating-height-small": {
+    "value": "{component-height-75}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-height-small"
+      }
+    }
+  },
+  "rating-width-medium": {
+    "value": "128px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-width-medium"
+      }
+    }
+  },
+  "rating-height-medium": {
+    "value": "{component-height-100}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "rating-height-medium"
       }
     }
   },

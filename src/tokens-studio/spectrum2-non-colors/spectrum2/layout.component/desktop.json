@@ -3780,6 +3780,126 @@
       }
     }
   },
+  "select-box-horizontal-minimum-height": {
+    "value": "80px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-minimum-height"
+      }
+    }
+  },
+  "select-box-horizontal-width": {
+    "value": "368px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-width"
+      }
+    }
+  },
+  "select-box-vertical-height": {
+    "value": "170px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-vertical-height"
+      }
+    }
+  },
+  "select-box-edge-to-checkbox": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-edge-to-checkbox"
+      }
+    }
+  },
+  "select-box-horizontal-end-to-content": {
+    "value": "32px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-end-to-content"
+      }
+    }
+  },
+  "select-box-horizontal-illustration-to-label": {
+    "value": "10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-illustration-to-label"
+      }
+    }
+  },
+  "select-box-horizontal-label-to-description": {
+    "value": "2px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-label-to-description"
+      }
+    }
+  },
+  "select-box-horizontal-start-to-content": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-start-to-content"
+      }
+    }
+  },
+  "select-box-horizontal-top-to-content": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-top-to-content"
+      }
+    }
+  },
+  "select-box-top-to-checkbox": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-top-to-checkbox"
+      }
+    }
+  },
+  "select-box-vertical-edge-to-content": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-vertical-edge-to-content"
+      }
+    }
+  },
+  "select-box-vertical-illustration-to-label": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-vertical-illustration-to-label"
+      }
+    }
+  },
   "search-field-minimum-width-multiplier": {
     "value": "4",
     "type": "number",

@@ -12,6 +12,28 @@
         }
       }
     },
+    "bar-panel": {
+      "gripper": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "bar-panel-gripper-color"
+          }
+        }
+      },
+      "gripper-drag": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "bar-panel-gripper-color-drag"
+          }
+        }
+      }
+    },
     "card": {
       "selection-background": {
         "value": "{Palette.gray.100}",

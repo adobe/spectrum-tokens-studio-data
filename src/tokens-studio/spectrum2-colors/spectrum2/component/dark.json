@@ -258,6 +258,18 @@
         }
       }
     },
+    "select-box": {
+      "selected-border": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "select-box-selected-border-color"
+          }
+        }
+      }
+    },
     "swatch": {
       "border": {
         "value": "{Palette.gray.1000}",

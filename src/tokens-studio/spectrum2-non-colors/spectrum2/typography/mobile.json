@@ -29,8 +29,18 @@
       }
     }
   },
+  "letter-spacing": {
+    "value": "0em",
+    "type": "letterSpacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "d8caf3aa-1261-411f-b383-18f87334c117",
+        "name": "letter-spacing"
+      }
+    }
+  },
   "cjk-letter-spacing": {
-    "value": "5%",
+    "value": "{letter-spacing}",
     "type": "letterSpacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -86,6 +96,16 @@
       "spectrum-tokens": {
         "uuid": "ccadf44e-5424-4920-979f-ea1ef39687c4",
         "name": "extra-bold-font-weight"
+      }
+    }
+  },
+  "font-size-25": {
+    "value": "12px",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "5946a4e5-8bed-4dd7-aa73-9ebe232f9790",
+        "name": "font-size-25"
       }
     }
   },
@@ -239,6 +259,26 @@
       }
     }
   },
+  "font-size-1400": {
+    "value": "79px",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "font-size-1400"
+      }
+    }
+  },
+  "font-size-1500": {
+    "value": "88px",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "font-size-1500"
+      }
+    }
+  },
   "italic-font-style": {
     "value": "Italic",
     "type": "other",
@@ -246,6 +286,36 @@
       "spectrum-tokens": {
         "uuid": "9a58e4ae-dfa1-428b-9d90-11f4275418da",
         "name": "italic-font-style"
+      }
+    }
+  },
+  "text-align-start": {
+    "value": "start",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-align-start"
+      }
+    }
+  },
+  "text-align-center": {
+    "value": "center",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-align-center"
+      }
+    }
+  },
+  "text-align-end": {
+    "value": "end",
+    "type": "other",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "text-align-end"
       }
     }
   },

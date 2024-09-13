@@ -279,6 +279,36 @@
       }
     }
   },
+  "bar-panel-width": {
+    "value": "56px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-width"
+      }
+    }
+  },
+  "bar-panel-minimum-width": {
+    "value": "40px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-minimum-width"
+      }
+    }
+  },
+  "bar-panel-maximum-width": {
+    "value": "72px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-maximum-width"
+      }
+    }
+  },
   "standard-dialog-maximum-width-small": {
     "value": "400px",
     "type": "sizing",
@@ -1126,6 +1156,16 @@
       "spectrum-tokens": {
         "uuid": "8b6b74b4-e7c3-4f7c-a2b6-f410fcc17a83",
         "name": "avatar-to-avatar-500"
+      }
+    }
+  },
+  "bar-panel-spacing-extra-spacious": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "bar-panel-spacing-extra-spacious"
       }
     }
   },
@@ -3777,6 +3817,126 @@
       "spectrum-tokens": {
         "uuid": "",
         "name": "rating-height-medium"
+      }
+    }
+  },
+  "select-box-horizontal-minimum-height": {
+    "value": "80px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-minimum-height"
+      }
+    }
+  },
+  "select-box-horizontal-width": {
+    "value": "368px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-width"
+      }
+    }
+  },
+  "select-box-vertical-height": {
+    "value": "170px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-vertical-height"
+      }
+    }
+  },
+  "select-box-edge-to-checkbox": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-edge-to-checkbox"
+      }
+    }
+  },
+  "select-box-horizontal-end-to-content": {
+    "value": "32px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-end-to-content"
+      }
+    }
+  },
+  "select-box-horizontal-illustration-to-label": {
+    "value": "10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-illustration-to-label"
+      }
+    }
+  },
+  "select-box-horizontal-label-to-description": {
+    "value": "2px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-label-to-description"
+      }
+    }
+  },
+  "select-box-horizontal-start-to-content": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-start-to-content"
+      }
+    }
+  },
+  "select-box-horizontal-top-to-content": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-horizontal-top-to-content"
+      }
+    }
+  },
+  "select-box-top-to-checkbox": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-top-to-checkbox"
+      }
+    }
+  },
+  "select-box-vertical-edge-to-content": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-vertical-edge-to-content"
+      }
+    }
+  },
+  "select-box-vertical-illustration-to-label": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "select-box-vertical-illustration-to-label"
       }
     }
   },

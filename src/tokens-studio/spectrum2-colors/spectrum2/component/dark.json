@@ -12,6 +12,28 @@
         }
       }
     },
+    "bar-panel": {
+      "gripper": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "bar-panel-gripper-color"
+          }
+        }
+      },
+      "gripper-drag": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "bar-panel-gripper-color-drag"
+          }
+        }
+      }
+    },
     "card": {
       "selection-background": {
         "value": "{Palette.gray.100}",
@@ -232,6 +254,18 @@
           "spectrum-tokens": {
             "uuid": "66da6f53-5446-43c1-bbe0-73b46763fde1",
             "name": "popover-border-color"
+          }
+        }
+      }
+    },
+    "select-box": {
+      "selected-border": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "select-box-selected-border-color"
           }
         }
       }

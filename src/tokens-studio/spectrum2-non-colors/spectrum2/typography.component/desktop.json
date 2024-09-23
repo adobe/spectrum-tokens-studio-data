@@ -1570,7 +1570,7 @@
     }
   },
   "heading-cjk-size-xxl": {
-    "value": "{font-size-900}",
+    "value": "{font-size-1000}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1579,7 +1579,7 @@
       }
     }
   },
-  "heading-cjk-size-xxs": {
+  "🚫 heading-cjk-size-xxs": {
     "value": "{font-size-100}",
     "type": "fontSizes",
     "$extensions": {
@@ -1590,12 +1590,22 @@
     }
   },
   "heading-cjk-size-xxxl": {
-    "value": "{font-size-1300}",
+    "value": "{font-size-1200}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "5a44e177-2478-4bb0-9212-ba2df64c8b00",
         "name": "heading-cjk-size-xxxl"
+      }
+    }
+  },
+  "heading-cjk-size-xxxxl": {
+    "value": "{font-size-1400}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "heading-cjk-size-xxxxl"
       }
     }
   },
@@ -2270,7 +2280,7 @@
     }
   },
   "heading-size-s": {
-    "value": "{font-size-300}",
+    "value": "{font-size-400}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -2290,7 +2300,7 @@
     }
   },
   "heading-size-xs": {
-    "value": "{font-size-200}",
+    "value": "{font-size-300}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -2309,7 +2319,7 @@
       }
     }
   },
-  "heading-size-xxs": {
+  "🚫 heading-size-xxs": {
     "value": "{font-size-100}",
     "type": "fontSizes",
     "$extensions": {
@@ -2326,6 +2336,16 @@
       "spectrum-tokens": {
         "uuid": "db884bf9-e7b5-420a-b408-bd9a4d6bb0a4",
         "name": "heading-size-xxxl"
+      }
+    }
+  },
+  "heading-size-xxxxl": {
+    "value": "{font-size-1500}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "heading-size-xxxxl"
       }
     }
   },

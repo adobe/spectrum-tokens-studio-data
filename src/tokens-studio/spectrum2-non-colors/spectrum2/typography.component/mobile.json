@@ -690,7 +690,7 @@
     }
   },
   "detail-cjk-emphasized-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -720,7 +720,7 @@
     }
   },
   "detail-cjk-font-weight": {
-    "value": "{extra-bold-font-weight}",
+    "value": "{bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -830,7 +830,7 @@
     }
   },
   "detail-cjk-strong-emphasized-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -850,7 +850,7 @@
     }
   },
   "detail-cjk-strong-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -910,7 +910,7 @@
     }
   },
   "detail-sans-serif-emphasized-font-weight": {
-    "value": "{bold-font-weight}",
+    "value": "{regular-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -940,7 +940,7 @@
     }
   },
   "detail-sans-serif-font-weight": {
-    "value": "{bold-font-weight}",
+    "value": "{medium-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -1090,7 +1090,7 @@
     }
   },
   "detail-serif-emphasized-font-weight": {
-    "value": "{bold-font-weight}",
+    "value": "{medium-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -1120,7 +1120,7 @@
     }
   },
   "detail-serif-font-weight": {
-    "value": "{bold-font-weight}",
+    "value": "{medium-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {

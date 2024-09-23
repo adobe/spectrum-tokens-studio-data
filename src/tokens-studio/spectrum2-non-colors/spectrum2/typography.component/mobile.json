@@ -859,7 +859,7 @@
       }
     }
   },
-  "detail-letter-spacing": {
+  "🚫 detail-letter-spacing": {
     "value": "6%",
     "type": "letterSpacing",
     "$extensions": {
@@ -1069,7 +1069,7 @@
       }
     }
   },
-  "detail-sans-serif-text-transform": {
+  "🚫 detail-sans-serif-text-transform": {
     "value": "uppercase",
     "type": "other",
     "$extensions": {
@@ -1249,7 +1249,7 @@
       }
     }
   },
-  "detail-serif-text-transform": {
+  "🚫 detail-serif-text-transform": {
     "value": "uppercase",
     "type": "other",
     "$extensions": {
@@ -1259,8 +1259,58 @@
       }
     }
   },
-  "detail-size-l": {
+  "detail-cjk-size-xs": {
+    "value": "{font-size-25}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-xs"
+      }
+    }
+  },
+  "detail-cjk-size-s": {
+    "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-s"
+      }
+    }
+  },
+  "detail-cjk-size-m": {
+    "value": "{font-size-75}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-m"
+      }
+    }
+  },
+  "detail-cjk-size-l": {
     "value": "{font-size-100}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-l"
+      }
+    }
+  },
+  "detail-cjk-size-xl": {
+    "value": "{font-size-200}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-cjk-size-xl"
+      }
+    }
+  },
+  "detail-size-l": {
+    "value": "{font-size-200}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1270,7 +1320,7 @@
     }
   },
   "detail-size-m": {
-    "value": "{font-size-75}",
+    "value": "{font-size-100}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1279,8 +1329,18 @@
       }
     }
   },
-  "detail-size-s": {
+  "detail-size-xs": {
     "value": "{font-size-50}",
+    "type": "fontSizes",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "detail-size-xs"
+      }
+    }
+  },
+  "detail-size-s": {
+    "value": "{font-size-75}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {
@@ -1290,7 +1350,7 @@
     }
   },
   "detail-size-xl": {
-    "value": "{font-size-200}",
+    "value": "{font-size-300}",
     "type": "fontSizes",
     "$extensions": {
       "spectrum-tokens": {

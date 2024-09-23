@@ -1380,7 +1380,7 @@
     }
   },
   "heading-cjk-heavy-font-weight": {
-    "value": "{black-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -1760,7 +1760,7 @@
     }
   },
   "heading-sans-serif-emphasized-font-weight": {
-    "value": "{bold-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -1790,7 +1790,7 @@
     }
   },
   "heading-sans-serif-font-weight": {
-    "value": "{bold-font-weight}",
+    "value": "{extra-bold-font-weight}",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {

@@ -2150,5 +2150,15 @@
         "name": "text-underline-thickness"
       }
     }
+  },
+  "window-to-edge": {
+    "value": "{spacing-600}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "window-to-edge"
+      }
+    }
   }
 }

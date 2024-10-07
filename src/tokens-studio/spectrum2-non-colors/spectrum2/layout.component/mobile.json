@@ -3309,16 +3309,6 @@
       }
     }
   },
-  "menu-item-top-to-thumbnail-extra-large": {
-    "value": "13px",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "dfeef197-57b9-41a1-b759-3c782a64f2f3",
-        "name": "menu-item-top-to-thumbnail-extra-large"
-      }
-    }
-  },
   "menu-item-top-to-thumbnail-large": {
     "value": "12px",
     "type": "spacing",
@@ -3326,6 +3316,16 @@
       "spectrum-tokens": {
         "uuid": "64b2f613-35b2-46a8-be7d-c39c314840b9",
         "name": "menu-item-top-to-thumbnail-large"
+      }
+    }
+  },
+  "menu-item-top-to-thumbnail-extra-large": {
+    "value": "13px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "dfeef197-57b9-41a1-b759-3c782a64f2f3",
+        "name": "menu-item-top-to-thumbnail-extra-large"
       }
     }
   },

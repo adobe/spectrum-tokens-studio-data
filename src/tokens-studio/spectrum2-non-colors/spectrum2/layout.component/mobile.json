@@ -2939,6 +2939,46 @@
       }
     }
   },
+  "in-field-stepper-to-end-small": {
+    "value": "3px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-stepper-to-end-small"
+      }
+    }
+  },
+  "in-field-stepper-to-end-medium": {
+    "value": "3px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-stepper-to-end-medium"
+      }
+    }
+  },
+  "in-field-stepper-to-end-large": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-stepper-to-end-large"
+      }
+    }
+  },
+  "in-field-stepper-to-end-extra-large": {
+    "value": "5px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "in-field-stepper-to-end-extra-large"
+      }
+    }
+  },
   "in-field-button-width-stacked-extra-large": {
     "value": "44px",
     "type": "sizing",
@@ -3359,6 +3399,86 @@
       }
     }
   },
+  "number-field-with-stepper-minimum-width-small": {
+    "value": "126px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-with-stepper-minimum-width-small"
+      }
+    }
+  },
+  "number-field-with-stepper-minimum-width-medium": {
+    "value": "150px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-with-stepper-minimum-width-medium"
+      }
+    }
+  },
+  "number-field-with-stepper-minimum-width-large": {
+    "value": "174px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-with-stepper-minimum-width-large"
+      }
+    }
+  },
+  "number-field-with-stepper-minimum-width-extra-large": {
+    "value": "198px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-with-stepper-minimum-width-extra-large"
+      }
+    }
+  },
+  "number-field-visual-to-in-field-stepper-small": {
+    "value": "7px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-visual-to-in-field-stepper-small"
+      }
+    }
+  },
+  "number-field-visual-to-in-field-stepper-medium": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-visual-to-in-field-stepper-medium"
+      }
+    }
+  },
+  "number-field-visual-to-in-field-stepper-large": {
+    "value": "9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-visual-to-in-field-stepper-large"
+      }
+    }
+  },
+  "number-field-visual-to-in-field-stepper-extra-large": {
+    "value": "10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-visual-to-in-field-stepper-extra-large"
+      }
+    }
+  },
   "opacity-checkerboard-square-size-small": {
     "value": "5px",
     "type": "sizing",
@@ -3397,6 +3517,16 @@
       "spectrum-tokens": {
         "uuid": "03da68d8-cd87-4e29-9aaf-ab467594ec2b",
         "name": "picker-end-edge-to-disclosure-icon-quiet"
+      }
+    }
+  },
+  "number-field-minimum-width-multiplier": {
+    "value": "1.25",
+    "type": "number",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "number-field-minimum-width-multiplier"
       }
     }
   },

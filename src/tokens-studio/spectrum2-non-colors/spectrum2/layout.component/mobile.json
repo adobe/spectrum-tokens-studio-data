@@ -6196,6 +6196,26 @@
       }
     }
   },
+  "takeover-dialog-height": {
+    "value": "100%",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "takeover-dialog-height"
+      }
+    }
+  },
+  "takeover-dialog-width": {
+    "value": "100%",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "takeover-dialog-width"
+      }
+    }
+  },
   "table-thumbnail-to-top-minimum-extra-large-compact": {
     "value": "10px",
     "type": "spacing",

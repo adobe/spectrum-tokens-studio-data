@@ -279,6 +279,16 @@
       }
     }
   },
+  "action-bar-minimum-width": {
+    "value": "176px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "action-bar-minimum-width"
+      }
+    }
+  },
   "bar-panel-width": {
     "value": "56px",
     "type": "sizing",
@@ -646,6 +656,16 @@
       "spectrum-tokens": {
         "uuid": "bc54e89f-6740-4004-891e-c515f8f79693",
         "name": "action-bar-close-button-to-counter"
+      }
+    }
+  },
+  "action-bar-label-to-action-group-area": {
+    "value": "{spacing-300}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "bc54e89f-6740-4004-891e-c515f8f79693",
+        "name": "action-bar-label-to-action-group-area"
       }
     }
   },

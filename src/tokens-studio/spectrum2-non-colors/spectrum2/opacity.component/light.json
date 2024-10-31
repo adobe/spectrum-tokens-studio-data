@@ -218,5 +218,25 @@
         "name": "thumbnail-opacity-disabled"
       }
     }
+  },
+  "tree-view-selected-row-background-opacity-emphasized": {
+    "value": "0.1",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-selected-row-background-opacity-emphasized"
+      }
+    }
+  },
+  "tree-view-selected-row-background-opacity-emphasized-hover": {
+    "value": "0.15",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-selected-row-background-opacity-emphasized-hover"
+      }
+    }
   }
 }

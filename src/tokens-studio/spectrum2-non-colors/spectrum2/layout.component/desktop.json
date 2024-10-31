@@ -6700,6 +6700,46 @@
       }
     }
   },
+  "tree-view-disclosure-indicator-height": {
+    "value": "32px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-disclosure-indicator-height"
+      }
+    }
+  },
+  "tree-view-disclosure-indicator-width": {
+    "value": "34px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-disclosure-indicator-width"
+      }
+    }
+  },
+  "tree-view-minimum-height": {
+    "value": "40px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-minimum-height"
+      }
+    }
+  },
+  "tree-view-minimum-width": {
+    "value": "160px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-minimum-width"
+      }
+    }
+  },
   "divider-horizontal-minimum-width": {
     "value": "200px",
     "type": "sizing",
@@ -6737,6 +6777,176 @@
       "spectrum-tokens": {
         "uuid": "74787427-ea2f-4b94-99c0-88454e8be6cf",
         "name": "tray-top-to-content-area"
+      }
+    }
+  },
+  "tree-view-bottom-to-label": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-bottom-to-label"
+      }
+    }
+  },
+  "tree-view-drag-handle-to-checkbox": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-drag-handle-to-checkbox"
+      }
+    }
+  },
+  "tree-view-edge-to-checkbox": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-edge-to-checkbox"
+      }
+    }
+  },
+  "tree-view-edge-to-drag-handle": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-edge-to-drag-handle"
+      }
+    }
+  },
+  "tree-view-end-edge-to-action-area": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-end-edge-to-action-area"
+      }
+    }
+  },
+  "tree-view-header-to-item": {
+    "value": "-1px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-header-to-item"
+      }
+    }
+  },
+  "tree-view-item-to-header": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-item-to-header"
+      }
+    }
+  },
+  "tree-view-item-to-item": {
+    "value": "-1px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-item-to-item"
+      }
+    }
+  },
+  "tree-view-item-to-item-detached": {
+    "value": "2px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-item-to-item-detached"
+      }
+    }
+  },
+  "tree-view-label-to-action-area": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-label-to-action-area"
+      }
+    }
+  },
+  "tree-view-level-increment": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-level-increment"
+      }
+    }
+  },
+  "tree-view-minimum-top-to-context-area": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-minimum-top-to-context-area"
+      }
+    }
+  },
+  "tree-view-top-to-action-button": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-top-to-action-button"
+      }
+    }
+  },
+  "tree-view-top-to-checkbox": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-top-to-checkbox"
+      }
+    }
+  },
+  "tree-view-top-to-disclosure-indicator": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-top-to-disclosure-indicator"
+      }
+    }
+  },
+  "tree-view-top-to-drag-handle": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-top-to-drag-handle"
+      }
+    }
+  },
+  "tree-view-top-to-label": {
+    "value": "10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-top-to-label"
       }
     }
   },

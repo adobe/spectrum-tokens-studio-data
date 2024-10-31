@@ -6700,6 +6700,46 @@
       }
     }
   },
+  "tree-view-disclosure-indicator-height": {
+    "value": "32px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-disclosure-indicator-height"
+      }
+    }
+  },
+  "tree-view-disclosure-indicator-width": {
+    "value": "34px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-disclosure-indicator-width"
+      }
+    }
+  },
+  "tree-view-minimum-height": {
+    "value": "40px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-minimum-height"
+      }
+    }
+  },
+  "tree-view-minimum-width": {
+    "value": "160px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tree-view-minimum-width"
+      }
+    }
+  },
   "divider-horizontal-minimum-width": {
     "value": "200px",
     "type": "sizing",

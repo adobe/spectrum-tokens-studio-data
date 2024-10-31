@@ -369,6 +369,48 @@
           }
         }
       }
+    },
+    "tree-view": {
+      "row-background-hover": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "tree-view-row-background-hover"
+          }
+        }
+      },
+      "selected-row-background-color-emphasized": {
+        "value": "{Alias.background.semantic.informative.default}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "tree-view-selected-row-background-color-emphasized"
+          }
+        }
+      },
+      "selected-row-background-default": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "tree-view-selected-row-background-default"
+          }
+        }
+      },
+      "selected-row-background-hover": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "tree-view-selected-row-background-hover"
+          }
+        }
+      }
     }
   }
 }

@@ -499,6 +499,16 @@
       }
     }
   },
+  "component-size-maximum-perspective-down": {
+    "value": "96px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "component-size-maximum-perspective-down"
+      }
+    }
+  },
   "component-size-width-ratio-down": {
     "value": "0.3333",
     "type": "number",

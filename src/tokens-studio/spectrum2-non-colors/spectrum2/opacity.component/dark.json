@@ -39,6 +39,16 @@
       }
     }
   },
+  "color-wheel-border-opacity": {
+    "value": "0.1",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "color-wheel-border-opacity"
+      }
+    }
+  },
   "color-handle-inner-border-opacity": {
     "value": "0.42",
     "type": "opacity",

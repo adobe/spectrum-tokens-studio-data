@@ -80,6 +80,18 @@
         }
       }
     },
+    "color-wheel": {
+      "border": {
+        "value": "{Palette.gray.1000}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "color-wheel-border-color"
+          }
+        }
+      }
+    },
     "color-handle": {
       "inner-border": {
         "value": "{Palette.black}",

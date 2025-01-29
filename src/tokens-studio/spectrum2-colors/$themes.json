@@ -6,9 +6,7 @@
       "spectrum2/palette/light": "enabled",
       "spectrum2/alias/light": "enabled",
       "spectrum2/component/light": "enabled",
-      "spectrum2/icon/light": "enabled",
-      "spectrum2/icon/wireframe": "disabled",
-      "spectrum2/component/wireframe": "disabled"
+      "spectrum2/icon/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:11",
@@ -730,9 +728,7 @@
       "spectrum2/palette/dark": "enabled",
       "spectrum2/alias/dark": "enabled",
       "spectrum2/component/dark": "enabled",
-      "spectrum2/icon/dark": "enabled",
-      "spectrum2/icon/wireframe": "disabled",
-      "spectrum2/component/wireframe": "disabled"
+      "spectrum2/icon/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:12",
@@ -1445,6 +1441,18 @@
       "Component.tree-view.selected-row-background-hover": "28921175877c701ba79663557a246fa1df9c7d67"
     },
     "$figmaStyleReferences": {},
+    "group": "S2.Color-theme"
+  },
+  {
+    "id": "9182a5798b0eabe8493462824b0760e589249558",
+    "name": "wireframe",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/palette/wireframe": "enabled",
+      "spectrum2/alias/wireframe": "enabled",
+      "spectrum2/icon/wireframe": "enabled",
+      "spectrum2/component/wireframe": "enabled"
+    },
     "group": "S2.Color-theme"
   }
 ]

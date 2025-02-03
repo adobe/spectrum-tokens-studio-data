@@ -7,10 +7,10 @@
       "spectrum2/alias/light": "enabled",
       "spectrum2/component/light": "enabled",
       "spectrum2/icon/light": "enabled",
-      "spectrum2/palette/wireframe light": "disabled",
-      "spectrum2/alias/wireframe light": "disabled",
-      "spectrum2/icon/wireframe light": "disabled",
-      "spectrum2/component/wireframe light": "disabled"
+      "spectrum2/palette/wireframe dark": "disabled",
+      "spectrum2/alias/wireframe dark": "disabled",
+      "spectrum2/icon/wireframe dark": "disabled",
+      "spectrum2/component/wireframe dark": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:11",
@@ -733,10 +733,10 @@
       "spectrum2/alias/dark": "enabled",
       "spectrum2/component/dark": "enabled",
       "spectrum2/icon/dark": "enabled",
-      "spectrum2/palette/wireframe light": "disabled",
-      "spectrum2/alias/wireframe light": "disabled",
-      "spectrum2/icon/wireframe light": "disabled",
-      "spectrum2/component/wireframe light": "disabled"
+      "spectrum2/palette/wireframe dark": "disabled",
+      "spectrum2/alias/wireframe dark": "disabled",
+      "spectrum2/icon/wireframe dark": "disabled",
+      "spectrum2/component/wireframe dark": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:12",
@@ -1459,7 +1459,23 @@
       "spectrum2/palette/wireframe light": "enabled",
       "spectrum2/alias/wireframe light": "enabled",
       "spectrum2/icon/wireframe light": "enabled",
-      "spectrum2/component/wireframe light": "enabled"
+      "spectrum2/component/wireframe light": "enabled",
+      "spectrum2/palette/wireframe dark": "disabled",
+      "spectrum2/alias/wireframe dark": "disabled",
+      "spectrum2/icon/wireframe dark": "disabled",
+      "spectrum2/component/wireframe dark": "disabled"
+    },
+    "group": "S2.Color-theme"
+  },
+  {
+    "id": "0b8262c10bac1631b7284493146aab3646f38166",
+    "name": "wireframe dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/palette/wireframe dark": "enabled",
+      "spectrum2/alias/wireframe dark": "enabled",
+      "spectrum2/icon/wireframe dark": "enabled",
+      "spectrum2/component/wireframe dark": "enabled"
     },
     "group": "S2.Color-theme"
   }

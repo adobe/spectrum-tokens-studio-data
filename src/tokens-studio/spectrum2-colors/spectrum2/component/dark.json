@@ -1,5 +1,17 @@
 {
   "Component": {
+    "action-bar": {
+      "border": {
+        "value": "{Palette.gray.400}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "action-bar-border-color"
+          }
+        }
+      }
+    },
     "avatar": {
       "border": {
         "value": "{Palette.gray.25}",

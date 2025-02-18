@@ -19,6 +19,16 @@
       }
     }
   },
+  "border-width-150": {
+    "value": "1px",
+    "type": "borderWidth",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "border-width-150"
+      }
+    }
+  },
   "border-width-200": {
     "value": "2px",
     "type": "borderWidth",

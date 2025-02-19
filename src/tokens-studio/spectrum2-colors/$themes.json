@@ -1442,5 +1442,29 @@
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
+  },
+  {
+    "id": "9182a5798b0eabe8493462824b0760e589249558",
+    "name": "wireframe light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/palette/wireframe light": "enabled",
+      "spectrum2/alias/wireframe light": "enabled",
+      "spectrum2/icon/wireframe light": "enabled",
+      "spectrum2/component/wireframe light": "enabled"
+    },
+    "group": "S2.Color-theme"
+  },
+  {
+    "id": "0b8262c10bac1631b7284493146aab3646f38166",
+    "name": "wireframe dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/palette/wireframe dark": "enabled",
+      "spectrum2/alias/wireframe dark": "enabled",
+      "spectrum2/icon/wireframe dark": "enabled",
+      "spectrum2/component/wireframe dark": "enabled"
+    },
+    "group": "S2.Color-theme"
   }
 ]

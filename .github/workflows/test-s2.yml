@@ -20,5 +20,5 @@ jobs:
     uses: ./.github/workflows/_diff-trigger-test.yml
     with:
       source: spectrum2                           # the tokens-studio data we want to compare (folder prefix in the repo)
-      branch: beta                                # the spectrum-tokens data we want to compare (branch of the repo)
+      branch: main                                # the spectrum-tokens data we want to compare (branch of the repo)
     secrets: inherit

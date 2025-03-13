@@ -1,0 +1,440 @@
+{
+  "Component": {
+    "action-bar": {
+      "border": {
+        "value": "{Palette.transparent-white.25}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "166159cc-9353-4d22-90f0-64718533d73a",
+            "name": "action-bar-border-color"
+          }
+        }
+      }
+    },
+    "avatar": {
+      "border": {
+        "value": "{Palette.gray.25}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "bae79ea7-2b3e-4d43-af42-7deab67acc7c",
+            "name": "avatar-border-color"
+          }
+        }
+      }
+    },
+    "bar-panel": {
+      "gripper": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "5a46c025-32b4-4bda-bab0-5ab0fb69ca8e",
+            "name": "bar-panel-gripper-color"
+          }
+        }
+      },
+      "gripper-drag": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "16431c28-23e4-4077-bcfa-138f90583282",
+            "name": "bar-panel-gripper-color-drag"
+          }
+        }
+      }
+    },
+    "card": {
+      "selection-background": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "622c6e86-dea6-416d-9f13-bb6ef112d3cb",
+            "name": "card-selection-background-color"
+          }
+        }
+      }
+    },
+    "coach-indicator": {
+      "value": "{Palette.blue.800}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "bfd387b8-0ce0-45ff-8d66-fc5de2f4900c",
+          "name": "coach-indicator-color"
+        }
+      }
+    },
+    "coach-mark": {
+      "pagination": {
+        "value": "{Palette.gray.600}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "f8cefe70-db2c-489e-bbbe-964050e96ab6",
+            "name": "coach-mark-pagination-color"
+          }
+        }
+      }
+    },
+    "color-area": {
+      "border": {
+        "value": "{Palette.gray.1000}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "70fc4674-0f09-48f5-8850-48b4b38c2f01",
+            "name": "color-area-border-color"
+          }
+        }
+      }
+    },
+    "color-wheel": {
+      "border": {
+        "value": "{Palette.gray.1000}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "a60c3946-dff7-4245-bdcd-b61445066e48",
+            "name": "color-wheel-border-color"
+          }
+        }
+      }
+    },
+    "color-handle": {
+      "inner-border": {
+        "value": "{Palette.black}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "0c93f310-d7c6-474b-8f07-0e8e76e2756e",
+            "name": "color-handle-inner-border-color"
+          }
+        }
+      },
+      "outer-border": {
+        "value": "{Palette.black}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "e4733356-090e-4bb7-b32d-ab9df30fb785",
+            "name": "color-handle-outer-border-color"
+          }
+        }
+      }
+    },
+    "color-loupe": {
+      "🚫 drop-shadow": {
+        "value": "{Alias.drop-shadow.elevated}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "918b8089-d89f-45d2-8c9c-f3f13f81b0b9",
+            "name": "color-loupe-drop-shadow-color"
+          }
+        }
+      },
+      "inner-border": {
+        "value": "{Palette.transparent-black.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "d2c4cb48-8a90-461d-95bc-d882ba01472b",
+            "name": "color-loupe-inner-border"
+          }
+        }
+      },
+      "outer-border": {
+        "value": "{Palette.white}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "4e1d1cc5-736e-4e82-9054-5c1a74ac1aca",
+            "name": "color-loupe-outer-border"
+          }
+        }
+      }
+    },
+    "color-slider": {
+      "border": {
+        "value": "{Palette.gray.1000}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "0c85e7fa-f950-436c-a68a-dd7fb8dfac9e",
+            "name": "color-slider-border-color"
+          }
+        }
+      }
+    },
+    "drop-zone": {
+      "background": {
+        "value": "{Alias.content.visual.semantic.accent}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "866f3613-c12f-4475-87b1-ad86ef2ce153",
+            "name": "drop-zone-background-color"
+          }
+        }
+      }
+    },
+    "floating-action-button": {
+      "drop-shadow": {
+        "value": "{Palette.transparent-black.300}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "d66d3a56-1ba0-4ce7-a263-eb46a4d17af0",
+            "name": "floating-action-button-drop-shadow-color"
+          }
+        }
+      }
+    },
+    "menu-item": {
+      "background-color": {
+        "default": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "f4d97d6a-c1f3-4ef5-b7e5-8fbee1365a83",
+              "name": "menu-item-background-color-default"
+            }
+          }
+        },
+        "hover": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "857e82a6-537e-4534-9084-353c5401f567",
+              "name": "menu-item-background-color-hover"
+            }
+          }
+        },
+        "down": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "d609bd79-ab48-4a7a-95b1-da5a88ac5338",
+              "name": "menu-item-background-color-down"
+            }
+          }
+        },
+        "key-focus": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "dd044387-57b9-4867-90fa-b3c4c4a62e5c",
+              "name": "menu-item-background-color-keyboard-focus"
+            }
+          }
+        },
+        "disabled": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "211d6540-cf9d-4d80-815b-885844283fa6",
+              "name": "menu-item-background-color-disabled"
+            }
+          }
+        }
+      }
+    },
+    "opacity-checkerboard": {
+      "square-dark": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "84a7cd5e-bb2b-4bb5-bb5f-f5839ae3a761",
+            "name": "opacity-checkerboard-square-dark"
+          }
+        }
+      },
+      "square-light": {
+        "value": "{Palette.white}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "c7e50676-3f61-49c3-a35f-2532fdb02360",
+            "name": "opacity-checkerboard-square-light"
+          }
+        }
+      }
+    },
+    "popover": {
+      "border": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "66da6f53-5446-43c1-bbe0-73b46763fde1",
+            "name": "popover-border-color"
+          }
+        }
+      }
+    },
+    "select-box": {
+      "selected-border": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "4bbb81b1-09fb-4ebe-80b5-cebb75c13839",
+            "name": "select-box-selected-border-color"
+          }
+        }
+      }
+    },
+    "swatch": {
+      "border": {
+        "value": "{Palette.gray.1000}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "7da5157d-7f25-405b-8de0-f3669565fb48",
+            "name": "swatch-border-color"
+          }
+        }
+      },
+      "disabled-icon-border": {
+        "value": "{Palette.black}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "c49cd7ae-7657-458b-871a-6b4f28bca535",
+            "name": "swatch-disabled-icon-border-color"
+          }
+        }
+      }
+    },
+    "standard-panel": {
+      "gripper": {
+        "value": "{Palette.gray.200}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "71840c7b-acdd-45b9-a228-5091591f5405",
+            "name": "standard-panel-gripper-color"
+          }
+        }
+      },
+      "gripper-drag": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "69e2d0b3-6807-4e46-9f8a-72bf49439f36",
+            "name": "standard-panel-gripper-color-drag"
+          }
+        }
+      }
+    },
+    "swatch-group": {
+      "border": {
+        "value": "{Palette.gray.1000}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "08b8d06a-5475-47bf-ad2e-9f52ee07345a",
+            "name": "swatch-group-border-color"
+          }
+        }
+      }
+    },
+    "table": {
+      "non-emphasized-selected-row-background": {
+        "value": "{Alias.background.neutral-selected.default}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "8578067a-6ce0-4059-84ad-4688c71df156",
+            "name": "table-selected-row-background-color-non-emphasized"
+          }
+        }
+      },
+      "row-hover": {
+        "value": "{Palette.gray.900}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "44aedb76-5483-4ac3-a6f5-8cf71c2bd376",
+            "name": "table-row-hover-color"
+          }
+        }
+      },
+      "selected-row-background": {
+        "value": "{Alias.background.semantic.informative.default}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "b7537f50-bd49-44b6-a171-19943d443d24",
+            "name": "table-selected-row-background-color"
+          }
+        }
+      }
+    },
+    "thumbnail": {
+      "border": {
+        "value": "{Palette.gray.800}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "5bd226f1-0a6b-42bc-80af-4a9dde99e9e9",
+            "name": "thumbnail-border-color"
+          }
+        }
+      }
+    },
+    "tree-view": {
+      "row-background-hover": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "39d26185-da40-47b5-b4b3-e47689129256",
+            "name": "tree-view-row-background-hover"
+          }
+        }
+      },
+      "selected-row-background-color-emphasized": {
+        "value": "{Alias.background.semantic.informative.default}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "65854450-ed1a-49ea-ab29-d257b8a0569e",
+            "name": "tree-view-selected-row-background-color-emphasized"
+          }
+        }
+      },
+      "selected-row-background-default": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "8f19994d-f49a-42ea-97bd-98ab1d76d02d",
+            "name": "tree-view-selected-row-background-default"
+          }
+        }
+      },
+      "selected-row-background-hover": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "c325ed8f-8248-40c3-a0f0-efba57638f24",
+            "name": "tree-view-selected-row-background-hover"
+          }
+        }
+      }
+    }
+  }
+}

@@ -48,12 +48,32 @@
     },
     "card": {
       "selection-background": {
-        "value": "{Palette.gray.100}",
+        "value": "{Palette.transparent-black.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "622c6e86-dea6-416d-9f13-bb6ef112d3cb",
             "name": "card-selection-background-color"
+          }
+        }
+      },
+      "background-well": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "card-background-well-color"
+          }
+        }
+      },
+      "background-loading": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "card-background-loading-color"
           }
         }
       }

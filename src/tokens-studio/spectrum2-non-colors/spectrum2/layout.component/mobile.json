@@ -2152,6 +2152,16 @@
       }
     }
   },
+  "user-card-minimum-height-title-below-extra-large": {
+    "value": "263px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "user-card-minimum-height-title-below-extra-large"
+      }
+    }
+  },
   "checkbox-control-size-extra-large": {
     "value": "26px",
     "type": "sizing",

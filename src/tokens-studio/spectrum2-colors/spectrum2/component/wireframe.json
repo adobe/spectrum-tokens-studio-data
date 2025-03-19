@@ -48,12 +48,32 @@
     },
     "card": {
       "selection-background": {
+        "value": "{Palette.transparent-black.600}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "81c0608b-c977-490e-b8d7-830d0676fdad",
+            "name": "card-selection-background-color"
+          }
+        }
+      },
+      "background-well": {
         "value": "{Palette.gray.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
-            "uuid": "622c6e86-dea6-416d-9f13-bb6ef112d3cb",
-            "name": "card-selection-background-color"
+            "uuid": "c9c0e684-6b6c-4314-9b5b-7ba5e3333071",
+            "name": "card-background-well-color"
+          }
+        }
+      },
+      "background-loading": {
+        "value": "{Palette.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "6022f845-b182-493f-bdae-f86f6336efaa",
+            "name": "card-background-loading-color"
           }
         }
       }

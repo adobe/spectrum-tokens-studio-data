@@ -1564,7 +1564,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-compact-extra-small"
+        "name": "card-edge-to-content-compact-extra-small",
+        "uuid": "562738ca-ed16-4855-8855-3914b9109408"
       }
     }
   },
@@ -1573,7 +1574,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-default-extra-small"
+        "name": "card-edge-to-content-default-extra-small",
+        "uuid": "9ecb4a76-013a-4952-9646-a5660005b31e"
       }
     }
   },
@@ -1582,7 +1584,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-spacious-extra-small"
+        "name": "card-edge-to-content-spacious-extra-small",
+        "uuid": "91289dd0-0a27-49ef-96c9-3508edecfa44"
       }
     }
   },
@@ -1591,7 +1594,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-compact-small"
+        "name": "card-edge-to-content-compact-small",
+        "uuid": "521df9e4-9c61-4a73-9157-d235a4d04090"
       }
     }
   },
@@ -1600,7 +1604,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-default-small"
+        "name": "card-edge-to-content-default-small",
+        "uuid": "569f8d0a-75f3-4743-aa51-9ec6479cdf21"
       }
     }
   },
@@ -1609,7 +1614,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-spacious-small"
+        "name": "card-edge-to-content-spacious-small",
+        "uuid": "8ec39e04-de4f-48cf-9c8b-7bb7f76730a0"
       }
     }
   },
@@ -1618,7 +1624,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-compact-medium"
+        "name": "card-edge-to-content-compact-medium",
+        "uuid": "f3566ff3-2430-4fdd-a48c-e8c0d3c34adc"
       }
     }
   },
@@ -1627,7 +1634,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-default-medium"
+        "name": "card-edge-to-content-default-medium",
+        "uuid": "04ef066b-4733-4d20-9538-7eefd71e7a1e"
       }
     }
   },
@@ -1636,7 +1644,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-spacious-medium"
+        "name": "card-edge-to-content-spacious-medium",
+        "uuid": "98ef0816-ad83-43ec-b976-1169a7ce8540"
       }
     }
   },
@@ -1645,7 +1654,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-compact-large"
+        "name": "card-edge-to-content-compact-large",
+        "uuid": "0b551228-5a6a-403d-bb92-9800835cb3be"
       }
     }
   },
@@ -1654,7 +1664,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-default-large"
+        "name": "card-edge-to-content-default-large",
+        "uuid": "8856270e-65b5-4f81-87c0-5332ffd7459f"
       }
     }
   },
@@ -1663,7 +1674,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-spacious-large"
+        "name": "card-edge-to-content-spacious-large",
+        "uuid": "73da978a-bede-439e-97cd-afeb32e87780"
       }
     }
   },
@@ -1672,7 +1684,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-compact-extra-large"
+        "name": "card-edge-to-content-compact-extra-large",
+        "uuid": "a9f253aa-631e-447a-8335-15b4491a8e9d"
       }
     }
   },
@@ -1681,7 +1694,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-default-extra-large"
+        "name": "card-edge-to-content-default-extra-large",
+        "uuid": "7acf60d0-7870-403e-94b9-18e84eff861b"
       }
     }
   },
@@ -1690,7 +1704,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-edge-to-content-spacious-extra-large"
+        "name": "card-edge-to-content-spacious-extra-large",
+        "uuid": "c4ee268c-aca6-488f-90db-d3e51a0c5c89"
       }
     }
   },
@@ -1699,7 +1714,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-header-to-description"
+        "name": "card-header-to-description",
+        "uuid": "e874d2cd-6ad6-4d1c-8103-789945f10294"
       }
     }
   },
@@ -1708,7 +1724,8 @@
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
-        "name": "card-description-to-footer"
+        "name": "card-description-to-footer",
+        "uuid": "248d1f30-c0d3-49bb-a5b7-0860cc75ee85"
       }
     }
   },
@@ -1747,7 +1764,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "b9268c45-50c7-4209-9f73-99293e15b7fd",
         "name": "card-selection-background-size-small"
       }
     }
@@ -1757,7 +1774,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "d169a0a3-9bda-41b4-9e58-897652c95627",
         "name": "card-selection-background-size-medium"
       }
     }
@@ -1767,7 +1784,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "f8e58ca1-5087-4c4a-95dc-2f145f63fbc5",
         "name": "card-selection-background-size-large"
       }
     }
@@ -1777,7 +1794,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "89dca1bf-84e5-436e-9e86-35f37f739812",
         "name": "card-selection-background-size-extra-large"
       }
     }
@@ -1787,7 +1804,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "dad01ae6-b161-4d09-8296-33c6ee7d8ca1",
         "name": "card-minimum-width-extra-small"
       }
     }
@@ -1797,7 +1814,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "6d94093e-daba-4312-b083-61f44d027737",
         "name": "card-minimum-width-small"
       }
     }
@@ -1807,7 +1824,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "813d9d3b-8e02-44d9-a898-3045947edc08",
         "name": "card-minimum-width-medium"
       }
     }
@@ -1817,7 +1834,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "549fbfad-78b7-430d-8fac-7d23084f2bea",
         "name": "card-minimum-width-large"
       }
     }
@@ -1827,7 +1844,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "7a98c2aa-404f-4fba-a20d-f5b73919b13e",
         "name": "card-minimum-width-extra-large"
       }
     }
@@ -1837,7 +1854,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "b99da217-1715-446c-9120-53e435cb0d0a",
         "name": "card-default-width-extra-small"
       }
     }
@@ -1847,7 +1864,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "bec36248-9c3d-4ecd-857e-c5c20bdc0e1a",
         "name": "card-default-width-small"
       }
     }
@@ -1857,7 +1874,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "5645fd64-11a8-4a0e-95f6-2f0cd89f5852",
         "name": "card-default-width-medium"
       }
     }
@@ -1867,7 +1884,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "dc3ab4d0-f006-4ade-91da-ef263a676244",
         "name": "card-default-width-large"
       }
     }
@@ -1877,7 +1894,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "7a94daad-ec68-4ef1-9c84-9bf6c9b6b696",
         "name": "card-default-width-extra-large"
       }
     }
@@ -1887,7 +1904,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "9b2b13ac-1728-49f5-8e15-6eeed2e7f855",
         "name": "card-maximum-width-extra-small"
       }
     }
@@ -1897,7 +1914,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "42b0d345-b069-48b6-be41-6ed9047097d4",
         "name": "card-maximum-width-small"
       }
     }
@@ -1907,7 +1924,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "ccfe1006-0ddd-4203-b0e0-4c92a090c376",
         "name": "card-maximum-width-medium"
       }
     }
@@ -1917,7 +1934,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "2e85d49c-4002-4beb-9173-f4b2ab78d043",
         "name": "card-maximum-width-large"
       }
     }
@@ -1927,7 +1944,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "6f924664-b056-4fdb-a6ab-c5609e3e9316",
         "name": "card-maximum-width-extra-large"
       }
     }
@@ -1937,7 +1954,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "f4492a8a-8cb4-481f-a2e4-73da516023be",
         "name": "card-minimum-height-extra-small"
       }
     }
@@ -1947,7 +1964,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "862e84ab-4efa-4c8e-a0e0-5ed158dadbcb",
         "name": "card-minimum-height-small"
       }
     }
@@ -1957,7 +1974,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "a29c460d-3496-49e9-8996-f4b42b9fbce7",
         "name": "card-minimum-height-medium"
       }
     }
@@ -1967,7 +1984,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "2047247e-07d1-4b9b-b184-c173e6421daf",
         "name": "card-minimum-height-large"
       }
     }
@@ -1977,7 +1994,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "ef218a9a-900a-4454-840c-2380020bcbf3",
         "name": "card-minimum-height-extra-large"
       }
     }
@@ -1987,7 +2004,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "fabfd445-4c39-4d39-9f7f-1ec531d4eb40",
         "name": "collection-card-minimum-height-extra-small"
       }
     }
@@ -1997,7 +2014,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "9264b1ff-23ae-4fd5-8863-742c305689e2",
         "name": "collection-card-minimum-height-small"
       }
     }
@@ -2007,7 +2024,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "8422dc66-e17d-4c54-a18b-a997a8e5d7c3",
         "name": "collection-card-minimum-height-medium"
       }
     }
@@ -2017,7 +2034,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "e5027e50-3a1f-425d-b06b-8e4cf4663c22",
         "name": "collection-card-minimum-height-large"
       }
     }
@@ -2027,7 +2044,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "6b242eb5-aa73-417c-b786-9047ae7a65ac",
         "name": "collection-card-minimum-height-extra-large"
       }
     }
@@ -2037,7 +2054,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "dc2f0f1a-609a-448a-833d-ded2580ef737",
         "name": "collection-card-minimum-height-hero-extra-small"
       }
     }
@@ -2047,7 +2064,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "adfc74bd-7520-4bfa-b278-28178007cfbc",
         "name": "collection-card-minimum-height-hero-small"
       }
     }
@@ -2057,7 +2074,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "63ecc7ce-8a38-4d18-94ed-d9e6394279ba",
         "name": "collection-card-minimum-height-hero-medium"
       }
     }
@@ -2067,7 +2084,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "d5586b0d-1ff1-4e7e-88ce-75d41aff90d9",
         "name": "collection-card-minimum-height-hero-large"
       }
     }
@@ -2077,7 +2094,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "24d72e3c-ed0d-47d7-85f5-4792fcf87b7f",
         "name": "collection-card-minimum-height-hero-extra-large"
       }
     }
@@ -2087,7 +2104,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "f646530e-480c-4dbb-85fe-771eb5685966",
         "name": "user-card-minimum-height-small"
       }
     }
@@ -2097,7 +2114,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "53c81b30-6d98-4eaa-857f-15707d54a548",
         "name": "user-card-minimum-height-medium"
       }
     }
@@ -2107,7 +2124,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "7cf979ef-c47b-41f3-8230-49d67ad47740",
         "name": "user-card-minimum-height-large"
       }
     }
@@ -2117,7 +2134,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "9a9f173d-6262-490f-976f-bd9abb9ec355",
         "name": "user-card-minimum-height-extra-large"
       }
     }
@@ -2127,7 +2144,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "3373c4d2-d81b-4649-bc24-5251879778c1",
         "name": "user-card-minimum-height-title-below-small"
       }
     }
@@ -2137,7 +2154,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "5f4edfbc-eb2e-4dd5-add1-bf45530b0e61",
         "name": "user-card-minimum-height-title-below-medium"
       }
     }
@@ -2147,7 +2164,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "4cc4f673-912b-4e53-a75e-c8bd4603ab19",
         "name": "user-card-minimum-height-title-below-large"
       }
     }
@@ -2157,7 +2174,7 @@
     "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "",
+        "uuid": "a603a785-8cd8-4caf-a2b4-cfe3371cc10e",
         "name": "user-card-minimum-height-title-below-extra-large"
       }
     }

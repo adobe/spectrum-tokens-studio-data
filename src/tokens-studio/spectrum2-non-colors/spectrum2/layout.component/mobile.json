@@ -1710,7 +1710,7 @@
     }
   },
   "card-header-to-description": {
-    "value": "spacing-75",
+    "value": "{spacing-75}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -1720,7 +1720,7 @@
     }
   },
   "card-description-to-footer": {
-    "value": "spacing-300",
+    "value": "{spacing-300}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

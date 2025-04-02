@@ -5362,7 +5362,7 @@
   },
   "steplist-step-default-width-small": {
     "value": "46px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5372,7 +5372,7 @@
   },
   "steplist-step-default-width-medium": {
     "value": "54px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5382,7 +5382,7 @@
   },
   "steplist-step-default-width-large": {
     "value": "70px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5392,7 +5392,7 @@
   },
   "steplist-step-default-width-extra-large": {
     "value": "78px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5402,7 +5402,7 @@
   },
   "steplist-step-default-height-small": {
     "value": "46px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5412,7 +5412,7 @@
   },
   "steplist-step-default-height-medium": {
     "value": "54px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5422,7 +5422,7 @@
   },
   "steplist-step-default-height-large": {
     "value": "70px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5432,7 +5432,7 @@
   },
   "steplist-step-default-height-extra-large": {
     "value": "78px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5442,7 +5442,7 @@
   },
   "steplist-visual-size-small": {
     "value": "8px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5452,7 +5452,7 @@
   },
   "steplist-visual-size-medium": {
     "value": "16px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5462,7 +5462,7 @@
   },
   "steplist-visual-size-large": {
     "value": "24px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5472,7 +5472,7 @@
   },
   "steplist-visual-size-extra-large": {
     "value": "32px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",
@@ -5482,7 +5482,7 @@
   },
   "steplist-track-thickness-medium": {
     "value": "2px",
-    "type": "dimension",
+    "type": "sizing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "",

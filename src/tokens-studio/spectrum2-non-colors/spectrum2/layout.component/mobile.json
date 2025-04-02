@@ -5360,6 +5360,186 @@
       }
     }
   },
+  "steplist-step-default-width-small": {
+    "value": "46px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-width-small"
+      }
+    }
+  },
+  "steplist-step-default-width-medium": {
+    "value": "54px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-width-medium"
+      }
+    }
+  },
+  "steplist-step-default-width-large": {
+    "value": "70px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-width-large"
+      }
+    }
+  },
+  "steplist-step-default-width-extra-large": {
+    "value": "78px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-width-extra-large"
+      }
+    }
+  },
+  "steplist-step-default-height-small": {
+    "value": "46px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-height-small"
+      }
+    }
+  },
+  "steplist-step-default-height-medium": {
+    "value": "54px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-height-medium"
+      }
+    }
+  },
+  "steplist-step-default-height-large": {
+    "value": "70px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-height-large"
+      }
+    }
+  },
+  "steplist-step-default-height-extra-large": {
+    "value": "78px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-default-height-extra-large"
+      }
+    }
+  },
+  "steplist-visual-size-small": {
+    "value": "8px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-visual-size-small"
+      }
+    }
+  },
+  "steplist-visual-size-medium": {
+    "value": "16px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-visual-size-medium"
+      }
+    }
+  },
+  "steplist-visual-size-large": {
+    "value": "24px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-visual-size-large"
+      }
+    }
+  },
+  "steplist-visual-size-extra-large": {
+    "value": "32px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-visual-size-extra-large"
+      }
+    }
+  },
+  "steplist-track-thickness-medium": {
+    "value": "2px",
+    "type": "dimension",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-track-thickness-medium"
+      }
+    }
+  },
+  "steplist-step-to-track-size-small": {
+    "value": "6px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-to-track-size-small"
+      }
+    }
+  },
+  "steplist-step-to-track-size-medium": {
+    "value": "7px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-to-track-size-medium"
+      }
+    }
+  },
+  "steplist-step-to-track-size-large": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-to-track-size-large"
+      }
+    }
+  },
+  "steplist-step-to-track-size-extra-large": {
+    "value": "9px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-step-to-track-size-extra-large"
+      }
+    }
+  },
+  "steplist-bottom-to-text": {
+    "value": "1px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "steplist-bottom-to-text"
+      }
+    }
+  },
   "swatch-group-spacing-spacious": {
     "value": "6px",
     "type": "spacing",

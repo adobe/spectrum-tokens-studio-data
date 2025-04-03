@@ -1442,5 +1442,17 @@
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
+  },
+  {
+    "id": "9182a5798b0eabe8493462824b0760e589249558",
+    "name": "wireframe",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/palette/wireframe": "enabled",
+      "spectrum2/alias/wireframe": "enabled",
+      "spectrum2/icon/wireframe": "enabled",
+      "spectrum2/component/wireframe": "enabled"
+    },
+    "group": "S2.Color-theme"
   }
 ]

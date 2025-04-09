@@ -7380,6 +7380,16 @@
       }
     }
   },
+  "segmented-control-item-maximum-width": {
+    "value": "265px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "segmented-control-item-maximum-width"
+      }
+    }
+  },
   "tray-top-to-content-area": {
     "value": "5px",
     "type": "spacing",

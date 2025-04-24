@@ -1454,5 +1454,89 @@
       "spectrum2/component/wireframe": "enabled"
     },
     "group": "S2.Color-theme"
+  },
+  {
+    "id": "opacity.alias-light",
+    "name": "light",
+    "group": "opacity.alias",
+    "selectedTokenSets": {
+      "opacity.alias/light": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "opacity": "94ff39231a762cba14f87137c087b47fa3a1dd87"
+    },
+    "$figmaModeId": "1:0",
+    "$figmaCollectionId": "VariableCollectionId:1:2"
+  },
+  {
+    "id": "opacity.alias-dark",
+    "name": "dark",
+    "group": "opacity.alias",
+    "selectedTokenSets": {
+      "opacity.alias/dark": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "opacity": "94ff39231a762cba14f87137c087b47fa3a1dd87"
+    },
+    "$figmaModeId": "1:2",
+    "$figmaCollectionId": "VariableCollectionId:1:2"
+  },
+  {
+    "id": "opacity.alias-wireframe",
+    "name": "wireframe",
+    "group": "opacity.alias",
+    "selectedTokenSets": {
+      "opacity.alias/wireframe": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "opacity": "94ff39231a762cba14f87137c087b47fa3a1dd87"
+    },
+    "$figmaModeId": "1:3",
+    "$figmaCollectionId": "VariableCollectionId:1:2"
+  },
+  {
+    "id": "opacity.component-light",
+    "name": "light",
+    "group": "opacity.component",
+    "selectedTokenSets": {
+      "opacity.component/light": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "Number": "43767e3248e942082cff0b196151870293cedcb4"
+    },
+    "$figmaModeId": "1:1",
+    "$figmaCollectionId": "VariableCollectionId:1:4"
+  },
+  {
+    "id": "opacity.component-dark",
+    "name": "dark",
+    "group": "opacity.component",
+    "selectedTokenSets": {
+      "opacity.component/dark": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "Number": "43767e3248e942082cff0b196151870293cedcb4"
+    },
+    "$figmaModeId": "1:4",
+    "$figmaCollectionId": "VariableCollectionId:1:4"
+  },
+  {
+    "id": "opacity.component-wireframe",
+    "name": "wireframe",
+    "group": "opacity.component",
+    "selectedTokenSets": {
+      "opacity.component/wireframe": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "Number": "43767e3248e942082cff0b196151870293cedcb4"
+    },
+    "$figmaModeId": "1:5",
+    "$figmaCollectionId": "VariableCollectionId:1:4"
   }
 ]

@@ -6,7 +6,9 @@
       "spectrum2/palette/light": "enabled",
       "spectrum2/alias/light": "enabled",
       "spectrum2/component/light": "enabled",
-      "spectrum2/icon/light": "enabled"
+      "spectrum2/icon/light": "enabled",
+      "spectrum2/opacity.component/light": "enabled",
+      "spectrum2/opacity.alias/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:11",
@@ -728,7 +730,9 @@
       "spectrum2/palette/dark": "enabled",
       "spectrum2/alias/dark": "enabled",
       "spectrum2/component/dark": "enabled",
-      "spectrum2/icon/dark": "enabled"
+      "spectrum2/icon/dark": "enabled",
+      "spectrum2/opacity.alias/dark": "enabled",
+      "spectrum2/opacity.component/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:12",
@@ -1451,7 +1455,9 @@
       "spectrum2/palette/wireframe": "enabled",
       "spectrum2/alias/wireframe": "enabled",
       "spectrum2/icon/wireframe": "enabled",
-      "spectrum2/component/wireframe": "enabled"
+      "spectrum2/component/wireframe": "enabled",
+      "spectrum2/opacity.alias/wireframe": "enabled",
+      "spectrum2/opacity.component/wireframe": "enabled"
     },
     "group": "S2.Color-theme"
   }

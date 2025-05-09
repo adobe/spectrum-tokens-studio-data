@@ -529,6 +529,77 @@
       }
     }
   },
+  "date-field-minimum-width": {
+    "value": "152px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "date-field-minimum-width"
+      }
+    }
+  },
+  "date-picker-minimum-width": {
+    "value": "152px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "date-picker-minimum-width"
+      }
+    }
+  },
+  "time-field-minimum-width": {
+    "value": "2.5",
+    "type": "sizing",
+    "description": "2.5x height of field",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "time-field-minimum-width"
+      }
+    }
+  },
+  "single-calendar-popover-minimum-height": {
+    "value": "320px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "single-calendar-popover-minimum-height"
+      }
+    }
+  },
+  "double-calendar-popover-minimum-height": {
+    "value": "320px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "double-calendar-popover-minimum-height"
+      }
+    }
+  },
+  "triple-calendar-popover-minimum-height": {
+    "value": "320px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "triple-calendar-popover-minimum-height"
+      }
+    }
+  },
+  "segmented-text-field-rounding": {
+    "value": "2px",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "segmented-text-field-rounding"
+      }
+    }
+  },
   "switch-handle-size-small": {
     "value": "6px",
     "type": "sizing",

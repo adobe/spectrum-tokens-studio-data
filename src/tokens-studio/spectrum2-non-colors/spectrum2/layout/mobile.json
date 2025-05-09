@@ -529,6 +529,56 @@
       }
     }
   },
+  "segmented-text-field-gap": {
+    "value": "0px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "segmented-text-field-gap"
+      }
+    }
+  },
+  "date-picker-visual-to-field-button": {
+    "value": "0px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "date-picker-visual-to-field-button"
+      }
+    }
+  },
+  "date-field-text-to-visual": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "date-field-text-to-visual"
+      }
+    }
+  },
+  "time-field-text-to-visual": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "time-field-text-to-visual"
+      }
+    }
+  },
+  "date-picker-text-to-visual": {
+    "value": "0px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "date-picker-text-to-visual"
+      }
+    }
+  },
   "gradient-stop-1-genai": {
     "value": "0",
     "type": "number",

@@ -1999,6 +1999,36 @@
       }
     }
   },
+  "card-horizontal-edge-to-content-compact": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "card-horizontal-edge-to-content-compact"
+      }
+    }
+  },
+  "card-horizontal-edge-to-content-default": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "card-horizontal-edge-to-content-default"
+      }
+    }
+  },
+  "card-horizontal-edge-to-content-spacious": {
+    "value": "20px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "card-horizontal-edge-to-content-spacious"
+      }
+    }
+  },
   "collection-card-minimum-height-extra-small": {
     "value": "88px",
     "type": "sizing",

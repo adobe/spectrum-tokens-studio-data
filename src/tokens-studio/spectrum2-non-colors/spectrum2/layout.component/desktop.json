@@ -590,6 +590,36 @@
       }
     }
   },
+  "single-calendar-popover-minimum-width": {
+    "value": "320px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "single-calendar-popover-minimum-width"
+      }
+    }
+  },
+  "double-calendar-popover-minimum-width": {
+    "value": "616px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "double-calendar-popover-minimum-width"
+      }
+    }
+  },
+  "triple-calendar-popover-minimum-width": {
+    "value": "912px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "triple-calendar-popover-minimum-width"
+      }
+    }
+  },
   "segmented-text-field-gap": {
     "value": "0px",
     "type": "spacing",

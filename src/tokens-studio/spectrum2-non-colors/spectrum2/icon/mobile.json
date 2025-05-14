@@ -1,4 +1,54 @@
 {
+  "add-icon-size-50": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-50"
+      }
+    }
+  },
+  "add-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-75"
+      }
+    }
+  },
+  "add-icon-size-100": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-100"
+      }
+    }
+  },
+  "add-icon-size-200": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-200"
+      }
+    }
+  },
+  "add-icon-size-300": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-300"
+      }
+    }
+  },
   "arrow-icon-size-75": {
     "value": "12px",
     "type": "sizing",
@@ -459,6 +509,56 @@
       }
     }
   },
+  "drag-handle-icon-size-75": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-75"
+      }
+    }
+  },
+  "drag-handle-icon-size-100": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-100"
+      }
+    }
+  },
+  "drag-handle-icon-size-200": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-200"
+      }
+    }
+  },
+  "drag-handle-icon-size-300": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-300"
+      }
+    }
+  },
+  "gripper-icon-size-100": {
+    "value": "24px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gripper-icon-size-100"
+      }
+    }
+  },
   "link-out-icon-size-75": {
     "value": "12px",
     "type": "sizing",
@@ -486,6 +586,26 @@
       "spectrum-tokens": {
         "uuid": "0062482b-0339-4632-9b40-89b5f1a440cf",
         "name": "link-out-icon-size-200"
+      }
+    }
+  },
+  "link-out-icon-size-300": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "link-out-icon-size-300"
+      }
+    }
+  },
+  "link-out-icon-size-400": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "link-out-icon-size-400"
       }
     }
   },

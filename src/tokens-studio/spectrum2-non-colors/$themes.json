@@ -2646,5 +2646,23 @@
     "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
+  },
+  {
+    "id": "ac5c0082159589ddd3c5bb915989843bba11dce6",
+    "name": "product",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "spectrum2/icon/desktop": "enabled",
+      "spectrum2/icon/mobile": "enabled",
+      "spectrum2/layout/desktop": "enabled",
+      "spectrum2/layout/mobile": "enabled",
+      "spectrum2/layout.component/desktop": "enabled",
+      "spectrum2/layout.component/mobile": "enabled",
+      "spectrum2/typography/desktop": "enabled",
+      "spectrum2/typography/mobile": "enabled",
+      "spectrum2/typography.component/desktop": "enabled",
+      "spectrum2/typography.component/mobile": "enabled"
+    },
+    "group": "S2.Scale"
   }
 ]

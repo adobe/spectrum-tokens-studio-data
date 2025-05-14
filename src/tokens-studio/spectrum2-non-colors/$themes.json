@@ -7,7 +7,8 @@
       "spectrum2/layout/mobile": "enabled",
       "spectrum2/layout.component/mobile": "enabled",
       "spectrum2/typography/mobile": "enabled",
-      "spectrum2/typography.component/mobile": "enabled"
+      "spectrum2/typography.component/mobile": "enabled",
+      "Typography": "disabled"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Scale"
@@ -20,7 +21,8 @@
       "spectrum2/layout/desktop": "enabled",
       "spectrum2/layout.component/desktop": "enabled",
       "spectrum2/typography/desktop": "enabled",
-      "spectrum2/typography.component/desktop": "enabled"
+      "spectrum2/typography.component/desktop": "enabled",
+      "Typography": "disabled"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Scale"
@@ -28,14 +30,18 @@
   {
     "id": "ba475698596b2ca020b37426e165744c4279a9bf",
     "name": "light",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Typography": "disabled"
+    },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
   },
   {
     "id": "34ebdf3e9738d322fca662fa5f779ed2cc3ec4e5",
     "name": "dark",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Typography": "disabled"
+    },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"
   }

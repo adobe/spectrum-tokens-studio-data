@@ -7,7 +7,8 @@
       "spectrum2/layout/mobile": "enabled",
       "spectrum2/layout.component/mobile": "enabled",
       "spectrum2/typography/mobile": "enabled",
-      "spectrum2/typography.component/mobile": "enabled"
+      "spectrum2/typography.component/mobile": "enabled",
+      "typography-private/mobile": "enabled"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Scale"
@@ -20,7 +21,8 @@
       "spectrum2/layout/desktop": "enabled",
       "spectrum2/layout.component/desktop": "enabled",
       "spectrum2/typography/desktop": "enabled",
-      "spectrum2/typography.component/desktop": "enabled"
+      "spectrum2/typography.component/desktop": "enabled",
+      "typography-private/desktop": "enabled"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Scale"

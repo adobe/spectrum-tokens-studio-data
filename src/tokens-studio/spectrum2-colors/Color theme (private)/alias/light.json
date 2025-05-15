@@ -1,6 +1,6 @@
 {
   "Alias": {
-    "overlay-theme": {
+    "overlay": {
       "value": "{Palette.black}",
       "type": "color",
       "$extensions": {
@@ -10,7 +10,7 @@
         }
       }
     },
-    "🚫 drop-shadow-theme": {
+    "🚫 drop-shadow": {
       "value": "{Alias.drop-shadow.100}",
       "type": "color",
       "$extensions": {
@@ -21,7 +21,7 @@
       }
     },
     "drop-shadow": {
-      "100-theme": {
+      "100": {
         "value": "#0000001F",
         "type": "color",
         "$extensions": {
@@ -31,7 +31,7 @@
           }
         }
       },
-      "200-theme": {
+      "200": {
         "value": "#00000029",
         "type": "color",
         "$extensions": {
@@ -41,7 +41,7 @@
           }
         }
       },
-      "300-theme": {
+      "300": {
         "value": "#00000033",
         "type": "color",
         "$extensions": {
@@ -51,7 +51,7 @@
           }
         }
       },
-      "emphasized-default-theme": {
+      "emphasized-default": {
         "value": "{Alias.drop-shadow.100}",
         "type": "color",
         "$extensions": {
@@ -61,7 +61,7 @@
           }
         }
       },
-      "emphasized-hover-theme": {
+      "emphasized-hover": {
         "value": "{Alias.drop-shadow.200}",
         "type": "color",
         "$extensions": {
@@ -71,7 +71,7 @@
           }
         }
       },
-      "elevated-theme": {
+      "elevated": {
         "value": "{Alias.drop-shadow.200}",
         "type": "color",
         "$extensions": {
@@ -81,7 +81,7 @@
           }
         }
       },
-      "dragged-theme": {
+      "dragged": {
         "value": "{Alias.drop-shadow.300}",
         "type": "color",
         "$extensions": {
@@ -94,105 +94,105 @@
     },
     "content": {
       "neutral": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "43ca4c0d-7803-4e8e-b444-26fe70d5304c",
-              "name": "neutral-content-color-default-theme"
+              "name": "neutral-content-color-default"
             }
           }
         },
-        "hover-theme": {
+        "hover": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "d236bdc5-037b-4838-8401-8a0d5136936c",
-              "name": "neutral-content-color-hover-theme"
+              "name": "neutral-content-color-hover"
             }
           }
         },
-        "down-theme": {
+        "down": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "cf169d95-e427-4665-a983-c24727dbfa60",
-              "name": "neutral-content-color-down-theme"
+              "name": "neutral-content-color-down"
             }
           }
         },
-        "focus-hover-theme": {
+        "focus-hover": {
           "value": "{Alias.content.neutral.down}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "a370f375-b3b1-4af8-9628-fa901c0252fb",
-              "name": "neutral-content-color-focus-hover-theme"
+              "name": "neutral-content-color-focus-hover"
             }
           }
         },
-        "focus-theme": {
+        "focus": {
           "value": "{Alias.content.neutral.down}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "f218dfd0-23be-4f07-becb-6027cc971c8b",
-              "name": "neutral-content-color-focus-theme"
+              "name": "neutral-content-color-focus"
             }
           }
         },
-        "key-focus-theme": {
+        "key-focus": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "c2c538e0-6f8d-4586-953a-b98ef40c9eca",
-              "name": "neutral-content-color-key-focus-theme"
+              "name": "neutral-content-color-key-focus"
             }
           }
         }
       },
       "neutral-subdued": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "7a058b23-341c-4dd3-83d8-358917277836",
-              "name": "neutral-subdued-content-color-default-theme"
+              "name": "neutral-subdued-content-color-default"
             }
           }
         },
-        "hover-theme": {
+        "hover": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "a6d8a177-3e5c-4d28-a675-c21c2695d2f6",
-              "name": "neutral-subdued-content-color-hover-theme"
+              "name": "neutral-subdued-content-color-hover"
             }
           }
         },
-        "down-theme": {
+        "down": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "8ab4accc-bd95-48e0-ae3a-539740a07cc6",
-              "name": "neutral-subdued-content-color-down-theme"
+              "name": "neutral-subdued-content-color-down"
             }
           }
         },
-        "key-focus-theme": {
+        "key-focus": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "4e79877b-254d-4226-a28f-4c80d2d8b2f3",
-              "name": "neutral-subdued-content-color-key-focus-theme"
+              "name": "neutral-subdued-content-color-key-focus"
             }
           }
         },
@@ -209,43 +209,43 @@
       },
       "semantic": {
         "accent": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.accent.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "b14c876e-2930-413b-8688-1e0cf2358185",
-                "name": "accent-content-color-default-theme"
+                "name": "accent-content-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.accent.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "d6cd141c-d7a4-457f-bed5-9a725ca7a0fe",
-                "name": "accent-content-color-hover-theme"
+                "name": "accent-content-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.accent.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "25d3b2d2-e7d5-4686-95ff-bfaaddc14ff1",
-                "name": "accent-content-color-down-theme"
+                "name": "accent-content-color-down"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.accent.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "71dcd137-f767-4d2c-b6ac-942b99ac8621",
-                "name": "accent-content-color-key-focus-theme"
+                "name": "accent-content-color-key-focus"
               }
             }
           },
@@ -261,43 +261,43 @@
           }
         },
         "negative": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.negative.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "2a1b0c71-c3a4-4f4c-a625-346e026853e5",
-                "name": "negative-content-color-default-theme"
+                "name": "negative-content-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "ff90152d-86bf-4a34-9a7e-ede61966bda0",
-                "name": "negative-content-color-hover-theme"
+                "name": "negative-content-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "f760cc99-ebec-4d34-931e-5621aef995a0",
-                "name": "negative-content-color-down-theme"
+                "name": "negative-content-color-down"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "03a7aa1f-9493-4054-bb21-eb10e593da73",
-                "name": "negative-content-color-key-focus-theme"
+                "name": "negative-content-color-key-focus"
               }
             }
           }
@@ -612,7 +612,7 @@
         }
       },
       "disabled": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.400}",
           "type": "color",
           "$extensions": {
@@ -645,7 +645,7 @@
       }
     },
     "static-text": {
-      "static-black-theme": {
+      "static-black": {
         "value": "{Palette.black}",
         "type": "color",
         "$extensions": {
@@ -655,7 +655,7 @@
           }
         }
       },
-      "static-white-theme": {
+      "static-white": {
         "value": "{Palette.white}",
         "type": "color",
         "$extensions": {
@@ -720,417 +720,417 @@
         }
       },
       "neutral": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "95cf1481-f476-47ce-a45a-54da64b44255",
-              "name": "neutral-background-color-default-theme"
+              "name": "neutral-background-color-default"
             }
           }
         },
-        "hover-theme": {
+        "hover": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "142f9467-e519-4ed7-bd98-69a31e876e70",
-              "name": "neutral-background-color-hover-theme"
+              "name": "neutral-background-color-hover"
             }
           }
         },
-        "down-theme": {
+        "down": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "5a0fdda5-6ac2-4a31-a7b9-6b3a5dd868d6",
-              "name": "neutral-background-color-down-theme"
+              "name": "neutral-background-color-down"
             }
           }
         },
-        "key-focus-theme": {
+        "key-focus": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "f52c6bfb-2d62-4fc8-a1cd-6c8d7420eeb4",
-              "name": "neutral-background-color-key-focus-theme"
+              "name": "neutral-background-color-key-focus"
             }
           }
         },
-        "subtle-default-theme": {
+        "subtle-default": {
           "value": "{Palette.gray.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "cc79fbaf-a2e1-4761-82e7-1dbea52acee8",
-              "name": "neutral-subtle-background-color-default-theme"
+              "name": "neutral-subtle-background-color-default"
             }
           }
         }
       },
       "neutral-selected": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "fd1c9f2b-8358-4bd3-a5cc-d211673428bc",
-              "name": "neutral-background-color-selected-default-theme"
+              "name": "neutral-background-color-selected-default"
             }
           }
         },
-        "hover-theme": {
+        "hover": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "1c220122-5f32-42f9-848f-ae10061241e5",
-              "name": "neutral-background-color-selected-hover-theme"
+              "name": "neutral-background-color-selected-hover"
             }
           }
         },
-        "down-theme": {
+        "down": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "966c56d0-4461-45e7-9e20-0277f2111a34",
-              "name": "neutral-background-color-selected-down-theme"
+              "name": "neutral-background-color-selected-down"
             }
           }
         },
-        "key-focus-theme": {
+        "key-focus": {
           "value": "{Palette.gray.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "9b8df7df-3439-4614-b446-97a4de782e27",
-              "name": "neutral-background-color-selected-key-focus-theme"
+              "name": "neutral-background-color-selected-key-focus"
             }
           }
         }
       },
       "neutral-subdued": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "3b09b2fd-cbf9-4933-9655-27a75d984f06",
-              "name": "neutral-subdued-background-color-default-theme"
+              "name": "neutral-subdued-background-color-default"
             }
           }
         },
-        "hover-theme": {
+        "hover": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "a1ab50d5-1aa1-4198-9510-7ea8458cc62f",
-              "name": "neutral-subdued-background-color-hover-theme"
+              "name": "neutral-subdued-background-color-hover"
             }
           }
         },
-        "down-theme": {
+        "down": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "300d2800-a6e5-4b78-9b6c-aaf2f4af39c6",
-              "name": "neutral-subdued-background-color-down-theme"
+              "name": "neutral-subdued-background-color-down"
             }
           }
         },
-        "key-focus-theme": {
+        "key-focus": {
           "value": "{Palette.gray.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "eece165c-743c-4d7a-b770-3ee50e1951cf",
-              "name": "neutral-subdued-background-color-key-focus-theme"
+              "name": "neutral-subdued-background-color-key-focus"
             }
           }
         }
       },
       "semantic": {
         "accent": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.accent.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "d9d8488d-9b38-47e0-9660-dcad040f3ca8",
-                "name": "accent-background-color-default-theme"
+                "name": "accent-background-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.accent.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "9651d413-47dc-4b55-976f-91e5c6c91fb5",
-                "name": "accent-background-color-hover-theme"
+                "name": "accent-background-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.accent.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "026b1d5e-7cbc-4ee9-91e8-19766b9ac541",
-                "name": "accent-background-color-down-theme"
+                "name": "accent-background-color-down"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.accent.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "43ca5f34-decc-4de8-9413-74ce57802b65",
-                "name": "accent-background-color-key-focus-theme"
+                "name": "accent-background-color-key-focus"
               }
             }
           },
-          "subtle-default-theme": {
+          "subtle-default": {
             "value": "{Alias.semantic.accent.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "97293b77-c21d-4ba1-bd2c-5d1de37d75eb",
-                "name": "accent-subtle-background-color-default-theme"
+                "name": "accent-subtle-background-color-default"
               }
             }
           }
         },
         "informative": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.informative.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "3acd52f0-d19c-4174-9ad5-42885ec9d49d",
-                "name": "informative-background-color-default-theme"
+                "name": "informative-background-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.informative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "06dcb775-28b2-454e-89ce-fda34f30c7d7",
-                "name": "informative-background-color-hover-theme"
+                "name": "informative-background-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.informative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "91f91b8c-0e65-4b7b-8c7b-60d3b6e235d8",
-                "name": "informative-background-color-down-theme"
+                "name": "informative-background-color-down"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.informative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "ea314056-fd9a-4325-b19a-33f56fad2859",
-                "name": "informative-background-color-key-focus-theme"
+                "name": "informative-background-color-key-focus"
               }
             }
           },
-          "subtle-default-theme": {
+          "subtle-default": {
             "value": "{Alias.semantic.informative.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "62dfb07f-5eee-451c-9c77-745d8f714766",
-                "name": "informative-subtle-background-color-default-theme"
+                "name": "informative-subtle-background-color-default"
               }
             }
           }
         },
         "positive": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.positive.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "d878d795-2292-4d90-a9e2-37af1d97a532",
-                "name": "positive-background-color-default-theme"
+                "name": "positive-background-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.positive.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "d60ab5e9-9ada-4587-a75f-91f2b492800f",
-                "name": "positive-background-color-hover-theme"
+                "name": "positive-background-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.positive.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "4096a319-241e-410c-ad51-521d57155004",
-                "name": "positive-background-color-down-theme"
+                "name": "positive-background-color-down"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.positive.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "036525d0-c6c4-478c-9aa3-84242737c6b1",
-                "name": "positive-background-color-key-focus-theme"
+                "name": "positive-background-color-key-focus"
               }
             }
           },
-          "subtle-default-theme": {
+          "subtle-default": {
             "value": "{Alias.semantic.positive.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "57a1aa8f-5c06-4ff6-8d1c-0e278a433ebf",
-                "name": "positive-subtle-background-color-default-theme"
+                "name": "positive-subtle-background-color-default"
               }
             }
           }
         },
         "notice": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.notice.600}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "48f3445a-63d8-4477-a2f5-1fee6a022328",
-                "name": "notice-background-color-default-theme"
+                "name": "notice-background-color-default"
               }
             }
           },
-          "subtle-default-theme": {
+          "subtle-default": {
             "value": "{Alias.semantic.notice.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "f0799e87-dbb2-4e71-8253-65f45eddc078",
-                "name": "notice-subtle-background-color-default-theme"
+                "name": "notice-subtle-background-color-default"
               }
             }
           }
         },
         "negative": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.negative.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "46204746-7fe7-4f22-887e-2c9b85c3b7bc",
-                "name": "negative-background-color-default-theme"
+                "name": "negative-background-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "d2481a50-13a0-4f19-8faa-a1a215fee21d",
-                "name": "negative-background-color-hover-theme"
+                "name": "negative-background-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "3c2d5afe-fff4-487d-a312-000f738c8704",
-                "name": "negative-background-color-down-theme"
+                "name": "negative-background-color-down"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "41a6ee21-8db2-410b-a694-fca1fbf70f2a",
-                "name": "negative-background-color-key-focus-theme"
+                "name": "negative-background-color-key-focus"
               }
             }
           },
-          "subtle-default-theme": {
+          "subtle-default": {
             "value": "{Alias.semantic.negative.200}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "8e9429cf-4c89-47be-bc6e-eeecc632aeb1",
-                "name": "negative-subtle-background-color-default-theme"
+                "name": "negative-subtle-background-color-default"
               }
             }
           }
         },
         "🚫 negative-subdued": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.background.semantic.negative.subtle-default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "a553db3e-a051-4023-87eb-da6545b983b2",
-                "name": "negative-subdued-background-color-default-theme"
+                "name": "negative-subdued-background-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.negative.300}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "9513cf13-8537-443f-81ce-f9d88292ba32",
-                "name": "negative-subdued-background-color-hover-theme"
+                "name": "negative-subdued-background-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.negative.300}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "1eea917c-52e7-4295-b0e1-d33c2e73a137",
-                "name": "negative-subdued-background-color-down-theme"
+                "name": "negative-subdued-background-color-down"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.negative.300}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "4b6aaf76-e0ab-4be0-81c0-d5f64cacee88",
-                "name": "negative-subdued-background-color-key-focus-theme"
+                "name": "negative-subdued-background-color-key-focus"
               }
             }
           }
         }
       },
       "disabled": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.100}",
           "type": "color",
           "$extensions": {
@@ -1168,7 +1168,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "5adeb281-3183-43e0-b20c-bd4e29f4da7e",
-              "name": "gray-background-color-default-theme"
+              "name": "gray-background-color-default"
             }
           }
         },
@@ -1178,7 +1178,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "c6c435b6-34b3-4fc1-bf96-a56a15e01fe5",
-              "name": "blue-background-color-default-theme"
+              "name": "blue-background-color-default"
             }
           }
         },
@@ -1188,7 +1188,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "d5cac08e-56e8-4217-a153-33f43c1a2059",
-              "name": "green-background-color-default-theme"
+              "name": "green-background-color-default"
             }
           }
         },
@@ -1198,7 +1198,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "981c054e-9db5-4589-b9e7-eed307b115ca",
-              "name": "orange-background-color-default-theme"
+              "name": "orange-background-color-default"
             }
           }
         },
@@ -1208,7 +1208,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "8cec4a84-3eea-45d6-ae1b-64907be7da78",
-              "name": "red-background-color-default-theme"
+              "name": "red-background-color-default"
             }
           }
         },
@@ -1218,7 +1218,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "168c3534-c54e-415b-a623-27c2a8caea8c",
-              "name": "brown-background-color-default-theme"
+              "name": "brown-background-color-default"
             }
           }
         },
@@ -1228,7 +1228,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "6dc7df67-2cfb-440f-9b1c-b7262a7cc2d3",
-              "name": "cinnamon-background-color-default-theme"
+              "name": "cinnamon-background-color-default"
             }
           }
         },
@@ -1238,7 +1238,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "d4fd682d-4bef-4a92-bf14-90ce02b534e6",
-              "name": "celery-background-color-default-theme"
+              "name": "celery-background-color-default"
             }
           }
         },
@@ -1248,7 +1248,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "f6e68186-e7fe-4d36-b371-72461a271358",
-              "name": "chartreuse-background-color-default-theme"
+              "name": "chartreuse-background-color-default"
             }
           }
         },
@@ -1258,7 +1258,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "12c060c6-db12-41ca-8b53-f4fc0afd2ed7",
-              "name": "cyan-background-color-default-theme"
+              "name": "cyan-background-color-default"
             }
           }
         },
@@ -1268,7 +1268,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "5f61f890-93b3-4ab9-bc80-d75198a5bacf",
-              "name": "fuchsia-background-color-default-theme"
+              "name": "fuchsia-background-color-default"
             }
           }
         },
@@ -1278,7 +1278,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "23859fff-27f5-4576-83c9-0fbc316e880a",
-              "name": "indigo-background-color-default-theme"
+              "name": "indigo-background-color-default"
             }
           }
         },
@@ -1288,7 +1288,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "4e02601f-12da-4ce2-b58c-0aa0e309442d",
-              "name": "magenta-background-color-default-theme"
+              "name": "magenta-background-color-default"
             }
           }
         },
@@ -1298,7 +1298,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "78fc6322-a961-429a-bd40-3e1c1bf2c4e9",
-              "name": "pink-background-color-default-theme"
+              "name": "pink-background-color-default"
             }
           }
         },
@@ -1308,7 +1308,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "ed07d8f4-390f-4124-a4c4-81b62767c6cd",
-              "name": "purple-background-color-default-theme"
+              "name": "purple-background-color-default"
             }
           }
         },
@@ -1318,7 +1318,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "be1d8187-effc-430f-ac31-3904cf83a6d6",
-              "name": "seafoam-background-color-default-theme"
+              "name": "seafoam-background-color-default"
             }
           }
         },
@@ -1328,7 +1328,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "13d332e4-45b0-4549-a1a3-a608034960a1",
-              "name": "silver-background-color-default-theme"
+              "name": "silver-background-color-default"
             }
           }
         },
@@ -1338,7 +1338,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "e763acbc-2c17-46c5-8484-1d8536e7ef10",
-              "name": "turquoise-background-color-default-theme"
+              "name": "turquoise-background-color-default"
             }
           }
         },
@@ -1348,7 +1348,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "f8e435de-1630-4628-8b6d-128987d66ddc",
-              "name": "yellow-background-color-default-theme"
+              "name": "yellow-background-color-default"
             }
           }
         },
@@ -1358,7 +1358,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "83fd0c1f-fbf3-4540-b370-6f44a6dbba7e",
-              "name": "gray-subtle-background-color-default-theme"
+              "name": "gray-subtle-background-color-default"
             }
           }
         },
@@ -1368,7 +1368,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "7d52711e-43fa-4a95-a7b1-3a7367570596",
-              "name": "blue-subtle-background-color-default-theme"
+              "name": "blue-subtle-background-color-default"
             }
           }
         },
@@ -1378,7 +1378,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "3b582b64-988e-4b5d-a08d-e04269403536",
-              "name": "green-subtle-background-color-default-theme"
+              "name": "green-subtle-background-color-default"
             }
           }
         },
@@ -1388,7 +1388,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "e7e1eb3c-7590-4622-a261-8de879bb1500",
-              "name": "orange-subtle-background-color-default-theme"
+              "name": "orange-subtle-background-color-default"
             }
           }
         },
@@ -1398,7 +1398,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "5d7cd7c1-66fa-49d4-923b-8cca2dcb4726",
-              "name": "red-subtle-background-color-default-theme"
+              "name": "red-subtle-background-color-default"
             }
           }
         },
@@ -1408,7 +1408,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "4f1f131b-b6d1-401b-82ff-be6fc0cce9f3",
-              "name": "brown-subtle-background-color-default-theme"
+              "name": "brown-subtle-background-color-default"
             }
           }
         },
@@ -1418,7 +1418,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "4d114a18-a876-4b01-a356-64b6098496f4",
-              "name": "cinnamon-subtle-background-color-default-theme"
+              "name": "cinnamon-subtle-background-color-default"
             }
           }
         },
@@ -1428,7 +1428,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "cf459b71-0d91-4cb4-96b8-f536e553f66e",
-              "name": "celery-subtle-background-color-default-theme"
+              "name": "celery-subtle-background-color-default"
             }
           }
         },
@@ -1438,7 +1438,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "2dd50902-f9bb-4f79-b31c-3997f4fd2163",
-              "name": "chartreuse-subtle-background-color-default-theme"
+              "name": "chartreuse-subtle-background-color-default"
             }
           }
         },
@@ -1448,7 +1448,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "084200e3-85bf-496e-b12a-b439e108b9fb",
-              "name": "cyan-subtle-background-color-default-theme"
+              "name": "cyan-subtle-background-color-default"
             }
           }
         },
@@ -1458,7 +1458,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "9bb9c1e9-6067-49a4-b4af-13ccd87830d9",
-              "name": "fuchsia-subtle-background-color-default-theme"
+              "name": "fuchsia-subtle-background-color-default"
             }
           }
         },
@@ -1468,7 +1468,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "dda05431-bce9-4686-8738-78fb409ab28f",
-              "name": "indigo-subtle-background-color-default-theme"
+              "name": "indigo-subtle-background-color-default"
             }
           }
         },
@@ -1478,7 +1478,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "09787c85-44e0-4efe-b427-f6e7dde544a4",
-              "name": "magenta-subtle-background-color-default-theme"
+              "name": "magenta-subtle-background-color-default"
             }
           }
         },
@@ -1488,7 +1488,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "41f3d269-85d6-4c82-9b1c-e40ea508fa78",
-              "name": "pink-subtle-background-color-default-theme"
+              "name": "pink-subtle-background-color-default"
             }
           }
         },
@@ -1498,7 +1498,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "a53f9f9a-8fde-4de2-83a3-944e1c4556c1",
-              "name": "purple-subtle-background-color-default-theme"
+              "name": "purple-subtle-background-color-default"
             }
           }
         },
@@ -1508,7 +1508,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "7623166b-5320-40eb-8a5f-2cd12f17bdb2",
-              "name": "seafoam-subtle-background-color-default-theme"
+              "name": "seafoam-subtle-background-color-default"
             }
           }
         },
@@ -1518,7 +1518,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "c80f665a-801e-45c8-b59b-8b9b47ebb356",
-              "name": "silver-subtle-background-color-default-theme"
+              "name": "silver-subtle-background-color-default"
             }
           }
         },
@@ -1528,7 +1528,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "aa7d44fd-6c77-43dc-8981-4200356fd02a",
-              "name": "turquoise-subtle-background-color-default-theme"
+              "name": "turquoise-subtle-background-color-default"
             }
           }
         },
@@ -1538,7 +1538,7 @@
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "5d5cfc7a-e6f4-4d6d-a39b-359350ddd280",
-              "name": "yellow-subtle-background-color-default-theme"
+              "name": "yellow-subtle-background-color-default"
             }
           }
         }
@@ -1547,70 +1547,70 @@
     "border": {
       "semantic": {
         "negative": {
-          "default-theme": {
+          "default": {
             "value": "{Alias.semantic.negative.900}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "6effed65-3d52-465f-9eb2-7994f1ee90fb",
-                "name": "negative-border-color-default-theme"
+                "name": "negative-border-color-default"
               }
             }
           },
-          "hover-theme": {
+          "hover": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "496571fc-18ce-44a3-a89e-40ff6397adcd",
-                "name": "negative-border-color-hover-theme"
+                "name": "negative-border-color-hover"
               }
             }
           },
-          "down-theme": {
+          "down": {
             "value": "{Alias.semantic.negative.1100}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "0c35da5c-cf37-4349-82e4-8739ea94aa65",
-                "name": "negative-border-color-down-theme"
+                "name": "negative-border-color-down"
               }
             }
           },
-          "focus-hover-theme": {
+          "focus-hover": {
             "value": "{Alias.border.semantic.negative.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "63abd660-13c4-47b8-be9e-61e270b95212",
-                "name": "negative-border-color-focus-hover-theme"
+                "name": "negative-border-color-focus-hover"
               }
             }
           },
-          "focus-theme": {
+          "focus": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "aae2b3a5-1f68-4832-9539-62227179e69e",
-                "name": "negative-border-color-focus-theme"
+                "name": "negative-border-color-focus"
               }
             }
           },
-          "key-focus-theme": {
+          "key-focus": {
             "value": "{Alias.semantic.negative.1000}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
                 "uuid": "393cb93a-3d0a-4118-a2ee-451fdc871b0f",
-                "name": "negative-border-color-key-focus-theme"
+                "name": "negative-border-color-key-focus"
               }
             }
           }
         }
       },
       "disabled": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.300}",
           "type": "color",
           "$extensions": {
@@ -2455,7 +2455,7 @@
       }
     },
     "focus-indicator": {
-      "default-theme": {
+      "default": {
         "value": "{Palette.blue.800}",
         "type": "color",
         "$extensions": {
@@ -2465,7 +2465,7 @@
           }
         }
       },
-      "static-black-theme": {
+      "static-black": {
         "value": "{Palette.black}",
         "type": "color",
         "$extensions": {
@@ -2475,7 +2475,7 @@
           }
         }
       },
-      "static-white-theme": {
+      "static-white": {
         "value": "{Palette.white}",
         "type": "color",
         "$extensions": {
@@ -2487,7 +2487,7 @@
       }
     },
     "track": {
-      "default-theme": {
+      "default": {
         "value": "{Palette.gray.300}",
         "type": "color",
         "$extensions": {
@@ -2497,7 +2497,7 @@
           }
         }
       },
-      "static-black-theme": {
+      "static-black": {
         "value": "{Palette.transparent-black.300}",
         "type": "color",
         "$extensions": {
@@ -2507,7 +2507,7 @@
           }
         }
       },
-      "static-white-theme": {
+      "static-white": {
         "value": "{Palette.transparent-white.300}",
         "type": "color",
         "$extensions": {
@@ -2519,7 +2519,7 @@
       }
     },
     "track-indicator": {
-      "static-black-theme": {
+      "static-black": {
         "value": "{Palette.transparent-black.900}",
         "type": "color",
         "$extensions": {
@@ -2529,7 +2529,7 @@
           }
         }
       },
-      "static-white-theme": {
+      "static-white": {
         "value": "{Palette.transparent-white.900}",
         "type": "color",
         "$extensions": {

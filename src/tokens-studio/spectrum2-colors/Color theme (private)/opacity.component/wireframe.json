@@ -1,5 +1,5 @@
 {
-  "avatar-opacity-disabled-theme": {
+  "avatar-opacity-disabled": {
     "value": "{opacity-disabled}",
     "type": "opacity",
     "$extensions": {
@@ -9,7 +9,7 @@
       }
     }
   },
-  "card-selection-background-color-opacity-theme": {
+  "card-selection-background-color-opacity": {
     "value": "0.95",
     "type": "opacity",
     "$extensions": {
@@ -19,7 +19,7 @@
       }
     }
   },
-  "coach-indicator-opacity-theme": {
+  "coach-indicator-opacity": {
     "value": "0.2",
     "type": "opacity",
     "$extensions": {
@@ -29,7 +29,7 @@
       }
     }
   },
-  "color-area-border-opacity-theme": {
+  "color-area-border-opacity": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -39,7 +39,7 @@
       }
     }
   },
-  "color-wheel-border-opacity-theme": {
+  "color-wheel-border-opacity": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -49,7 +49,7 @@
       }
     }
   },
-  "color-handle-inner-border-opacity-theme": {
+  "color-handle-inner-border-opacity": {
     "value": "0.42",
     "type": "opacity",
     "$extensions": {
@@ -59,7 +59,7 @@
       }
     }
   },
-  "color-handle-outer-border-opacity-theme": {
+  "color-handle-outer-border-opacity": {
     "value": "{color-handle-inner-border-opacity}",
     "type": "opacity",
     "$extensions": {
@@ -69,7 +69,7 @@
       }
     }
   },
-  "color-slider-border-opacity-theme": {
+  "color-slider-border-opacity": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -79,7 +79,7 @@
       }
     }
   },
-  "drop-zone-background-color-opacity-theme": {
+  "drop-zone-background-color-opacity": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -89,7 +89,7 @@
       }
     }
   },
-  "drop-zone-background-color-opacity-filled-theme": {
+  "drop-zone-background-color-opacity-filled": {
     "value": "0.3",
     "type": "opacity",
     "$extensions": {
@@ -99,7 +99,7 @@
       }
     }
   },
-  "menu-item-background-opacity-theme": {
+  "menu-item-background-opacity": {
     "value": "0",
     "type": "opacity",
     "$extensions": {
@@ -109,7 +109,7 @@
       }
     }
   },
-  "popover-border-opacity-theme": {
+  "popover-border-opacity": {
     "value": "0",
     "type": "opacity",
     "$extensions": {
@@ -119,7 +119,7 @@
       }
     }
   },
-  "swatch-border-opacity-theme": {
+  "swatch-border-opacity": {
     "value": "0.42",
     "type": "opacity",
     "$extensions": {
@@ -129,7 +129,7 @@
       }
     }
   },
-  "swatch-group-border-opacity-theme": {
+  "swatch-group-border-opacity": {
     "value": "0.2",
     "type": "opacity",
     "$extensions": {
@@ -139,7 +139,7 @@
       }
     }
   },
-  "swatch-disabled-icon-border-opacity-theme": {
+  "swatch-disabled-icon-border-opacity": {
     "value": "0.42",
     "type": "opacity",
     "$extensions": {
@@ -149,7 +149,7 @@
       }
     }
   },
-  "table-row-down-opacity-theme": {
+  "table-row-down-opacity": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -159,7 +159,7 @@
       }
     }
   },
-  "table-row-hover-opacity-theme": {
+  "table-row-hover-opacity": {
     "value": "0.07",
     "type": "opacity",
     "$extensions": {
@@ -169,7 +169,7 @@
       }
     }
   },
-  "table-selected-row-background-opacity-theme": {
+  "table-selected-row-background-opacity": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -179,7 +179,7 @@
       }
     }
   },
-  "table-selected-row-background-opacity-hover-theme": {
+  "table-selected-row-background-opacity-hover": {
     "value": "0.15",
     "type": "opacity",
     "$extensions": {
@@ -189,7 +189,7 @@
       }
     }
   },
-  "table-selected-row-background-opacity-non-emphasized-theme": {
+  "table-selected-row-background-opacity-non-emphasized": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -199,7 +199,7 @@
       }
     }
   },
-  "table-selected-row-background-opacity-non-emphasized-hover-theme": {
+  "table-selected-row-background-opacity-non-emphasized-hover": {
     "value": "0.15",
     "type": "opacity",
     "$extensions": {
@@ -209,7 +209,7 @@
       }
     }
   },
-  "thumbnail-border-opacity-theme": {
+  "thumbnail-border-opacity": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -219,7 +219,7 @@
       }
     }
   },
-  "thumbnail-opacity-disabled-theme": {
+  "thumbnail-opacity-disabled": {
     "value": "{opacity-disabled}",
     "type": "opacity",
     "$extensions": {
@@ -229,7 +229,7 @@
       }
     }
   },
-  "tree-view-selected-row-background-opacity-emphasized-theme": {
+  "tree-view-selected-row-background-opacity-emphasized": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -239,7 +239,7 @@
       }
     }
   },
-  "tree-view-selected-row-background-opacity-emphasized-hover-theme": {
+  "tree-view-selected-row-background-opacity-emphasized-hover": {
     "value": "0.15",
     "type": "opacity",
     "$extensions": {

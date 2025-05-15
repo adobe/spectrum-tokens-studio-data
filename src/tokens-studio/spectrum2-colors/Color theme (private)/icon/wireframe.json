@@ -622,7 +622,7 @@
         }
       }
     },
-    "🚫 background-theme": {
+    "🚫 background": {
       "value": "{Palette.gray.50}",
       "type": "color",
       "$extensions": {
@@ -633,7 +633,7 @@
       }
     },
     "background": {
-      "blue-theme": {
+      "blue": {
         "value": "{Palette.blue.200}",
         "type": "color",
         "$extensions": {
@@ -643,7 +643,7 @@
           }
         }
       },
-      "brown-theme": {
+      "brown": {
         "value": "{Palette.brown.200}",
         "type": "color",
         "$extensions": {
@@ -653,7 +653,7 @@
           }
         }
       },
-      "celery-theme": {
+      "celery": {
         "value": "{Palette.celery.100}",
         "type": "color",
         "$extensions": {
@@ -663,7 +663,7 @@
           }
         }
       },
-      "chartreuse-theme": {
+      "chartreuse": {
         "value": "{Palette.chartreuse.200}",
         "type": "color",
         "$extensions": {
@@ -673,7 +673,7 @@
           }
         }
       },
-      "cinnamon-theme": {
+      "cinnamon": {
         "value": "{Palette.cinnamon.200}",
         "type": "color",
         "$extensions": {
@@ -683,7 +683,7 @@
           }
         }
       },
-      "cyan-theme": {
+      "cyan": {
         "value": "{Palette.cyan.100}",
         "type": "color",
         "$extensions": {
@@ -693,7 +693,7 @@
           }
         }
       },
-      "fuchsia-theme": {
+      "fuchsia": {
         "value": "{Palette.fuchsia.200}",
         "type": "color",
         "$extensions": {
@@ -703,7 +703,7 @@
           }
         }
       },
-      "green-theme": {
+      "green": {
         "value": "{Palette.green.100}",
         "type": "color",
         "$extensions": {
@@ -713,7 +713,7 @@
           }
         }
       },
-      "indigo-theme": {
+      "indigo": {
         "value": "{Palette.indigo.200}",
         "type": "color",
         "$extensions": {
@@ -723,7 +723,7 @@
           }
         }
       },
-      "magenta-theme": {
+      "magenta": {
         "value": "{Palette.magenta.200}",
         "type": "color",
         "$extensions": {
@@ -733,7 +733,7 @@
           }
         }
       },
-      "orange-theme": {
+      "orange": {
         "value": "{Palette.orange.200}",
         "type": "color",
         "$extensions": {
@@ -743,7 +743,7 @@
           }
         }
       },
-      "pink-theme": {
+      "pink": {
         "value": "{Palette.pink.200}",
         "type": "color",
         "$extensions": {
@@ -753,7 +753,7 @@
           }
         }
       },
-      "purple-theme": {
+      "purple": {
         "value": "{Palette.purple.200}",
         "type": "color",
         "$extensions": {
@@ -763,7 +763,7 @@
           }
         }
       },
-      "red-theme": {
+      "red": {
         "value": "{Palette.red.200}",
         "type": "color",
         "$extensions": {
@@ -773,7 +773,7 @@
           }
         }
       },
-      "seafoam-theme": {
+      "seafoam": {
         "value": "{Palette.seafoam.200}",
         "type": "color",
         "$extensions": {
@@ -783,7 +783,7 @@
           }
         }
       },
-      "silver-theme": {
+      "silver": {
         "value": "{Palette.silver.200}",
         "type": "color",
         "$extensions": {
@@ -793,7 +793,7 @@
           }
         }
       },
-      "turquoise-theme": {
+      "turquoise": {
         "value": "{Palette.turquoise.200}",
         "type": "color",
         "$extensions": {
@@ -803,7 +803,7 @@
           }
         }
       },
-      "yellow-theme": {
+      "yellow": {
         "value": "{Palette.yellow.100}",
         "type": "color",
         "$extensions": {
@@ -813,7 +813,7 @@
           }
         }
       },
-      "inverse-theme": {
+      "inverse": {
         "value": "{Palette.gray.50}",
         "type": "color",
         "$extensions": {
@@ -823,7 +823,7 @@
           }
         }
       },
-      "emphasized-theme": {
+      "emphasized": {
         "value": "{Palette.gray.900}",
         "type": "color",
         "$extensions": {
@@ -835,7 +835,7 @@
       }
     },
     "semantic": {
-      "informative-theme": {
+      "informative": {
         "value": "{Alias.content.visual.semantic.informative}",
         "type": "color",
         "$extensions": {
@@ -845,7 +845,7 @@
           }
         }
       },
-      "neutral-theme": {
+      "neutral": {
         "value": "{Alias.content.visual.semantic.neutral}",
         "type": "color",
         "$extensions": {
@@ -855,7 +855,7 @@
           }
         }
       },
-      "positive-theme": {
+      "positive": {
         "value": "{Alias.content.visual.semantic.positive}",
         "type": "color",
         "$extensions": {
@@ -865,7 +865,7 @@
           }
         }
       },
-      "notice-theme": {
+      "notice": {
         "value": "{Alias.content.visual.semantic.notice}",
         "type": "color",
         "$extensions": {
@@ -875,7 +875,7 @@
           }
         }
       },
-      "negative-theme": {
+      "negative": {
         "value": "{Alias.content.visual.semantic.negative}",
         "type": "color",
         "$extensions": {

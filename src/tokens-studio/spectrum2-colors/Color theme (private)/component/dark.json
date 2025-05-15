@@ -1,7 +1,7 @@
 {
   "Component": {
     "action-bar": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.400}",
         "type": "color",
         "$extensions": {
@@ -13,7 +13,7 @@
       }
     },
     "avatar": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.25}",
         "type": "color",
         "$extensions": {
@@ -25,7 +25,7 @@
       }
     },
     "bar-panel": {
-      "gripper-theme": {
+      "gripper": {
         "value": "{Palette.gray.200}",
         "type": "color",
         "$extensions": {
@@ -35,7 +35,7 @@
           }
         }
       },
-      "gripper-drag-theme": {
+      "gripper-drag": {
         "value": "{Palette.gray.800}",
         "type": "color",
         "$extensions": {
@@ -47,7 +47,7 @@
       }
     },
     "card": {
-      "selection-background-theme": {
+      "selection-background": {
         "value": "{Palette.transparent-black.600}",
         "type": "color",
         "$extensions": {
@@ -57,7 +57,7 @@
           }
         }
       },
-      "background-well-theme": {
+      "background-well": {
         "value": "{Palette.gray.100}",
         "type": "color",
         "$extensions": {
@@ -67,7 +67,7 @@
           }
         }
       },
-      "background-loading-theme": {
+      "background-loading": {
         "value": "{Palette.gray.100}",
         "type": "color",
         "$extensions": {
@@ -78,7 +78,7 @@
         }
       }
     },
-    "coach-indicator-theme": {
+    "coach-indicator": {
       "value": "{Palette.blue.800}",
       "type": "color",
       "$extensions": {
@@ -89,7 +89,7 @@
       }
     },
     "coach-mark": {
-      "pagination-theme": {
+      "pagination": {
         "value": "{Palette.gray.600}",
         "type": "color",
         "$extensions": {
@@ -101,7 +101,7 @@
       }
     },
     "color-area": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.1000}",
         "type": "color",
         "$extensions": {
@@ -113,7 +113,7 @@
       }
     },
     "color-wheel": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.1000}",
         "type": "color",
         "$extensions": {
@@ -125,7 +125,7 @@
       }
     },
     "color-handle": {
-      "inner-border-theme": {
+      "inner-border": {
         "value": "{Palette.black}",
         "type": "color",
         "$extensions": {
@@ -135,7 +135,7 @@
           }
         }
       },
-      "outer-border-theme": {
+      "outer-border": {
         "value": "{Palette.black}",
         "type": "color",
         "$extensions": {
@@ -147,7 +147,7 @@
       }
     },
     "color-loupe": {
-      "🚫 drop-shadow-theme": {
+      "🚫 drop-shadow": {
         "value": "{Alias.drop-shadow.elevated}",
         "type": "color",
         "$extensions": {
@@ -157,7 +157,7 @@
           }
         }
       },
-      "inner-border-theme": {
+      "inner-border": {
         "value": "{Palette.transparent-black.200}",
         "type": "color",
         "$extensions": {
@@ -167,7 +167,7 @@
           }
         }
       },
-      "outer-border-theme": {
+      "outer-border": {
         "value": "{Palette.white}",
         "type": "color",
         "$extensions": {
@@ -179,7 +179,7 @@
       }
     },
     "color-slider": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.1000}",
         "type": "color",
         "$extensions": {
@@ -191,7 +191,7 @@
       }
     },
     "drop-zone": {
-      "background-theme": {
+      "background": {
         "value": "{Alias.content.visual.semantic.accent}",
         "type": "color",
         "$extensions": {
@@ -203,7 +203,7 @@
       }
     },
     "floating-action-button": {
-      "drop-shadow-theme": {
+      "drop-shadow": {
         "value": "{Palette.transparent-black.300}",
         "type": "color",
         "$extensions": {
@@ -216,37 +216,37 @@
     },
     "menu-item": {
       "background-color": {
-        "default-theme": {
+        "default": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "9b9e8b32-46b8-470d-85b9-352c00e90138",
-              "name": "menu-item-background-color-default-theme"
+              "name": "menu-item-background-color-default"
             }
           }
         },
-        "hover-theme": {
+        "hover": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "f68ff159-e886-4519-b95e-e93879a2f535",
-              "name": "menu-item-background-color-hover-theme"
+              "name": "menu-item-background-color-hover"
             }
           }
         },
-        "down-theme": {
+        "down": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "7ccdd9e8-3677-4de8-b9df-19efa80d88c0",
-              "name": "menu-item-background-color-down-theme"
+              "name": "menu-item-background-color-down"
             }
           }
         },
-        "key-focus-theme": {
+        "key-focus": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
@@ -269,7 +269,7 @@
       }
     },
     "opacity-checkerboard": {
-      "square-dark-theme": {
+      "square-dark": {
         "value": "{Palette.gray.800}",
         "type": "color",
         "$extensions": {
@@ -279,7 +279,7 @@
           }
         }
       },
-      "square-light-theme": {
+      "square-light": {
         "value": "{Palette.white}",
         "type": "color",
         "$extensions": {
@@ -291,7 +291,7 @@
       }
     },
     "popover": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.400}",
         "type": "color",
         "$extensions": {
@@ -303,7 +303,7 @@
       }
     },
     "select-box": {
-      "selected-border-theme": {
+      "selected-border": {
         "value": "{Palette.gray.800}",
         "type": "color",
         "$extensions": {
@@ -315,7 +315,7 @@
       }
     },
     "swatch": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.1000}",
         "type": "color",
         "$extensions": {
@@ -325,7 +325,7 @@
           }
         }
       },
-      "disabled-icon-border-theme": {
+      "disabled-icon-border": {
         "value": "{Palette.black}",
         "type": "color",
         "$extensions": {
@@ -337,7 +337,7 @@
       }
     },
     "standard-panel": {
-      "gripper-theme": {
+      "gripper": {
         "value": "{Palette.gray.200}",
         "type": "color",
         "$extensions": {
@@ -347,7 +347,7 @@
           }
         }
       },
-      "gripper-drag-theme": {
+      "gripper-drag": {
         "value": "{Palette.gray.800}",
         "type": "color",
         "$extensions": {
@@ -359,7 +359,7 @@
       }
     },
     "swatch-group": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.1000}",
         "type": "color",
         "$extensions": {
@@ -371,7 +371,7 @@
       }
     },
     "table": {
-      "non-emphasized-selected-row-background-theme": {
+      "non-emphasized-selected-row-background": {
         "value": "{Alias.background.neutral-selected.default}",
         "type": "color",
         "$extensions": {
@@ -381,7 +381,7 @@
           }
         }
       },
-      "row-hover-theme": {
+      "row-hover": {
         "value": "{Palette.gray.900}",
         "type": "color",
         "$extensions": {
@@ -391,7 +391,7 @@
           }
         }
       },
-      "selected-row-background-theme": {
+      "selected-row-background": {
         "value": "{Alias.background.semantic.informative.default}",
         "type": "color",
         "$extensions": {
@@ -403,7 +403,7 @@
       }
     },
     "thumbnail": {
-      "border-theme": {
+      "border": {
         "value": "{Palette.gray.800}",
         "type": "color",
         "$extensions": {
@@ -415,17 +415,17 @@
       }
     },
     "tree-view": {
-      "row-background-hover-theme": {
+      "row-background-hover": {
         "value": "{Palette.gray.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "39d26185-da40-47b5-b4b3-e47689129256",
-            "name": "tree-view-row-background-hover-theme"
+            "name": "tree-view-row-background-hover"
           }
         }
       },
-      "selected-row-background-color-emphasized-theme": {
+      "selected-row-background-color-emphasized": {
         "value": "{Alias.background.semantic.informative.default}",
         "type": "color",
         "$extensions": {
@@ -435,23 +435,23 @@
           }
         }
       },
-      "selected-row-background-default-theme": {
+      "selected-row-background-default": {
         "value": "{Palette.gray.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "8f19994d-f49a-42ea-97bd-98ab1d76d02d",
-            "name": "tree-view-selected-row-background-default-theme"
+            "name": "tree-view-selected-row-background-default"
           }
         }
       },
-      "selected-row-background-hover-theme": {
+      "selected-row-background-hover": {
         "value": "{Palette.gray.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "c325ed8f-8248-40c3-a0f0-efba57638f24",
-            "name": "tree-view-selected-row-background-hover-theme"
+            "name": "tree-view-selected-row-background-hover"
           }
         }
       }

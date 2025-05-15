@@ -4,12 +4,7 @@
     "name": "Singularity",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "color/alias/light": "enabled",
-      "color-theme/opacity.alias/light": "enabled",
-      "color-theme/opacity.component/light": "enabled",
-      "color/icon/light": "enabled",
-      "color/palette/light": "enabled",
-      "color/component/light": "enabled"
+      "Public-collection/icon/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4926:3008",
     "$figmaModeId": "4926:10",
@@ -99,20 +94,20 @@
       "Icon.semantic.negative": "5aa90283b0e95c5f196278842b79f723002e66b9",
       "Icon.🚫 background": "18810e3dc7afd59b68125b72d7941a9640b6bfbc"
     },
-    "group": "color"
+    "group": "Public-collection"
   },
   {
     "id": "9116afff391167549edd9c7956052fc3f9d03b94",
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "color-theme/component/light": "enabled",
-      "color-theme/icon/light": "enabled",
-      "color-theme/opacity.alias/light": "enabled",
-      "color-theme/opacity.component/light": "enabled",
-      "color-theme/palette/light": "enabled"
+      "Private-collection/component/light": "enabled",
+      "Private-collection/icon/light": "enabled",
+      "Private-collection/opacity.alias/light": "enabled",
+      "Private-collection/opacity.component/light": "enabled",
+      "Private-collection/palette/light": "enabled"
     },
-    "group": "color-theme",
+    "group": "Private-collection",
     "$figmaCollectionId": "VariableCollectionId:4926:3009",
     "$figmaModeId": "4926:11",
     "$figmaVariableReferences": {
@@ -618,13 +613,13 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "color-theme/component/dark": "enabled",
-      "color-theme/icon/dark": "enabled",
-      "color-theme/opacity.alias/dark": "enabled",
-      "color-theme/opacity.component/dark": "enabled",
-      "color-theme/palette/dark": "enabled"
+      "Private-collection/component/dark": "enabled",
+      "Private-collection/icon/dark": "enabled",
+      "Private-collection/opacity.alias/dark": "enabled",
+      "Private-collection/opacity.component/dark": "enabled",
+      "Private-collection/palette/dark": "enabled"
     },
-    "group": "color-theme",
+    "group": "Private-collection",
     "$figmaCollectionId": "VariableCollectionId:4926:3009",
     "$figmaModeId": "4926:12",
     "$figmaVariableReferences": {
@@ -1130,13 +1125,13 @@
     "name": "Wireframe",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "color-theme/component/wireframe": "enabled",
-      "color-theme/icon/wireframe": "enabled",
-      "color-theme/opacity.alias/wireframe": "enabled",
-      "color-theme/opacity.component/wireframe": "enabled",
-      "color-theme/palette/wireframe": "enabled"
+      "Private-collection/component/wireframe": "enabled",
+      "Private-collection/icon/wireframe": "enabled",
+      "Private-collection/opacity.alias/wireframe": "enabled",
+      "Private-collection/opacity.component/wireframe": "enabled",
+      "Private-collection/palette/wireframe": "enabled"
     },
-    "group": "color-theme",
+    "group": "Private-collection",
     "$figmaCollectionId": "VariableCollectionId:4926:3009",
     "$figmaModeId": "4926:13",
     "$figmaVariableReferences": {

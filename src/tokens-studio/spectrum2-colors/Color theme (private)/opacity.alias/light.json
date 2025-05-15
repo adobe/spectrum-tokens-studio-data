@@ -1,5 +1,5 @@
 {
-  "background-opacity-default": {
+  "background-opacity-default-theme": {
     "value": "0",
     "type": "opacity",
     "$extensions": {
@@ -9,7 +9,7 @@
       }
     }
   },
-  "background-opacity-down": {
+  "background-opacity-down-theme": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -19,7 +19,7 @@
       }
     }
   },
-  "background-opacity-hover": {
+  "background-opacity-hover-theme": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -29,7 +29,7 @@
       }
     }
   },
-  "background-opacity-key-focus": {
+  "background-opacity-key-focus-theme": {
     "value": "0.1",
     "type": "opacity",
     "$extensions": {
@@ -39,7 +39,7 @@
       }
     }
   },
-  "opacity-disabled": {
+  "opacity-disabled-theme": {
     "value": "0.3",
     "type": "opacity",
     "$extensions": {
@@ -49,7 +49,7 @@
       }
     }
   },
-  "overlay-opacity": {
+  "overlay-opacity-theme": {
     "value": "0.4",
     "type": "opacity",
     "$extensions": {

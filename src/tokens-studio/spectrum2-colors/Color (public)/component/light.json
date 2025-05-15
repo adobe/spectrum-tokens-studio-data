@@ -2,7 +2,7 @@
   "Component": {
     "action-bar": {
       "border": {
-        "value": "{Palette.transparent-white.25}",
+        "value": "{Palette.transparent-white.25-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -14,7 +14,7 @@
     },
     "avatar": {
       "border": {
-        "value": "{Palette.gray.25}",
+        "value": "{Palette.gray.25-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -26,7 +26,7 @@
     },
     "bar-panel": {
       "gripper": {
-        "value": "{Palette.gray.200}",
+        "value": "{Palette.gray.200-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -36,7 +36,7 @@
         }
       },
       "gripper-drag": {
-        "value": "{Palette.gray.800}",
+        "value": "{Palette.gray.800-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -48,7 +48,7 @@
     },
     "card": {
       "selection-background": {
-        "value": "{Palette.transparent-white.600}",
+        "value": "{Palette.transparent-white.600-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -58,7 +58,7 @@
         }
       },
       "background-well": {
-        "value": "{Palette.gray.100}",
+        "value": "{Palette.gray.100-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -68,7 +68,7 @@
         }
       },
       "background-loading": {
-        "value": "{Palette.gray.100}",
+        "value": "{Palette.gray.100-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -79,7 +79,7 @@
       }
     },
     "coach-indicator": {
-      "value": "{Palette.blue.800}",
+      "value": "{Palette.blue.800-theme}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -90,7 +90,7 @@
     },
     "coach-mark": {
       "pagination": {
-        "value": "{Palette.gray.600}",
+        "value": "{Palette.gray.600-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -102,7 +102,7 @@
     },
     "color-area": {
       "border": {
-        "value": "{Palette.gray.1000}",
+        "value": "{Palette.gray.1000-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -114,7 +114,7 @@
     },
     "color-wheel": {
       "border": {
-        "value": "{Palette.gray.1000}",
+        "value": "{Palette.gray.1000-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -126,7 +126,7 @@
     },
     "color-handle": {
       "inner-border": {
-        "value": "{Palette.black}",
+        "value": "{Palette.black-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -136,7 +136,7 @@
         }
       },
       "outer-border": {
-        "value": "{Palette.black}",
+        "value": "{Palette.black-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -148,7 +148,7 @@
     },
     "color-loupe": {
       "🚫 drop-shadow": {
-        "value": "{Alias.drop-shadow.elevated}",
+        "value": "{Alias.drop-shadow.elevated-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -158,7 +158,7 @@
         }
       },
       "inner-border": {
-        "value": "{Palette.transparent-black.200}",
+        "value": "{Palette.transparent-black.200-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -168,7 +168,7 @@
         }
       },
       "outer-border": {
-        "value": "{Palette.white}",
+        "value": "{Palette.white-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -180,7 +180,7 @@
     },
     "color-slider": {
       "border": {
-        "value": "{Palette.gray.1000}",
+        "value": "{Palette.gray.1000-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -192,7 +192,7 @@
     },
     "drop-zone": {
       "background": {
-        "value": "{Alias.content.visual.semantic.accent}",
+        "value": "{Alias.content.visual.semantic.accent-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -204,7 +204,7 @@
     },
     "floating-action-button": {
       "drop-shadow": {
-        "value": "{Palette.transparent-black.300}",
+        "value": "{Palette.transparent-black.300-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -217,7 +217,7 @@
     "menu-item": {
       "background-color": {
         "default": {
-          "value": "{Palette.gray.100}",
+          "value": "{Palette.gray.100-theme}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -227,7 +227,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.100}",
+          "value": "{Palette.gray.100-theme}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -237,7 +237,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.100}",
+          "value": "{Palette.gray.100-theme}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -247,7 +247,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.100}",
+          "value": "{Palette.gray.100-theme}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -257,7 +257,7 @@
           }
         },
         "disabled": {
-          "value": "{Palette.gray.100}",
+          "value": "{Palette.gray.100-theme}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -270,7 +270,7 @@
     },
     "opacity-checkerboard": {
       "square-dark": {
-        "value": "{Palette.gray.200}",
+        "value": "{Palette.gray.200-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -280,7 +280,7 @@
         }
       },
       "square-light": {
-        "value": "{Palette.white}",
+        "value": "{Palette.white-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -292,7 +292,7 @@
     },
     "popover": {
       "border": {
-        "value": "{Palette.transparent-white.25}",
+        "value": "{Palette.transparent-white.25-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -304,7 +304,7 @@
     },
     "select-box": {
       "selected-border": {
-        "value": "{Palette.gray.800}",
+        "value": "{Palette.gray.800-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -316,7 +316,7 @@
     },
     "swatch": {
       "border": {
-        "value": "{Palette.gray.1000}",
+        "value": "{Palette.gray.1000-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -326,7 +326,7 @@
         }
       },
       "disabled-icon-border": {
-        "value": "{Palette.black}",
+        "value": "{Palette.black-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -338,7 +338,7 @@
     },
     "standard-panel": {
       "gripper": {
-        "value": "{Palette.gray.200}",
+        "value": "{Palette.gray.200-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -348,7 +348,7 @@
         }
       },
       "gripper-drag": {
-        "value": "{Palette.gray.800}",
+        "value": "{Palette.gray.800-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -360,7 +360,7 @@
     },
     "swatch-group": {
       "border": {
-        "value": "{Palette.gray.1000}",
+        "value": "{Palette.gray.1000-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -372,7 +372,7 @@
     },
     "table": {
       "non-emphasized-selected-row-background": {
-        "value": "{Alias.background.neutral-selected.default}",
+        "value": "{Alias.background.neutral-selected.default-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -382,7 +382,7 @@
         }
       },
       "row-hover": {
-        "value": "{Palette.gray.900}",
+        "value": "{Palette.gray.900-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -392,7 +392,7 @@
         }
       },
       "selected-row-background": {
-        "value": "{Alias.background.semantic.informative.default}",
+        "value": "{Alias.background.semantic.informative.default-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -404,7 +404,7 @@
     },
     "thumbnail": {
       "border": {
-        "value": "{Palette.gray.800}",
+        "value": "{Palette.gray.800-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -416,7 +416,7 @@
     },
     "tree-view": {
       "row-background-hover": {
-        "value": "{Palette.gray.100}",
+        "value": "{Palette.gray.100-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -426,7 +426,7 @@
         }
       },
       "selected-row-background-color-emphasized": {
-        "value": "{Alias.background.semantic.informative.default}",
+        "value": "{Alias.background.semantic.informative.default-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -436,7 +436,7 @@
         }
       },
       "selected-row-background-default": {
-        "value": "{Palette.gray.100}",
+        "value": "{Palette.gray.100-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -446,7 +446,7 @@
         }
       },
       "selected-row-background-hover": {
-        "value": "{Palette.gray.100}",
+        "value": "{Palette.gray.100-theme}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {

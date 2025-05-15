@@ -1,10 +1,15 @@
 [
   {
     "id": "9182a5798b0eabe8493462824b0760e589249558",
-    "name": "Singularity",
+    "name": "Color",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Public-collection/icon/light": "enabled"
+      "Color (public)/icon/light": "enabled",
+      "Color (public)/alias/light": "enabled",
+      "Color (public)/component/light": "enabled",
+      "Color (public)/opacity.alias/light": "enabled",
+      "Color (public)/opacity.component/light": "enabled",
+      "Color (public)/palette/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4926:3008",
     "$figmaModeId": "4926:10",
@@ -94,20 +99,20 @@
       "Icon.semantic.negative": "5aa90283b0e95c5f196278842b79f723002e66b9",
       "Icon.🚫 background": "18810e3dc7afd59b68125b72d7941a9640b6bfbc"
     },
-    "group": "Public-collection"
+    "group": "Color"
   },
   {
     "id": "9116afff391167549edd9c7956052fc3f9d03b94",
-    "name": "light",
+    "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Private-collection/component/light": "enabled",
-      "Private-collection/icon/light": "enabled",
-      "Private-collection/opacity.alias/light": "enabled",
-      "Private-collection/opacity.component/light": "enabled",
-      "Private-collection/palette/light": "enabled"
+      "Color theme (private)/alias/light": "enabled",
+      "Color theme (private)/component/light": "enabled",
+      "Color theme (private)/icon/light": "enabled",
+      "Color theme (private)/opacity.alias/light": "enabled",
+      "Color theme (private)/opacity.component/light": "enabled",
+      "Color theme (private)/palette/light": "enabled"
     },
-    "group": "Private-collection",
     "$figmaCollectionId": "VariableCollectionId:4926:3009",
     "$figmaModeId": "4926:11",
     "$figmaVariableReferences": {
@@ -606,20 +611,21 @@
       "Palette.static-magenta.1000": "55a86f25499ae8c36a40bddf41c4a51a2e3a99a8",
       "Palette.static-red.900": "07905c1e791e912eaa162152fde3cdcb87aa0bfa",
       "Palette.static-red.1000": "08948bf80d0e2ff90c01420bdb3f94195281cf21"
-    }
+    },
+    "group": "Color-theme"
   },
   {
     "id": "d3941affc50adaff1797f582ceb43645c040d5fd",
-    "name": "dark",
+    "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Private-collection/component/dark": "enabled",
-      "Private-collection/icon/dark": "enabled",
-      "Private-collection/opacity.alias/dark": "enabled",
-      "Private-collection/opacity.component/dark": "enabled",
-      "Private-collection/palette/dark": "enabled"
+      "Color theme (private)/alias/dark": "enabled",
+      "Color theme (private)/component/dark": "enabled",
+      "Color theme (private)/icon/dark": "enabled",
+      "Color theme (private)/opacity.alias/dark": "enabled",
+      "Color theme (private)/opacity.component/dark": "enabled",
+      "Color theme (private)/palette/dark": "enabled"
     },
-    "group": "Private-collection",
     "$figmaCollectionId": "VariableCollectionId:4926:3009",
     "$figmaModeId": "4926:12",
     "$figmaVariableReferences": {
@@ -1118,20 +1124,21 @@
       "Palette.static-magenta.1000": "55a86f25499ae8c36a40bddf41c4a51a2e3a99a8",
       "Palette.static-red.900": "07905c1e791e912eaa162152fde3cdcb87aa0bfa",
       "Palette.static-red.1000": "08948bf80d0e2ff90c01420bdb3f94195281cf21"
-    }
+    },
+    "group": "Color-theme"
   },
   {
     "id": "642d873f60d6748d3116fa849cedfc2d75e84795",
     "name": "Wireframe",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Private-collection/component/wireframe": "enabled",
-      "Private-collection/icon/wireframe": "enabled",
-      "Private-collection/opacity.alias/wireframe": "enabled",
-      "Private-collection/opacity.component/wireframe": "enabled",
-      "Private-collection/palette/wireframe": "enabled"
+      "Color theme (private)/alias/wireframe": "enabled",
+      "Color theme (private)/component/wireframe": "enabled",
+      "Color theme (private)/icon/wireframe": "enabled",
+      "Color theme (private)/opacity.alias/wireframe": "enabled",
+      "Color theme (private)/opacity.component/wireframe": "enabled",
+      "Color theme (private)/palette/wireframe": "enabled"
     },
-    "group": "Private-collection",
     "$figmaCollectionId": "VariableCollectionId:4926:3009",
     "$figmaModeId": "4926:13",
     "$figmaVariableReferences": {
@@ -1630,6 +1637,7 @@
       "Palette.static-magenta.1000": "55a86f25499ae8c36a40bddf41c4a51a2e3a99a8",
       "Palette.static-red.900": "07905c1e791e912eaa162152fde3cdcb87aa0bfa",
       "Palette.static-red.1000": "08948bf80d0e2ff90c01420bdb3f94195281cf21"
-    }
+    },
+    "group": "Color-theme"
   }
 ]

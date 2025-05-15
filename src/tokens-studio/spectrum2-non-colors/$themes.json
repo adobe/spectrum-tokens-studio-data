@@ -13,7 +13,8 @@
       "Object-styles/Component/mobile": "enabled",
       "Object-styles/Semantic/mobile": "enabled",
       "Typography/Component/mobile": "enabled",
-      "Typography/Global/mobile": "enabled"
+      "Typography/Global/mobile": "enabled",
+      "Platform-scale/mobile": "enabled"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Scale",
@@ -398,11 +399,7 @@
       "field-label-top-to-asterisk-large": "a3e01ce748cf86443686221df950f315c121e263",
       "field-label-top-to-asterisk-medium": "066ffa0969992e90886da41e17456efaef839765",
       "field-label-top-to-asterisk-small": "b68f667f95457dabe994c968d184e9617602ba7b",
-      "help-text-to-component": "e400faf8891bec1f8c8a67138c0426429c0d7995",
-      "🚫 help-text-top-to-workflow-icon-extra-large": "4dc6b44a80fb752ec9fac22f298ed715136be6a6",
-      "🚫 help-text-top-to-workflow-icon-large": "8df67bfa51603efd80fc238d18d7bdad0004d4d4",
-      "🚫 help-text-top-to-workflow-icon-medium": "eb246c3d109c59c6ed7591e4cc87d46301728b31",
-      "🚫 help-text-top-to-workflow-icon-small": "d947ac6494cd6d7655874ca4aeb03da37377873e",
+      "help-text-top-to-workflow-icon-small": "d947ac6494cd6d7655874ca4aeb03da37377873e",
       "🚫 illustrated-message-body-size": "e3c540b2b3f08840d29a204ba3930a812046aee7",
       "🚫 illustrated-message-cjk-title-size": "20c2552e477725cebc65dcf542bd364cea911de7",
       "🚫 illustrated-message-maximum-width": "d6fdd11783eb2df6570f2e7687c4a9b7ee1e3011",
@@ -1303,7 +1300,8 @@
       "Layout/Semantic/desktop": "enabled",
       "Object-styles/desktop": "enabled",
       "Typography/Component/desktop": "enabled",
-      "Typography/Global/desktop": "enabled"
+      "Typography/Global/desktop": "enabled",
+      "Platform-scale/desktop": "enabled"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Scale",
@@ -1688,7 +1686,7 @@
       "🚫 help-text-top-to-workflow-icon-extra-large": "4dc6b44a80fb752ec9fac22f298ed715136be6a6",
       "🚫 help-text-top-to-workflow-icon-large": "8df67bfa51603efd80fc238d18d7bdad0004d4d4",
       "🚫 help-text-top-to-workflow-icon-medium": "eb246c3d109c59c6ed7591e4cc87d46301728b31",
-      "🚫 help-text-top-to-workflow-icon-small": "d947ac6494cd6d7655874ca4aeb03da37377873e",
+      "help-text-top-to-workflow-icon-small": "d947ac6494cd6d7655874ca4aeb03da37377873e",
       "🚫 illustrated-message-body-size": "e3c540b2b3f08840d29a204ba3930a812046aee7",
       "🚫 illustrated-message-cjk-title-size": "20c2552e477725cebc65dcf542bd364cea911de7",
       "🚫 illustrated-message-maximum-width": "d6fdd11783eb2df6570f2e7687c4a9b7ee1e3011",

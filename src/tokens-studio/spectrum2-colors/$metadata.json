@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
     "published-collection/icon/light-dark-wireframe",
+    "private-collection/palette/dark",
+    "private-collection/palette/light",
+    "private-collection/palette/wireframe",
     "private-collection/alias/dark",
     "private-collection/alias/light",
     "private-collection/alias/wireframe",
@@ -15,9 +18,6 @@
     "private-collection/opacity.alias/wireframe",
     "private-collection/opacity.component/dark",
     "private-collection/opacity.component/light",
-    "private-collection/opacity.component/wireframe",
-    "private-collection/palette/dark",
-    "private-collection/palette/light",
-    "private-collection/palette/wireframe"
+    "private-collection/opacity.component/wireframe"
   ]
 }

@@ -8,7 +8,8 @@
       "spectrum2/component/light": "enabled",
       "spectrum2/icon/light": "enabled",
       "spectrum2/opacity.component/light": "enabled",
-      "spectrum2/opacity.alias/light": "enabled"
+      "spectrum2/opacity.alias/light": "enabled",
+      "Unpublished-variables": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:11",
@@ -767,7 +768,8 @@
       "spectrum2/component/dark": "enabled",
       "spectrum2/icon/dark": "enabled",
       "spectrum2/opacity.alias/dark": "enabled",
-      "spectrum2/opacity.component/dark": "enabled"
+      "spectrum2/opacity.component/dark": "enabled",
+      "Unpublished-variables": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:12",
@@ -1527,7 +1529,8 @@
       "spectrum2/icon/wireframe": "enabled",
       "spectrum2/component/wireframe": "enabled",
       "spectrum2/opacity.alias/wireframe": "enabled",
-      "spectrum2/opacity.component/wireframe": "enabled"
+      "spectrum2/opacity.component/wireframe": "enabled",
+      "Unpublished-variables": "disabled"
     },
     "group": "S2.Color-theme",
     "$figmaCollectionId": "VariableCollectionId:8:1601",
@@ -2275,5 +2278,32 @@
       "tree-view-selected-row-background-opacity-emphasized": "c12d7ddca99f6f27a0a38dc5eb81f149718e4602",
       "tree-view-selected-row-background-opacity-emphasized-hover": "663b406fad2402a86c6bb17457768f1b269c4cf2"
     }
+  },
+  {
+    "id": "1dbe2242efff165ec1851ed4fe4dd449cc3315e0",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Unpublished-variables": "disabled"
+    },
+    "group": "color-private"
+  },
+  {
+    "id": "635ce0b90a7b9545bb3cb6d106d3a1f39f92311e",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Unpublished-variables": "disabled"
+    },
+    "group": "color-private"
+  },
+  {
+    "id": "128a5aeea273eb74ddaa96cd03de942f7e0c65c2",
+    "name": "wireframe",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Unpublished-variables": "disabled"
+    },
+    "group": "color-private"
   }
 ]

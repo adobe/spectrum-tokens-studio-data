@@ -106,9 +106,9 @@
       "private-collection/icon/light": "enabled",
       "private-collection/opacity.alias/light": "enabled",
       "private-collection/opacity.component/light": "enabled",
-      "private-collection/palette/light": "enabled"
+      "private-collection/palette/light": "enabled",
+      "published-collection/icon/singularity": "enabled"
     },
-    "group": "private-collection",
     "$figmaCollectionId": "VariableCollectionId:2:3",
     "$figmaModeId": "2:1",
     "$figmaVariableReferences": {
@@ -853,7 +853,8 @@
       "thumbnail-opacity-disabled": "4794e268f60cad264add442b2b3dfdb5d187c486",
       "tree-view-selected-row-background-opacity-emphasized": "3a58d5007a539189aa8e09b10215b298ee1f34c3",
       "tree-view-selected-row-background-opacity-emphasized-hover": "29a4169214c8c50f86b83de357bde73188ceadc9"
-    }
+    },
+    "group": "private-collection"
   },
   {
     "id": "635ce0b90a7b9545bb3cb6d106d3a1f39f92311e",
@@ -865,9 +866,9 @@
       "private-collection/icon/dark": "enabled",
       "private-collection/opacity.alias/dark": "enabled",
       "private-collection/opacity.component/dark": "enabled",
-      "private-collection/palette/dark": "enabled"
+      "private-collection/palette/dark": "enabled",
+      "published-collection/icon/singularity": "enabled"
     },
-    "group": "private-collection",
     "$figmaCollectionId": "VariableCollectionId:2:3",
     "$figmaModeId": "2:2",
     "$figmaVariableReferences": {
@@ -1612,7 +1613,8 @@
       "thumbnail-opacity-disabled": "4794e268f60cad264add442b2b3dfdb5d187c486",
       "tree-view-selected-row-background-opacity-emphasized": "3a58d5007a539189aa8e09b10215b298ee1f34c3",
       "tree-view-selected-row-background-opacity-emphasized-hover": "29a4169214c8c50f86b83de357bde73188ceadc9"
-    }
+    },
+    "group": "private-collection"
   },
   {
     "id": "128a5aeea273eb74ddaa96cd03de942f7e0c65c2",
@@ -1624,9 +1626,9 @@
       "private-collection/icon/wireframe": "enabled",
       "private-collection/opacity.alias/wireframe": "enabled",
       "private-collection/opacity.component/wireframe": "enabled",
-      "private-collection/palette/wireframe": "enabled"
+      "private-collection/palette/wireframe": "enabled",
+      "published-collection/icon/singularity": "enabled"
     },
-    "group": "private-collection",
     "$figmaCollectionId": "VariableCollectionId:2:3",
     "$figmaModeId": "2:3",
     "$figmaVariableReferences": {
@@ -2371,6 +2373,7 @@
       "thumbnail-opacity-disabled": "4794e268f60cad264add442b2b3dfdb5d187c486",
       "tree-view-selected-row-background-opacity-emphasized": "3a58d5007a539189aa8e09b10215b298ee1f34c3",
       "tree-view-selected-row-background-opacity-emphasized-hover": "29a4169214c8c50f86b83de357bde73188ceadc9"
-    }
+    },
+    "group": "private-collection"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
     "id": "738333a3145b5fb23c20797c93ee780d037a11d5",
-    "name": "light-dark-wireframe",
+    "name": "singularity",
     "selectedTokenSets": {
-      "published-collection/icon/light-dark-wireframe": "enabled"
+      "published-collection/icon/singularity": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:100:2",
     "$figmaModeId": "100:0",
@@ -106,7 +106,8 @@
       "private-collection/icon/light": "enabled",
       "private-collection/opacity.alias/light": "enabled",
       "private-collection/opacity.component/light": "enabled",
-      "private-collection/palette/light": "enabled"
+      "private-collection/palette/light": "enabled",
+      "published-collection/icon/singularity": "disabled"
     },
     "group": "private-collection",
     "$figmaCollectionId": "VariableCollectionId:100:3",
@@ -865,7 +866,8 @@
       "private-collection/icon/dark": "enabled",
       "private-collection/opacity.alias/dark": "enabled",
       "private-collection/opacity.component/dark": "enabled",
-      "private-collection/palette/dark": "enabled"
+      "private-collection/palette/dark": "enabled",
+      "published-collection/icon/singularity": "disabled"
     },
     "group": "private-collection",
     "$figmaCollectionId": "VariableCollectionId:100:3",
@@ -1624,7 +1626,8 @@
       "private-collection/icon/wireframe": "enabled",
       "private-collection/opacity.alias/wireframe": "enabled",
       "private-collection/opacity.component/wireframe": "enabled",
-      "private-collection/palette/wireframe": "enabled"
+      "private-collection/palette/wireframe": "enabled",
+      "published-collection/icon/singularity": "disabled"
     },
     "group": "private-collection",
     "$figmaCollectionId": "VariableCollectionId:100:3",

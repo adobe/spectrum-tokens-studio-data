@@ -78,7 +78,7 @@
         }
       }
     },
-    "coach-indicator": {
+    "coach-indicator-theme": {
       "value": "{Palette.blue.800}",
       "type": "color",
       "$extensions": {
@@ -246,7 +246,7 @@
             }
           }
         },
-        "key-focus": {
+        "key-focus-theme": {
           "value": "{Palette.gray.100}",
           "type": "color",
           "$extensions": {

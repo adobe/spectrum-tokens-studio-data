@@ -78,7 +78,7 @@
         }
       }
     },
-    "coach-indicator": {
+    "coach-indicator-theme": {
       "value": "{Palette.blue.800}",
       "type": "color",
       "$extensions": {
@@ -216,37 +216,37 @@
     },
     "menu-item": {
       "background-color": {
-        "default": {
+        "default-theme": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "9b9e8b32-46b8-470d-85b9-352c00e90138",
-              "name": "menu-item-background-color-default"
+              "name": "menu-item-background-color-default-theme"
             }
           }
         },
-        "hover": {
+        "hover-theme": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "f68ff159-e886-4519-b95e-e93879a2f535",
-              "name": "menu-item-background-color-hover"
+              "name": "menu-item-background-color-hover-theme"
             }
           }
         },
-        "down": {
+        "down-theme": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
               "uuid": "7ccdd9e8-3677-4de8-b9df-19efa80d88c0",
-              "name": "menu-item-background-color-down"
+              "name": "menu-item-background-color-down-theme"
             }
           }
         },
-        "key-focus": {
+        "key-focus-theme": {
           "value": "{Palette.gray.200}",
           "type": "color",
           "$extensions": {
@@ -421,7 +421,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "39d26185-da40-47b5-b4b3-e47689129256",
-            "name": "tree-view-row-background-hover"
+            "name": "tree-view-row-background-hover-theme"
           }
         }
       },
@@ -441,7 +441,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "8f19994d-f49a-42ea-97bd-98ab1d76d02d",
-            "name": "tree-view-selected-row-background-default"
+            "name": "tree-view-selected-row-background-default-theme"
           }
         }
       },
@@ -451,7 +451,7 @@
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "c325ed8f-8248-40c3-a0f0-efba57638f24",
-            "name": "tree-view-selected-row-background-hover"
+            "name": "tree-view-selected-row-background-hover-theme"
           }
         }
       }

@@ -1,0 +1,122 @@
+{
+  "spacing-50": {
+    "value": "2px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "1b06f6e2-d9be-4934-b3da-bed75986d104",
+        "name": "spacing-50"
+      }
+    }
+  },
+  "spacing-75": {
+    "value": "4px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "576a60a3-ca80-46c5-a066-ba7b6197decd",
+        "name": "spacing-75"
+      }
+    }
+  },
+  "spacing-100": {
+    "value": "8px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "507c0b4a-9dbc-4242-89fd-5efc4d1c35b9",
+        "name": "spacing-100"
+      }
+    }
+  },
+  "spacing-200": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "79fca32b-214b-4760-9d3a-28f4d1bdf86f",
+        "name": "spacing-200"
+      }
+    }
+  },
+  "spacing-300": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "ba632ede-84a7-4e56-91ef-8143b2499452",
+        "name": "spacing-300"
+      }
+    }
+  },
+  "spacing-400": {
+    "value": "24px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "ec565065-0820-460f-9a1b-b81911c48cb5",
+        "name": "spacing-400"
+      }
+    }
+  },
+  "spacing-500": {
+    "value": "32px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "490b4010-1561-4b12-8cbb-cdb4b650ba74",
+        "name": "spacing-500"
+      }
+    }
+  },
+  "spacing-600": {
+    "value": "40px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b6d0b881-d25e-452c-9069-c18745d21f33",
+        "name": "spacing-600"
+      }
+    }
+  },
+  "spacing-700": {
+    "value": "48px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "26639049-ec07-430d-983f-4d036758564a",
+        "name": "spacing-700"
+      }
+    }
+  },
+  "spacing-800": {
+    "value": "64px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "eeb099cb-707f-4e5e-97b9-1fdba35b2314",
+        "name": "spacing-800"
+      }
+    }
+  },
+  "spacing-900": {
+    "value": "80px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "d04e5d81-0b6e-48e7-9e47-744753dfcff3",
+        "name": "spacing-900"
+      }
+    }
+  },
+  "spacing-1000": {
+    "value": "96px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "9d688a67-5ff6-4b72-8398-964c0337dce1",
+        "name": "spacing-1000"
+      }
+    }
+  }
+}

@@ -9,7 +9,13 @@
       "Color theme/icon/light": "enabled",
       "Color theme/opacity.alias/light": "enabled",
       "Color theme/opacity.component/light": "enabled",
-      "Color theme/palette/light": "enabled"
+      "Color theme/palette/light": "enabled",
+      "Color/alias/modeless": "disabled",
+      "Color/component/modeless": "disabled",
+      "Color/icon/modeless": "disabled",
+      "Color/opacity.alias/modeless": "disabled",
+      "Color/opacity.component/modeless": "disabled",
+      "Color/palette/modeless": "disabled"
     },
     "group": ".Color theme",
     "$figmaCollectionId": "VariableCollectionId:4940:5462",
@@ -768,7 +774,13 @@
       "Color theme/icon/dark": "enabled",
       "Color theme/opacity.alias/dark": "enabled",
       "Color theme/opacity.component/dark": "enabled",
-      "Color theme/palette/dark": "enabled"
+      "Color theme/palette/dark": "enabled",
+      "Color/alias/modeless": "disabled",
+      "Color/component/modeless": "disabled",
+      "Color/icon/modeless": "disabled",
+      "Color/opacity.alias/modeless": "disabled",
+      "Color/opacity.component/modeless": "disabled",
+      "Color/palette/modeless": "disabled"
     },
     "group": ".Color theme",
     "$figmaCollectionId": "VariableCollectionId:4940:5462",
@@ -1527,7 +1539,13 @@
       "Color theme/icon/wireframe": "enabled",
       "Color theme/opacity.alias/wireframe": "enabled",
       "Color theme/opacity.component/wireframe": "enabled",
-      "Color theme/palette/wireframe": "enabled"
+      "Color theme/palette/wireframe": "enabled",
+      "Color/alias/modeless": "disabled",
+      "Color/component/modeless": "disabled",
+      "Color/icon/modeless": "disabled",
+      "Color/opacity.alias/modeless": "disabled",
+      "Color/opacity.component/modeless": "disabled",
+      "Color/palette/modeless": "disabled"
     },
     "group": ".Color theme",
     "$figmaCollectionId": "VariableCollectionId:4940:5462",
@@ -2278,17 +2296,16 @@
   },
   {
     "id": "c47a734db72ce5f149ed8b57b8c7df3e11f60e35",
-    "name": "Singularity",
+    "name": "Modeless",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Color/alias/light": "enabled",
-      "Color/component/light": "enabled",
-      "Color/icon/light": "enabled",
-      "Color/opacity.alias/light": "enabled",
-      "Color/opacity.component/light": "enabled",
-      "Color/palette/light": "enabled"
+      "Color/alias/modeless": "enabled",
+      "Color/component/modeless": "enabled",
+      "Color/icon/modeless": "enabled",
+      "Color/opacity.alias/modeless": "enabled",
+      "Color/opacity.component/modeless": "enabled",
+      "Color/palette/modeless": "enabled"
     },
-    "group": "Color",
     "$figmaCollectionId": "VariableCollectionId:4940:3979",
     "$figmaModeId": "4940:31",
     "$figmaVariableReferences": {
@@ -3033,6 +3050,7 @@
       "Palette.static-magenta.1000": "d2577691ef98aa4a5e97049c01a7ee2d87932116",
       "Palette.static-red.900": "558a4f3202145e2ff04955c080ccaab92481f86f",
       "Palette.static-red.1000": "f4d0b16526390dcc98af04c4665c8a90ff6df391"
-    }
+    },
+    "group": "Color"
   }
 ]

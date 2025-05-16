@@ -1,14 +1,19 @@
 {
   "tokenSetOrder": [
-    "spectrum2/icon/desktop",
-    "spectrum2/icon/mobile",
-    "spectrum2/layout/desktop",
-    "spectrum2/layout/mobile",
-    "spectrum2/layout.component/desktop",
-    "spectrum2/layout.component/mobile",
-    "spectrum2/typography/desktop",
-    "spectrum2/typography/mobile",
-    "spectrum2/typography.component/desktop",
-    "spectrum2/typography.component/mobile"
+    "Platform scale/icon/desktop",
+    "Platform scale/icon/mobile",
+    "Platform scale/layout.component/desktop",
+    "Platform scale/layout.component/mobile",
+    "Platform scale/layout/desktop",
+    "Platform scale/layout/mobile",
+    "Platform scale/typography.component/desktop",
+    "Platform scale/typography.component/mobile",
+    "Platform scale/typography/desktop",
+    "Platform scale/typography/mobile",
+    "Iconography/modeless",
+    "Layout/component/modeless",
+    "Layout/global/modeless",
+    "Typography/component/modeless",
+    "Typography/global/modeless"
   ]
 }

@@ -360,6 +360,56 @@
         }
       }
     },
+    "component-padding-vertical-50": {
+      "value": "5px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "component-padding-vertical-50"
+        }
+      }
+    },
+    "component-padding-vertical-75": {
+      "value": "5px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "component-padding-vertical-75"
+        }
+      }
+    },
+    "component-padding-vertical-100": {
+      "value": "9px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "component-padding-vertical-100"
+        }
+      }
+    },
+    "component-padding-vertical-200": {
+      "value": "13px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "component-padding-vertical-200"
+        }
+      }
+    },
+    "component-padding-vertical-300": {
+      "value": "17px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "",
+          "name": "component-padding-vertical-300"
+        }
+      }
+    },
     "component-pill-edge-to-text-75": {
       "value": "15px",
       "type": "spacing",

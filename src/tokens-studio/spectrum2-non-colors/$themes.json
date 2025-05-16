@@ -1,42 +1,57 @@
 [
   {
     "id": "e6e05eaed96a2e410f6a5e66dda1eaa68bf52fe1",
-    "name": "mobile",
+    "name": "Mobile",
     "selectedTokenSets": {
-      "spectrum2/icon/mobile": "enabled",
-      "spectrum2/layout/mobile": "enabled",
-      "spectrum2/layout.component/mobile": "enabled",
-      "spectrum2/typography/mobile": "enabled",
-      "spectrum2/typography.component/mobile": "enabled"
+      "Platform scale/icon/mobile": "enabled",
+      "Platform scale/layout.component/mobile": "enabled",
+      "Platform scale/layout/mobile": "enabled",
+      "Platform scale/typography.component/mobile": "enabled",
+      "Platform scale/typography/mobile": "enabled"
     },
     "$figmaStyleReferences": {},
-    "group": "S2.Scale"
+    "group": "Platform scale"
   },
   {
     "id": "689b644177e0122506b519097ecca2fa3a06ec8f",
-    "name": "desktop",
+    "name": "Desktop",
     "selectedTokenSets": {
-      "spectrum2/icon/desktop": "enabled",
-      "spectrum2/layout/desktop": "enabled",
-      "spectrum2/layout.component/desktop": "enabled",
-      "spectrum2/typography/desktop": "enabled",
-      "spectrum2/typography.component/desktop": "enabled"
+      "Platform scale/icon/desktop": "enabled",
+      "Platform scale/layout.component/desktop": "enabled",
+      "Platform scale/layout/desktop": "enabled",
+      "Platform scale/typography.component/desktop": "enabled",
+      "Platform scale/typography/desktop": "enabled"
     },
     "$figmaStyleReferences": {},
-    "group": "S2.Scale"
+    "group": "Platform scale"
   },
   {
     "id": "ba475698596b2ca020b37426e165744c4279a9bf",
-    "name": "light",
-    "selectedTokenSets": {},
+    "name": "Singularity",
+    "selectedTokenSets": {
+      "Iconography/desktop": "enabled"
+    },
     "$figmaStyleReferences": {},
-    "group": "S2.Color-theme"
+    "group": "Iconography"
   },
   {
-    "id": "34ebdf3e9738d322fca662fa5f779ed2cc3ec4e5",
-    "name": "dark",
-    "selectedTokenSets": {},
+    "id": "2629ffbaaca97ef10a27eb51832b201ac6361acc",
+    "name": "Singularity",
     "$figmaStyleReferences": {},
-    "group": "S2.Color-theme"
+    "selectedTokenSets": {
+      "Typography/component/desktop": "enabled",
+      "Typography/global/desktop": "enabled"
+    },
+    "group": "Typography"
+  },
+  {
+    "id": "8bf1ebbc184aab60781e8eda2101468adf335075",
+    "name": "Singularity",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Layout/component/desktop": "enabled",
+      "Layout/global/desktop": "enabled"
+    },
+    "group": "Layout"
   }
 ]

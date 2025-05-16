@@ -119,6 +119,46 @@
       }
     }
   },
+  "stack-item-selected-background-opacity-emphasized": {
+    "value": "0.1",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "stack-item-selected-background-opacity-emphasized"
+      }
+    }
+  },
+  "stack-item-selected-background-opacity-emphasized-hover": {
+    "value": "0.15",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "stack-item-selected-background-opacity-emphasized-hover"
+      }
+    }
+  },
+  "stack-item-selected-background-opacity-emphasized-down": {
+    "value": "0.15",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "stack-item-selected-background-opacity-emphasized-down"
+      }
+    }
+  },
+  "stack-item-selected-background-opacity-emphasized-key-focus": {
+    "value": "0.15",
+    "type": "opacity",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "stack-item-selected-background-opacity-emphasized-key-focus"
+      }
+    }
+  },
   "swatch-border-opacity": {
     "value": "0.42",
     "type": "opacity",

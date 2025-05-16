@@ -1,7 +1,7 @@
 {
   "Palette": {
     "black": {
-      "value": "#000000",
+      "value": "{colorTheme.Palette.black}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -11,7 +11,7 @@
       }
     },
     "white": {
-      "value": "#ffffff",
+      "value": "{colorTheme.Palette.white}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -22,7 +22,7 @@
     },
     "gray": {
       "25": {
-        "value": "#111111",
+        "value": "{colorTheme.Palette.gray.25}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -32,7 +32,7 @@
         }
       },
       "50": {
-        "value": "#1b1b1b",
+        "value": "{colorTheme.Palette.gray.50}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -42,7 +42,7 @@
         }
       },
       "75": {
-        "value": "#222222",
+        "value": "{colorTheme.Palette.gray.75}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -52,7 +52,7 @@
         }
       },
       "100": {
-        "value": "#2c2c2c",
+        "value": "{colorTheme.Palette.gray.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -62,7 +62,7 @@
         }
       },
       "200": {
-        "value": "#323232",
+        "value": "{colorTheme.Palette.gray.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -72,7 +72,7 @@
         }
       },
       "300": {
-        "value": "#393939",
+        "value": "{colorTheme.Palette.gray.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -82,7 +82,7 @@
         }
       },
       "400": {
-        "value": "#444444",
+        "value": "{colorTheme.Palette.gray.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -92,7 +92,7 @@
         }
       },
       "500": {
-        "value": "#6d6d6d",
+        "value": "{colorTheme.Palette.gray.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -102,7 +102,7 @@
         }
       },
       "600": {
-        "value": "#8a8a8a",
+        "value": "{colorTheme.Palette.gray.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -112,7 +112,7 @@
         }
       },
       "700": {
-        "value": "#afafaf",
+        "value": "{colorTheme.Palette.gray.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -122,7 +122,7 @@
         }
       },
       "800": {
-        "value": "#dbdbdb",
+        "value": "{colorTheme.Palette.gray.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -132,7 +132,7 @@
         }
       },
       "900": {
-        "value": "#f2f2f2",
+        "value": "{colorTheme.Palette.gray.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -142,7 +142,7 @@
         }
       },
       "1000": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.gray.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -154,7 +154,7 @@
     },
     "blue": {
       "100": {
-        "value": "#0E173F",
+        "value": "{colorTheme.Palette.blue.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -164,7 +164,7 @@
         }
       },
       "200": {
-        "value": "#0f1c52",
+        "value": "{colorTheme.Palette.blue.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -174,7 +174,7 @@
         }
       },
       "300": {
-        "value": "#0c2175",
+        "value": "{colorTheme.Palette.blue.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -184,7 +184,7 @@
         }
       },
       "400": {
-        "value": "#122d9a",
+        "value": "{colorTheme.Palette.blue.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -194,7 +194,7 @@
         }
       },
       "500": {
-        "value": "#1a3ac3",
+        "value": "{colorTheme.Palette.blue.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -204,7 +204,7 @@
         }
       },
       "600": {
-        "value": "#2549e5",
+        "value": "{colorTheme.Palette.blue.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -214,7 +214,7 @@
         }
       },
       "700": {
-        "value": "#345bf8",
+        "value": "{colorTheme.Palette.blue.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -224,7 +224,7 @@
         }
       },
       "800": {
-        "value": "#4069fd",
+        "value": "{colorTheme.Palette.blue.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -234,7 +234,7 @@
         }
       },
       "900": {
-        "value": "#5681ff",
+        "value": "{colorTheme.Palette.blue.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -244,7 +244,7 @@
         }
       },
       "1000": {
-        "value": "#6995fe",
+        "value": "{colorTheme.Palette.blue.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -254,7 +254,7 @@
         }
       },
       "1100": {
-        "value": "#7CA9FC",
+        "value": "{colorTheme.Palette.blue.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -264,7 +264,7 @@
         }
       },
       "1200": {
-        "value": "#98C0FC",
+        "value": "{colorTheme.Palette.blue.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -274,7 +274,7 @@
         }
       },
       "1300": {
-        "value": "#B5D5FD",
+        "value": "{colorTheme.Palette.blue.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -284,7 +284,7 @@
         }
       },
       "1400": {
-        "value": "#D5E7FE",
+        "value": "{colorTheme.Palette.blue.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -294,7 +294,7 @@
         }
       },
       "1500": {
-        "value": "#EEF5FF",
+        "value": "{colorTheme.Palette.blue.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -304,7 +304,7 @@
         }
       },
       "1600": {
-        "value": "#FFFFFF",
+        "value": "{colorTheme.Palette.blue.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -316,7 +316,7 @@
     },
     "green": {
       "100": {
-        "value": "#001e17",
+        "value": "{colorTheme.Palette.green.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -326,7 +326,7 @@
         }
       },
       "200": {
-        "value": "#00261d",
+        "value": "{colorTheme.Palette.green.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -336,7 +336,7 @@
         }
       },
       "300": {
-        "value": "#003326",
+        "value": "{colorTheme.Palette.green.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -346,7 +346,7 @@
         }
       },
       "400": {
-        "value": "#004430",
+        "value": "{colorTheme.Palette.green.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -356,7 +356,7 @@
         }
       },
       "500": {
-        "value": "#02573a",
+        "value": "{colorTheme.Palette.green.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -366,7 +366,7 @@
         }
       },
       "600": {
-        "value": "#036a43",
+        "value": "{colorTheme.Palette.green.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -376,7 +376,7 @@
         }
       },
       "700": {
-        "value": "#047c4b",
+        "value": "{colorTheme.Palette.green.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -386,7 +386,7 @@
         }
       },
       "800": {
-        "value": "#068850",
+        "value": "{colorTheme.Palette.green.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -396,7 +396,7 @@
         }
       },
       "900": {
-        "value": "#099d59",
+        "value": "{colorTheme.Palette.green.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -406,7 +406,7 @@
         }
       },
       "1000": {
-        "value": "#0eaf62",
+        "value": "{colorTheme.Palette.green.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -416,7 +416,7 @@
         }
       },
       "1100": {
-        "value": "#18C16E",
+        "value": "{colorTheme.Palette.green.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -426,7 +426,7 @@
         }
       },
       "1200": {
-        "value": "#39D786",
+        "value": "{colorTheme.Palette.green.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -436,7 +436,7 @@
         }
       },
       "1300": {
-        "value": "#7EE7AC",
+        "value": "{colorTheme.Palette.green.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -446,7 +446,7 @@
         }
       },
       "1400": {
-        "value": "#BDF1D0",
+        "value": "{colorTheme.Palette.green.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -456,7 +456,7 @@
         }
       },
       "1500": {
-        "value": "#E5FAEC",
+        "value": "{colorTheme.Palette.green.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -466,7 +466,7 @@
         }
       },
       "1600": {
-        "value": "#FFFFFF",
+        "value": "{colorTheme.Palette.green.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -478,7 +478,7 @@
     },
     "orange": {
       "100": {
-        "value": "#311000",
+        "value": "{colorTheme.Palette.orange.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -488,7 +488,7 @@
         }
       },
       "200": {
-        "value": "#3d1500",
+        "value": "{colorTheme.Palette.orange.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -498,7 +498,7 @@
         }
       },
       "300": {
-        "value": "#501b00",
+        "value": "{colorTheme.Palette.orange.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -508,7 +508,7 @@
         }
       },
       "400": {
-        "value": "#6a2400",
+        "value": "{colorTheme.Palette.orange.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -518,7 +518,7 @@
         }
       },
       "500": {
-        "value": "#872f00",
+        "value": "{colorTheme.Palette.orange.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -528,7 +528,7 @@
         }
       },
       "600": {
-        "value": "#a23b00",
+        "value": "{colorTheme.Palette.orange.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -538,7 +538,7 @@
         }
       },
       "700": {
-        "value": "#b94900",
+        "value": "{colorTheme.Palette.orange.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -548,7 +548,7 @@
         }
       },
       "800": {
-        "value": "#c75200",
+        "value": "{colorTheme.Palette.orange.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -558,7 +558,7 @@
         }
       },
       "900": {
-        "value": "#e06400",
+        "value": "{colorTheme.Palette.orange.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -568,7 +568,7 @@
         }
       },
       "1000": {
-        "value": "#f37500",
+        "value": "{colorTheme.Palette.orange.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -578,7 +578,7 @@
         }
       },
       "1100": {
-        "value": "#FF8900",
+        "value": "{colorTheme.Palette.orange.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -588,7 +588,7 @@
         }
       },
       "1200": {
-        "value": "#FFAD2D",
+        "value": "{colorTheme.Palette.orange.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -598,7 +598,7 @@
         }
       },
       "1300": {
-        "value": "#FFC974",
+        "value": "{colorTheme.Palette.orange.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -608,7 +608,7 @@
         }
       },
       "1400": {
-        "value": "#FFE1B2",
+        "value": "{colorTheme.Palette.orange.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -618,7 +618,7 @@
         }
       },
       "1500": {
-        "value": "#FFF3E1",
+        "value": "{colorTheme.Palette.orange.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -628,7 +628,7 @@
         }
       },
       "1600": {
-        "value": "#FFFFFF",
+        "value": "{colorTheme.Palette.orange.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -640,7 +640,7 @@
     },
     "red": {
       "100": {
-        "value": "#360a03",
+        "value": "{colorTheme.Palette.red.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -650,7 +650,7 @@
         }
       },
       "200": {
-        "value": "#440d05",
+        "value": "{colorTheme.Palette.red.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -660,7 +660,7 @@
         }
       },
       "300": {
-        "value": "#571107",
+        "value": "{colorTheme.Palette.red.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -670,7 +670,7 @@
         }
       },
       "400": {
-        "value": "#73180b",
+        "value": "{colorTheme.Palette.red.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -680,7 +680,7 @@
         }
       },
       "500": {
-        "value": "#931f11",
+        "value": "{colorTheme.Palette.red.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -690,7 +690,7 @@
         }
       },
       "600": {
-        "value": "#b12617",
+        "value": "{colorTheme.Palette.red.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -700,7 +700,7 @@
         }
       },
       "700": {
-        "value": "#cd2e1d",
+        "value": "{colorTheme.Palette.red.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -710,7 +710,7 @@
         }
       },
       "800": {
-        "value": "#df3422",
+        "value": "{colorTheme.Palette.red.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -720,7 +720,7 @@
         }
       },
       "900": {
-        "value": "#fc432e",
+        "value": "{colorTheme.Palette.red.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -730,7 +730,7 @@
         }
       },
       "1000": {
-        "value": "#ff6756",
+        "value": "{colorTheme.Palette.red.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -740,7 +740,7 @@
         }
       },
       "1100": {
-        "value": "#FF8678",
+        "value": "{colorTheme.Palette.red.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -750,7 +750,7 @@
         }
       },
       "1200": {
-        "value": "#FFA79D",
+        "value": "{colorTheme.Palette.red.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -760,7 +760,7 @@
         }
       },
       "1300": {
-        "value": "#FFC4BD",
+        "value": "{colorTheme.Palette.red.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -770,7 +770,7 @@
         }
       },
       "1400": {
-        "value": "#FFDEDB",
+        "value": "{colorTheme.Palette.red.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -780,7 +780,7 @@
         }
       },
       "1500": {
-        "value": "#FFF2F0",
+        "value": "{colorTheme.Palette.red.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -790,7 +790,7 @@
         }
       },
       "1600": {
-        "value": "#FFFFFF",
+        "value": "{colorTheme.Palette.red.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -802,7 +802,7 @@
     },
     "celery": {
       "100": {
-        "value": "#0b1f00",
+        "value": "{colorTheme.Palette.celery.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -812,7 +812,7 @@
         }
       },
       "200": {
-        "value": "#0f2600",
+        "value": "{colorTheme.Palette.celery.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -822,7 +822,7 @@
         }
       },
       "300": {
-        "value": "#153301",
+        "value": "{colorTheme.Palette.celery.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -832,7 +832,7 @@
         }
       },
       "400": {
-        "value": "#1f4304",
+        "value": "{colorTheme.Palette.celery.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -842,7 +842,7 @@
         }
       },
       "500": {
-        "value": "#295608",
+        "value": "{colorTheme.Palette.celery.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -852,7 +852,7 @@
         }
       },
       "600": {
-        "value": "#32690b",
+        "value": "{colorTheme.Palette.celery.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -862,7 +862,7 @@
         }
       },
       "700": {
-        "value": "#3c7a0f",
+        "value": "{colorTheme.Palette.celery.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -872,7 +872,7 @@
         }
       },
       "800": {
-        "value": "#428612",
+        "value": "{colorTheme.Palette.celery.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -882,7 +882,7 @@
         }
       },
       "900": {
-        "value": "#4e9a17",
+        "value": "{colorTheme.Palette.celery.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -892,7 +892,7 @@
         }
       },
       "1000": {
-        "value": "#58ac1c",
+        "value": "{colorTheme.Palette.celery.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -902,7 +902,7 @@
         }
       },
       "1100": {
-        "value": "#64be23",
+        "value": "{colorTheme.Palette.celery.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -912,7 +912,7 @@
         }
       },
       "1200": {
-        "value": "#74d52e",
+        "value": "{colorTheme.Palette.celery.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -922,7 +922,7 @@
         }
       },
       "1300": {
-        "value": "#88ea41",
+        "value": "{colorTheme.Palette.celery.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -932,7 +932,7 @@
         }
       },
       "1400": {
-        "value": "#aafb70",
+        "value": "{colorTheme.Palette.celery.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -942,7 +942,7 @@
         }
       },
       "1500": {
-        "value": "#deffc6",
+        "value": "{colorTheme.Palette.celery.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -952,7 +952,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.celery.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -964,7 +964,7 @@
     },
     "chartreuse": {
       "100": {
-        "value": "#171c00",
+        "value": "{colorTheme.Palette.chartreuse.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -974,7 +974,7 @@
         }
       },
       "200": {
-        "value": "#1e2400",
+        "value": "{colorTheme.Palette.chartreuse.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -984,7 +984,7 @@
         }
       },
       "300": {
-        "value": "#272f00",
+        "value": "{colorTheme.Palette.chartreuse.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -994,7 +994,7 @@
         }
       },
       "400": {
-        "value": "#353f00",
+        "value": "{colorTheme.Palette.chartreuse.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1004,7 +1004,7 @@
         }
       },
       "500": {
-        "value": "#445200",
+        "value": "{colorTheme.Palette.chartreuse.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1014,7 +1014,7 @@
         }
       },
       "600": {
-        "value": "#536400",
+        "value": "{colorTheme.Palette.chartreuse.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1024,7 +1024,7 @@
         }
       },
       "700": {
-        "value": "#617400",
+        "value": "{colorTheme.Palette.chartreuse.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1034,7 +1034,7 @@
         }
       },
       "800": {
-        "value": "#6a7f00",
+        "value": "{colorTheme.Palette.chartreuse.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1044,7 +1044,7 @@
         }
       },
       "900": {
-        "value": "#7a9300",
+        "value": "{colorTheme.Palette.chartreuse.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1054,7 +1054,7 @@
         }
       },
       "1000": {
-        "value": "#88a400",
+        "value": "{colorTheme.Palette.chartreuse.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1064,7 +1064,7 @@
         }
       },
       "1100": {
-        "value": "#97b500",
+        "value": "{colorTheme.Palette.chartreuse.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1074,7 +1074,7 @@
         }
       },
       "1200": {
-        "value": "#a9cb00",
+        "value": "{colorTheme.Palette.chartreuse.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1084,7 +1084,7 @@
         }
       },
       "1300": {
-        "value": "#bbe100",
+        "value": "{colorTheme.Palette.chartreuse.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1094,7 +1094,7 @@
         }
       },
       "1400": {
-        "value": "#dbf075",
+        "value": "{colorTheme.Palette.chartreuse.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1104,7 +1104,7 @@
         }
       },
       "1500": {
-        "value": "#f2f9ce",
+        "value": "{colorTheme.Palette.chartreuse.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1114,7 +1114,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.chartreuse.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1126,7 +1126,7 @@
     },
     "cyan": {
       "100": {
-        "value": "#001d27",
+        "value": "{colorTheme.Palette.cyan.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1136,7 +1136,7 @@
         }
       },
       "200": {
-        "value": "#002431",
+        "value": "{colorTheme.Palette.cyan.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1146,7 +1146,7 @@
         }
       },
       "300": {
-        "value": "#003041",
+        "value": "{colorTheme.Palette.cyan.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1156,7 +1156,7 @@
         }
       },
       "400": {
-        "value": "#004058",
+        "value": "{colorTheme.Palette.cyan.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1166,7 +1166,7 @@
         }
       },
       "500": {
-        "value": "#005271",
+        "value": "{colorTheme.Palette.cyan.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1176,7 +1176,7 @@
         }
       },
       "600": {
-        "value": "#03638c",
+        "value": "{colorTheme.Palette.cyan.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1186,7 +1186,7 @@
         }
       },
       "700": {
-        "value": "#0873a8",
+        "value": "{colorTheme.Palette.cyan.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1196,7 +1196,7 @@
         }
       },
       "800": {
-        "value": "#0d7dba",
+        "value": "{colorTheme.Palette.cyan.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1206,7 +1206,7 @@
         }
       },
       "900": {
-        "value": "#188edc",
+        "value": "{colorTheme.Palette.cyan.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1216,7 +1216,7 @@
         }
       },
       "1000": {
-        "value": "#269ff4",
+        "value": "{colorTheme.Palette.cyan.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1226,7 +1226,7 @@
         }
       },
       "1100": {
-        "value": "#3fb1ff",
+        "value": "{colorTheme.Palette.cyan.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1236,7 +1236,7 @@
         }
       },
       "1200": {
-        "value": "#6bc7ff",
+        "value": "{colorTheme.Palette.cyan.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1246,7 +1246,7 @@
         }
       },
       "1300": {
-        "value": "#98dbff",
+        "value": "{colorTheme.Palette.cyan.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1256,7 +1256,7 @@
         }
       },
       "1400": {
-        "value": "#c3ecfc",
+        "value": "{colorTheme.Palette.cyan.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1266,7 +1266,7 @@
         }
       },
       "1500": {
-        "value": "#e6f8fd",
+        "value": "{colorTheme.Palette.cyan.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1276,7 +1276,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.cyan.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1288,7 +1288,7 @@
     },
     "fuchsia": {
       "100": {
-        "value": "#32003d",
+        "value": "{colorTheme.Palette.fuchsia.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1298,7 +1298,7 @@
         }
       },
       "200": {
-        "value": "#3d004a",
+        "value": "{colorTheme.Palette.fuchsia.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1308,7 +1308,7 @@
         }
       },
       "300": {
-        "value": "#4f005f",
+        "value": "{colorTheme.Palette.fuchsia.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1318,7 +1318,7 @@
         }
       },
       "400": {
-        "value": "#660978",
+        "value": "{colorTheme.Palette.fuchsia.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1328,7 +1328,7 @@
         }
       },
       "500": {
-        "value": "#7f1792",
+        "value": "{colorTheme.Palette.fuchsia.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1338,7 +1338,7 @@
         }
       },
       "600": {
-        "value": "#9726aa",
+        "value": "{colorTheme.Palette.fuchsia.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1348,7 +1348,7 @@
         }
       },
       "700": {
-        "value": "#ad33c0",
+        "value": "{colorTheme.Palette.fuchsia.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1358,7 +1358,7 @@
         }
       },
       "800": {
-        "value": "#ba3cce",
+        "value": "{colorTheme.Palette.fuchsia.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1368,7 +1368,7 @@
         }
       },
       "900": {
-        "value": "#d549eb",
+        "value": "{colorTheme.Palette.fuchsia.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1378,7 +1378,7 @@
         }
       },
       "1000": {
-        "value": "#e85bfd",
+        "value": "{colorTheme.Palette.fuchsia.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1388,7 +1388,7 @@
         }
       },
       "1100": {
-        "value": "#f07aff",
+        "value": "{colorTheme.Palette.fuchsia.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1398,7 +1398,7 @@
         }
       },
       "1200": {
-        "value": "#f59fff",
+        "value": "{colorTheme.Palette.fuchsia.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1408,7 +1408,7 @@
         }
       },
       "1300": {
-        "value": "#f8bfff",
+        "value": "{colorTheme.Palette.fuchsia.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1418,7 +1418,7 @@
         }
       },
       "1400": {
-        "value": "#fbdbff",
+        "value": "{colorTheme.Palette.fuchsia.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1428,7 +1428,7 @@
         }
       },
       "1500": {
-        "value": "#fdf1ff",
+        "value": "{colorTheme.Palette.fuchsia.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1438,7 +1438,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.fuchsia.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1450,7 +1450,7 @@
     },
     "indigo": {
       "100": {
-        "value": "#1e005d",
+        "value": "{colorTheme.Palette.indigo.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1460,7 +1460,7 @@
         }
       },
       "200": {
-        "value": "#23006e",
+        "value": "{colorTheme.Palette.indigo.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1470,7 +1470,7 @@
         }
       },
       "300": {
-        "value": "#2f008c",
+        "value": "{colorTheme.Palette.indigo.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1480,7 +1480,7 @@
         }
       },
       "400": {
-        "value": "#3e0cae",
+        "value": "{colorTheme.Palette.indigo.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1490,7 +1490,7 @@
         }
       },
       "500": {
-        "value": "#4f1ed1",
+        "value": "{colorTheme.Palette.indigo.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1500,7 +1500,7 @@
         }
       },
       "600": {
-        "value": "#5f34eb",
+        "value": "{colorTheme.Palette.indigo.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1510,7 +1510,7 @@
         }
       },
       "700": {
-        "value": "#6d4bf8",
+        "value": "{colorTheme.Palette.indigo.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1520,7 +1520,7 @@
         }
       },
       "800": {
-        "value": "#745bfc",
+        "value": "{colorTheme.Palette.indigo.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1530,7 +1530,7 @@
         }
       },
       "900": {
-        "value": "#8077fe",
+        "value": "{colorTheme.Palette.indigo.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1540,7 +1540,7 @@
         }
       },
       "1000": {
-        "value": "#8b8dfe",
+        "value": "{colorTheme.Palette.indigo.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1550,7 +1550,7 @@
         }
       },
       "1100": {
-        "value": "#99a1ff",
+        "value": "{colorTheme.Palette.indigo.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1560,7 +1560,7 @@
         }
       },
       "1200": {
-        "value": "#b0baff",
+        "value": "{colorTheme.Palette.indigo.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1570,7 +1570,7 @@
         }
       },
       "1300": {
-        "value": "#c7d0ff",
+        "value": "{colorTheme.Palette.indigo.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1580,7 +1580,7 @@
         }
       },
       "1400": {
-        "value": "#dfe4ff",
+        "value": "{colorTheme.Palette.indigo.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1590,7 +1590,7 @@
         }
       },
       "1500": {
-        "value": "#f3f4ff",
+        "value": "{colorTheme.Palette.indigo.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1600,7 +1600,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.indigo.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1612,7 +1612,7 @@
     },
     "magenta": {
       "100": {
-        "value": "#3b0016",
+        "value": "{colorTheme.Palette.magenta.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1622,7 +1622,7 @@
         }
       },
       "200": {
-        "value": "#4a001b",
+        "value": "{colorTheme.Palette.magenta.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1632,7 +1632,7 @@
         }
       },
       "300": {
-        "value": "#5d0022",
+        "value": "{colorTheme.Palette.magenta.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1642,7 +1642,7 @@
         }
       },
       "400": {
-        "value": "#7b002d",
+        "value": "{colorTheme.Palette.magenta.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1652,7 +1652,7 @@
         }
       },
       "500": {
-        "value": "#98073c",
+        "value": "{colorTheme.Palette.magenta.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1662,7 +1662,7 @@
         }
       },
       "600": {
-        "value": "#b5134c",
+        "value": "{colorTheme.Palette.magenta.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1672,7 +1672,7 @@
         }
       },
       "700": {
-        "value": "#cf1f5c",
+        "value": "{colorTheme.Palette.magenta.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1682,7 +1682,7 @@
         }
       },
       "800": {
-        "value": "#e02665",
+        "value": "{colorTheme.Palette.magenta.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1692,7 +1692,7 @@
         }
       },
       "900": {
-        "value": "#ff3377",
+        "value": "{colorTheme.Palette.magenta.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1702,7 +1702,7 @@
         }
       },
       "1000": {
-        "value": "#ff6095",
+        "value": "{colorTheme.Palette.magenta.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1712,7 +1712,7 @@
         }
       },
       "1100": {
-        "value": "#ff80ab",
+        "value": "{colorTheme.Palette.magenta.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1722,7 +1722,7 @@
         }
       },
       "1200": {
-        "value": "#ffa3c2",
+        "value": "{colorTheme.Palette.magenta.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1732,7 +1732,7 @@
         }
       },
       "1300": {
-        "value": "#ffc1d6",
+        "value": "{colorTheme.Palette.magenta.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1742,7 +1742,7 @@
         }
       },
       "1400": {
-        "value": "#ffdce8",
+        "value": "{colorTheme.Palette.magenta.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1752,7 +1752,7 @@
         }
       },
       "1500": {
-        "value": "#fff1f6",
+        "value": "{colorTheme.Palette.magenta.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1762,7 +1762,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.magenta.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1774,7 +1774,7 @@
     },
     "purple": {
       "100": {
-        "value": "#29004f",
+        "value": "{colorTheme.Palette.purple.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1784,7 +1784,7 @@
         }
       },
       "200": {
-        "value": "#320060",
+        "value": "{colorTheme.Palette.purple.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1794,7 +1794,7 @@
         }
       },
       "300": {
-        "value": "#40007a",
+        "value": "{colorTheme.Palette.purple.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1804,7 +1804,7 @@
         }
       },
       "400": {
-        "value": "#53009f",
+        "value": "{colorTheme.Palette.purple.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1814,7 +1814,7 @@
         }
       },
       "500": {
-        "value": "#6b06c3",
+        "value": "{colorTheme.Palette.purple.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1824,7 +1824,7 @@
         }
       },
       "600": {
-        "value": "#8222d7",
+        "value": "{colorTheme.Palette.purple.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1834,7 +1834,7 @@
         }
       },
       "700": {
-        "value": "#943ee0",
+        "value": "{colorTheme.Palette.purple.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1844,7 +1844,7 @@
         }
       },
       "800": {
-        "value": "#9d4ee4",
+        "value": "{colorTheme.Palette.purple.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1854,7 +1854,7 @@
         }
       },
       "900": {
-        "value": "#ad69e9",
+        "value": "{colorTheme.Palette.purple.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1864,7 +1864,7 @@
         }
       },
       "1000": {
-        "value": "#ba7fed",
+        "value": "{colorTheme.Palette.purple.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1874,7 +1874,7 @@
         }
       },
       "1100": {
-        "value": "#c595f0",
+        "value": "{colorTheme.Palette.purple.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1884,7 +1884,7 @@
         }
       },
       "1200": {
-        "value": "#d4b0f4",
+        "value": "{colorTheme.Palette.purple.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1894,7 +1894,7 @@
         }
       },
       "1300": {
-        "value": "#e1c9f7",
+        "value": "{colorTheme.Palette.purple.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1904,7 +1904,7 @@
         }
       },
       "1400": {
-        "value": "#eee0fa",
+        "value": "{colorTheme.Palette.purple.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1914,7 +1914,7 @@
         }
       },
       "1500": {
-        "value": "#f8f3fd",
+        "value": "{colorTheme.Palette.purple.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1924,7 +1924,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.purple.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1936,7 +1936,7 @@
     },
     "seafoam": {
       "100": {
-        "value": "#001e1b",
+        "value": "{colorTheme.Palette.seafoam.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1946,7 +1946,7 @@
         }
       },
       "200": {
-        "value": "#002723",
+        "value": "{colorTheme.Palette.seafoam.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1956,7 +1956,7 @@
         }
       },
       "300": {
-        "value": "#00322c",
+        "value": "{colorTheme.Palette.seafoam.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1966,7 +1966,7 @@
         }
       },
       "400": {
-        "value": "#00433b",
+        "value": "{colorTheme.Palette.seafoam.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1976,7 +1976,7 @@
         }
       },
       "500": {
-        "value": "#02564b",
+        "value": "{colorTheme.Palette.seafoam.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1986,7 +1986,7 @@
         }
       },
       "600": {
-        "value": "#046959",
+        "value": "{colorTheme.Palette.seafoam.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -1996,7 +1996,7 @@
         }
       },
       "700": {
-        "value": "#067a67",
+        "value": "{colorTheme.Palette.seafoam.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2006,7 +2006,7 @@
         }
       },
       "800": {
-        "value": "#088670",
+        "value": "{colorTheme.Palette.seafoam.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2016,7 +2016,7 @@
         }
       },
       "900": {
-        "value": "#0a9a80",
+        "value": "{colorTheme.Palette.seafoam.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2026,7 +2026,7 @@
         }
       },
       "1000": {
-        "value": "#0cad8e",
+        "value": "{colorTheme.Palette.seafoam.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2036,7 +2036,7 @@
         }
       },
       "1100": {
-        "value": "#0ebe9c",
+        "value": "{colorTheme.Palette.seafoam.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2046,7 +2046,7 @@
         }
       },
       "1200": {
-        "value": "#1dd6b0",
+        "value": "{colorTheme.Palette.seafoam.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2056,7 +2056,7 @@
         }
       },
       "1300": {
-        "value": "#7ae5cb",
+        "value": "{colorTheme.Palette.seafoam.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2066,7 +2066,7 @@
         }
       },
       "1400": {
-        "value": "#baf1de",
+        "value": "{colorTheme.Palette.seafoam.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2076,7 +2076,7 @@
         }
       },
       "1500": {
-        "value": "#e5f9f3",
+        "value": "{colorTheme.Palette.seafoam.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2086,7 +2086,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.seafoam.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2098,7 +2098,7 @@
     },
     "yellow": {
       "100": {
-        "value": "#251700",
+        "value": "{colorTheme.Palette.yellow.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2108,7 +2108,7 @@
         }
       },
       "200": {
-        "value": "#2f1d00",
+        "value": "{colorTheme.Palette.yellow.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2118,7 +2118,7 @@
         }
       },
       "300": {
-        "value": "#3d2700",
+        "value": "{colorTheme.Palette.yellow.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2128,7 +2128,7 @@
         }
       },
       "400": {
-        "value": "#533400",
+        "value": "{colorTheme.Palette.yellow.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2138,7 +2138,7 @@
         }
       },
       "500": {
-        "value": "#6b4300",
+        "value": "{colorTheme.Palette.yellow.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2148,7 +2148,7 @@
         }
       },
       "600": {
-        "value": "#825200",
+        "value": "{colorTheme.Palette.yellow.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2158,7 +2158,7 @@
         }
       },
       "700": {
-        "value": "#976100",
+        "value": "{colorTheme.Palette.yellow.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2168,7 +2168,7 @@
         }
       },
       "800": {
-        "value": "#a46a00",
+        "value": "{colorTheme.Palette.yellow.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2178,7 +2178,7 @@
         }
       },
       "900": {
-        "value": "#ba7c00",
+        "value": "{colorTheme.Palette.yellow.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2188,7 +2188,7 @@
         }
       },
       "1000": {
-        "value": "#cb8d00",
+        "value": "{colorTheme.Palette.yellow.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2198,7 +2198,7 @@
         }
       },
       "1100": {
-        "value": "#da9f00",
+        "value": "{colorTheme.Palette.yellow.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2208,7 +2208,7 @@
         }
       },
       "1200": {
-        "value": "#ebb700",
+        "value": "{colorTheme.Palette.yellow.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2218,7 +2218,7 @@
         }
       },
       "1300": {
-        "value": "#f9ce00",
+        "value": "{colorTheme.Palette.yellow.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2228,7 +2228,7 @@
         }
       },
       "1400": {
-        "value": "#ffe656",
+        "value": "{colorTheme.Palette.yellow.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2238,7 +2238,7 @@
         }
       },
       "1500": {
-        "value": "#fff6c3",
+        "value": "{colorTheme.Palette.yellow.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2248,7 +2248,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.yellow.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2260,7 +2260,7 @@
     },
     "pink": {
       "100": {
-        "value": "#3a0025",
+        "value": "{colorTheme.Palette.pink.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2270,7 +2270,7 @@
         }
       },
       "200": {
-        "value": "#47002c",
+        "value": "{colorTheme.Palette.pink.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2280,7 +2280,7 @@
         }
       },
       "300": {
-        "value": "#5a0039",
+        "value": "{colorTheme.Palette.pink.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2290,7 +2290,7 @@
         }
       },
       "400": {
-        "value": "#73074b",
+        "value": "{colorTheme.Palette.pink.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2300,7 +2300,7 @@
         }
       },
       "500": {
-        "value": "#8f1261",
+        "value": "{colorTheme.Palette.pink.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2310,7 +2310,7 @@
         }
       },
       "600": {
-        "value": "#ab1d77",
+        "value": "{colorTheme.Palette.pink.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2320,7 +2320,7 @@
         }
       },
       "700": {
-        "value": "#c4278a",
+        "value": "{colorTheme.Palette.pink.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2330,7 +2330,7 @@
         }
       },
       "800": {
-        "value": "#d52d97",
+        "value": "{colorTheme.Palette.pink.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2340,7 +2340,7 @@
         }
       },
       "900": {
-        "value": "#ec43af",
+        "value": "{colorTheme.Palette.pink.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2350,7 +2350,7 @@
         }
       },
       "1000": {
-        "value": "#fb5ac4",
+        "value": "{colorTheme.Palette.pink.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2360,7 +2360,7 @@
         }
       },
       "1100": {
-        "value": "#ff7ad2",
+        "value": "{colorTheme.Palette.pink.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2370,7 +2370,7 @@
         }
       },
       "1200": {
-        "value": "#ff9fdf",
+        "value": "{colorTheme.Palette.pink.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2380,7 +2380,7 @@
         }
       },
       "1300": {
-        "value": "#ffbfea",
+        "value": "{colorTheme.Palette.pink.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2390,7 +2390,7 @@
         }
       },
       "1400": {
-        "value": "#ffdbf3",
+        "value": "{colorTheme.Palette.pink.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2400,7 +2400,7 @@
         }
       },
       "1500": {
-        "value": "#fff1fa",
+        "value": "{colorTheme.Palette.pink.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2410,7 +2410,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.pink.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2422,7 +2422,7 @@
     },
     "turquoise": {
       "100": {
-        "value": "#001e21",
+        "value": "{colorTheme.Palette.turquoise.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2432,7 +2432,7 @@
         }
       },
       "200": {
-        "value": "#002529",
+        "value": "{colorTheme.Palette.turquoise.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2442,7 +2442,7 @@
         }
       },
       "300": {
-        "value": "#003136",
+        "value": "{colorTheme.Palette.turquoise.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2452,7 +2452,7 @@
         }
       },
       "400": {
-        "value": "#004248",
+        "value": "{colorTheme.Palette.turquoise.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2462,7 +2462,7 @@
         }
       },
       "500": {
-        "value": "#03545c",
+        "value": "{colorTheme.Palette.turquoise.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2472,7 +2472,7 @@
         }
       },
       "600": {
-        "value": "#056770",
+        "value": "{colorTheme.Palette.turquoise.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2482,7 +2482,7 @@
         }
       },
       "700": {
-        "value": "#077883",
+        "value": "{colorTheme.Palette.turquoise.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2492,7 +2492,7 @@
         }
       },
       "800": {
-        "value": "#09838e",
+        "value": "{colorTheme.Palette.turquoise.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2502,7 +2502,7 @@
         }
       },
       "900": {
-        "value": "#0b97a4",
+        "value": "{colorTheme.Palette.turquoise.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2512,7 +2512,7 @@
         }
       },
       "1000": {
-        "value": "#0da8b6",
+        "value": "{colorTheme.Palette.turquoise.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2522,7 +2522,7 @@
         }
       },
       "1100": {
-        "value": "#10baca",
+        "value": "{colorTheme.Palette.turquoise.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2532,7 +2532,7 @@
         }
       },
       "1200": {
-        "value": "#40d0dc",
+        "value": "{colorTheme.Palette.turquoise.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2542,7 +2542,7 @@
         }
       },
       "1300": {
-        "value": "#80e1e7",
+        "value": "{colorTheme.Palette.turquoise.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2552,7 +2552,7 @@
         }
       },
       "1400": {
-        "value": "#b7f0f0",
+        "value": "{colorTheme.Palette.turquoise.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2562,7 +2562,7 @@
         }
       },
       "1500": {
-        "value": "#e4f9f9",
+        "value": "{colorTheme.Palette.turquoise.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2572,7 +2572,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.turquoise.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2584,7 +2584,7 @@
     },
     "brown": {
       "100": {
-        "value": "#231808",
+        "value": "{colorTheme.Palette.brown.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2594,7 +2594,7 @@
         }
       },
       "200": {
-        "value": "#2c1f0b",
+        "value": "{colorTheme.Palette.brown.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2604,7 +2604,7 @@
         }
       },
       "300": {
-        "value": "#3a280e",
+        "value": "{colorTheme.Palette.brown.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2614,7 +2614,7 @@
         }
       },
       "400": {
-        "value": "#4e3713",
+        "value": "{colorTheme.Palette.brown.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2624,7 +2624,7 @@
         }
       },
       "500": {
-        "value": "#62471e",
+        "value": "{colorTheme.Palette.brown.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2634,7 +2634,7 @@
         }
       },
       "600": {
-        "value": "#73582f",
+        "value": "{colorTheme.Palette.brown.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2644,7 +2644,7 @@
         }
       },
       "700": {
-        "value": "#84683d",
+        "value": "{colorTheme.Palette.brown.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2654,7 +2654,7 @@
         }
       },
       "800": {
-        "value": "#8f7245",
+        "value": "{colorTheme.Palette.brown.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2664,7 +2664,7 @@
         }
       },
       "900": {
-        "value": "#a38454",
+        "value": "{colorTheme.Palette.brown.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2674,7 +2674,7 @@
         }
       },
       "1000": {
-        "value": "#b59362",
+        "value": "{colorTheme.Palette.brown.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2684,7 +2684,7 @@
         }
       },
       "1100": {
-        "value": "#c7a370",
+        "value": "{colorTheme.Palette.brown.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2694,7 +2694,7 @@
         }
       },
       "1200": {
-        "value": "#deb982",
+        "value": "{colorTheme.Palette.brown.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2704,7 +2704,7 @@
         }
       },
       "1300": {
-        "value": "#e8cfa9",
+        "value": "{colorTheme.Palette.brown.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2714,7 +2714,7 @@
         }
       },
       "1400": {
-        "value": "#f2e3ce",
+        "value": "{colorTheme.Palette.brown.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2724,7 +2724,7 @@
         }
       },
       "1500": {
-        "value": "#faf4ec",
+        "value": "{colorTheme.Palette.brown.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2734,7 +2734,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.brown.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2746,7 +2746,7 @@
     },
     "cinnamon": {
       "100": {
-        "value": "#301104",
+        "value": "{colorTheme.Palette.cinnamon.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2756,7 +2756,7 @@
         }
       },
       "200": {
-        "value": "#3b1505",
+        "value": "{colorTheme.Palette.cinnamon.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2766,7 +2766,7 @@
         }
       },
       "300": {
-        "value": "#4f1c07",
+        "value": "{colorTheme.Palette.cinnamon.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2776,7 +2776,7 @@
         }
       },
       "400": {
-        "value": "#64290f",
+        "value": "{colorTheme.Palette.cinnamon.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2786,7 +2786,7 @@
         }
       },
       "500": {
-        "value": "#7a391c",
+        "value": "{colorTheme.Palette.cinnamon.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2796,7 +2796,7 @@
         }
       },
       "600": {
-        "value": "#8f4a28",
+        "value": "{colorTheme.Palette.cinnamon.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2806,7 +2806,7 @@
         }
       },
       "700": {
-        "value": "#a35834",
+        "value": "{colorTheme.Palette.cinnamon.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2816,7 +2816,7 @@
         }
       },
       "800": {
-        "value": "#b0623b",
+        "value": "{colorTheme.Palette.cinnamon.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2826,7 +2826,7 @@
         }
       },
       "900": {
-        "value": "#c07750",
+        "value": "{colorTheme.Palette.cinnamon.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2836,7 +2836,7 @@
         }
       },
       "1000": {
-        "value": "#ce8863",
+        "value": "{colorTheme.Palette.cinnamon.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2846,7 +2846,7 @@
         }
       },
       "1100": {
-        "value": "#dc9a76",
+        "value": "{colorTheme.Palette.cinnamon.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2856,7 +2856,7 @@
         }
       },
       "1200": {
-        "value": "#e8b395",
+        "value": "{colorTheme.Palette.cinnamon.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2866,7 +2866,7 @@
         }
       },
       "1300": {
-        "value": "#efcbb7",
+        "value": "{colorTheme.Palette.cinnamon.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2876,7 +2876,7 @@
         }
       },
       "1400": {
-        "value": "#f6e1d6",
+        "value": "{colorTheme.Palette.cinnamon.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2886,7 +2886,7 @@
         }
       },
       "1500": {
-        "value": "#fcf4ef",
+        "value": "{colorTheme.Palette.cinnamon.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2896,7 +2896,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.cinnamon.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2908,7 +2908,7 @@
     },
     "silver": {
       "100": {
-        "value": "#1a1a1a",
+        "value": "{colorTheme.Palette.silver.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2918,7 +2918,7 @@
         }
       },
       "200": {
-        "value": "#212121",
+        "value": "{colorTheme.Palette.silver.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2928,7 +2928,7 @@
         }
       },
       "300": {
-        "value": "#2c2c2c",
+        "value": "{colorTheme.Palette.silver.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2938,7 +2938,7 @@
         }
       },
       "400": {
-        "value": "#3b3b3b",
+        "value": "{colorTheme.Palette.silver.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2948,7 +2948,7 @@
         }
       },
       "500": {
-        "value": "#4c4c4c",
+        "value": "{colorTheme.Palette.silver.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2958,7 +2958,7 @@
         }
       },
       "600": {
-        "value": "#5c5c5c",
+        "value": "{colorTheme.Palette.silver.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2968,7 +2968,7 @@
         }
       },
       "700": {
-        "value": "#6c6c6c",
+        "value": "{colorTheme.Palette.silver.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2978,7 +2978,7 @@
         }
       },
       "800": {
-        "value": "#767676",
+        "value": "{colorTheme.Palette.silver.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2988,7 +2988,7 @@
         }
       },
       "900": {
-        "value": "#898989",
+        "value": "{colorTheme.Palette.silver.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2998,7 +2998,7 @@
         }
       },
       "1000": {
-        "value": "#989898",
+        "value": "{colorTheme.Palette.silver.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3008,7 +3008,7 @@
         }
       },
       "1100": {
-        "value": "#a9a9a9",
+        "value": "{colorTheme.Palette.silver.1100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3018,7 +3018,7 @@
         }
       },
       "1200": {
-        "value": "#bebebe",
+        "value": "{colorTheme.Palette.silver.1200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3028,7 +3028,7 @@
         }
       },
       "1300": {
-        "value": "#d3d3d3",
+        "value": "{colorTheme.Palette.silver.1300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3038,7 +3038,7 @@
         }
       },
       "1400": {
-        "value": "#e5e5e5",
+        "value": "{colorTheme.Palette.silver.1400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3048,7 +3048,7 @@
         }
       },
       "1500": {
-        "value": "#f4f4f4",
+        "value": "{colorTheme.Palette.silver.1500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3058,7 +3058,7 @@
         }
       },
       "1600": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.silver.1600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3070,7 +3070,7 @@
     },
     "transparent-black": {
       "25": {
-        "value": "#00000000",
+        "value": "{colorTheme.Palette.transparent-black.25}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3080,7 +3080,7 @@
         }
       },
       "50": {
-        "value": "#00000008",
+        "value": "{colorTheme.Palette.transparent-black.50}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3090,7 +3090,7 @@
         }
       },
       "75": {
-        "value": "#0000000d",
+        "value": "{colorTheme.Palette.transparent-black.75}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3100,7 +3100,7 @@
         }
       },
       "100": {
-        "value": "#00000017",
+        "value": "{colorTheme.Palette.transparent-black.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3110,7 +3110,7 @@
         }
       },
       "200": {
-        "value": "#0000001f",
+        "value": "{colorTheme.Palette.transparent-black.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3120,7 +3120,7 @@
         }
       },
       "300": {
-        "value": "#00000026",
+        "value": "{colorTheme.Palette.transparent-black.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3130,7 +3130,7 @@
         }
       },
       "400": {
-        "value": "#00000038",
+        "value": "{colorTheme.Palette.transparent-black.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3140,7 +3140,7 @@
         }
       },
       "500": {
-        "value": "#00000070",
+        "value": "{colorTheme.Palette.transparent-black.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3150,7 +3150,7 @@
         }
       },
       "600": {
-        "value": "#0000008f",
+        "value": "{colorTheme.Palette.transparent-black.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3160,7 +3160,7 @@
         }
       },
       "700": {
-        "value": "#000000b0",
+        "value": "{colorTheme.Palette.transparent-black.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3170,7 +3170,7 @@
         }
       },
       "800": {
-        "value": "#000000d6",
+        "value": "{colorTheme.Palette.transparent-black.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3180,7 +3180,7 @@
         }
       },
       "900": {
-        "value": "#000000ed",
+        "value": "{colorTheme.Palette.transparent-black.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3190,7 +3190,7 @@
         }
       },
       "1000": {
-        "value": "#000000",
+        "value": "{colorTheme.Palette.transparent-black.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3202,7 +3202,7 @@
     },
     "transparent-white": {
       "25": {
-        "value": "#ffffff00",
+        "value": "{colorTheme.Palette.transparent-white.25}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3212,7 +3212,7 @@
         }
       },
       "50": {
-        "value": "#ffffff0a",
+        "value": "{colorTheme.Palette.transparent-white.50}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3222,7 +3222,7 @@
         }
       },
       "75": {
-        "value": "#ffffff12",
+        "value": "{colorTheme.Palette.transparent-white.75}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3232,7 +3232,7 @@
         }
       },
       "100": {
-        "value": "#ffffff1c",
+        "value": "{colorTheme.Palette.transparent-white.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3242,7 +3242,7 @@
         }
       },
       "200": {
-        "value": "#ffffff24",
+        "value": "{colorTheme.Palette.transparent-white.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3252,7 +3252,7 @@
         }
       },
       "300": {
-        "value": "#ffffff2b",
+        "value": "{colorTheme.Palette.transparent-white.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3262,7 +3262,7 @@
         }
       },
       "400": {
-        "value": "#ffffff36",
+        "value": "{colorTheme.Palette.transparent-white.400}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3272,7 +3272,7 @@
         }
       },
       "500": {
-        "value": "#ffffff63",
+        "value": "{colorTheme.Palette.transparent-white.500}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3282,7 +3282,7 @@
         }
       },
       "600": {
-        "value": "#ffffff82",
+        "value": "{colorTheme.Palette.transparent-white.600}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3292,7 +3292,7 @@
         }
       },
       "700": {
-        "value": "#ffffffa8",
+        "value": "{colorTheme.Palette.transparent-white.700}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3302,7 +3302,7 @@
         }
       },
       "800": {
-        "value": "#ffffffd9",
+        "value": "{colorTheme.Palette.transparent-white.800}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3312,7 +3312,7 @@
         }
       },
       "900": {
-        "value": "#fffffff0",
+        "value": "{colorTheme.Palette.transparent-white.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3322,7 +3322,7 @@
         }
       },
       "1000": {
-        "value": "#ffffff",
+        "value": "{colorTheme.Palette.transparent-white.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3334,7 +3334,7 @@
     },
     "static-blue": {
       "900": {
-        "value": "#3B63FB",
+        "value": "{colorTheme.Palette.static-blue.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3344,7 +3344,7 @@
         }
       },
       "1000": {
-        "value": "#274DEA",
+        "value": "{colorTheme.Palette.static-blue.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3356,7 +3356,7 @@
     },
     "static-fuchsia": {
       "900": {
-        "value": "#B539C8",
+        "value": "{colorTheme.Palette.static-fuchsia.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3366,7 +3366,7 @@
         }
       },
       "1000": {
-        "value": "#9C28AF",
+        "value": "{colorTheme.Palette.static-fuchsia.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3378,7 +3378,7 @@
     },
     "static-indigo": {
       "900": {
-        "value": "#7155FA",
+        "value": "{colorTheme.Palette.static-indigo.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3388,7 +3388,7 @@
         }
       },
       "1000": {
-        "value": "#6338EE",
+        "value": "{colorTheme.Palette.static-indigo.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3400,7 +3400,7 @@
     },
     "static-magenta": {
       "900": {
-        "value": "#D92361",
+        "value": "{colorTheme.Palette.static-magenta.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3410,7 +3410,7 @@
         }
       },
       "1000": {
-        "value": "#BA1650",
+        "value": "{colorTheme.Palette.static-magenta.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3422,7 +3422,7 @@
     },
     "static-red": {
       "900": {
-        "value": "#D73220",
+        "value": "{colorTheme.Palette.static-red.900}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3432,7 +3432,7 @@
         }
       },
       "1000": {
-        "value": "#B72818",
+        "value": "{colorTheme.Palette.static-red.1000}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {

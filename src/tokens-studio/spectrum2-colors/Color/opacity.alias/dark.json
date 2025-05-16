@@ -1,6 +1,6 @@
 {
   "background-opacity-default": {
-    "value": "0",
+    "value": "{colorTheme.background-opacity-default}",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -10,7 +10,7 @@
     }
   },
   "background-opacity-down": {
-    "value": "0.1",
+    "value": "{colorTheme.background-opacity-down}",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -20,7 +20,7 @@
     }
   },
   "background-opacity-hover": {
-    "value": "0.1",
+    "value": "{colorTheme.background-opacity-hover}",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -30,7 +30,7 @@
     }
   },
   "background-opacity-key-focus": {
-    "value": "0.1",
+    "value": "{colorTheme.background-opacity-key-focus}",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -40,7 +40,7 @@
     }
   },
   "opacity-disabled": {
-    "value": "0.3",
+    "value": "{colorTheme.opacity-disabled}",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -50,7 +50,7 @@
     }
   },
   "overlay-opacity": {
-    "value": "0.6",
+    "value": "{colorTheme.overlay-opacity}",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {

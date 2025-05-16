@@ -1,7 +1,7 @@
 {
   "Alias": {
     "overlay": {
-      "value": "{Palette.black}",
+      "value": "{colorTheme.Alias.overlay}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -11,7 +11,7 @@
       }
     },
     "🚫 drop-shadow": {
-      "value": "{Alias.drop-shadow.100}",
+      "value": "{colorTheme.Alias.🚫 drop-shadow}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -22,7 +22,7 @@
     },
     "drop-shadow": {
       "100": {
-        "value": "#0000001F",
+        "value": "{colorTheme.Alias.drop-shadow.100}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -32,7 +32,7 @@
         }
       },
       "200": {
-        "value": "#00000029",
+        "value": "{colorTheme.Alias.drop-shadow.200}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -42,7 +42,7 @@
         }
       },
       "300": {
-        "value": "#00000033",
+        "value": "{colorTheme.Alias.drop-shadow.300}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -52,7 +52,7 @@
         }
       },
       "emphasized-default": {
-        "value": "{Alias.drop-shadow.100}",
+        "value": "{colorTheme.Alias.drop-shadow.emphasized-default}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -62,7 +62,7 @@
         }
       },
       "emphasized-hover": {
-        "value": "{Alias.drop-shadow.200}",
+        "value": "{colorTheme.Alias.drop-shadow.emphasized-hover}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -72,7 +72,7 @@
         }
       },
       "elevated": {
-        "value": "{Alias.drop-shadow.200}",
+        "value": "{colorTheme.Alias.drop-shadow.elevated}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -82,7 +82,7 @@
         }
       },
       "dragged": {
-        "value": "{Alias.drop-shadow.300}",
+        "value": "{colorTheme.Alias.drop-shadow.dragged}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -95,7 +95,7 @@
     "content": {
       "neutral": {
         "default": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.content.neutral.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -105,7 +105,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.content.neutral.hover}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -115,7 +115,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.content.neutral.down}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -125,7 +125,7 @@
           }
         },
         "focus-hover": {
-          "value": "{Alias.content.neutral.down}",
+          "value": "{colorTheme.Alias.content.neutral.focus-hover}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -135,7 +135,7 @@
           }
         },
         "focus": {
-          "value": "{Alias.content.neutral.down}",
+          "value": "{colorTheme.Alias.content.neutral.focus}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -145,7 +145,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.content.neutral.key-focus}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -157,7 +157,7 @@
       },
       "neutral-subdued": {
         "default": {
-          "value": "{Palette.gray.700}",
+          "value": "{colorTheme.Alias.content.neutral-subdued.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -167,7 +167,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.content.neutral-subdued.hover}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -177,7 +177,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.content.neutral-subdued.down}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -187,7 +187,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.content.neutral-subdued.key-focus}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -197,7 +197,7 @@
           }
         },
         "selected": {
-          "value": "{Alias.content.neutral-subdued.down}",
+          "value": "{colorTheme.Alias.content.neutral-subdued.selected}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -210,7 +210,7 @@
       "semantic": {
         "accent": {
           "default": {
-            "value": "{Alias.semantic.accent.900}",
+            "value": "{colorTheme.Alias.content.semantic.accent.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -220,7 +220,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.accent.1000}",
+            "value": "{colorTheme.Alias.content.semantic.accent.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -230,7 +230,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.accent.1000}",
+            "value": "{colorTheme.Alias.content.semantic.accent.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -240,7 +240,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.accent.1000}",
+            "value": "{colorTheme.Alias.content.semantic.accent.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -250,7 +250,7 @@
             }
           },
           "selected": {
-            "value": "{Alias.content.semantic.accent.down}",
+            "value": "{colorTheme.Alias.content.semantic.accent.selected}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -262,7 +262,7 @@
         },
         "negative": {
           "default": {
-            "value": "{Alias.semantic.negative.900}",
+            "value": "{colorTheme.Alias.content.semantic.negative.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -272,7 +272,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.content.semantic.negative.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -282,7 +282,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.content.semantic.negative.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -292,7 +292,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.content.semantic.negative.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -306,7 +306,7 @@
       "visual": {
         "semantic": {
           "accent": {
-            "value": "{Alias.semantic.accent.800}",
+            "value": "{colorTheme.Alias.content.visual.semantic.accent}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -316,7 +316,7 @@
             }
           },
           "informative": {
-            "value": "{Alias.semantic.informative.800}",
+            "value": "{colorTheme.Alias.content.visual.semantic.informative}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -326,7 +326,7 @@
             }
           },
           "neutral": {
-            "value": "{Palette.gray.500}",
+            "value": "{colorTheme.Alias.content.visual.semantic.neutral}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -336,7 +336,7 @@
             }
           },
           "positive": {
-            "value": "{Alias.semantic.positive.800}",
+            "value": "{colorTheme.Alias.content.visual.semantic.positive}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -346,7 +346,7 @@
             }
           },
           "notice": {
-            "value": "{Alias.semantic.notice.800}",
+            "value": "{colorTheme.Alias.content.visual.semantic.notice}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -356,7 +356,7 @@
             }
           },
           "negative": {
-            "value": "{Alias.semantic.negative.800}",
+            "value": "{colorTheme.Alias.content.visual.semantic.negative}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -368,7 +368,7 @@
         },
         "non-semantic": {
           "gray": {
-            "value": "{Palette.gray.500}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.gray}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -378,7 +378,7 @@
             }
           },
           "blue": {
-            "value": "{Palette.blue.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.blue}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -388,7 +388,7 @@
             }
           },
           "green": {
-            "value": "{Palette.green.700}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.green}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -398,7 +398,7 @@
             }
           },
           "orange": {
-            "value": "{Palette.orange.700}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.orange}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -408,7 +408,7 @@
             }
           },
           "red": {
-            "value": "{Palette.red.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.red}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -418,7 +418,7 @@
             }
           },
           "brown": {
-            "value": "{Palette.brown.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.brown}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -428,7 +428,7 @@
             }
           },
           "cinnamon": {
-            "value": "{Palette.cinnamon.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.cinnamon}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -438,7 +438,7 @@
             }
           },
           "celery": {
-            "value": "{Palette.celery.700}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.celery}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -448,7 +448,7 @@
             }
           },
           "chartreuse": {
-            "value": "{Palette.chartreuse.600}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.chartreuse}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -458,7 +458,7 @@
             }
           },
           "cyan": {
-            "value": "{Palette.cyan.600}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.cyan}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -468,7 +468,7 @@
             }
           },
           "fuchsia": {
-            "value": "{Palette.fuchsia.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.fuchsia}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -478,7 +478,7 @@
             }
           },
           "indigo": {
-            "value": "{Palette.indigo.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.indigo}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -488,7 +488,7 @@
             }
           },
           "magenta": {
-            "value": "{Palette.magenta.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.magenta}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -498,7 +498,7 @@
             }
           },
           "pink": {
-            "value": "{Palette.pink.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.pink}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -508,7 +508,7 @@
             }
           },
           "purple": {
-            "value": "{Palette.purple.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.purple}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -518,7 +518,7 @@
             }
           },
           "seafoam": {
-            "value": "{Palette.seafoam.700}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.seafoam}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -528,7 +528,7 @@
             }
           },
           "silver": {
-            "value": "{Palette.silver.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.silver}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -538,7 +538,7 @@
             }
           },
           "turquoise": {
-            "value": "{Palette.turquoise.800}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.turquoise}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -548,7 +548,7 @@
             }
           },
           "yellow": {
-            "value": "{Palette.yellow.600}",
+            "value": "{colorTheme.Alias.content.visual.non-semantic.yellow}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -561,7 +561,7 @@
       },
       "typography": {
         "heading": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.content.typography.heading}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -571,7 +571,7 @@
           }
         },
         "title": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.content.typography.title}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -581,7 +581,7 @@
           }
         },
         "body": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.content.typography.body}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -591,7 +591,7 @@
           }
         },
         "detail": {
-          "value": "{Palette.gray.600}",
+          "value": "{colorTheme.Alias.content.typography.detail}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -601,7 +601,7 @@
           }
         },
         "code": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.content.typography.code}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -613,7 +613,7 @@
       },
       "disabled": {
         "default": {
-          "value": "{Palette.gray.400}",
+          "value": "{colorTheme.Alias.content.disabled.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -623,7 +623,7 @@
           }
         },
         "static-black": {
-          "value": "{Palette.transparent-black.400}",
+          "value": "{colorTheme.Alias.content.disabled.static-black}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -633,7 +633,7 @@
           }
         },
         "static-white": {
-          "value": "{Palette.transparent-white.400}",
+          "value": "{colorTheme.Alias.content.disabled.static-white}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -646,7 +646,7 @@
     },
     "static-text": {
       "static-black": {
-        "value": "{Palette.black}",
+        "value": "{colorTheme.Alias.static-text.static-black}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -656,7 +656,7 @@
         }
       },
       "static-white": {
-        "value": "{Palette.white}",
+        "value": "{colorTheme.Alias.static-text.static-white}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -669,7 +669,7 @@
     "background": {
       "app-frame": {
         "elevated": {
-          "value": "{Palette.gray.25}",
+          "value": "{colorTheme.Alias.background.app-frame.elevated}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -679,7 +679,7 @@
           }
         },
         "layer-2": {
-          "value": "{Palette.gray.25}",
+          "value": "{colorTheme.Alias.background.app-frame.layer-2}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -689,7 +689,7 @@
           }
         },
         "layer-1": {
-          "value": "{Palette.gray.50}",
+          "value": "{colorTheme.Alias.background.app-frame.layer-1}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -699,7 +699,7 @@
           }
         },
         "pasteboard": {
-          "value": "{Palette.gray.100}",
+          "value": "{colorTheme.Alias.background.app-frame.pasteboard}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -709,7 +709,7 @@
           }
         },
         "base": {
-          "value": "{Palette.gray.25}",
+          "value": "{colorTheme.Alias.background.app-frame.base}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -721,7 +721,7 @@
       },
       "neutral": {
         "default": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.background.neutral.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -731,7 +731,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.background.neutral.hover}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -741,7 +741,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.background.neutral.down}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -751,7 +751,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.background.neutral.key-focus}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -761,7 +761,7 @@
           }
         },
         "subtle-default": {
-          "value": "{Palette.gray.100}",
+          "value": "{colorTheme.Alias.background.neutral.subtle-default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -773,7 +773,7 @@
       },
       "neutral-selected": {
         "default": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.background.neutral-selected.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -783,7 +783,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.background.neutral-selected.hover}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -793,7 +793,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.background.neutral-selected.down}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -803,7 +803,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.900}",
+          "value": "{colorTheme.Alias.background.neutral-selected.key-focus}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -815,7 +815,7 @@
       },
       "neutral-subdued": {
         "default": {
-          "value": "{Palette.gray.700}",
+          "value": "{colorTheme.Alias.background.neutral-subdued.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -825,7 +825,7 @@
           }
         },
         "hover": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.background.neutral-subdued.hover}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -835,7 +835,7 @@
           }
         },
         "down": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.background.neutral-subdued.down}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -845,7 +845,7 @@
           }
         },
         "key-focus": {
-          "value": "{Palette.gray.800}",
+          "value": "{colorTheme.Alias.background.neutral-subdued.key-focus}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -858,7 +858,7 @@
       "semantic": {
         "accent": {
           "default": {
-            "value": "{Alias.semantic.accent.900}",
+            "value": "{colorTheme.Alias.background.semantic.accent.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -868,7 +868,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.accent.1000}",
+            "value": "{colorTheme.Alias.background.semantic.accent.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -878,7 +878,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.accent.1000}",
+            "value": "{colorTheme.Alias.background.semantic.accent.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -888,7 +888,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.accent.1000}",
+            "value": "{colorTheme.Alias.background.semantic.accent.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -898,7 +898,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Alias.semantic.accent.200}",
+            "value": "{colorTheme.Alias.background.semantic.accent.subtle-default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -910,7 +910,7 @@
         },
         "informative": {
           "default": {
-            "value": "{Alias.semantic.informative.900}",
+            "value": "{colorTheme.Alias.background.semantic.informative.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -920,7 +920,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.informative.1000}",
+            "value": "{colorTheme.Alias.background.semantic.informative.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -930,7 +930,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.informative.1000}",
+            "value": "{colorTheme.Alias.background.semantic.informative.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -940,7 +940,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.informative.1000}",
+            "value": "{colorTheme.Alias.background.semantic.informative.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -950,7 +950,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Alias.semantic.informative.200}",
+            "value": "{colorTheme.Alias.background.semantic.informative.subtle-default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -962,7 +962,7 @@
         },
         "positive": {
           "default": {
-            "value": "{Alias.semantic.positive.900}",
+            "value": "{colorTheme.Alias.background.semantic.positive.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -972,7 +972,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.positive.1000}",
+            "value": "{colorTheme.Alias.background.semantic.positive.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -982,7 +982,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.positive.1000}",
+            "value": "{colorTheme.Alias.background.semantic.positive.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -992,7 +992,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.positive.1000}",
+            "value": "{colorTheme.Alias.background.semantic.positive.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1002,7 +1002,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Alias.semantic.positive.200}",
+            "value": "{colorTheme.Alias.background.semantic.positive.subtle-default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1014,7 +1014,7 @@
         },
         "notice": {
           "default": {
-            "value": "{Alias.semantic.notice.600}",
+            "value": "{colorTheme.Alias.background.semantic.notice.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1024,7 +1024,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Alias.semantic.notice.200}",
+            "value": "{colorTheme.Alias.background.semantic.notice.subtle-default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1036,7 +1036,7 @@
         },
         "negative": {
           "default": {
-            "value": "{Alias.semantic.negative.900}",
+            "value": "{colorTheme.Alias.background.semantic.negative.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1046,7 +1046,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.background.semantic.negative.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1056,7 +1056,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.background.semantic.negative.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1066,7 +1066,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.background.semantic.negative.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1076,7 +1076,7 @@
             }
           },
           "subtle-default": {
-            "value": "{Alias.semantic.negative.200}",
+            "value": "{colorTheme.Alias.background.semantic.negative.subtle-default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1088,7 +1088,7 @@
         },
         "🚫 negative-subdued": {
           "default": {
-            "value": "{Alias.background.semantic.negative.subtle-default}",
+            "value": "{colorTheme.Alias.background.semantic.🚫 negative-subdued.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1098,7 +1098,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.negative.300}",
+            "value": "{colorTheme.Alias.background.semantic.🚫 negative-subdued.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1108,7 +1108,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.negative.300}",
+            "value": "{colorTheme.Alias.background.semantic.🚫 negative-subdued.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1118,7 +1118,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.negative.300}",
+            "value": "{colorTheme.Alias.background.semantic.🚫 negative-subdued.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1131,7 +1131,7 @@
       },
       "disabled": {
         "default": {
-          "value": "{Palette.gray.100}",
+          "value": "{colorTheme.Alias.background.disabled.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1141,7 +1141,7 @@
           }
         },
         "static-black": {
-          "value": "{Palette.transparent-black.100}",
+          "value": "{colorTheme.Alias.background.disabled.static-black}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1151,7 +1151,7 @@
           }
         },
         "static-white": {
-          "value": "{Palette.transparent-white.100}",
+          "value": "{colorTheme.Alias.background.disabled.static-white}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1163,7 +1163,7 @@
       },
       "non-semantic": {
         "gray": {
-          "value": "{Palette.gray.700}",
+          "value": "{colorTheme.Alias.background.non-semantic.gray}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1173,7 +1173,7 @@
           }
         },
         "blue": {
-          "value": "{Palette.blue.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.blue}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1183,7 +1183,7 @@
           }
         },
         "green": {
-          "value": "{Palette.green.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.green}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1193,7 +1193,7 @@
           }
         },
         "orange": {
-          "value": "{Palette.orange.600}",
+          "value": "{colorTheme.Alias.background.non-semantic.orange}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1203,7 +1203,7 @@
           }
         },
         "red": {
-          "value": "{Palette.red.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.red}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1213,7 +1213,7 @@
           }
         },
         "brown": {
-          "value": "{Palette.brown.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.brown}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1223,7 +1223,7 @@
           }
         },
         "cinnamon": {
-          "value": "{Palette.cinnamon.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.cinnamon}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1233,7 +1233,7 @@
           }
         },
         "celery": {
-          "value": "{Palette.celery.600}",
+          "value": "{colorTheme.Alias.background.non-semantic.celery}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1243,7 +1243,7 @@
           }
         },
         "chartreuse": {
-          "value": "{Palette.chartreuse.500}",
+          "value": "{colorTheme.Alias.background.non-semantic.chartreuse}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1253,7 +1253,7 @@
           }
         },
         "cyan": {
-          "value": "{Palette.cyan.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.cyan}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1263,7 +1263,7 @@
           }
         },
         "fuchsia": {
-          "value": "{Palette.fuchsia.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.fuchsia}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1273,7 +1273,7 @@
           }
         },
         "indigo": {
-          "value": "{Palette.indigo.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.indigo}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1283,7 +1283,7 @@
           }
         },
         "magenta": {
-          "value": "{Palette.magenta.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.magenta}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1293,7 +1293,7 @@
           }
         },
         "pink": {
-          "value": "{Palette.pink.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.pink}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1303,7 +1303,7 @@
           }
         },
         "purple": {
-          "value": "{Palette.purple.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.purple}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1313,7 +1313,7 @@
           }
         },
         "seafoam": {
-          "value": "{Palette.seafoam.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.seafoam}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1323,7 +1323,7 @@
           }
         },
         "silver": {
-          "value": "{Palette.silver.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.silver}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1333,7 +1333,7 @@
           }
         },
         "turquoise": {
-          "value": "{Palette.turquoise.900}",
+          "value": "{colorTheme.Alias.background.non-semantic.turquoise}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1343,7 +1343,7 @@
           }
         },
         "yellow": {
-          "value": "{Palette.yellow.400}",
+          "value": "{colorTheme.Alias.background.non-semantic.yellow}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1353,7 +1353,7 @@
           }
         },
         "subtle-gray": {
-          "value": "{Palette.gray.100}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-gray}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1363,7 +1363,7 @@
           }
         },
         "subtle-blue": {
-          "value": "{Palette.blue.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-blue}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1373,7 +1373,7 @@
           }
         },
         "subtle-green": {
-          "value": "{Palette.green.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-green}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1383,7 +1383,7 @@
           }
         },
         "subtle-orange": {
-          "value": "{Palette.orange.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-orange}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1393,7 +1393,7 @@
           }
         },
         "subtle-red": {
-          "value": "{Palette.red.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-red}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1403,7 +1403,7 @@
           }
         },
         "subtle-brown": {
-          "value": "{Palette.brown.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-brown}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1413,7 +1413,7 @@
           }
         },
         "subtle-cinnamon": {
-          "value": "{Palette.cinnamon.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-cinnamon}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1423,7 +1423,7 @@
           }
         },
         "subtle-celery": {
-          "value": "{Palette.celery.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-celery}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1433,7 +1433,7 @@
           }
         },
         "subtle-chartreuse": {
-          "value": "{Palette.chartreuse.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-chartreuse}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1443,7 +1443,7 @@
           }
         },
         "subtle-cyan": {
-          "value": "{Palette.cyan.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-cyan}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1453,7 +1453,7 @@
           }
         },
         "subtle-fuchsia": {
-          "value": "{Palette.fuchsia.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-fuchsia}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1463,7 +1463,7 @@
           }
         },
         "subtle-indigo": {
-          "value": "{Palette.indigo.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-indigo}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1473,7 +1473,7 @@
           }
         },
         "subtle-magenta": {
-          "value": "{Palette.magenta.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-magenta}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1483,7 +1483,7 @@
           }
         },
         "subtle-pink": {
-          "value": "{Palette.pink.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-pink}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1493,7 +1493,7 @@
           }
         },
         "subtle-purple": {
-          "value": "{Palette.purple.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-purple}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1503,7 +1503,7 @@
           }
         },
         "subtle-seafoam": {
-          "value": "{Palette.seafoam.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-seafoam}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1513,7 +1513,7 @@
           }
         },
         "subtle-silver": {
-          "value": "{Palette.silver.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-silver}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1523,7 +1523,7 @@
           }
         },
         "subtle-turquoise": {
-          "value": "{Palette.turquoise.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-turquoise}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1533,7 +1533,7 @@
           }
         },
         "subtle-yellow": {
-          "value": "{Palette.yellow.200}",
+          "value": "{colorTheme.Alias.background.non-semantic.subtle-yellow}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1548,7 +1548,7 @@
       "semantic": {
         "negative": {
           "default": {
-            "value": "{Alias.semantic.negative.900}",
+            "value": "{colorTheme.Alias.border.semantic.negative.default}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1558,7 +1558,7 @@
             }
           },
           "hover": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.border.semantic.negative.hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1568,7 +1568,7 @@
             }
           },
           "down": {
-            "value": "{Alias.semantic.negative.1100}",
+            "value": "{colorTheme.Alias.border.semantic.negative.down}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1578,7 +1578,7 @@
             }
           },
           "focus-hover": {
-            "value": "{Alias.border.semantic.negative.down}",
+            "value": "{colorTheme.Alias.border.semantic.negative.focus-hover}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1588,7 +1588,7 @@
             }
           },
           "focus": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.border.semantic.negative.focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1598,7 +1598,7 @@
             }
           },
           "key-focus": {
-            "value": "{Alias.semantic.negative.1000}",
+            "value": "{colorTheme.Alias.border.semantic.negative.key-focus}",
             "type": "color",
             "$extensions": {
               "spectrum-tokens": {
@@ -1611,7 +1611,7 @@
       },
       "disabled": {
         "default": {
-          "value": "{Palette.gray.300}",
+          "value": "{colorTheme.Alias.border.disabled.default}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1621,7 +1621,7 @@
           }
         },
         "static-black": {
-          "value": "{Palette.transparent-black.300}",
+          "value": "{colorTheme.Alias.border.disabled.static-black}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1631,7 +1631,7 @@
           }
         },
         "static-white": {
-          "value": "{Palette.transparent-white.300}",
+          "value": "{colorTheme.Alias.border.disabled.static-white}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1645,7 +1645,7 @@
     "semantic": {
       "accent": {
         "100": {
-          "value": "{Palette.blue.100}",
+          "value": "{colorTheme.Alias.semantic.accent.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1655,7 +1655,7 @@
           }
         },
         "200": {
-          "value": "{Palette.blue.200}",
+          "value": "{colorTheme.Alias.semantic.accent.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1665,7 +1665,7 @@
           }
         },
         "300": {
-          "value": "{Palette.blue.300}",
+          "value": "{colorTheme.Alias.semantic.accent.300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1675,7 +1675,7 @@
           }
         },
         "400": {
-          "value": "{Palette.blue.400}",
+          "value": "{colorTheme.Alias.semantic.accent.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1685,7 +1685,7 @@
           }
         },
         "500": {
-          "value": "{Palette.blue.500}",
+          "value": "{colorTheme.Alias.semantic.accent.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1695,7 +1695,7 @@
           }
         },
         "600": {
-          "value": "{Palette.blue.600}",
+          "value": "{colorTheme.Alias.semantic.accent.600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1705,7 +1705,7 @@
           }
         },
         "700": {
-          "value": "{Palette.blue.700}",
+          "value": "{colorTheme.Alias.semantic.accent.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1715,7 +1715,7 @@
           }
         },
         "800": {
-          "value": "{Palette.blue.800}",
+          "value": "{colorTheme.Alias.semantic.accent.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1725,7 +1725,7 @@
           }
         },
         "900": {
-          "value": "{Palette.blue.900}",
+          "value": "{colorTheme.Alias.semantic.accent.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1735,7 +1735,7 @@
           }
         },
         "1000": {
-          "value": "{Palette.blue.1000}",
+          "value": "{colorTheme.Alias.semantic.accent.1000}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1745,7 +1745,7 @@
           }
         },
         "1100": {
-          "value": "{Palette.blue.1100}",
+          "value": "{colorTheme.Alias.semantic.accent.1100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1755,7 +1755,7 @@
           }
         },
         "1200": {
-          "value": "{Palette.blue.1200}",
+          "value": "{colorTheme.Alias.semantic.accent.1200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1765,7 +1765,7 @@
           }
         },
         "1300": {
-          "value": "{Palette.blue.1300}",
+          "value": "{colorTheme.Alias.semantic.accent.1300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1775,7 +1775,7 @@
           }
         },
         "1400": {
-          "value": "{Palette.blue.1400}",
+          "value": "{colorTheme.Alias.semantic.accent.1400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1785,7 +1785,7 @@
           }
         },
         "1500": {
-          "value": "{Palette.blue.1500}",
+          "value": "{colorTheme.Alias.semantic.accent.1500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1795,7 +1795,7 @@
           }
         },
         "1600": {
-          "value": "{Palette.blue.1600}",
+          "value": "{colorTheme.Alias.semantic.accent.1600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1807,7 +1807,7 @@
       },
       "informative": {
         "100": {
-          "value": "{Palette.blue.100}",
+          "value": "{colorTheme.Alias.semantic.informative.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1817,7 +1817,7 @@
           }
         },
         "200": {
-          "value": "{Palette.blue.200}",
+          "value": "{colorTheme.Alias.semantic.informative.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1827,7 +1827,7 @@
           }
         },
         "300": {
-          "value": "{Palette.blue.300}",
+          "value": "{colorTheme.Alias.semantic.informative.300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1837,7 +1837,7 @@
           }
         },
         "400": {
-          "value": "{Palette.blue.400}",
+          "value": "{colorTheme.Alias.semantic.informative.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1847,7 +1847,7 @@
           }
         },
         "500": {
-          "value": "{Palette.blue.500}",
+          "value": "{colorTheme.Alias.semantic.informative.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1857,7 +1857,7 @@
           }
         },
         "600": {
-          "value": "{Palette.blue.600}",
+          "value": "{colorTheme.Alias.semantic.informative.600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1867,7 +1867,7 @@
           }
         },
         "700": {
-          "value": "{Palette.blue.700}",
+          "value": "{colorTheme.Alias.semantic.informative.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1877,7 +1877,7 @@
           }
         },
         "800": {
-          "value": "{Palette.blue.800}",
+          "value": "{colorTheme.Alias.semantic.informative.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1887,7 +1887,7 @@
           }
         },
         "900": {
-          "value": "{Palette.blue.900}",
+          "value": "{colorTheme.Alias.semantic.informative.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1897,7 +1897,7 @@
           }
         },
         "1000": {
-          "value": "{Palette.blue.1000}",
+          "value": "{colorTheme.Alias.semantic.informative.1000}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1907,7 +1907,7 @@
           }
         },
         "1100": {
-          "value": "{Palette.blue.1100}",
+          "value": "{colorTheme.Alias.semantic.informative.1100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1917,7 +1917,7 @@
           }
         },
         "1200": {
-          "value": "{Palette.blue.1200}",
+          "value": "{colorTheme.Alias.semantic.informative.1200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1927,7 +1927,7 @@
           }
         },
         "1300": {
-          "value": "{Palette.blue.1300}",
+          "value": "{colorTheme.Alias.semantic.informative.1300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1937,7 +1937,7 @@
           }
         },
         "1400": {
-          "value": "{Palette.blue.1400}",
+          "value": "{colorTheme.Alias.semantic.informative.1400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1947,7 +1947,7 @@
           }
         },
         "1500": {
-          "value": "{Palette.blue.1500}",
+          "value": "{colorTheme.Alias.semantic.informative.1500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1957,7 +1957,7 @@
           }
         },
         "1600": {
-          "value": "{Palette.blue.1600}",
+          "value": "{colorTheme.Alias.semantic.informative.1600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1969,7 +1969,7 @@
       },
       "positive": {
         "100": {
-          "value": "{Palette.green.100}",
+          "value": "{colorTheme.Alias.semantic.positive.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1979,7 +1979,7 @@
           }
         },
         "200": {
-          "value": "{Palette.green.200}",
+          "value": "{colorTheme.Alias.semantic.positive.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1989,7 +1989,7 @@
           }
         },
         "300": {
-          "value": "{Palette.green.300}",
+          "value": "{colorTheme.Alias.semantic.positive.300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1999,7 +1999,7 @@
           }
         },
         "400": {
-          "value": "{Palette.green.400}",
+          "value": "{colorTheme.Alias.semantic.positive.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2009,7 +2009,7 @@
           }
         },
         "500": {
-          "value": "{Palette.green.500}",
+          "value": "{colorTheme.Alias.semantic.positive.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2019,7 +2019,7 @@
           }
         },
         "600": {
-          "value": "{Palette.green.600}",
+          "value": "{colorTheme.Alias.semantic.positive.600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2029,7 +2029,7 @@
           }
         },
         "700": {
-          "value": "{Palette.green.700}",
+          "value": "{colorTheme.Alias.semantic.positive.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2039,7 +2039,7 @@
           }
         },
         "800": {
-          "value": "{Palette.green.800}",
+          "value": "{colorTheme.Alias.semantic.positive.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2049,7 +2049,7 @@
           }
         },
         "900": {
-          "value": "{Palette.green.900}",
+          "value": "{colorTheme.Alias.semantic.positive.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2059,7 +2059,7 @@
           }
         },
         "1000": {
-          "value": "{Palette.green.1000}",
+          "value": "{colorTheme.Alias.semantic.positive.1000}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2069,7 +2069,7 @@
           }
         },
         "1100": {
-          "value": "{Palette.green.1100}",
+          "value": "{colorTheme.Alias.semantic.positive.1100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2079,7 +2079,7 @@
           }
         },
         "1200": {
-          "value": "{Palette.green.1200}",
+          "value": "{colorTheme.Alias.semantic.positive.1200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2089,7 +2089,7 @@
           }
         },
         "1300": {
-          "value": "{Palette.green.1300}",
+          "value": "{colorTheme.Alias.semantic.positive.1300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2099,7 +2099,7 @@
           }
         },
         "1400": {
-          "value": "{Palette.green.1400}",
+          "value": "{colorTheme.Alias.semantic.positive.1400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2109,7 +2109,7 @@
           }
         },
         "1500": {
-          "value": "{Palette.green.1500}",
+          "value": "{colorTheme.Alias.semantic.positive.1500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2119,7 +2119,7 @@
           }
         },
         "1600": {
-          "value": "{Palette.green.1600}",
+          "value": "{colorTheme.Alias.semantic.positive.1600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2131,7 +2131,7 @@
       },
       "notice": {
         "100": {
-          "value": "{Palette.orange.100}",
+          "value": "{colorTheme.Alias.semantic.notice.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2141,7 +2141,7 @@
           }
         },
         "200": {
-          "value": "{Palette.orange.200}",
+          "value": "{colorTheme.Alias.semantic.notice.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2151,7 +2151,7 @@
           }
         },
         "300": {
-          "value": "{Palette.orange.300}",
+          "value": "{colorTheme.Alias.semantic.notice.300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2161,7 +2161,7 @@
           }
         },
         "400": {
-          "value": "{Palette.orange.400}",
+          "value": "{colorTheme.Alias.semantic.notice.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2171,7 +2171,7 @@
           }
         },
         "500": {
-          "value": "{Palette.orange.500}",
+          "value": "{colorTheme.Alias.semantic.notice.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2181,7 +2181,7 @@
           }
         },
         "600": {
-          "value": "{Palette.orange.600}",
+          "value": "{colorTheme.Alias.semantic.notice.600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2191,7 +2191,7 @@
           }
         },
         "700": {
-          "value": "{Palette.orange.700}",
+          "value": "{colorTheme.Alias.semantic.notice.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2201,7 +2201,7 @@
           }
         },
         "800": {
-          "value": "{Palette.orange.800}",
+          "value": "{colorTheme.Alias.semantic.notice.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2211,7 +2211,7 @@
           }
         },
         "900": {
-          "value": "{Palette.orange.900}",
+          "value": "{colorTheme.Alias.semantic.notice.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2221,7 +2221,7 @@
           }
         },
         "1000": {
-          "value": "{Palette.orange.1000}",
+          "value": "{colorTheme.Alias.semantic.notice.1000}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2231,7 +2231,7 @@
           }
         },
         "1100": {
-          "value": "{Palette.orange.1100}",
+          "value": "{colorTheme.Alias.semantic.notice.1100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2241,7 +2241,7 @@
           }
         },
         "1200": {
-          "value": "{Palette.orange.1200}",
+          "value": "{colorTheme.Alias.semantic.notice.1200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2251,7 +2251,7 @@
           }
         },
         "1300": {
-          "value": "{Palette.orange.1300}",
+          "value": "{colorTheme.Alias.semantic.notice.1300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2261,7 +2261,7 @@
           }
         },
         "1400": {
-          "value": "{Palette.orange.1400}",
+          "value": "{colorTheme.Alias.semantic.notice.1400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2271,7 +2271,7 @@
           }
         },
         "1500": {
-          "value": "{Palette.orange.1500}",
+          "value": "{colorTheme.Alias.semantic.notice.1500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2281,7 +2281,7 @@
           }
         },
         "1600": {
-          "value": "{Palette.orange.1600}",
+          "value": "{colorTheme.Alias.semantic.notice.1600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2293,7 +2293,7 @@
       },
       "negative": {
         "100": {
-          "value": "{Palette.red.100}",
+          "value": "{colorTheme.Alias.semantic.negative.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2303,7 +2303,7 @@
           }
         },
         "200": {
-          "value": "{Palette.red.200}",
+          "value": "{colorTheme.Alias.semantic.negative.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2313,7 +2313,7 @@
           }
         },
         "300": {
-          "value": "{Palette.red.300}",
+          "value": "{colorTheme.Alias.semantic.negative.300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2323,7 +2323,7 @@
           }
         },
         "400": {
-          "value": "{Palette.red.400}",
+          "value": "{colorTheme.Alias.semantic.negative.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2333,7 +2333,7 @@
           }
         },
         "500": {
-          "value": "{Palette.red.500}",
+          "value": "{colorTheme.Alias.semantic.negative.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2343,7 +2343,7 @@
           }
         },
         "600": {
-          "value": "{Palette.red.600}",
+          "value": "{colorTheme.Alias.semantic.negative.600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2353,7 +2353,7 @@
           }
         },
         "700": {
-          "value": "{Palette.red.700}",
+          "value": "{colorTheme.Alias.semantic.negative.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2363,7 +2363,7 @@
           }
         },
         "800": {
-          "value": "{Palette.red.800}",
+          "value": "{colorTheme.Alias.semantic.negative.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2373,7 +2373,7 @@
           }
         },
         "900": {
-          "value": "{Palette.red.900}",
+          "value": "{colorTheme.Alias.semantic.negative.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2383,7 +2383,7 @@
           }
         },
         "1000": {
-          "value": "{Palette.red.1000}",
+          "value": "{colorTheme.Alias.semantic.negative.1000}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2393,7 +2393,7 @@
           }
         },
         "1100": {
-          "value": "{Palette.red.1100}",
+          "value": "{colorTheme.Alias.semantic.negative.1100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2403,7 +2403,7 @@
           }
         },
         "1200": {
-          "value": "{Palette.red.1200}",
+          "value": "{colorTheme.Alias.semantic.negative.1200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2413,7 +2413,7 @@
           }
         },
         "1300": {
-          "value": "{Palette.red.1300}",
+          "value": "{colorTheme.Alias.semantic.negative.1300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2423,7 +2423,7 @@
           }
         },
         "1400": {
-          "value": "{Palette.red.1400}",
+          "value": "{colorTheme.Alias.semantic.negative.1400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2433,7 +2433,7 @@
           }
         },
         "1500": {
-          "value": "{Palette.red.1500}",
+          "value": "{colorTheme.Alias.semantic.negative.1500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2443,7 +2443,7 @@
           }
         },
         "1600": {
-          "value": "{Palette.red.1600}",
+          "value": "{colorTheme.Alias.semantic.negative.1600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -2456,7 +2456,7 @@
     },
     "focus-indicator": {
       "default": {
-        "value": "{Palette.blue.800}",
+        "value": "{colorTheme.Alias.focus-indicator.default}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2466,7 +2466,7 @@
         }
       },
       "static-black": {
-        "value": "{Palette.black}",
+        "value": "{colorTheme.Alias.focus-indicator.static-black}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2476,7 +2476,7 @@
         }
       },
       "static-white": {
-        "value": "{Palette.white}",
+        "value": "{colorTheme.Alias.focus-indicator.static-white}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2488,7 +2488,7 @@
     },
     "track": {
       "default": {
-        "value": "{Palette.gray.300}",
+        "value": "{colorTheme.Alias.track.default}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2498,7 +2498,7 @@
         }
       },
       "static-black": {
-        "value": "{Palette.transparent-black.300}",
+        "value": "{colorTheme.Alias.track.static-black}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2508,7 +2508,7 @@
         }
       },
       "static-white": {
-        "value": "{Palette.transparent-white.300}",
+        "value": "{colorTheme.Alias.track.static-white}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2520,7 +2520,7 @@
     },
     "track-indicator": {
       "static-black": {
-        "value": "{Palette.transparent-black.900}",
+        "value": "{colorTheme.Alias.track-indicator.static-black}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -2530,7 +2530,7 @@
         }
       },
       "static-white": {
-        "value": "{Palette.transparent-white.900}",
+        "value": "{colorTheme.Alias.track-indicator.static-white}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {

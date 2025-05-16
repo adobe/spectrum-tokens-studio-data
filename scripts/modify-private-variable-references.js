@@ -10,10 +10,10 @@ const path = require('path');
  * This will update the structure of the private collection, and the references to these tokens
  * within the public collection to correspond with the new structure.
  */
-const colorTokens = true;
-const publicCollectionName = 'Color';
-const parentObjectName = 'colorTheme';
-const privateCollectionName = 'Color theme';
+const colorTokens = false;
+const publicCollectionNames = ['Iconography', 'Layout', 'Typography'];
+const parentObjectName = 'platformScale';
+const privateCollectionName = 'Platform scale';
 
 function updateValues(obj, pathArr) {
   if (typeof obj !== 'object' || obj === null) return;
@@ -56,8 +56,9 @@ function getAllJsonFiles(dir) {
 const subFolder = (colorTokens) ? 'spectrum2-colors' : 'spectrum2-non-colors';
 
 // Usage: node update-color-theme-values.js
-const baseDir = path.join('src', 'tokens-studio', subFolder, publicCollectionName);
-const files = getAllJsonFiles(baseDir);
+const baseDirs = publicCollectionNames.map(name => path.join('src', 'tokens-studio', subFolder, name));
+const filesNested = baseDirs.map(baseDir => getAllJsonFiles(baseDir));
+const files = filesNested.flat();
 files.forEach(processFile);
 
 
@@ -73,9 +74,9 @@ function processDir(currentDir) {
     } else if (file.endsWith('.json')) {
       console.log('Processing:', filePath);
       const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      const wrapped = { parentObjectName: content };
+      const wrapped = { [parentObjectName]: content };
       fs.writeFileSync(filePath, JSON.stringify(wrapped, null, 2));
-      console.log(`Nested content under "colorTheme" in: ${filePath}`);
+      console.log(`Nested content under "${parentObjectName}" in: ${filePath}`);
     }
   });
 }

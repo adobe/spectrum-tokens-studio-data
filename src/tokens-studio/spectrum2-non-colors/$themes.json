@@ -7,12 +7,7 @@
       "Platform scale/layout.component/desktop": "enabled",
       "Platform scale/layout/desktop": "enabled",
       "Platform scale/typography.component/desktop": "enabled",
-      "Platform scale/typography/desktop": "enabled",
-      "Iconography/modeless": "disabled",
-      "Layout/component/modeless": "disabled",
-      "Layout/global/modeless": "disabled",
-      "Typography/component/modeless": "disabled",
-      "Typography/global/modeless": "disabled"
+      "Platform scale/typography/desktop": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:4942:2630",
@@ -1346,12 +1341,7 @@
       "Platform scale/layout.component/mobile": "enabled",
       "Platform scale/layout/mobile": "enabled",
       "Platform scale/typography.component/mobile": "enabled",
-      "Platform scale/typography/mobile": "enabled",
-      "Iconography/modeless": "disabled",
-      "Layout/component/modeless": "disabled",
-      "Layout/global/modeless": "disabled",
-      "Typography/component/modeless": "disabled",
-      "Typography/global/modeless": "disabled"
+      "Platform scale/typography/mobile": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:4942:2630",
@@ -2681,11 +2671,7 @@
     "id": "ba475698596b2ca020b37426e165744c4279a9bf",
     "name": "Modeless",
     "selectedTokenSets": {
-      "Iconography/modeless": "enabled",
-      "Layout/component/modeless": "disabled",
-      "Layout/global/modeless": "disabled",
-      "Typography/component/modeless": "disabled",
-      "Typography/global/modeless": "disabled"
+      "Iconography/modeless": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:4942:2631",
@@ -2765,9 +2751,6 @@
     "name": "Modeless",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Iconography/modeless": "disabled",
-      "Layout/component/modeless": "disabled",
-      "Layout/global/modeless": "disabled",
       "Typography/component/modeless": "enabled",
       "Typography/global/modeless": "enabled"
     },
@@ -3026,11 +3009,8 @@
     "name": "Modeless",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Iconography/modeless": "disabled",
       "Layout/component/modeless": "enabled",
-      "Layout/global/modeless": "enabled",
-      "Typography/component/modeless": "disabled",
-      "Typography/global/modeless": "disabled"
+      "Layout/global/modeless": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4942:2633",
     "$figmaModeId": "4942:9",

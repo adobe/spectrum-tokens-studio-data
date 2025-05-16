@@ -7207,6 +7207,76 @@
       }
     }
   },
+  "tag-field-default-width-small": {
+    "value": "264px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-default-width-small"
+      }
+    }
+  },
+  "tag-field-default-width-medium": {
+    "value": "288px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-default-width-medium"
+      }
+    }
+  },
+  "tag-field-default-width-large": {
+    "value": "312px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-default-width-large"
+      }
+    }
+  },
+  "tag-field-minimum-width": {
+    "value": "200px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-minimum-width"
+      }
+    }
+  },
+  "tag-field-minimum-height-small": {
+    "value": "54px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-minimum-height-small"
+      }
+    }
+  },
+  "tag-field-minimum-height-medium": {
+    "value": "68px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-minimum-height-medium"
+      }
+    }
+  },
+  "tag-field-minimum-height-large": {
+    "value": "82px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-minimum-height-large"
+      }
+    }
+  },
   "takeover-dialog-height": {
     "value": "100%",
     "type": "sizing",
@@ -7468,6 +7538,36 @@
       "spectrum-tokens": {
         "uuid": "d93e04b9-1901-4ec4-947a-62c84205e61e",
         "name": "tag-top-to-cross-icon-small"
+      }
+    }
+  },
+  "tag-field-edge-to-content-small": {
+    "value": "12px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-edge-to-content-small"
+      }
+    }
+  },
+  "tag-field-edge-to-content-medium": {
+    "value": "14px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-edge-to-content-medium"
+      }
+    }
+  },
+  "tag-field-edge-to-content-large": {
+    "value": "16px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "tag-field-edge-to-content-large"
       }
     }
   },

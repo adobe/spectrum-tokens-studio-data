@@ -1,0 +1,662 @@
+{
+  "add-icon-size-50": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-50"
+      }
+    }
+  },
+  "add-icon-size-75": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-75"
+      }
+    }
+  },
+  "add-icon-size-100": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-100"
+      }
+    }
+  },
+  "add-icon-size-200": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-200"
+      }
+    }
+  },
+  "add-icon-size-300": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "add-icon-size-300"
+      }
+    }
+  },
+  "arrow-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b39b3ce3-6a48-4025-96ef-659b0c9ae9e8",
+        "name": "arrow-icon-size-75"
+      }
+    }
+  },
+  "arrow-icon-size-100": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "c22e7427-617d-4f99-bee7-e3fffba07fc2",
+        "name": "arrow-icon-size-100"
+      }
+    }
+  },
+  "arrow-icon-size-200": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "645d5384-e3a8-4d97-acf6-7cbce00e6537",
+        "name": "arrow-icon-size-200"
+      }
+    }
+  },
+  "arrow-icon-size-300": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "d0df9084-c6bf-42e5-b830-82906036e397",
+        "name": "arrow-icon-size-300"
+      }
+    }
+  },
+  "arrow-icon-size-400": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4ced8527-31ad-4e48-9491-806ffc57442a",
+        "name": "arrow-icon-size-400"
+      }
+    }
+  },
+  "arrow-icon-size-500": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "31f09728-964b-4598-99a0-d17bf7256e40",
+        "name": "arrow-icon-size-500"
+      }
+    }
+  },
+  "arrow-icon-size-600": {
+    "value": "20px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "5ffece39-b8fc-4a40-a051-0d6c8e253f8f",
+        "name": "arrow-icon-size-600"
+      }
+    }
+  },
+  "asterisk-icon-size-75": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "49ea57ee-7b12-4a8b-a9bb-a11cf2c9d72c",
+        "name": "asterisk-icon-size-75"
+      }
+    }
+  },
+  "asterisk-icon-size-100": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "d04b37cc-2c35-49af-9e92-9993264e405a",
+        "name": "asterisk-icon-size-100"
+      }
+    }
+  },
+  "asterisk-icon-size-200": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "49892fb4-a9df-4882-a656-7f9ffb9558bc",
+        "name": "asterisk-icon-size-200"
+      }
+    }
+  },
+  "asterisk-icon-size-300": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "93506e7b-f388-4cf8-bd73-e7d96da935d5",
+        "name": "asterisk-icon-size-300"
+      }
+    }
+  },
+  "checkmark-icon-size-50": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6335cb3a-6ceb-40e7-b241-ff9b36f1277c",
+        "name": "checkmark-icon-size-50"
+      }
+    }
+  },
+  "checkmark-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "0545a68c-f273-4348-84cd-9cd365bdb474",
+        "name": "checkmark-icon-size-75"
+      }
+    }
+  },
+  "checkmark-icon-size-100": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "9227a279-09f4-457a-b5b3-894f0d6a00df",
+        "name": "checkmark-icon-size-100"
+      }
+    }
+  },
+  "checkmark-icon-size-200": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "342a360b-d58c-4d7a-9a9d-893600b90785",
+        "name": "checkmark-icon-size-200"
+      }
+    }
+  },
+  "checkmark-icon-size-300": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b5eff9b7-6987-47a1-a673-c47b7e806370",
+        "name": "checkmark-icon-size-300"
+      }
+    }
+  },
+  "checkmark-icon-size-400": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "1a043355-03e6-4322-a462-7d628c23fd06",
+        "name": "checkmark-icon-size-400"
+      }
+    }
+  },
+  "checkmark-icon-size-500": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "0bf97a2b-5fe6-46ca-8175-8457e8e37d36",
+        "name": "checkmark-icon-size-500"
+      }
+    }
+  },
+  "checkmark-icon-size-600": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4bacaeea-2d60-46d2-8c98-288b45a79aaf",
+        "name": "checkmark-icon-size-600"
+      }
+    }
+  },
+  "chevron-icon-size-50": {
+    "value": "6px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "785a9152-a69b-4164-a8e2-cc201c1f8063",
+        "name": "chevron-icon-size-50"
+      }
+    }
+  },
+  "chevron-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "43ef1792-b182-419d-966c-a8a2d77dbe03",
+        "name": "chevron-icon-size-75"
+      }
+    }
+  },
+  "chevron-icon-size-100": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "fdd4f0b4-3284-4734-b158-ecd5da36d586",
+        "name": "chevron-icon-size-100"
+      }
+    }
+  },
+  "chevron-icon-size-200": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "2df0f6e0-5821-4f70-9aa9-1cc61f860b53",
+        "name": "chevron-icon-size-200"
+      }
+    }
+  },
+  "chevron-icon-size-300": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "087dcfa2-5bfd-47a4-a67c-dca50e086e7a",
+        "name": "chevron-icon-size-300"
+      }
+    }
+  },
+  "chevron-icon-size-400": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "7fc3ab50-4856-442b-85f7-7f0e5ab3304a",
+        "name": "chevron-icon-size-400"
+      }
+    }
+  },
+  "chevron-icon-size-500": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "2891d3c7-1178-4901-9be9-75efada4a9e7",
+        "name": "chevron-icon-size-500"
+      }
+    }
+  },
+  "chevron-icon-size-600": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "c1de2d7d-ef83-4a3f-9407-2f512127244f",
+        "name": "chevron-icon-size-600"
+      }
+    }
+  },
+  "corner-triangle-icon-size-75": {
+    "value": "5px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "490fac13-d347-4c21-85fa-57814bff7537",
+        "name": "corner-triangle-icon-size-75"
+      }
+    }
+  },
+  "corner-triangle-icon-size-100": {
+    "value": "5px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6fcfc18c-c5e0-4f50-beab-6c4a10bfdaa7",
+        "name": "corner-triangle-icon-size-100"
+      }
+    }
+  },
+  "corner-triangle-icon-size-200": {
+    "value": "6px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "9c2db47b-f017-432a-a44f-238bc461c4c1",
+        "name": "corner-triangle-icon-size-200"
+      }
+    }
+  },
+  "corner-triangle-icon-size-300": {
+    "value": "7px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "c9c18669-11bf-4ba3-b36f-26115981327c",
+        "name": "corner-triangle-icon-size-300"
+      }
+    }
+  },
+  "cross-icon-size-75": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "8e597833-1025-4de4-b34a-2f34201487c3",
+        "name": "cross-icon-size-75"
+      }
+    }
+  },
+  "cross-icon-size-100": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "c9fac273-0c5c-46cd-b774-ad566a540511",
+        "name": "cross-icon-size-100"
+      }
+    }
+  },
+  "cross-icon-size-200": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "5b416331-7910-4d64-9b5f-43fd1832d3a6",
+        "name": "cross-icon-size-200"
+      }
+    }
+  },
+  "cross-icon-size-300": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "f0a65c80-55e8-4ad3-b68c-8429c2fefcf5",
+        "name": "cross-icon-size-300"
+      }
+    }
+  },
+  "cross-icon-size-400": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b7e0939f-45ef-4250-8138-2bee9dcb2be4",
+        "name": "cross-icon-size-400"
+      }
+    }
+  },
+  "cross-icon-size-500": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "1228762d-8c89-4e04-a097-5001d805877d",
+        "name": "cross-icon-size-500"
+      }
+    }
+  },
+  "cross-icon-size-600": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "825c1a0a-e6a3-41dc-81bb-0fb9b74c0ca2",
+        "name": "cross-icon-size-600"
+      }
+    }
+  },
+  "dash-icon-size-50": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "59e5a3f7-c1d0-4b76-bb7e-2bcddddb83da",
+        "name": "dash-icon-size-50"
+      }
+    }
+  },
+  "dash-icon-size-75": {
+    "value": "8px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "bfd0ad6e-6656-46d6-aa9f-0940b2c2902a",
+        "name": "dash-icon-size-75"
+      }
+    }
+  },
+  "dash-icon-size-100": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "67464126-edf0-49db-a07c-8641d4a24cae",
+        "name": "dash-icon-size-100"
+      }
+    }
+  },
+  "dash-icon-size-200": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "220d2f95-067f-4169-bab7-1b4e202bd1a1",
+        "name": "dash-icon-size-200"
+      }
+    }
+  },
+  "dash-icon-size-300": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "84f3da59-4c41-4e4e-925c-5fda4222361d",
+        "name": "dash-icon-size-300"
+      }
+    }
+  },
+  "dash-icon-size-400": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "17540c3a-2f85-4771-a4f8-834c70872abb",
+        "name": "dash-icon-size-400"
+      }
+    }
+  },
+  "dash-icon-size-500": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "08358bbf-3f8d-48fe-bb48-5dadead4170f",
+        "name": "dash-icon-size-500"
+      }
+    }
+  },
+  "dash-icon-size-600": {
+    "value": "18px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "34316272-7bcd-4b44-af20-07c0e1cb8690",
+        "name": "dash-icon-size-600"
+      }
+    }
+  },
+  "drag-handle-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-75"
+      }
+    }
+  },
+  "drag-handle-icon-size-100": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-100"
+      }
+    }
+  },
+  "drag-handle-icon-size-200": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-200"
+      }
+    }
+  },
+  "drag-handle-icon-size-300": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "drag-handle-icon-size-300"
+      }
+    }
+  },
+  "gripper-icon-size-100": {
+    "value": "24px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "gripper-icon-size-100"
+      }
+    }
+  },
+  "link-out-icon-size-75": {
+    "value": "10px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "1e41d09e-684e-4f87-ae85-4bc95f958c0e",
+        "name": "link-out-icon-size-75"
+      }
+    }
+  },
+  "link-out-icon-size-100": {
+    "value": "12px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "cc8ad91e-22f2-4f59-ae8c-99d2c1433d6e",
+        "name": "link-out-icon-size-100"
+      }
+    }
+  },
+  "link-out-icon-size-200": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "f78418a4-5b55-418b-9c90-7f388d5bb275",
+        "name": "link-out-icon-size-200"
+      }
+    }
+  },
+  "link-out-icon-size-300": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "link-out-icon-size-300"
+      }
+    }
+  },
+  "link-out-icon-size-400": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "link-out-icon-size-400"
+      }
+    }
+  },
+  "workflow-icon-size-50": {
+    "value": "14px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "1423caf1-75ca-4ca8-aa6a-22dcf3655b0e",
+        "name": "workflow-icon-size-50"
+      }
+    }
+  },
+  "workflow-icon-size-75": {
+    "value": "16px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "85cdef34-0682-45eb-ac06-98c76883cdf7",
+        "name": "workflow-icon-size-75"
+      }
+    }
+  },
+  "workflow-icon-size-100": {
+    "value": "20px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "40abc60f-ab65-41ef-b724-a0f0bdd94d14",
+        "name": "workflow-icon-size-100"
+      }
+    }
+  },
+  "workflow-icon-size-200": {
+    "value": "22px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6392e605-932e-456d-be53-149b624a04e2",
+        "name": "workflow-icon-size-200"
+      }
+    }
+  },
+  "workflow-icon-size-300": {
+    "value": "26px",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "25908278-79d3-47f4-9b53-adbdd1c13e2a",
+        "name": "workflow-icon-size-300"
+      }
+    }
+  }
+}

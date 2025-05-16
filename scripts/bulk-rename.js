@@ -2,6 +2,21 @@
 const fs = require('fs');
 const path = require('path');
 
+/**
+ * Change the name of this variable to the prefix (parent) object name
+ * that you want to apply to all the values in the JSON file.
+ */
+const namedObjectPrefix = 'colorTheme';
+/**
+ * If true, the script will update the values in the Color tokens.
+ * If false, the script will update the values in the Non-Color tokens.
+ */
+const colorTokens = true;
+/**
+ * The name of the public collection that you want to update.
+ */
+const publicCollectionName = 'Color';
+
 function updateValues(obj, pathArr) {
   if (typeof obj !== 'object' || obj === null) return;
 
@@ -9,7 +24,7 @@ function updateValues(obj, pathArr) {
     if (obj[key] && typeof obj[key] === 'object') {
       // If this object has a "value" field, update it
       if ('value' in obj[key]) {
-        const dotPath = ['colorTheme', ...pathArr, key].join('.');
+        const dotPath = [namedObjectPrefix, ...pathArr, key].join('.');
         obj[key].value = `{${dotPath}}`;
       }
       // Recurse into the object
@@ -40,7 +55,9 @@ function getAllJsonFiles(dir) {
   return results;
 }
 
+const subFolder = (isColorTokens) ? 'spectrum2-colors' : 'spectrum2-non-colors';
+
 // Usage: node update-color-theme-values.js
-const baseDir = path.join('src', 'tokens-studio', 'spectrum2-colors', 'Color');
+const baseDir = path.join('src', 'tokens-studio', subFolder, publicCollectionName);
 const files = getAllJsonFiles(baseDir);
 files.forEach(processFile);

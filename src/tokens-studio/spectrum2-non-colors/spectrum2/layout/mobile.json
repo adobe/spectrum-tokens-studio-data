@@ -2161,6 +2161,16 @@
       }
     }
   },
+  "visual-to-control-100": {
+    "value": "10px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "visual-to-control-100"
+      }
+    }
+  },
   "window-to-edge": {
     "value": "{spacing-600}",
     "type": "spacing",

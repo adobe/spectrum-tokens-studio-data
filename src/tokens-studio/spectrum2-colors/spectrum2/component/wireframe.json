@@ -314,6 +314,92 @@
         }
       }
     },
+    "stack-item": {
+      "background-color": {
+        "hover": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-background-color-hover"
+            }
+          }
+        },
+        "down": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-background-color-down"
+            }
+          }
+        },
+        "key-focus": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-background-color-key-focus"
+            }
+          }
+        }
+      },
+      "selected-background-color": {
+        "default": {
+          "value": "{Palette.gray.100}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-selected-background-color-default"
+            }
+          }
+        },
+        "hover": {
+          "value": "{Palette.gray.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-selected-background-color-hover"
+            }
+          }
+        },
+        "down": {
+          "value": "{Palette.gray.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-selected-background-color-down"
+            }
+          }
+        },
+        "key-focus": {
+          "value": "{Palette.gray.200}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-selected-background-color-key-focus"
+            }
+          }
+        },
+        "emphasized": {
+          "value": "{Alias.background.semantic.accent.default}",
+          "type": "color",
+          "$extensions": {
+            "spectrum-tokens": {
+              "uuid": "",
+              "name": "stack-item-selected-background-color-emphasized"
+            }
+          }
+        }
+      }
+    },
     "swatch": {
       "border": {
         "value": "{Palette.gray.1000}",

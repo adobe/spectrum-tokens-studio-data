@@ -39,7 +39,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-default-extra-large": {
+  "accordion-bottom-to-text-extra-large": {
     "value": "12px",
     "type": "spacing",
     "$extensions": {
@@ -49,7 +49,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-default-large": {
+  "accordion-bottom-to-text-large": {
     "value": "11px",
     "type": "spacing",
     "$extensions": {
@@ -59,7 +59,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-default-medium": {
+  "accordion-bottom-to-text-medium": {
     "value": "9px",
     "type": "spacing",
     "$extensions": {
@@ -69,7 +69,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-default-small": {
+  "accordion-bottom-to-text-small": {
     "value": "7px",
     "type": "spacing",
     "$extensions": {
@@ -479,7 +479,7 @@
       }
     }
   },
-  "accordion-top-to-text-default-extra-large": {
+  "accordion-top-to-text-extra-large": {
     "value": "9px",
     "type": "spacing",
     "$extensions": {
@@ -489,7 +489,7 @@
       }
     }
   },
-  "accordion-top-to-text-default-large": {
+  "accordion-top-to-text-large": {
     "value": "9px",
     "type": "spacing",
     "$extensions": {
@@ -499,7 +499,7 @@
       }
     }
   },
-  "accordion-top-to-text-default-medium": {
+  "accordion-top-to-text-medium": {
     "value": "8px",
     "type": "spacing",
     "$extensions": {
@@ -509,7 +509,7 @@
       }
     }
   },
-  "accordion-top-to-text-default-small": {
+  "accordion-top-to-text-small": {
     "value": "5px",
     "type": "spacing",
     "$extensions": {

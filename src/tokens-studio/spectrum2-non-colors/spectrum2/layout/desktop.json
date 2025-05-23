@@ -1549,6 +1549,126 @@
       }
     }
   },
+  "field-top-to-disclosure-icon-compact-small": {
+    "value": "7px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-compact-small"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-small": {
+    "value": "11px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-small"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-spacious-small": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-spacious-small"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-compact-medium": {
+    "value": "11px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-compact-medium"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-medium": {
+    "value": "15px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-medium"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-spacious-medium": {
+    "value": "19px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-spacious-medium"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-compact-large": {
+    "value": "14px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-compact-large"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-large": {
+    "value": "18px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-large"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-spacious-large": {
+    "value": "22px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-spacious-large"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-compact-extra-large": {
+    "value": "17px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-compact-extra-large"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-extra-large": {
+    "value": "21px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-extra-large"
+      }
+    }
+  },
+  "field-top-to-disclosure-icon-spacious-extra-large": {
+    "value": "25px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "",
+        "name": "field-top-to-disclosure-icon-spacious-extra-large"
+      }
+    }
+  },
   "field-top-to-alert-icon-extra-large": {
     "value": "13px",
     "type": "spacing",

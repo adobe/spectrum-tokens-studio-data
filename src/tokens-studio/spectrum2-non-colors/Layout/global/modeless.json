@@ -360,7 +360,7 @@
     }
   },
   "component-padding-vertical-50": {
-    "value": "{platformScale.padding-vertical-50}",
+    "value": "{platformScale.component-padding-vertical-50}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -370,7 +370,7 @@
     }
   },
   "component-padding-vertical-75": {
-    "value": "{platformScale.padding-vertical-75}",
+    "value": "{platformScale.component-padding-vertical-75}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -380,7 +380,7 @@
     }
   },
   "component-padding-vertical-100": {
-    "value": "{platformScale.padding-vertical-100}",
+    "value": "{platformScale.component-padding-vertical-100}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -390,7 +390,7 @@
     }
   },
   "component-padding-vertical-200": {
-    "value": "{platformScale.padding-vertical-200}",
+    "value": "{platformScale.component-padding-vertical-200}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
@@ -400,7 +400,7 @@
     }
   },
   "component-padding-vertical-300": {
-    "value": "{platformScale.padding-vertical-300}",
+    "value": "{platformScale.component-padding-vertical-300}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

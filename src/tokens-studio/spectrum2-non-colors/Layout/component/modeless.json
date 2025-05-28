@@ -1,5 +1,5 @@
 {
-  "accordion-bottom-to-text-compact-extra-large": {
+  "Accordion/Bottom to text/Compact/Extra large": {
     "value": "{platformScale.accordion-bottom-to-text-compact-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -9,7 +9,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-compact-large": {
+  "Accordion/Bottom to text/Compact/Large": {
     "value": "{platformScale.accordion-bottom-to-text-compact-large}",
     "type": "spacing",
     "$extensions": {
@@ -19,7 +19,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-compact-medium": {
+  "Accordion/Bottom to text/Compact/Medium": {
     "value": "{platformScale.accordion-bottom-to-text-compact-medium}",
     "type": "spacing",
     "$extensions": {
@@ -29,7 +29,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-compact-small": {
+  "Accordion/Bottom to text/Compact/Small": {
     "value": "{platformScale.accordion-bottom-to-text-compact-small}",
     "type": "spacing",
     "$extensions": {
@@ -39,7 +39,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-regular-extra-large": {
+  "Accordion/Bottom to text/Regular/Extra large": {
     "value": "{platformScale.accordion-bottom-to-text-regular-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -49,7 +49,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-regular-large": {
+  "Accordion/Bottom to text/Regular/Large": {
     "value": "{platformScale.accordion-bottom-to-text-regular-large}",
     "type": "spacing",
     "$extensions": {
@@ -59,7 +59,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-regular-medium": {
+  "Accordion/Bottom to text/Regular/Medium": {
     "value": "{platformScale.accordion-bottom-to-text-regular-medium}",
     "type": "spacing",
     "$extensions": {
@@ -69,7 +69,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-regular-small": {
+  "Accordion/Bottom to text/Regular/Small": {
     "value": "{platformScale.accordion-bottom-to-text-regular-small}",
     "type": "spacing",
     "$extensions": {
@@ -79,7 +79,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-spacious-extra-large": {
+  "Accordion/Bottom to text/Spacious/Extra large": {
     "value": "{platformScale.accordion-bottom-to-text-spacious-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -89,7 +89,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-spacious-large": {
+  "Accordion/Bottom to text/Spacious/Large": {
     "value": "{platformScale.accordion-bottom-to-text-spacious-large}",
     "type": "spacing",
     "$extensions": {
@@ -99,7 +99,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-spacious-medium": {
+  "Accordion/Bottom to text/Spacious/Medium": {
     "value": "{platformScale.accordion-bottom-to-text-spacious-medium}",
     "type": "spacing",
     "$extensions": {
@@ -109,7 +109,7 @@
       }
     }
   },
-  "accordion-bottom-to-text-spacious-small": {
+  "Accordion/Bottom to text/Spacious/Small": {
     "value": "{platformScale.accordion-bottom-to-text-spacious-small}",
     "type": "spacing",
     "$extensions": {
@@ -119,7 +119,7 @@
       }
     }
   },
-  "accordion-content-area-bottom-to-content": {
+  "Accordion/Content area bottom to content": {
     "value": "{platformScale.accordion-content-area-bottom-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -129,7 +129,7 @@
       }
     }
   },
-  "accordion-content-area-top-to-content": {
+  "Accordion/Content area top to content": {
     "value": "{platformScale.accordion-content-area-top-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -139,7 +139,7 @@
       }
     }
   },
-  "accordion-content-area-edge-to-content-small": {
+  "Accordion/Content area edge to content/Small": {
     "value": "{platformScale.accordion-content-area-edge-to-content-small}",
     "type": "spacing",
     "$extensions": {
@@ -149,7 +149,7 @@
       }
     }
   },
-  "accordion-content-area-edge-to-content-medium": {
+  "Accordion/Content area edge to content/Medium": {
     "value": "{platformScale.accordion-content-area-edge-to-content-medium}",
     "type": "spacing",
     "$extensions": {
@@ -159,7 +159,7 @@
       }
     }
   },
-  "accordion-content-area-edge-to-content-large": {
+  "Accordion/Content area edge to content/Large": {
     "value": "{platformScale.accordion-content-area-edge-to-content-large}",
     "type": "spacing",
     "$extensions": {
@@ -169,7 +169,7 @@
       }
     }
   },
-  "accordion-content-area-edge-to-content-extra-large": {
+  "Accordion/Content area edge to content/Extra large": {
     "value": "{platformScale.accordion-content-area-edge-to-content-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -179,7 +179,7 @@
       }
     }
   },
-  "🚫 accordion-disclosure-indicator-to-text": {
+  "🚫 Accordion/Disclosure indicator to text": {
     "value": "{platformScale.🚫 accordion-disclosure-indicator-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -189,7 +189,7 @@
       }
     }
   },
-  "accordion-disclosure-indicator-to-text-small": {
+  "Accordion/Disclosure indicator to text/Small": {
     "value": "{platformScale.accordion-disclosure-indicator-to-text-small}",
     "type": "spacing",
     "$extensions": {
@@ -199,7 +199,7 @@
       }
     }
   },
-  "accordion-disclosure-indicator-to-text-medium": {
+  "Accordion/Disclosure indicator to text/Medium": {
     "value": "{platformScale.accordion-disclosure-indicator-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -209,7 +209,7 @@
       }
     }
   },
-  "accordion-disclosure-indicator-to-text-large": {
+  "Accordion/Disclosure indicator to text/Large": {
     "value": "{platformScale.accordion-disclosure-indicator-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -219,7 +219,7 @@
       }
     }
   },
-  "accordion-disclosure-indicator-to-text-extra-large": {
+  "Accordion/Disclosure indicator to text/Extra large": {
     "value": "{platformScale.accordion-disclosure-indicator-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -229,7 +229,7 @@
       }
     }
   },
-  "🚫 accordion-edge-to-disclosure-indicator": {
+  "🚫 Accordion/Edge to disclosure indicator": {
     "value": "{platformScale.🚫 accordion-edge-to-disclosure-indicator}",
     "type": "spacing",
     "$extensions": {
@@ -239,7 +239,7 @@
       }
     }
   },
-  "accordion-edge-to-content-area-small": {
+  "Accordion/Edge to content/Area/Small": {
     "value": "{platformScale.accordion-edge-to-content-area-small}",
     "type": "spacing",
     "$extensions": {
@@ -249,7 +249,7 @@
       }
     }
   },
-  "accordion-edge-to-content-area-medium": {
+  "Accordion/Edge to content/Area/Medium": {
     "value": "{platformScale.accordion-edge-to-content-area-medium}",
     "type": "spacing",
     "$extensions": {
@@ -259,7 +259,7 @@
       }
     }
   },
-  "accordion-edge-to-content-area-large": {
+  "Accordion/Edge to content/Area/Large": {
     "value": "{platformScale.accordion-edge-to-content-area-large}",
     "type": "spacing",
     "$extensions": {
@@ -269,7 +269,7 @@
       }
     }
   },
-  "accordion-edge-to-content-area-extra-large": {
+  "Accordion/Edge to content/Area/Extra large": {
     "value": "{platformScale.accordion-edge-to-content-area-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -279,7 +279,7 @@
       }
     }
   },
-  "accordion-edge-to-text": {
+  "Accordion/Edge to text": {
     "value": "{platformScale.accordion-edge-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -289,7 +289,7 @@
       }
     }
   },
-  "accordion-focus-indicator-gap": {
+  "Accordion/Focus/Indicator/Gap": {
     "value": "{platformScale.accordion-focus-indicator-gap}",
     "type": "spacing",
     "$extensions": {
@@ -299,7 +299,7 @@
       }
     }
   },
-  "accordion-item-to-divider": {
+  "Accordion/Item/To/Divider": {
     "value": "{platformScale.accordion-item-to-divider}",
     "type": "spacing",
     "$extensions": {
@@ -309,7 +309,7 @@
       }
     }
   },
-  "accordion-minimum-width": {
+  "Accordion/Minimum/Width": {
     "value": "{platformScale.accordion-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -319,7 +319,7 @@
       }
     }
   },
-  "action-bar-minimum-width": {
+  "Action/Bar/Minimum/Width": {
     "value": "{platformScale.action-bar-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -329,7 +329,7 @@
       }
     }
   },
-  "bar-panel-width": {
+  "Bar/Panel/Width": {
     "value": "{platformScale.bar-panel-width}",
     "type": "sizing",
     "$extensions": {
@@ -339,7 +339,7 @@
       }
     }
   },
-  "bar-panel-minimum-width": {
+  "Bar/Panel/Minimum/Width": {
     "value": "{platformScale.bar-panel-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -349,7 +349,7 @@
       }
     }
   },
-  "bar-panel-maximum-width": {
+  "Bar/Panel/Maximum/Width": {
     "value": "{platformScale.bar-panel-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -359,7 +359,7 @@
       }
     }
   },
-  "standard-dialog-maximum-width-small": {
+  "Standard/Dialog/Maximum/Width/Small": {
     "value": "{platformScale.standard-dialog-maximum-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -369,7 +369,7 @@
       }
     }
   },
-  "standard-panel-width": {
+  "Standard/Panel/Width": {
     "value": "{platformScale.standard-panel-width}",
     "type": "sizing",
     "$extensions": {
@@ -379,7 +379,7 @@
       }
     }
   },
-  "standard-panel-minimum-width": {
+  "Standard/Panel/Minimum/Width": {
     "value": "{platformScale.standard-panel-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -389,7 +389,7 @@
       }
     }
   },
-  "standard-panel-maximum-width": {
+  "Standard/Panel/Maximum/Width": {
     "value": "{platformScale.standard-panel-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -399,7 +399,7 @@
       }
     }
   },
-  "standard-dialog-minimum-width": {
+  "Standard/Dialog/Minimum/Width": {
     "value": "{platformScale.standard-dialog-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -409,7 +409,7 @@
       }
     }
   },
-  "standard-dialog-maximum-width-medium": {
+  "Standard/Dialog/Maximum/Width/Medium": {
     "value": "{platformScale.standard-dialog-maximum-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -419,7 +419,7 @@
       }
     }
   },
-  "standard-dialog-maximum-width-large": {
+  "Standard/Dialog/Maximum/Width/Large": {
     "value": "{platformScale.standard-dialog-maximum-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -429,7 +429,7 @@
       }
     }
   },
-  "🚫 accordion-small-top-to-text-spacious": {
+  "🚫 Accordion/Small/Top to text/Spacious": {
     "value": "{platformScale.🚫 accordion-small-top-to-text-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -439,7 +439,7 @@
       }
     }
   },
-  "accordion-top-to-text-compact-extra-large": {
+  "Accordion/Top to text/Compact/Extra large": {
     "value": "{platformScale.accordion-top-to-text-compact-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -449,7 +449,7 @@
       }
     }
   },
-  "accordion-top-to-text-compact-large": {
+  "Accordion/Top to text/Compact/Large": {
     "value": "{platformScale.accordion-top-to-text-compact-large}",
     "type": "spacing",
     "$extensions": {
@@ -459,7 +459,7 @@
       }
     }
   },
-  "accordion-top-to-text-compact-medium": {
+  "Accordion/Top to text/Compact/Medium": {
     "value": "{platformScale.accordion-top-to-text-compact-medium}",
     "type": "spacing",
     "$extensions": {
@@ -469,7 +469,7 @@
       }
     }
   },
-  "accordion-top-to-text-compact-small": {
+  "Accordion/Top to text/Compact/Small": {
     "value": "{platformScale.accordion-top-to-text-compact-small}",
     "type": "spacing",
     "$extensions": {
@@ -479,7 +479,7 @@
       }
     }
   },
-  "accordion-top-to-text-regular-extra-large": {
+  "Accordion/Top to text/Regular/Extra large": {
     "value": "{platformScale.accordion-top-to-text-regular-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -489,7 +489,7 @@
       }
     }
   },
-  "accordion-top-to-text-regular-large": {
+  "Accordion/Top to text/Regular/Large": {
     "value": "{platformScale.accordion-top-to-text-regular-large}",
     "type": "spacing",
     "$extensions": {
@@ -499,7 +499,7 @@
       }
     }
   },
-  "accordion-top-to-text-regular-medium": {
+  "Accordion/Top to text/Regular/Medium": {
     "value": "{platformScale.accordion-top-to-text-regular-medium}",
     "type": "spacing",
     "$extensions": {
@@ -509,7 +509,7 @@
       }
     }
   },
-  "accordion-top-to-text-regular-small": {
+  "Accordion/Top to text/Regular/Small": {
     "value": "{platformScale.accordion-top-to-text-regular-small}",
     "type": "spacing",
     "$extensions": {
@@ -519,7 +519,7 @@
       }
     }
   },
-  "accordion-top-to-text-spacious-extra-large": {
+  "Accordion/Top to text/Spacious/Extra large": {
     "value": "{platformScale.accordion-top-to-text-spacious-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -529,7 +529,7 @@
       }
     }
   },
-  "accordion-top-to-text-spacious-large": {
+  "Accordion/Top to text/Spacious/Large": {
     "value": "{platformScale.accordion-top-to-text-spacious-large}",
     "type": "spacing",
     "$extensions": {
@@ -539,7 +539,7 @@
       }
     }
   },
-  "accordion-top-to-text-spacious-medium": {
+  "Accordion/Top to text/Spacious/Medium": {
     "value": "{platformScale.accordion-top-to-text-spacious-medium}",
     "type": "spacing",
     "$extensions": {
@@ -549,7 +549,7 @@
       }
     }
   },
-  "accordion-top-to-text-spacious-small": {
+  "Accordion/Top to text/Spacious/Small": {
     "value": "{platformScale.accordion-top-to-text-spacious-small}",
     "type": "spacing",
     "$extensions": {
@@ -559,7 +559,7 @@
       }
     }
   },
-  "action-bar-height": {
+  "Action/Bar/Height": {
     "value": "{platformScale.action-bar-height}",
     "type": "sizing",
     "$extensions": {
@@ -569,7 +569,7 @@
       }
     }
   },
-  "date-field-minimum-width": {
+  "Date/Field/Minimum/Width": {
     "value": "{platformScale.date-field-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -579,7 +579,7 @@
       }
     }
   },
-  "date-picker-minimum-width": {
+  "Date/Picker/Minimum/Width": {
     "value": "{platformScale.date-picker-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -589,7 +589,7 @@
       }
     }
   },
-  "time-field-minimum-width": {
+  "Time/Field/Minimum/Width": {
     "value": "{platformScale.time-field-minimum-width}",
     "type": "sizing",
     "description": "2.5x height of field",
@@ -600,7 +600,7 @@
       }
     }
   },
-  "single-calendar-popover-minimum-height": {
+  "Single/Calendar/Popover/Minimum/Height": {
     "value": "{platformScale.single-calendar-popover-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -610,7 +610,7 @@
       }
     }
   },
-  "double-calendar-popover-minimum-height": {
+  "Double/Calendar/Popover/Minimum/Height": {
     "value": "{platformScale.double-calendar-popover-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -620,7 +620,7 @@
       }
     }
   },
-  "triple-calendar-popover-minimum-height": {
+  "Triple/Calendar/Popover/Minimum/Height": {
     "value": "{platformScale.triple-calendar-popover-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -630,7 +630,7 @@
       }
     }
   },
-  "single-calendar-popover-minimum-width": {
+  "Single/Calendar/Popover/Minimum/Width": {
     "value": "{platformScale.single-calendar-popover-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -640,7 +640,7 @@
       }
     }
   },
-  "double-calendar-popover-minimum-width": {
+  "Double/Calendar/Popover/Minimum/Width": {
     "value": "{platformScale.double-calendar-popover-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -650,7 +650,7 @@
       }
     }
   },
-  "triple-calendar-popover-minimum-width": {
+  "Triple/Calendar/Popover/Minimum/Width": {
     "value": "{platformScale.triple-calendar-popover-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -660,7 +660,7 @@
       }
     }
   },
-  "segmented-text-field-gap": {
+  "Segmented/Text/Field/Gap": {
     "value": "{platformScale.segmented-text-field-gap}",
     "type": "spacing",
     "$extensions": {
@@ -670,7 +670,7 @@
       }
     }
   },
-  "date-picker-visual-to-field-button": {
+  "Date/Picker/Visual/To/Field/Button": {
     "value": "{platformScale.date-picker-visual-to-field-button}",
     "type": "spacing",
     "$extensions": {
@@ -680,7 +680,7 @@
       }
     }
   },
-  "date-field-text-to-visual": {
+  "Date/Field/Text/To/Visual": {
     "value": "{platformScale.date-field-text-to-visual}",
     "type": "spacing",
     "$extensions": {
@@ -690,7 +690,7 @@
       }
     }
   },
-  "time-field-text-to-visual": {
+  "Time/Field/Text/To/Visual": {
     "value": "{platformScale.time-field-text-to-visual}",
     "type": "spacing",
     "$extensions": {
@@ -700,7 +700,7 @@
       }
     }
   },
-  "date-picker-text-to-visual": {
+  "Date/Picker/Text/To/Visual": {
     "value": "{platformScale.date-picker-text-to-visual}",
     "type": "spacing",
     "$extensions": {
@@ -710,7 +710,7 @@
       }
     }
   },
-  "segmented-text-field-rounding": {
+  "Segmented/Text/Field/Rounding": {
     "value": "{platformScale.segmented-text-field-rounding}",
     "type": "borderRadius",
     "$extensions": {
@@ -720,7 +720,7 @@
       }
     }
   },
-  "switch-handle-size-small": {
+  "Switch/Handle/Size/Small": {
     "value": "{platformScale.switch-handle-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -730,7 +730,7 @@
       }
     }
   },
-  "switch-handle-selected-size-small": {
+  "Switch/Handle/Selected/Size/Small": {
     "value": "{platformScale.switch-handle-selected-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -740,7 +740,7 @@
       }
     }
   },
-  "switch-handle-selected-size-medium": {
+  "Switch/Handle/Selected/Size/Medium": {
     "value": "{platformScale.switch-handle-selected-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -750,7 +750,7 @@
       }
     }
   },
-  "switch-handle-selected-size-large": {
+  "Switch/Handle/Selected/Size/Large": {
     "value": "{platformScale.switch-handle-selected-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -760,7 +760,7 @@
       }
     }
   },
-  "switch-handle-selected-size-extra-large": {
+  "Switch/Handle/Selected/Size/Extra large": {
     "value": "{platformScale.switch-handle-selected-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -770,7 +770,7 @@
       }
     }
   },
-  "switch-handle-size-medium": {
+  "Switch/Handle/Size/Medium": {
     "value": "{platformScale.switch-handle-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -780,7 +780,7 @@
       }
     }
   },
-  "switch-handle-size-large": {
+  "Switch/Handle/Size/Large": {
     "value": "{platformScale.switch-handle-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -790,7 +790,7 @@
       }
     }
   },
-  "switch-handle-size-extra-large": {
+  "Switch/Handle/Size/Extra large": {
     "value": "{platformScale.switch-handle-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -800,7 +800,7 @@
       }
     }
   },
-  "action-bar-top-to-item-counter": {
+  "Action/Bar/Top/To/Item/Counter": {
     "value": "{platformScale.action-bar-top-to-item-counter}",
     "type": "spacing",
     "$extensions": {
@@ -810,7 +810,7 @@
       }
     }
   },
-  "action-bar-top-to-content-area": {
+  "Action/Bar/Top to content/Area": {
     "value": "{platformScale.action-bar-top-to-content-area}",
     "type": "spacing",
     "$extensions": {
@@ -820,7 +820,7 @@
       }
     }
   },
-  "action-bar-bottom-to-content-area": {
+  "Action/Bar/Bottom to content/Area": {
     "value": "{platformScale.action-bar-bottom-to-content-area}",
     "type": "spacing",
     "$extensions": {
@@ -830,7 +830,7 @@
       }
     }
   },
-  "action-bar-edge-to-content-area": {
+  "Action/Bar/Edge to content/Area": {
     "value": "{platformScale.action-bar-edge-to-content-area}",
     "type": "spacing",
     "$extensions": {
@@ -840,7 +840,7 @@
       }
     }
   },
-  "action-bar-close-button-to-counter": {
+  "Action/Bar/Close/Button/To/Counter": {
     "value": "{platformScale.action-bar-close-button-to-counter}",
     "type": "spacing",
     "$extensions": {
@@ -850,7 +850,7 @@
       }
     }
   },
-  "action-bar-label-to-action-group-area": {
+  "Action/Bar/Label/To/Action/Group/Area": {
     "value": "{platformScale.action-bar-label-to-action-group-area}",
     "type": "spacing",
     "$extensions": {
@@ -860,7 +860,7 @@
       }
     }
   },
-  "action-button-edge-to-hold-icon-extra-large": {
+  "Action/Button/Edge/To/Hold/Icon/Extra large": {
     "value": "{platformScale.action-button-edge-to-hold-icon-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -870,7 +870,7 @@
       }
     }
   },
-  "action-button-edge-to-hold-icon-extra-small": {
+  "Action/Button/Edge/To/Hold/Icon/Extra small": {
     "value": "{platformScale.action-button-edge-to-hold-icon-extra-small}",
     "type": "spacing",
     "$extensions": {
@@ -880,7 +880,7 @@
       }
     }
   },
-  "action-button-edge-to-hold-icon-large": {
+  "Action/Button/Edge/To/Hold/Icon/Large": {
     "value": "{platformScale.action-button-edge-to-hold-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -890,7 +890,7 @@
       }
     }
   },
-  "action-button-edge-to-hold-icon-medium": {
+  "Action/Button/Edge/To/Hold/Icon/Medium": {
     "value": "{platformScale.action-button-edge-to-hold-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -900,7 +900,7 @@
       }
     }
   },
-  "action-button-edge-to-hold-icon-small": {
+  "Action/Button/Edge/To/Hold/Icon/Small": {
     "value": "{platformScale.action-button-edge-to-hold-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -910,7 +910,7 @@
       }
     }
   },
-  "alert-banner-bottom-to-text": {
+  "Alert/Banner/Bottom to text": {
     "value": "{platformScale.alert-banner-bottom-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -920,7 +920,7 @@
       }
     }
   },
-  "alert-banner-minimum-height": {
+  "Alert/Banner/Minimum/Height": {
     "value": "{platformScale.alert-banner-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -930,7 +930,7 @@
       }
     }
   },
-  "alert-banner-top-to-text": {
+  "Alert/Banner/Top to text": {
     "value": "{platformScale.alert-banner-top-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -940,7 +940,7 @@
       }
     }
   },
-  "alert-banner-top-to-alert-icon": {
+  "Alert/Banner/Top/To/Alert/Icon": {
     "value": "{platformScale.alert-banner-top-to-alert-icon}",
     "type": "spacing",
     "$extensions": {
@@ -950,7 +950,7 @@
       }
     }
   },
-  "alert-banner-top-to-workflow-icon": {
+  "Alert/Banner/Top/To/Workflow/Icon": {
     "value": "{platformScale.alert-banner-top-to-workflow-icon}",
     "type": "spacing",
     "$extensions": {
@@ -960,7 +960,7 @@
       }
     }
   },
-  "alert-banner-width": {
+  "Alert/Banner/Width": {
     "value": "{platformScale.alert-banner-width}",
     "type": "sizing",
     "$extensions": {
@@ -970,7 +970,7 @@
       }
     }
   },
-  "🚫 alert-dialog-description-size": {
+  "🚫 Alert/Dialog/Description/Size": {
     "value": "{platformScale.🚫 alert-dialog-description-size}",
     "type": "sizing",
     "$extensions": {
@@ -980,7 +980,7 @@
       }
     }
   },
-  "action-bar-counter-font-size": {
+  "Action/Bar/Counter/Font/Size": {
     "value": "{platformScale.action-bar-counter-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -990,7 +990,7 @@
       }
     }
   },
-  "alert-dialog-maximum-width": {
+  "Alert/Dialog/Maximum/Width": {
     "value": "{platformScale.alert-dialog-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -1000,7 +1000,7 @@
       }
     }
   },
-  "alert-dialog-minimum-width": {
+  "Alert/Dialog/Minimum/Width": {
     "value": "{platformScale.alert-dialog-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -1010,7 +1010,7 @@
       }
     }
   },
-  "🚫 alert-dialog-title-size": {
+  "🚫 Alert/Dialog/Title/Size": {
     "value": "{platformScale.🚫 alert-dialog-title-size}",
     "type": "sizing",
     "$extensions": {
@@ -1020,7 +1020,7 @@
       }
     }
   },
-  "alert-dialog-description-font-size": {
+  "Alert/Dialog/Description/Font/Size": {
     "value": "{platformScale.alert-dialog-description-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -1030,7 +1030,7 @@
       }
     }
   },
-  "alert-dialog-title-font-size": {
+  "Alert/Dialog/Title/Font/Size": {
     "value": "{platformScale.alert-dialog-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -1040,7 +1040,7 @@
       }
     }
   },
-  "standard-dialog-title-font-size": {
+  "Standard/Dialog/Title/Font/Size": {
     "value": "{platformScale.standard-dialog-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -1050,7 +1050,7 @@
       }
     }
   },
-  "avatar-border-width": {
+  "Avatar/Border/Width": {
     "value": "{platformScale.avatar-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -1060,7 +1060,7 @@
       }
     }
   },
-  "avatar-size-50": {
+  "Avatar/Size/50": {
     "value": "{platformScale.avatar-size-50}",
     "type": "sizing",
     "$extensions": {
@@ -1070,7 +1070,7 @@
       }
     }
   },
-  "avatar-size-75": {
+  "Avatar/Size/75": {
     "value": "{platformScale.avatar-size-75}",
     "type": "sizing",
     "$extensions": {
@@ -1080,7 +1080,7 @@
       }
     }
   },
-  "avatar-size-100": {
+  "Avatar/Size/100": {
     "value": "{platformScale.avatar-size-100}",
     "type": "sizing",
     "$extensions": {
@@ -1090,7 +1090,7 @@
       }
     }
   },
-  "avatar-size-200": {
+  "Avatar/Size/200": {
     "value": "{platformScale.avatar-size-200}",
     "type": "sizing",
     "$extensions": {
@@ -1100,7 +1100,7 @@
       }
     }
   },
-  "avatar-size-300": {
+  "Avatar/Size/300": {
     "value": "{platformScale.avatar-size-300}",
     "type": "sizing",
     "$extensions": {
@@ -1110,7 +1110,7 @@
       }
     }
   },
-  "avatar-size-400": {
+  "Avatar/Size/400": {
     "value": "{platformScale.avatar-size-400}",
     "type": "sizing",
     "$extensions": {
@@ -1120,7 +1120,7 @@
       }
     }
   },
-  "avatar-size-500": {
+  "Avatar/Size/500": {
     "value": "{platformScale.avatar-size-500}",
     "type": "sizing",
     "$extensions": {
@@ -1130,7 +1130,7 @@
       }
     }
   },
-  "avatar-size-600": {
+  "Avatar/Size/600": {
     "value": "{platformScale.avatar-size-600}",
     "type": "sizing",
     "$extensions": {
@@ -1140,7 +1140,7 @@
       }
     }
   },
-  "avatar-size-700": {
+  "Avatar/Size/700": {
     "value": "{platformScale.avatar-size-700}",
     "type": "sizing",
     "$extensions": {
@@ -1150,7 +1150,7 @@
       }
     }
   },
-  "avatar-size-800": {
+  "Avatar/Size/800": {
     "value": "{platformScale.avatar-size-800}",
     "type": "sizing",
     "$extensions": {
@@ -1160,7 +1160,7 @@
       }
     }
   },
-  "avatar-size-900": {
+  "Avatar/Size/900": {
     "value": "{platformScale.avatar-size-900}",
     "type": "sizing",
     "$extensions": {
@@ -1170,7 +1170,7 @@
       }
     }
   },
-  "avatar-size-1000": {
+  "Avatar/Size/1000": {
     "value": "{platformScale.avatar-size-1000}",
     "type": "sizing",
     "$extensions": {
@@ -1180,7 +1180,7 @@
       }
     }
   },
-  "avatar-size-1100": {
+  "Avatar/Size/1100": {
     "value": "{platformScale.avatar-size-1100}",
     "type": "sizing",
     "$extensions": {
@@ -1190,7 +1190,7 @@
       }
     }
   },
-  "avatar-size-1200": {
+  "Avatar/Size/1200": {
     "value": "{platformScale.avatar-size-1200}",
     "type": "sizing",
     "$extensions": {
@@ -1200,7 +1200,7 @@
       }
     }
   },
-  "avatar-size-1300": {
+  "Avatar/Size/1300": {
     "value": "{platformScale.avatar-size-1300}",
     "type": "sizing",
     "$extensions": {
@@ -1210,7 +1210,7 @@
       }
     }
   },
-  "avatar-size-1400": {
+  "Avatar/Size/1400": {
     "value": "{platformScale.avatar-size-1400}",
     "type": "sizing",
     "$extensions": {
@@ -1220,7 +1220,7 @@
       }
     }
   },
-  "avatar-size-1500": {
+  "Avatar/Size/1500": {
     "value": "{platformScale.avatar-size-1500}",
     "type": "sizing",
     "$extensions": {
@@ -1230,7 +1230,7 @@
       }
     }
   },
-  "avatar-group-size-50": {
+  "Avatar/Group/Size/50": {
     "value": "{platformScale.avatar-group-size-50}",
     "type": "sizing",
     "$extensions": {
@@ -1240,7 +1240,7 @@
       }
     }
   },
-  "avatar-group-size-75": {
+  "Avatar/Group/Size/75": {
     "value": "{platformScale.avatar-group-size-75}",
     "type": "sizing",
     "$extensions": {
@@ -1250,7 +1250,7 @@
       }
     }
   },
-  "avatar-group-size-100": {
+  "Avatar/Group/Size/100": {
     "value": "{platformScale.avatar-group-size-100}",
     "type": "sizing",
     "$extensions": {
@@ -1260,7 +1260,7 @@
       }
     }
   },
-  "avatar-group-size-200": {
+  "Avatar/Group/Size/200": {
     "value": "{platformScale.avatar-group-size-200}",
     "type": "sizing",
     "$extensions": {
@@ -1270,7 +1270,7 @@
       }
     }
   },
-  "avatar-group-size-300": {
+  "Avatar/Group/Size/300": {
     "value": "{platformScale.avatar-group-size-300}",
     "type": "sizing",
     "$extensions": {
@@ -1280,7 +1280,7 @@
       }
     }
   },
-  "avatar-group-size-400": {
+  "Avatar/Group/Size/400": {
     "value": "{platformScale.avatar-group-size-400}",
     "type": "sizing",
     "$extensions": {
@@ -1290,7 +1290,7 @@
       }
     }
   },
-  "avatar-group-size-500": {
+  "Avatar/Group/Size/500": {
     "value": "{platformScale.avatar-group-size-500}",
     "type": "sizing",
     "$extensions": {
@@ -1300,7 +1300,7 @@
       }
     }
   },
-  "avatar-to-avatar-50": {
+  "Avatar/To/Avatar/50": {
     "value": "{platformScale.avatar-to-avatar-50}",
     "type": "spacing",
     "$extensions": {
@@ -1310,7 +1310,7 @@
       }
     }
   },
-  "avatar-to-avatar-75": {
+  "Avatar/To/Avatar/75": {
     "value": "{platformScale.avatar-to-avatar-75}",
     "type": "spacing",
     "$extensions": {
@@ -1320,7 +1320,7 @@
       }
     }
   },
-  "avatar-to-avatar-100": {
+  "Avatar/To/Avatar/100": {
     "value": "{platformScale.avatar-to-avatar-100}",
     "type": "spacing",
     "$extensions": {
@@ -1330,7 +1330,7 @@
       }
     }
   },
-  "avatar-to-avatar-200": {
+  "Avatar/To/Avatar/200": {
     "value": "{platformScale.avatar-to-avatar-200}",
     "type": "spacing",
     "$extensions": {
@@ -1340,7 +1340,7 @@
       }
     }
   },
-  "avatar-to-avatar-300": {
+  "Avatar/To/Avatar/300": {
     "value": "{platformScale.avatar-to-avatar-300}",
     "type": "spacing",
     "$extensions": {
@@ -1350,7 +1350,7 @@
       }
     }
   },
-  "avatar-to-avatar-400": {
+  "Avatar/To/Avatar/400": {
     "value": "{platformScale.avatar-to-avatar-400}",
     "type": "spacing",
     "$extensions": {
@@ -1360,7 +1360,7 @@
       }
     }
   },
-  "avatar-to-avatar-500": {
+  "Avatar/To/Avatar/500": {
     "value": "{platformScale.avatar-to-avatar-500}",
     "type": "spacing",
     "$extensions": {
@@ -1370,7 +1370,7 @@
       }
     }
   },
-  "bar-panel-spacing-extra-spacious": {
+  "Bar/Panel/Spacing/Extra/Spacious": {
     "value": "{platformScale.bar-panel-spacing-extra-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -1380,7 +1380,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-bottom-to-text": {
+  "🚫 Breadcrumbs/Bottom to text": {
     "value": "{platformScale.🚫 breadcrumbs-bottom-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -1390,7 +1390,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-bottom-to-text-compact": {
+  "🚫 Breadcrumbs/Bottom to text/Compact": {
     "value": "{platformScale.🚫 breadcrumbs-bottom-to-text-compact}",
     "type": "spacing",
     "$extensions": {
@@ -1400,7 +1400,7 @@
       }
     }
   },
-  "breadcrumbs-bottom-to-text-multiline": {
+  "Breadcrumbs/Bottom to text/Multiline": {
     "value": "{platformScale.breadcrumbs-bottom-to-text-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1410,7 +1410,7 @@
       }
     }
   },
-  "breadcrumbs-end-edge-to-text": {
+  "Breadcrumbs/End/Edge to text": {
     "value": "{platformScale.breadcrumbs-end-edge-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -1420,7 +1420,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-height": {
+  "🚫 Breadcrumbs/Height": {
     "value": "{platformScale.🚫 breadcrumbs-height}",
     "type": "sizing",
     "$extensions": {
@@ -1430,7 +1430,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-height-compact": {
+  "🚫 Breadcrumbs/Height/Compact": {
     "value": "{platformScale.🚫 breadcrumbs-height-compact}",
     "type": "sizing",
     "$extensions": {
@@ -1440,7 +1440,7 @@
       }
     }
   },
-  "breadcrumbs-height-multiline": {
+  "Breadcrumbs/Height/Multiline": {
     "value": "{platformScale.breadcrumbs-height-multiline}",
     "type": "sizing",
     "$extensions": {
@@ -1450,7 +1450,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-separator-icon-to-bottom-text-multiline": {
+  "🚫 Breadcrumbs/Separator/Icon/To/Bottom/Text/Multiline": {
     "value": "{platformScale.🚫 breadcrumbs-separator-icon-to-bottom-text-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1460,7 +1460,7 @@
       }
     }
   },
-  "breadcrumbs-separator-to-bottom-text-multiline": {
+  "Breadcrumbs/Separator/To/Bottom/Text/Multiline": {
     "value": "{platformScale.breadcrumbs-separator-to-bottom-text-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1470,7 +1470,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-start-edge-to-text": {
+  "🚫 Breadcrumbs/Start/Edge to text": {
     "value": "{platformScale.🚫 breadcrumbs-start-edge-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -1480,7 +1480,7 @@
       }
     }
   },
-  "breadcrumbs-start-edge-to-text-large": {
+  "Breadcrumbs/Start/Edge to text/Large": {
     "value": "{platformScale.breadcrumbs-start-edge-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -1490,7 +1490,7 @@
       }
     }
   },
-  "breadcrumbs-start-edge-to-text-medium": {
+  "Breadcrumbs/Start/Edge to text/Medium": {
     "value": "{platformScale.breadcrumbs-start-edge-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -1500,7 +1500,7 @@
       }
     }
   },
-  "breadcrumbs-start-edge-to-text-multiline": {
+  "Breadcrumbs/Start/Edge to text/Multiline": {
     "value": "{platformScale.breadcrumbs-start-edge-to-text-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1510,7 +1510,7 @@
       }
     }
   },
-  "breadcrumbs-start-edge-to-truncated-menu": {
+  "Breadcrumbs/Start/Edge/To/Truncated/Menu": {
     "value": "{platformScale.breadcrumbs-start-edge-to-truncated-menu}",
     "type": "spacing",
     "$extensions": {
@@ -1520,7 +1520,7 @@
       }
     }
   },
-  "breadcrumbs-top-text-to-bottom-text": {
+  "Breadcrumbs/Top/Text/To/Bottom/Text": {
     "value": "{platformScale.breadcrumbs-top-text-to-bottom-text}",
     "type": "spacing",
     "$extensions": {
@@ -1530,7 +1530,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-top-to-separator-icon": {
+  "🚫 Breadcrumbs/Top/To/Separator/Icon": {
     "value": "{platformScale.🚫 breadcrumbs-top-to-separator-icon}",
     "type": "spacing",
     "$extensions": {
@@ -1540,7 +1540,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-top-to-separator-icon-compact": {
+  "🚫 Breadcrumbs/Top/To/Separator/Icon/Compact": {
     "value": "{platformScale.🚫 breadcrumbs-top-to-separator-icon-compact}",
     "type": "spacing",
     "$extensions": {
@@ -1550,7 +1550,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-top-to-separator-icon-multiline": {
+  "🚫 Breadcrumbs/Top/To/Separator/Icon/Multiline": {
     "value": "{platformScale.🚫 breadcrumbs-top-to-separator-icon-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1560,7 +1560,7 @@
       }
     }
   },
-  "breadcrumbs-top-to-separator-large": {
+  "Breadcrumbs/Top/To/Separator/Large": {
     "value": "{platformScale.breadcrumbs-top-to-separator-large}",
     "type": "spacing",
     "$extensions": {
@@ -1570,7 +1570,7 @@
       }
     }
   },
-  "breadcrumbs-top-to-separator-medium": {
+  "Breadcrumbs/Top/To/Separator/Medium": {
     "value": "{platformScale.breadcrumbs-top-to-separator-medium}",
     "type": "spacing",
     "$extensions": {
@@ -1580,7 +1580,7 @@
       }
     }
   },
-  "breadcrumbs-top-to-separator-multiline": {
+  "Breadcrumbs/Top/To/Separator/Multiline": {
     "value": "{platformScale.breadcrumbs-top-to-separator-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1590,7 +1590,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-top-to-text": {
+  "🚫 Breadcrumbs/Top to text": {
     "value": "{platformScale.🚫 breadcrumbs-top-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -1600,7 +1600,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-top-to-text-compact": {
+  "🚫 Breadcrumbs/Top to text/Compact": {
     "value": "{platformScale.🚫 breadcrumbs-top-to-text-compact}",
     "type": "spacing",
     "$extensions": {
@@ -1610,7 +1610,7 @@
       }
     }
   },
-  "breadcrumbs-top-to-text-multiline": {
+  "Breadcrumbs/Top to text/Multiline": {
     "value": "{platformScale.breadcrumbs-top-to-text-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1620,7 +1620,7 @@
       }
     }
   },
-  "breadcrumbs-top-to-truncated-menu": {
+  "Breadcrumbs/Top/To/Truncated/Menu": {
     "value": "{platformScale.breadcrumbs-top-to-truncated-menu}",
     "type": "spacing",
     "$extensions": {
@@ -1630,7 +1630,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-top-to-truncated-menu-compact": {
+  "🚫 Breadcrumbs/Top/To/Truncated/Menu/Compact": {
     "value": "{platformScale.🚫 breadcrumbs-top-to-truncated-menu-compact}",
     "type": "spacing",
     "$extensions": {
@@ -1640,7 +1640,7 @@
       }
     }
   },
-  "breadcrumbs-truncated-menu-to-bottom-text": {
+  "Breadcrumbs/Truncated/Menu/To/Bottom/Text": {
     "value": "{platformScale.breadcrumbs-truncated-menu-to-bottom-text}",
     "type": "spacing",
     "$extensions": {
@@ -1650,7 +1650,7 @@
       }
     }
   },
-  "🚫 breadcrumbs-truncated-menu-to-separator-icon": {
+  "🚫 Breadcrumbs/Truncated/Menu/To/Separator/Icon": {
     "value": "{platformScale.🚫 breadcrumbs-truncated-menu-to-separator-icon}",
     "type": "spacing",
     "$extensions": {
@@ -1660,7 +1660,7 @@
       }
     }
   },
-  "breadcrumbs-truncated-menu-to-separator": {
+  "Breadcrumbs/Truncated/Menu/To/Separator": {
     "value": "{platformScale.breadcrumbs-truncated-menu-to-separator}",
     "type": "spacing",
     "$extensions": {
@@ -1670,7 +1670,7 @@
       }
     }
   },
-  "breadcrumbs-text-to-separator-large": {
+  "Breadcrumbs/Text/To/Separator/Large": {
     "value": "{platformScale.breadcrumbs-text-to-separator-large}",
     "type": "spacing",
     "$extensions": {
@@ -1680,7 +1680,7 @@
       }
     }
   },
-  "breadcrumbs-text-to-separator-medium": {
+  "Breadcrumbs/Text/To/Separator/Medium": {
     "value": "{platformScale.breadcrumbs-text-to-separator-medium}",
     "type": "spacing",
     "$extensions": {
@@ -1690,7 +1690,7 @@
       }
     }
   },
-  "breadcrumbs-text-to-separator-multiline": {
+  "Breadcrumbs/Text/To/Separator/Multiline": {
     "value": "{platformScale.breadcrumbs-text-to-separator-multiline}",
     "type": "spacing",
     "$extensions": {
@@ -1700,7 +1700,7 @@
       }
     }
   },
-  "button-minimum-width-multiplier": {
+  "Button/Minimum/Width/Multiplier": {
     "value": "{platformScale.button-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -1710,7 +1710,7 @@
       }
     }
   },
-  "coach-indicator-collapsed-ring-rounding-increment": {
+  "Coach/Indicator/Collapsed/Ring/Rounding/Increment": {
     "value": "{platformScale.coach-indicator-collapsed-ring-rounding-increment}",
     "type": "borderRadius",
     "$extensions": {
@@ -1720,7 +1720,7 @@
       }
     }
   },
-  "coach-indicator-expanded-ring-rounding-increment": {
+  "Coach/Indicator/Expanded/Ring/Rounding/Increment": {
     "value": "{platformScale.coach-indicator-expanded-ring-rounding-increment}",
     "type": "borderRadius",
     "$extensions": {
@@ -1730,7 +1730,7 @@
       }
     }
   },
-  "card-edge-to-content-compact-extra-small": {
+  "Card/Edge to content/Compact/Extra small": {
     "value": "{platformScale.card-edge-to-content-compact-extra-small}",
     "type": "spacing",
     "$extensions": {
@@ -1740,7 +1740,7 @@
       }
     }
   },
-  "card-edge-to-content-default-extra-small": {
+  "Card/Edge to content/Default/Extra small": {
     "value": "{platformScale.card-edge-to-content-default-extra-small}",
     "type": "spacing",
     "$extensions": {
@@ -1750,7 +1750,7 @@
       }
     }
   },
-  "card-edge-to-content-spacious-extra-small": {
+  "Card/Edge to content/Spacious/Extra small": {
     "value": "{platformScale.card-edge-to-content-spacious-extra-small}",
     "type": "spacing",
     "$extensions": {
@@ -1760,7 +1760,7 @@
       }
     }
   },
-  "card-edge-to-content-compact-small": {
+  "Card/Edge to content/Compact/Small": {
     "value": "{platformScale.card-edge-to-content-compact-small}",
     "type": "spacing",
     "$extensions": {
@@ -1770,7 +1770,7 @@
       }
     }
   },
-  "card-edge-to-content-default-small": {
+  "Card/Edge to content/Default/Small": {
     "value": "{platformScale.card-edge-to-content-default-small}",
     "type": "spacing",
     "$extensions": {
@@ -1780,7 +1780,7 @@
       }
     }
   },
-  "card-edge-to-content-spacious-small": {
+  "Card/Edge to content/Spacious/Small": {
     "value": "{platformScale.card-edge-to-content-spacious-small}",
     "type": "spacing",
     "$extensions": {
@@ -1790,7 +1790,7 @@
       }
     }
   },
-  "card-edge-to-content-compact-medium": {
+  "Card/Edge to content/Compact/Medium": {
     "value": "{platformScale.card-edge-to-content-compact-medium}",
     "type": "spacing",
     "$extensions": {
@@ -1800,7 +1800,7 @@
       }
     }
   },
-  "card-edge-to-content-default-medium": {
+  "Card/Edge to content/Default/Medium": {
     "value": "{platformScale.card-edge-to-content-default-medium}",
     "type": "spacing",
     "$extensions": {
@@ -1810,7 +1810,7 @@
       }
     }
   },
-  "card-edge-to-content-spacious-medium": {
+  "Card/Edge to content/Spacious/Medium": {
     "value": "{platformScale.card-edge-to-content-spacious-medium}",
     "type": "spacing",
     "$extensions": {
@@ -1820,7 +1820,7 @@
       }
     }
   },
-  "card-edge-to-content-compact-large": {
+  "Card/Edge to content/Compact/Large": {
     "value": "{platformScale.card-edge-to-content-compact-large}",
     "type": "spacing",
     "$extensions": {
@@ -1830,7 +1830,7 @@
       }
     }
   },
-  "card-edge-to-content-default-large": {
+  "Card/Edge to content/Default/Large": {
     "value": "{platformScale.card-edge-to-content-default-large}",
     "type": "spacing",
     "$extensions": {
@@ -1840,7 +1840,7 @@
       }
     }
   },
-  "card-edge-to-content-spacious-large": {
+  "Card/Edge to content/Spacious/Large": {
     "value": "{platformScale.card-edge-to-content-spacious-large}",
     "type": "spacing",
     "$extensions": {
@@ -1850,7 +1850,7 @@
       }
     }
   },
-  "card-edge-to-content-compact-extra-large": {
+  "Card/Edge to content/Compact/Extra large": {
     "value": "{platformScale.card-edge-to-content-compact-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -1860,7 +1860,7 @@
       }
     }
   },
-  "card-edge-to-content-default-extra-large": {
+  "Card/Edge to content/Default/Extra large": {
     "value": "{platformScale.card-edge-to-content-default-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -1870,7 +1870,7 @@
       }
     }
   },
-  "card-edge-to-content-spacious-extra-large": {
+  "Card/Edge to content/Spacious/Extra large": {
     "value": "{platformScale.card-edge-to-content-spacious-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -1880,7 +1880,7 @@
       }
     }
   },
-  "card-header-to-description": {
+  "Card/Header/To/Description": {
     "value": "{platformScale.card-header-to-description}",
     "type": "spacing",
     "$extensions": {
@@ -1890,7 +1890,7 @@
       }
     }
   },
-  "card-description-to-footer": {
+  "Card/Description/To/Footer": {
     "value": "{platformScale.card-description-to-footer}",
     "type": "spacing",
     "$extensions": {
@@ -1900,7 +1900,7 @@
       }
     }
   },
-  "card-minimum-width": {
+  "Card/Minimum/Width": {
     "value": "{platformScale.card-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -1910,7 +1910,7 @@
       }
     }
   },
-  "card-preview-minimum-height": {
+  "Card/Preview/Minimum/Height": {
     "value": "{platformScale.card-preview-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -1920,7 +1920,7 @@
       }
     }
   },
-  "card-selection-background-size": {
+  "Card/Selection/Background/Size": {
     "value": "{platformScale.card-selection-background-size}",
     "type": "sizing",
     "$extensions": {
@@ -1930,7 +1930,7 @@
       }
     }
   },
-  "card-selection-background-size-small": {
+  "Card/Selection/Background/Size/Small": {
     "value": "{platformScale.card-selection-background-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -1940,7 +1940,7 @@
       }
     }
   },
-  "card-selection-background-size-medium": {
+  "Card/Selection/Background/Size/Medium": {
     "value": "{platformScale.card-selection-background-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -1950,7 +1950,7 @@
       }
     }
   },
-  "card-selection-background-size-large": {
+  "Card/Selection/Background/Size/Large": {
     "value": "{platformScale.card-selection-background-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -1960,7 +1960,7 @@
       }
     }
   },
-  "card-selection-background-size-extra-large": {
+  "Card/Selection/Background/Size/Extra large": {
     "value": "{platformScale.card-selection-background-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -1970,7 +1970,7 @@
       }
     }
   },
-  "card-minimum-width-extra-small": {
+  "Card/Minimum/Width/Extra small": {
     "value": "{platformScale.card-minimum-width-extra-small}",
     "type": "sizing",
     "$extensions": {
@@ -1980,7 +1980,7 @@
       }
     }
   },
-  "card-minimum-width-small": {
+  "Card/Minimum/Width/Small": {
     "value": "{platformScale.card-minimum-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -1990,7 +1990,7 @@
       }
     }
   },
-  "card-minimum-width-medium": {
+  "Card/Minimum/Width/Medium": {
     "value": "{platformScale.card-minimum-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2000,7 +2000,7 @@
       }
     }
   },
-  "card-minimum-width-large": {
+  "Card/Minimum/Width/Large": {
     "value": "{platformScale.card-minimum-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -2010,7 +2010,7 @@
       }
     }
   },
-  "card-minimum-width-extra-large": {
+  "Card/Minimum/Width/Extra large": {
     "value": "{platformScale.card-minimum-width-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2020,7 +2020,7 @@
       }
     }
   },
-  "card-default-width-extra-small": {
+  "Card/Default/Width/Extra small": {
     "value": "{platformScale.card-default-width-extra-small}",
     "type": "sizing",
     "$extensions": {
@@ -2030,7 +2030,7 @@
       }
     }
   },
-  "card-default-width-small": {
+  "Card/Default/Width/Small": {
     "value": "{platformScale.card-default-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -2040,7 +2040,7 @@
       }
     }
   },
-  "card-default-width-medium": {
+  "Card/Default/Width/Medium": {
     "value": "{platformScale.card-default-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2050,7 +2050,7 @@
       }
     }
   },
-  "card-default-width-large": {
+  "Card/Default/Width/Large": {
     "value": "{platformScale.card-default-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -2060,7 +2060,7 @@
       }
     }
   },
-  "card-default-width-extra-large": {
+  "Card/Default/Width/Extra large": {
     "value": "{platformScale.card-default-width-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2070,7 +2070,7 @@
       }
     }
   },
-  "card-maximum-width-extra-small": {
+  "Card/Maximum/Width/Extra small": {
     "value": "{platformScale.card-maximum-width-extra-small}",
     "type": "sizing",
     "$extensions": {
@@ -2080,7 +2080,7 @@
       }
     }
   },
-  "card-maximum-width-small": {
+  "Card/Maximum/Width/Small": {
     "value": "{platformScale.card-maximum-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -2090,7 +2090,7 @@
       }
     }
   },
-  "card-maximum-width-medium": {
+  "Card/Maximum/Width/Medium": {
     "value": "{platformScale.card-maximum-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2100,7 +2100,7 @@
       }
     }
   },
-  "card-maximum-width-large": {
+  "Card/Maximum/Width/Large": {
     "value": "{platformScale.card-maximum-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -2110,7 +2110,7 @@
       }
     }
   },
-  "card-maximum-width-extra-large": {
+  "Card/Maximum/Width/Extra large": {
     "value": "{platformScale.card-maximum-width-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2120,7 +2120,7 @@
       }
     }
   },
-  "card-minimum-height-extra-small": {
+  "Card/Minimum/Height/Extra small": {
     "value": "{platformScale.card-minimum-height-extra-small}",
     "type": "sizing",
     "$extensions": {
@@ -2130,7 +2130,7 @@
       }
     }
   },
-  "card-minimum-height-small": {
+  "Card/Minimum/Height/Small": {
     "value": "{platformScale.card-minimum-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -2140,7 +2140,7 @@
       }
     }
   },
-  "card-minimum-height-medium": {
+  "Card/Minimum/Height/Medium": {
     "value": "{platformScale.card-minimum-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2150,7 +2150,7 @@
       }
     }
   },
-  "card-minimum-height-large": {
+  "Card/Minimum/Height/Large": {
     "value": "{platformScale.card-minimum-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -2160,7 +2160,7 @@
       }
     }
   },
-  "card-minimum-height-extra-large": {
+  "Card/Minimum/Height/Extra large": {
     "value": "{platformScale.card-minimum-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2170,7 +2170,7 @@
       }
     }
   },
-  "card-horizontal-edge-to-content-compact": {
+  "Card/Horizontal/Edge to content/Compact": {
     "value": "{platformScale.card-horizontal-edge-to-content-compact}",
     "type": "spacing",
     "$extensions": {
@@ -2180,7 +2180,7 @@
       }
     }
   },
-  "card-horizontal-edge-to-content-default": {
+  "Card/Horizontal/Edge to content/Default": {
     "value": "{platformScale.card-horizontal-edge-to-content-default}",
     "type": "spacing",
     "$extensions": {
@@ -2190,7 +2190,7 @@
       }
     }
   },
-  "card-horizontal-edge-to-content-spacious": {
+  "Card/Horizontal/Edge to content/Spacious": {
     "value": "{platformScale.card-horizontal-edge-to-content-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -2200,7 +2200,7 @@
       }
     }
   },
-  "collection-card-minimum-height-extra-small": {
+  "Collection/Card/Minimum/Height/Extra small": {
     "value": "{platformScale.collection-card-minimum-height-extra-small}",
     "type": "sizing",
     "$extensions": {
@@ -2210,7 +2210,7 @@
       }
     }
   },
-  "collection-card-minimum-height-small": {
+  "Collection/Card/Minimum/Height/Small": {
     "value": "{platformScale.collection-card-minimum-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -2220,7 +2220,7 @@
       }
     }
   },
-  "collection-card-minimum-height-medium": {
+  "Collection/Card/Minimum/Height/Medium": {
     "value": "{platformScale.collection-card-minimum-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2230,7 +2230,7 @@
       }
     }
   },
-  "collection-card-minimum-height-large": {
+  "Collection/Card/Minimum/Height/Large": {
     "value": "{platformScale.collection-card-minimum-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -2240,7 +2240,7 @@
       }
     }
   },
-  "collection-card-minimum-height-extra-large": {
+  "Collection/Card/Minimum/Height/Extra large": {
     "value": "{platformScale.collection-card-minimum-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2250,7 +2250,7 @@
       }
     }
   },
-  "collection-card-minimum-height-hero-extra-small": {
+  "Collection/Card/Minimum/Height/Hero/Extra small": {
     "value": "{platformScale.collection-card-minimum-height-hero-extra-small}",
     "type": "sizing",
     "$extensions": {
@@ -2260,7 +2260,7 @@
       }
     }
   },
-  "collection-card-minimum-height-hero-small": {
+  "Collection/Card/Minimum/Height/Hero/Small": {
     "value": "{platformScale.collection-card-minimum-height-hero-small}",
     "type": "sizing",
     "$extensions": {
@@ -2270,7 +2270,7 @@
       }
     }
   },
-  "collection-card-minimum-height-hero-medium": {
+  "Collection/Card/Minimum/Height/Hero/Medium": {
     "value": "{platformScale.collection-card-minimum-height-hero-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2280,7 +2280,7 @@
       }
     }
   },
-  "collection-card-minimum-height-hero-large": {
+  "Collection/Card/Minimum/Height/Hero/Large": {
     "value": "{platformScale.collection-card-minimum-height-hero-large}",
     "type": "sizing",
     "$extensions": {
@@ -2290,7 +2290,7 @@
       }
     }
   },
-  "collection-card-minimum-height-hero-extra-large": {
+  "Collection/Card/Minimum/Height/Hero/Extra large": {
     "value": "{platformScale.collection-card-minimum-height-hero-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2300,7 +2300,7 @@
       }
     }
   },
-  "user-card-minimum-height-small": {
+  "User/Card/Minimum/Height/Small": {
     "value": "{platformScale.user-card-minimum-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -2310,7 +2310,7 @@
       }
     }
   },
-  "user-card-minimum-height-medium": {
+  "User/Card/Minimum/Height/Medium": {
     "value": "{platformScale.user-card-minimum-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2320,7 +2320,7 @@
       }
     }
   },
-  "user-card-minimum-height-large": {
+  "User/Card/Minimum/Height/Large": {
     "value": "{platformScale.user-card-minimum-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -2330,7 +2330,7 @@
       }
     }
   },
-  "user-card-minimum-height-extra-large": {
+  "User/Card/Minimum/Height/Extra large": {
     "value": "{platformScale.user-card-minimum-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2340,7 +2340,7 @@
       }
     }
   },
-  "user-card-minimum-height-title-below-small": {
+  "User/Card/Minimum/Height/Title/Below/Small": {
     "value": "{platformScale.user-card-minimum-height-title-below-small}",
     "type": "sizing",
     "$extensions": {
@@ -2350,7 +2350,7 @@
       }
     }
   },
-  "user-card-minimum-height-title-below-medium": {
+  "User/Card/Minimum/Height/Title/Below/Medium": {
     "value": "{platformScale.user-card-minimum-height-title-below-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2360,7 +2360,7 @@
       }
     }
   },
-  "user-card-minimum-height-title-below-large": {
+  "User/Card/Minimum/Height/Title/Below/Large": {
     "value": "{platformScale.user-card-minimum-height-title-below-large}",
     "type": "sizing",
     "$extensions": {
@@ -2370,7 +2370,7 @@
       }
     }
   },
-  "user-card-minimum-height-title-below-extra-large": {
+  "User/Card/Minimum/Height/Title/Below/Extra large": {
     "value": "{platformScale.user-card-minimum-height-title-below-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2380,7 +2380,7 @@
       }
     }
   },
-  "checkbox-control-size-extra-large": {
+  "Checkbox/Control/Size/Extra large": {
     "value": "{platformScale.checkbox-control-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -2390,7 +2390,7 @@
       }
     }
   },
-  "checkbox-control-size-large": {
+  "Checkbox/Control/Size/Large": {
     "value": "{platformScale.checkbox-control-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -2400,7 +2400,7 @@
       }
     }
   },
-  "checkbox-control-size-medium": {
+  "Checkbox/Control/Size/Medium": {
     "value": "{platformScale.checkbox-control-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -2410,7 +2410,7 @@
       }
     }
   },
-  "checkbox-control-size-small": {
+  "Checkbox/Control/Size/Small": {
     "value": "{platformScale.checkbox-control-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -2420,7 +2420,7 @@
       }
     }
   },
-  "checkbox-top-to-control-extra-large": {
+  "Checkbox/Top/To/Control/Extra large": {
     "value": "{platformScale.checkbox-top-to-control-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -2430,7 +2430,7 @@
       }
     }
   },
-  "checkbox-top-to-control-large": {
+  "Checkbox/Top/To/Control/Large": {
     "value": "{platformScale.checkbox-top-to-control-large}",
     "type": "spacing",
     "$extensions": {
@@ -2440,7 +2440,7 @@
       }
     }
   },
-  "checkbox-top-to-control-medium": {
+  "Checkbox/Top/To/Control/Medium": {
     "value": "{platformScale.checkbox-top-to-control-medium}",
     "type": "spacing",
     "$extensions": {
@@ -2450,7 +2450,7 @@
       }
     }
   },
-  "checkbox-top-to-control-small": {
+  "Checkbox/Top/To/Control/Small": {
     "value": "{platformScale.checkbox-top-to-control-small}",
     "type": "spacing",
     "$extensions": {
@@ -2460,7 +2460,7 @@
       }
     }
   },
-  "coach-indicator-collapsed-ring-thickness": {
+  "Coach/Indicator/Collapsed/Ring/Thickness": {
     "value": "{platformScale.coach-indicator-collapsed-ring-thickness}",
     "type": "spacing",
     "$extensions": {
@@ -2470,7 +2470,7 @@
       }
     }
   },
-  "🚫 coach-mark-body-size": {
+  "🚫 Coach/Mark/Body/Size": {
     "value": "{platformScale.🚫 coach-mark-body-size}",
     "type": "sizing",
     "$extensions": {
@@ -2480,7 +2480,7 @@
       }
     }
   },
-  "coach-mark-body-font-size": {
+  "Coach/Mark/Body/Font/Size": {
     "value": "{platformScale.coach-mark-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2490,7 +2490,7 @@
       }
     }
   },
-  "standard-dialog-body-font-size": {
+  "Standard/Dialog/Body/Font/Size": {
     "value": "{platformScale.standard-dialog-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2500,7 +2500,7 @@
       }
     }
   },
-  "coach-indicator-expanded-ring-thickness": {
+  "Coach/Indicator/Expanded/Ring/Thickness": {
     "value": "{platformScale.coach-indicator-expanded-ring-thickness}",
     "type": "spacing",
     "$extensions": {
@@ -2510,7 +2510,7 @@
       }
     }
   },
-  "coach-mark-edge-to-content": {
+  "Coach/Mark/Edge to content": {
     "value": "{platformScale.coach-mark-edge-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -2520,7 +2520,7 @@
       }
     }
   },
-  "coach-mark-maximum-width": {
+  "Coach/Mark/Maximum/Width": {
     "value": "{platformScale.coach-mark-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -2530,7 +2530,7 @@
       }
     }
   },
-  "coach-mark-media-height": {
+  "Coach/Mark/Media/Height": {
     "value": "{platformScale.coach-mark-media-height}",
     "type": "sizing",
     "$extensions": {
@@ -2540,7 +2540,7 @@
       }
     }
   },
-  "coach-mark-media-minimum-height": {
+  "Coach/Mark/Media/Minimum/Height": {
     "value": "{platformScale.coach-mark-media-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -2550,7 +2550,7 @@
       }
     }
   },
-  "coach-mark-minimum-width": {
+  "Coach/Mark/Minimum/Width": {
     "value": "{platformScale.coach-mark-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -2560,7 +2560,7 @@
       }
     }
   },
-  "🚫 coach-mark-pagination-body-size": {
+  "🚫 Coach/Mark/Pagination/Body/Size": {
     "value": "{platformScale.🚫 coach-mark-pagination-body-size}",
     "type": "sizing",
     "$extensions": {
@@ -2570,7 +2570,7 @@
       }
     }
   },
-  "coach-mark-pagination-body-font-size": {
+  "Coach/Mark/Pagination/Body/Font/Size": {
     "value": "{platformScale.coach-mark-pagination-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2580,7 +2580,7 @@
       }
     }
   },
-  "coach-mark-pagination-text-to-bottom-edge": {
+  "Coach/Mark/Pagination/Text/To/Bottom/Edge": {
     "value": "{platformScale.coach-mark-pagination-text-to-bottom-edge}",
     "type": "spacing",
     "$extensions": {
@@ -2590,7 +2590,7 @@
       }
     }
   },
-  "🚫 coach-mark-title-size": {
+  "🚫 Coach/Mark/Title/Size": {
     "value": "{platformScale.🚫 coach-mark-title-size}",
     "type": "sizing",
     "$extensions": {
@@ -2600,7 +2600,7 @@
       }
     }
   },
-  "coach-mark-title-font-size": {
+  "Coach/Mark/Title/Font/Size": {
     "value": "{platformScale.coach-mark-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2610,7 +2610,7 @@
       }
     }
   },
-  "illustrated-message-small-title-font-size": {
+  "Illustrated/Message/Small/Title/Font/Size": {
     "value": "{platformScale.illustrated-message-small-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2620,7 +2620,7 @@
       }
     }
   },
-  "illustrated-message-small-cjk-title-font-size": {
+  "Illustrated/Message/Small/CJK/Title/Font/Size": {
     "value": "{platformScale.illustrated-message-small-cjk-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2630,7 +2630,7 @@
       }
     }
   },
-  "illustrated-message-medium-title-font-size": {
+  "Illustrated/Message/Medium/Title/Font/Size": {
     "value": "{platformScale.illustrated-message-medium-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2640,7 +2640,7 @@
       }
     }
   },
-  "illustrated-message-medium-cjk-title-font-size": {
+  "Illustrated/Message/Medium/CJK/Title/Font/Size": {
     "value": "{platformScale.illustrated-message-medium-cjk-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2650,7 +2650,7 @@
       }
     }
   },
-  "illustrated-message-large-title-font-size": {
+  "Illustrated/Message/Large/Title/Font/Size": {
     "value": "{platformScale.illustrated-message-large-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2660,7 +2660,7 @@
       }
     }
   },
-  "illustrated-message-large-cjk-title-font-size": {
+  "Illustrated/Message/Large/CJK/Title/Font/Size": {
     "value": "{platformScale.illustrated-message-large-cjk-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2670,7 +2670,7 @@
       }
     }
   },
-  "illustrated-message-small-body-font-size": {
+  "Illustrated/Message/Small/Body/Font/Size": {
     "value": "{platformScale.illustrated-message-small-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2680,7 +2680,7 @@
       }
     }
   },
-  "illustrated-message-medium-body-font-size": {
+  "Illustrated/Message/Medium/Body/Font/Size": {
     "value": "{platformScale.illustrated-message-medium-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2690,7 +2690,7 @@
       }
     }
   },
-  "illustrated-message-large-body-font-size": {
+  "Illustrated/Message/Large/Body/Font/Size": {
     "value": "{platformScale.illustrated-message-large-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2700,7 +2700,7 @@
       }
     }
   },
-  "drop-zone-title-font-size": {
+  "Drop/Zone/Title/Font/Size": {
     "value": "{platformScale.drop-zone-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2710,7 +2710,7 @@
       }
     }
   },
-  "drop-zone-cjk-title-font-size": {
+  "Drop/Zone/CJK/Title/Font/Size": {
     "value": "{platformScale.drop-zone-cjk-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2720,7 +2720,7 @@
       }
     }
   },
-  "drop-zone-body-font-size": {
+  "Drop/Zone/Body/Font/Size": {
     "value": "{platformScale.drop-zone-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -2730,7 +2730,7 @@
       }
     }
   },
-  "coach-mark-width": {
+  "Coach/Mark/Width": {
     "value": "{platformScale.coach-mark-width}",
     "type": "sizing",
     "$extensions": {
@@ -2740,7 +2740,7 @@
       }
     }
   },
-  "color-area-border-rounding": {
+  "Color/Area/Border/Rounding": {
     "value": "{platformScale.color-area-border-rounding}",
     "type": "borderRadius",
     "$extensions": {
@@ -2750,7 +2750,7 @@
       }
     }
   },
-  "color-area-border-width": {
+  "Color/Area/Border/Width": {
     "value": "{platformScale.color-area-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -2760,7 +2760,7 @@
       }
     }
   },
-  "color-area-height": {
+  "Color/Area/Height": {
     "value": "{platformScale.color-area-height}",
     "type": "sizing",
     "$extensions": {
@@ -2770,7 +2770,7 @@
       }
     }
   },
-  "color-area-minimum-height": {
+  "Color/Area/Minimum/Height": {
     "value": "{platformScale.color-area-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -2780,7 +2780,7 @@
       }
     }
   },
-  "color-area-minimum-width": {
+  "Color/Area/Minimum/Width": {
     "value": "{platformScale.color-area-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -2790,7 +2790,7 @@
       }
     }
   },
-  "color-area-width": {
+  "Color/Area/Width": {
     "value": "{platformScale.color-area-width}",
     "type": "sizing",
     "$extensions": {
@@ -2800,7 +2800,7 @@
       }
     }
   },
-  "color-handle-border-width": {
+  "Color/Handle/Border/Width": {
     "value": "{platformScale.color-handle-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -2810,7 +2810,7 @@
       }
     }
   },
-  "color-handle-drop-shadow-blur": {
+  "Color/Handle/Drop/Shadow/Blur": {
     "value": "{platformScale.color-handle-drop-shadow-blur}",
     "type": "other",
     "$extensions": {
@@ -2820,7 +2820,7 @@
       }
     }
   },
-  "color-handle-drop-shadow-x": {
+  "Color/Handle/Drop/Shadow/X": {
     "value": "{platformScale.color-handle-drop-shadow-x}",
     "type": "other",
     "$extensions": {
@@ -2830,7 +2830,7 @@
       }
     }
   },
-  "color-handle-drop-shadow-y": {
+  "Color/Handle/Drop/Shadow/Y": {
     "value": "{platformScale.color-handle-drop-shadow-y}",
     "type": "other",
     "$extensions": {
@@ -2840,7 +2840,7 @@
       }
     }
   },
-  "color-handle-inner-border-width": {
+  "Color/Handle/Inner/Border/Width": {
     "value": "{platformScale.color-handle-inner-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -2850,7 +2850,7 @@
       }
     }
   },
-  "color-handle-outer-border-width": {
+  "Color/Handle/Outer/Border/Width": {
     "value": "{platformScale.color-handle-outer-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -2860,7 +2860,7 @@
       }
     }
   },
-  "color-handle-size": {
+  "Color/Handle/Size": {
     "value": "{platformScale.color-handle-size}",
     "type": "sizing",
     "$extensions": {
@@ -2870,7 +2870,7 @@
       }
     }
   },
-  "color-handle-size-key-focus": {
+  "Color/Handle/Size/Key/Focus": {
     "value": "{platformScale.color-handle-size-key-focus}",
     "type": "sizing",
     "$extensions": {
@@ -2880,7 +2880,7 @@
       }
     }
   },
-  "color-loupe-bottom-to-color-handle": {
+  "Color/Loupe/Bottom/To/Color/Handle": {
     "value": "{platformScale.color-loupe-bottom-to-color-handle}",
     "type": "spacing",
     "$extensions": {
@@ -2890,7 +2890,7 @@
       }
     }
   },
-  "🚫 color-loupe-drop-shadow-blur": {
+  "🚫 Color/Loupe/Drop/Shadow/Blur": {
     "value": "{platformScale.🚫 color-loupe-drop-shadow-blur}",
     "type": "other",
     "$extensions": {
@@ -2900,7 +2900,7 @@
       }
     }
   },
-  "🚫 color-loupe-drop-shadow-y": {
+  "🚫 Color/Loupe/Drop/Shadow/Y": {
     "value": "{platformScale.🚫 color-loupe-drop-shadow-y}",
     "type": "other",
     "$extensions": {
@@ -2910,7 +2910,7 @@
       }
     }
   },
-  "color-loupe-height": {
+  "Color/Loupe/Height": {
     "value": "{platformScale.color-loupe-height}",
     "type": "sizing",
     "$extensions": {
@@ -2920,7 +2920,7 @@
       }
     }
   },
-  "color-loupe-inner-border-width": {
+  "Color/Loupe/Inner/Border/Width": {
     "value": "{platformScale.color-loupe-inner-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -2930,7 +2930,7 @@
       }
     }
   },
-  "color-loupe-outer-border-width": {
+  "Color/Loupe/Outer/Border/Width": {
     "value": "{platformScale.color-loupe-outer-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -2940,7 +2940,7 @@
       }
     }
   },
-  "color-loupe-width": {
+  "Color/Loupe/Width": {
     "value": "{platformScale.color-loupe-width}",
     "type": "sizing",
     "$extensions": {
@@ -2950,7 +2950,7 @@
       }
     }
   },
-  "color-slider-border-rounding": {
+  "Color/Slider/Border/Rounding": {
     "value": "{platformScale.color-slider-border-rounding}",
     "type": "borderRadius",
     "$extensions": {
@@ -2960,7 +2960,7 @@
       }
     }
   },
-  "color-slider-border-width": {
+  "Color/Slider/Border/Width": {
     "value": "{platformScale.color-slider-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -2970,7 +2970,7 @@
       }
     }
   },
-  "color-slider-length": {
+  "Color/Slider/Length": {
     "value": "{platformScale.color-slider-length}",
     "type": "spacing",
     "$extensions": {
@@ -2980,7 +2980,7 @@
       }
     }
   },
-  "color-slider-minimum-length": {
+  "Color/Slider/Minimum/Length": {
     "value": "{platformScale.color-slider-minimum-length}",
     "type": "spacing",
     "$extensions": {
@@ -2990,7 +2990,7 @@
       }
     }
   },
-  "color-wheel-color-area-margin": {
+  "Color/Wheel/Color/Area/Margin": {
     "value": "{platformScale.color-wheel-color-area-margin}",
     "type": "spacing",
     "$extensions": {
@@ -3000,7 +3000,7 @@
       }
     }
   },
-  "color-wheel-minimum-width": {
+  "Color/Wheel/Minimum/Width": {
     "value": "{platformScale.color-wheel-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -3010,7 +3010,7 @@
       }
     }
   },
-  "color-wheel-width": {
+  "Color/Wheel/Width": {
     "value": "{platformScale.color-wheel-width}",
     "type": "sizing",
     "$extensions": {
@@ -3020,7 +3020,7 @@
       }
     }
   },
-  "combo-box-minimum-width-multiplier": {
+  "Combo/Box/Minimum/Width/Multiplier": {
     "value": "{platformScale.combo-box-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -3030,7 +3030,7 @@
       }
     }
   },
-  "🚫 combo-box-quiet-minimum-width-multiplier": {
+  "🚫 Combo/Box/Quiet/Minimum/Width/Multiplier": {
     "value": "{platformScale.🚫 combo-box-quiet-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -3040,7 +3040,7 @@
       }
     }
   },
-  "🚫 combo-box-visual-to-field-button-extra-large": {
+  "🚫 Combo/Box/Visual/To/Field/Button/Extra large": {
     "value": "{platformScale.🚫 combo-box-visual-to-field-button-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3050,7 +3050,7 @@
       }
     }
   },
-  "🚫 combo-box-visual-to-field-button-large": {
+  "🚫 Combo/Box/Visual/To/Field/Button/Large": {
     "value": "{platformScale.🚫 combo-box-visual-to-field-button-large}",
     "type": "spacing",
     "$extensions": {
@@ -3060,7 +3060,7 @@
       }
     }
   },
-  "🚫 combo-box-visual-to-field-button-medium": {
+  "🚫 Combo/Box/Visual/To/Field/Button/Medium": {
     "value": "{platformScale.🚫 combo-box-visual-to-field-button-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3070,7 +3070,7 @@
       }
     }
   },
-  "🚫 combo-box-visual-to-field-button-quiet": {
+  "🚫 Combo/Box/Visual/To/Field/Button/Quiet": {
     "value": "{platformScale.🚫 combo-box-visual-to-field-button-quiet}",
     "type": "spacing",
     "$extensions": {
@@ -3080,7 +3080,7 @@
       }
     }
   },
-  "combo-box-visual-to-field-button": {
+  "Combo/Box/Visual/To/Field/Button": {
     "value": "{platformScale.combo-box-visual-to-field-button}",
     "type": "spacing",
     "$extensions": {
@@ -3090,7 +3090,7 @@
       }
     }
   },
-  "🚫 combo-box-visual-to-field-button-small": {
+  "🚫 Combo/Box/Visual/To/Field/Button/Small": {
     "value": "{platformScale.🚫 combo-box-visual-to-field-button-small}",
     "type": "spacing",
     "$extensions": {
@@ -3100,7 +3100,7 @@
       }
     }
   },
-  "🚫 contextual-help-body-size": {
+  "🚫 Contextual/Help/Body/Size": {
     "value": "{platformScale.🚫 contextual-help-body-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3110,7 +3110,7 @@
       }
     }
   },
-  "contextual-help-body-font-size": {
+  "Contextual/Help/Body/Font/Size": {
     "value": "{platformScale.contextual-help-body-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3120,7 +3120,7 @@
       }
     }
   },
-  "contextual-help-minimum-width": {
+  "Contextual/Help/Minimum/Width": {
     "value": "{platformScale.contextual-help-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -3130,7 +3130,7 @@
       }
     }
   },
-  "🚫 contextual-help-title-size": {
+  "🚫 Contextual/Help/Title/Size": {
     "value": "{platformScale.🚫 contextual-help-title-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3140,7 +3140,7 @@
       }
     }
   },
-  "contextual-help-title-font-size": {
+  "Contextual/Help/Title/Font/Size": {
     "value": "{platformScale.contextual-help-title-font-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3150,7 +3150,7 @@
       }
     }
   },
-  "divider-thickness-large": {
+  "Divider/Thickness/Large": {
     "value": "{platformScale.divider-thickness-large}",
     "type": "spacing",
     "$extensions": {
@@ -3160,7 +3160,7 @@
       }
     }
   },
-  "divider-thickness-medium": {
+  "Divider/Thickness/Medium": {
     "value": "{platformScale.divider-thickness-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3170,7 +3170,7 @@
       }
     }
   },
-  "divider-thickness-small": {
+  "Divider/Thickness/Small": {
     "value": "{platformScale.divider-thickness-small}",
     "type": "spacing",
     "$extensions": {
@@ -3180,7 +3180,7 @@
       }
     }
   },
-  "🚫 drop-zone-body-size": {
+  "🚫 Drop/Zone/Body/Size": {
     "value": "{platformScale.🚫 drop-zone-body-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3190,7 +3190,7 @@
       }
     }
   },
-  "coach-indicator-collapsed-gap": {
+  "Coach/Indicator/Collapsed/Gap": {
     "value": "{platformScale.coach-indicator-collapsed-gap}",
     "type": "spacing",
     "$extensions": {
@@ -3200,7 +3200,7 @@
       }
     }
   },
-  "coach-indicator-expanded-gap": {
+  "Coach/Indicator/Expanded/Gap": {
     "value": "{platformScale.coach-indicator-expanded-gap}",
     "type": "spacing",
     "$extensions": {
@@ -3210,7 +3210,7 @@
       }
     }
   },
-  "drop-zone-border-dash-gap": {
+  "Drop/Zone/Border/Dash/Gap": {
     "value": "{platformScale.drop-zone-border-dash-gap}",
     "type": "spacing",
     "$extensions": {
@@ -3220,7 +3220,7 @@
       }
     }
   },
-  "drop-zone-border-dash-length": {
+  "Drop/Zone/Border/Dash/Length": {
     "value": "{platformScale.drop-zone-border-dash-length}",
     "type": "spacing",
     "$extensions": {
@@ -3230,7 +3230,7 @@
       }
     }
   },
-  "🚫 drop-zone-cjk-title-size": {
+  "🚫 Drop/Zone/CJK/Title/Size": {
     "value": "{platformScale.🚫 drop-zone-cjk-title-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3240,7 +3240,7 @@
       }
     }
   },
-  "🚫 drop-zone-content-maximum-width": {
+  "🚫 Drop/Zone/Content/Maximum/Width": {
     "value": "{platformScale.🚫 drop-zone-content-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -3250,7 +3250,7 @@
       }
     }
   },
-  "🚫 drop-zone-title-size": {
+  "🚫 Drop/Zone/Title/Size": {
     "value": "{platformScale.🚫 drop-zone-title-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3260,7 +3260,7 @@
       }
     }
   },
-  "drop-zone-width": {
+  "Drop/Zone/Width": {
     "value": "{platformScale.drop-zone-width}",
     "type": "sizing",
     "$extensions": {
@@ -3270,7 +3270,7 @@
       }
     }
   },
-  "field-label-text-to-asterisk-extra-large": {
+  "Field/Label/Text/To/Asterisk/Extra large": {
     "value": "{platformScale.field-label-text-to-asterisk-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3280,7 +3280,7 @@
       }
     }
   },
-  "field-label-text-to-asterisk-large": {
+  "Field/Label/Text/To/Asterisk/Large": {
     "value": "{platformScale.field-label-text-to-asterisk-large}",
     "type": "spacing",
     "$extensions": {
@@ -3290,7 +3290,7 @@
       }
     }
   },
-  "field-label-text-to-asterisk-medium": {
+  "Field/Label/Text/To/Asterisk/Medium": {
     "value": "{platformScale.field-label-text-to-asterisk-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3300,7 +3300,7 @@
       }
     }
   },
-  "field-label-text-to-asterisk-small": {
+  "Field/Label/Text/To/Asterisk/Small": {
     "value": "{platformScale.field-label-text-to-asterisk-small}",
     "type": "spacing",
     "$extensions": {
@@ -3310,7 +3310,7 @@
       }
     }
   },
-  "field-label-to-component": {
+  "Field/Label/To/Component": {
     "value": "{platformScale.field-label-to-component}",
     "type": "spacing",
     "$extensions": {
@@ -3320,7 +3320,7 @@
       }
     }
   },
-  "🚫 field-label-to-component-quiet-extra-large": {
+  "🚫 Field/Label/To/Component/Quiet/Extra large": {
     "value": "{platformScale.🚫 field-label-to-component-quiet-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3330,7 +3330,7 @@
       }
     }
   },
-  "🚫 field-label-to-component-quiet-large": {
+  "🚫 Field/Label/To/Component/Quiet/Large": {
     "value": "{platformScale.🚫 field-label-to-component-quiet-large}",
     "type": "spacing",
     "$extensions": {
@@ -3340,7 +3340,7 @@
       }
     }
   },
-  "🚫 field-label-to-component-quiet-medium": {
+  "🚫 Field/Label/To/Component/Quiet/Medium": {
     "value": "{platformScale.🚫 field-label-to-component-quiet-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3350,7 +3350,7 @@
       }
     }
   },
-  "🚫 field-label-to-component-quiet-small": {
+  "🚫 Field/Label/To/Component/Quiet/Small": {
     "value": "{platformScale.🚫 field-label-to-component-quiet-small}",
     "type": "spacing",
     "$extensions": {
@@ -3360,7 +3360,7 @@
       }
     }
   },
-  "field-label-top-margin-extra-large": {
+  "Field/Label/Top/Margin/Extra large": {
     "value": "{platformScale.field-label-top-margin-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3370,7 +3370,7 @@
       }
     }
   },
-  "field-label-top-margin-large": {
+  "Field/Label/Top/Margin/Large": {
     "value": "{platformScale.field-label-top-margin-large}",
     "type": "spacing",
     "$extensions": {
@@ -3380,7 +3380,7 @@
       }
     }
   },
-  "field-label-top-margin-medium": {
+  "Field/Label/Top/Margin/Medium": {
     "value": "{platformScale.field-label-top-margin-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3390,7 +3390,7 @@
       }
     }
   },
-  "field-label-top-margin-small": {
+  "Field/Label/Top/Margin/Small": {
     "value": "{platformScale.field-label-top-margin-small}",
     "type": "spacing",
     "$extensions": {
@@ -3400,7 +3400,7 @@
       }
     }
   },
-  "field-label-top-to-asterisk-extra-large": {
+  "Field/Label/Top/To/Asterisk/Extra large": {
     "value": "{platformScale.field-label-top-to-asterisk-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3410,7 +3410,7 @@
       }
     }
   },
-  "field-label-top-to-asterisk-large": {
+  "Field/Label/Top/To/Asterisk/Large": {
     "value": "{platformScale.field-label-top-to-asterisk-large}",
     "type": "spacing",
     "$extensions": {
@@ -3420,7 +3420,7 @@
       }
     }
   },
-  "field-label-top-to-asterisk-medium": {
+  "Field/Label/Top/To/Asterisk/Medium": {
     "value": "{platformScale.field-label-top-to-asterisk-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3430,7 +3430,7 @@
       }
     }
   },
-  "field-label-top-to-asterisk-small": {
+  "Field/Label/Top/To/Asterisk/Small": {
     "value": "{platformScale.field-label-top-to-asterisk-small}",
     "type": "spacing",
     "$extensions": {
@@ -3440,7 +3440,7 @@
       }
     }
   },
-  "floating-action-button-drop-shadow-blur": {
+  "Floating/Action/Button/Drop/Shadow/Blur": {
     "value": "{platformScale.floating-action-button-drop-shadow-blur}",
     "type": "other",
     "$extensions": {
@@ -3450,7 +3450,7 @@
       }
     }
   },
-  "floating-action-button-drop-shadow-y": {
+  "Floating/Action/Button/Drop/Shadow/Y": {
     "value": "{platformScale.floating-action-button-drop-shadow-y}",
     "type": "other",
     "$extensions": {
@@ -3460,7 +3460,7 @@
       }
     }
   },
-  "help-text-to-component": {
+  "Help/Text/To/Component": {
     "value": "{platformScale.help-text-to-component}",
     "type": "spacing",
     "$extensions": {
@@ -3470,7 +3470,7 @@
       }
     }
   },
-  "🚫 help-text-top-to-workflow-icon-extra-large": {
+  "🚫 Help/Text/Top/To/Workflow/Icon/Extra large": {
     "value": "{platformScale.🚫 help-text-top-to-workflow-icon-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3480,7 +3480,7 @@
       }
     }
   },
-  "🚫 help-text-top-to-workflow-icon-large": {
+  "🚫 Help/Text/Top/To/Workflow/Icon/Large": {
     "value": "{platformScale.🚫 help-text-top-to-workflow-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -3490,7 +3490,7 @@
       }
     }
   },
-  "🚫 help-text-top-to-workflow-icon-medium": {
+  "🚫 Help/Text/Top/To/Workflow/Icon/Medium": {
     "value": "{platformScale.🚫 help-text-top-to-workflow-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3500,7 +3500,7 @@
       }
     }
   },
-  "🚫 help-text-top-to-workflow-icon-small": {
+  "🚫 Help/Text/Top/To/Workflow/Icon/Small": {
     "value": "{platformScale.🚫 help-text-top-to-workflow-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -3510,7 +3510,7 @@
       }
     }
   },
-  "🚫 illustrated-message-body-size": {
+  "🚫 Illustrated/Message/Body/Size": {
     "value": "{platformScale.🚫 illustrated-message-body-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3520,7 +3520,7 @@
       }
     }
   },
-  "🚫 illustrated-message-cjk-title-size": {
+  "🚫 Illustrated/Message/CJK/Title/Size": {
     "value": "{platformScale.🚫 illustrated-message-cjk-title-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3530,7 +3530,7 @@
       }
     }
   },
-  "🚫 illustrated-message-maximum-width": {
+  "🚫 Illustrated/Message/Maximum/Width": {
     "value": "{platformScale.🚫 illustrated-message-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -3540,7 +3540,7 @@
       }
     }
   },
-  "illustrated-message-horizontal-maximum-width": {
+  "Illustrated/Message/Horizontal/Maximum/Width": {
     "value": "{platformScale.illustrated-message-horizontal-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -3550,7 +3550,7 @@
       }
     }
   },
-  "illustrated-message-vertical-maximum-width": {
+  "Illustrated/Message/Vertical/Maximum/Width": {
     "value": "{platformScale.illustrated-message-vertical-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -3560,7 +3560,7 @@
       }
     }
   },
-  "🚫 illustrated-message-title-size": {
+  "🚫 Illustrated/Message/Title/Size": {
     "value": "{platformScale.🚫 illustrated-message-title-size}",
     "type": "fontSizes",
     "$extensions": {
@@ -3570,7 +3570,7 @@
       }
     }
   },
-  "in-field-button-edge-to-disclosure-icon-stacked-extra-large": {
+  "In/Field/Button/Edge/To/Disclosure/Icon/Stacked/Extra large": {
     "value": "{platformScale.in-field-button-edge-to-disclosure-icon-stacked-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3580,7 +3580,7 @@
       }
     }
   },
-  "in-field-button-edge-to-disclosure-icon-stacked-large": {
+  "In/Field/Button/Edge/To/Disclosure/Icon/Stacked/Large": {
     "value": "{platformScale.in-field-button-edge-to-disclosure-icon-stacked-large}",
     "type": "spacing",
     "$extensions": {
@@ -3590,7 +3590,7 @@
       }
     }
   },
-  "in-field-button-edge-to-disclosure-icon-stacked-medium": {
+  "In/Field/Button/Edge/To/Disclosure/Icon/Stacked/Medium": {
     "value": "{platformScale.in-field-button-edge-to-disclosure-icon-stacked-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3600,7 +3600,7 @@
       }
     }
   },
-  "in-field-button-edge-to-disclosure-icon-stacked-small": {
+  "In/Field/Button/Edge/To/Disclosure/Icon/Stacked/Small": {
     "value": "{platformScale.in-field-button-edge-to-disclosure-icon-stacked-small}",
     "type": "spacing",
     "$extensions": {
@@ -3610,7 +3610,7 @@
       }
     }
   },
-  "🚫 in-field-button-edge-to-fill": {
+  "🚫 In/Field/Button/Edge/To/Fill": {
     "value": "{platformScale.🚫 in-field-button-edge-to-fill}",
     "type": "spacing",
     "$extensions": {
@@ -3620,7 +3620,7 @@
       }
     }
   },
-  "in-field-button-edge-to-fill-small": {
+  "In/Field/Button/Edge/To/Fill/Small": {
     "value": "{platformScale.in-field-button-edge-to-fill-small}",
     "type": "spacing",
     "$extensions": {
@@ -3630,7 +3630,7 @@
       }
     }
   },
-  "in-field-button-edge-to-fill-medium": {
+  "In/Field/Button/Edge/To/Fill/Medium": {
     "value": "{platformScale.in-field-button-edge-to-fill-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3640,7 +3640,7 @@
       }
     }
   },
-  "in-field-button-edge-to-fill-large": {
+  "In/Field/Button/Edge/To/Fill/Large": {
     "value": "{platformScale.in-field-button-edge-to-fill-large}",
     "type": "spacing",
     "$extensions": {
@@ -3650,7 +3650,7 @@
       }
     }
   },
-  "in-field-button-edge-to-fill-extra-large": {
+  "In/Field/Button/Edge/To/Fill/Extra large": {
     "value": "{platformScale.in-field-button-edge-to-fill-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3660,7 +3660,7 @@
       }
     }
   },
-  "in-field-button-fill-stacked-inner-border-rounding": {
+  "In/Field/Button/Fill/Stacked/Inner/Border/Rounding": {
     "value": "{platformScale.in-field-button-fill-stacked-inner-border-rounding}",
     "type": "spacing",
     "$extensions": {
@@ -3670,7 +3670,7 @@
       }
     }
   },
-  "in-field-button-inner-edge-to-disclosure-icon-stacked-extra-large": {
+  "In/Field/Button/Inner/Edge/To/Disclosure/Icon/Stacked/Extra large": {
     "value": "{platformScale.in-field-button-inner-edge-to-disclosure-icon-stacked-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3680,7 +3680,7 @@
       }
     }
   },
-  "in-field-button-inner-edge-to-disclosure-icon-stacked-large": {
+  "In/Field/Button/Inner/Edge/To/Disclosure/Icon/Stacked/Large": {
     "value": "{platformScale.in-field-button-inner-edge-to-disclosure-icon-stacked-large}",
     "type": "spacing",
     "$extensions": {
@@ -3690,7 +3690,7 @@
       }
     }
   },
-  "in-field-button-inner-edge-to-disclosure-icon-stacked-medium": {
+  "In/Field/Button/Inner/Edge/To/Disclosure/Icon/Stacked/Medium": {
     "value": "{platformScale.in-field-button-inner-edge-to-disclosure-icon-stacked-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3700,7 +3700,7 @@
       }
     }
   },
-  "in-field-button-inner-edge-to-disclosure-icon-stacked-small": {
+  "In/Field/Button/Inner/Edge/To/Disclosure/Icon/Stacked/Small": {
     "value": "{platformScale.in-field-button-inner-edge-to-disclosure-icon-stacked-small}",
     "type": "spacing",
     "$extensions": {
@@ -3710,7 +3710,7 @@
       }
     }
   },
-  "in-field-button-outer-edge-to-disclosure-icon-stacked-extra-large": {
+  "In/Field/Button/Outer/Edge/To/Disclosure/Icon/Stacked/Extra large": {
     "value": "{platformScale.in-field-button-outer-edge-to-disclosure-icon-stacked-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3720,7 +3720,7 @@
       }
     }
   },
-  "in-field-button-outer-edge-to-disclosure-icon-stacked-large": {
+  "In/Field/Button/Outer/Edge/To/Disclosure/Icon/Stacked/Large": {
     "value": "{platformScale.in-field-button-outer-edge-to-disclosure-icon-stacked-large}",
     "type": "spacing",
     "$extensions": {
@@ -3730,7 +3730,7 @@
       }
     }
   },
-  "in-field-button-outer-edge-to-disclosure-icon-stacked-medium": {
+  "In/Field/Button/Outer/Edge/To/Disclosure/Icon/Stacked/Medium": {
     "value": "{platformScale.in-field-button-outer-edge-to-disclosure-icon-stacked-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3740,7 +3740,7 @@
       }
     }
   },
-  "in-field-button-outer-edge-to-disclosure-icon-stacked-small": {
+  "In/Field/Button/Outer/Edge/To/Disclosure/Icon/Stacked/Small": {
     "value": "{platformScale.in-field-button-outer-edge-to-disclosure-icon-stacked-small}",
     "type": "spacing",
     "$extensions": {
@@ -3750,7 +3750,7 @@
       }
     }
   },
-  "in-field-button-stacked-inner-edge-to-fill": {
+  "In/Field/Button/Stacked/Inner/Edge/To/Fill": {
     "value": "{platformScale.in-field-button-stacked-inner-edge-to-fill}",
     "type": "spacing",
     "$extensions": {
@@ -3760,7 +3760,7 @@
       }
     }
   },
-  "in-field-progress-circle-edge-to-fill": {
+  "In/Field/Progress/Circle/Edge/To/Fill": {
     "value": "{platformScale.in-field-progress-circle-edge-to-fill}",
     "type": "spacing",
     "$extensions": {
@@ -3770,7 +3770,7 @@
       }
     }
   },
-  "in-field-stepper-to-end-small": {
+  "In/Field/Stepper/To/End/Small": {
     "value": "{platformScale.in-field-stepper-to-end-small}",
     "type": "spacing",
     "$extensions": {
@@ -3780,7 +3780,7 @@
       }
     }
   },
-  "in-field-stepper-to-end-medium": {
+  "In/Field/Stepper/To/End/Medium": {
     "value": "{platformScale.in-field-stepper-to-end-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3790,7 +3790,7 @@
       }
     }
   },
-  "in-field-stepper-to-end-large": {
+  "In/Field/Stepper/To/End/Large": {
     "value": "{platformScale.in-field-stepper-to-end-large}",
     "type": "spacing",
     "$extensions": {
@@ -3800,7 +3800,7 @@
       }
     }
   },
-  "in-field-stepper-to-end-extra-large": {
+  "In/Field/Stepper/To/End/Extra large": {
     "value": "{platformScale.in-field-stepper-to-end-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3810,7 +3810,7 @@
       }
     }
   },
-  "in-field-button-width-stacked-extra-large": {
+  "In/Field/Button/Width/Stacked/Extra large": {
     "value": "{platformScale.in-field-button-width-stacked-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -3820,7 +3820,7 @@
       }
     }
   },
-  "in-field-button-width-stacked-large": {
+  "In/Field/Button/Width/Stacked/Large": {
     "value": "{platformScale.in-field-button-width-stacked-large}",
     "type": "sizing",
     "$extensions": {
@@ -3830,7 +3830,7 @@
       }
     }
   },
-  "in-field-button-width-stacked-medium": {
+  "In/Field/Button/Width/Stacked/Medium": {
     "value": "{platformScale.in-field-button-width-stacked-medium}",
     "type": "sizing",
     "$extensions": {
@@ -3840,7 +3840,7 @@
       }
     }
   },
-  "in-field-button-width-stacked-small": {
+  "In/Field/Button/Width/Stacked/Small": {
     "value": "{platformScale.in-field-button-width-stacked-small}",
     "type": "sizing",
     "$extensions": {
@@ -3850,7 +3850,7 @@
       }
     }
   },
-  "in-field-progress-circle-size-75": {
+  "In/Field/Progress/Circle/Size/75": {
     "value": "{platformScale.in-field-progress-circle-size-75}",
     "type": "sizing",
     "$extensions": {
@@ -3860,7 +3860,7 @@
       }
     }
   },
-  "in-field-progress-circle-size-100": {
+  "In/Field/Progress/Circle/Size/100": {
     "value": "{platformScale.in-field-progress-circle-size-100}",
     "type": "sizing",
     "$extensions": {
@@ -3870,7 +3870,7 @@
       }
     }
   },
-  "in-field-progress-circle-size-200": {
+  "In/Field/Progress/Circle/Size/200": {
     "value": "{platformScale.in-field-progress-circle-size-200}",
     "type": "sizing",
     "$extensions": {
@@ -3880,7 +3880,7 @@
       }
     }
   },
-  "in-field-progress-circle-size-300": {
+  "In/Field/Progress/Circle/Size/300": {
     "value": "{platformScale.in-field-progress-circle-size-300}",
     "type": "sizing",
     "$extensions": {
@@ -3890,7 +3890,7 @@
       }
     }
   },
-  "in-line-alert-minimum-width": {
+  "In/Line/Alert/Minimum/Width": {
     "value": "{platformScale.in-line-alert-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -3900,7 +3900,7 @@
       }
     }
   },
-  "menu-item-edge-to-content-not-selected-extra-large": {
+  "Menu/Item/Edge to content/Not/Selected/Extra large": {
     "value": "{platformScale.menu-item-edge-to-content-not-selected-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3910,7 +3910,7 @@
       }
     }
   },
-  "menu-item-edge-to-content-not-selected-large": {
+  "Menu/Item/Edge to content/Not/Selected/Large": {
     "value": "{platformScale.menu-item-edge-to-content-not-selected-large}",
     "type": "spacing",
     "$extensions": {
@@ -3920,7 +3920,7 @@
       }
     }
   },
-  "menu-item-edge-to-content-not-selected-medium": {
+  "Menu/Item/Edge to content/Not/Selected/Medium": {
     "value": "{platformScale.menu-item-edge-to-content-not-selected-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3930,7 +3930,7 @@
       }
     }
   },
-  "menu-item-edge-to-content-not-selected-small": {
+  "Menu/Item/Edge to content/Not/Selected/Small": {
     "value": "{platformScale.menu-item-edge-to-content-not-selected-small}",
     "type": "spacing",
     "$extensions": {
@@ -3940,7 +3940,7 @@
       }
     }
   },
-  "🚫 menu-item-label-to-description": {
+  "🚫 Menu/Item/Label/To/Description": {
     "value": "{platformScale.🚫 menu-item-label-to-description}",
     "type": "spacing",
     "$extensions": {
@@ -3950,7 +3950,7 @@
       }
     }
   },
-  "menu-item-label-to-description-small": {
+  "Menu/Item/Label/To/Description/Small": {
     "value": "{platformScale.menu-item-label-to-description-small}",
     "type": "spacing",
     "$extensions": {
@@ -3960,7 +3960,7 @@
       }
     }
   },
-  "menu-item-label-to-description-medium": {
+  "Menu/Item/Label/To/Description/Medium": {
     "value": "{platformScale.menu-item-label-to-description-medium}",
     "type": "spacing",
     "$extensions": {
@@ -3970,7 +3970,7 @@
       }
     }
   },
-  "menu-item-label-to-description-large": {
+  "Menu/Item/Label/To/Description/Large": {
     "value": "{platformScale.menu-item-label-to-description-large}",
     "type": "spacing",
     "$extensions": {
@@ -3980,7 +3980,7 @@
       }
     }
   },
-  "menu-item-label-to-description-extra-large": {
+  "Menu/Item/Label/To/Description/Extra large": {
     "value": "{platformScale.menu-item-label-to-description-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -3990,7 +3990,7 @@
       }
     }
   },
-  "menu-section-header-to-description-small": {
+  "Menu/Section/Header/To/Description/Small": {
     "value": "{platformScale.menu-section-header-to-description-small}",
     "type": "spacing",
     "$extensions": {
@@ -4000,7 +4000,7 @@
       }
     }
   },
-  "menu-section-header-to-description-medium": {
+  "Menu/Section/Header/To/Description/Medium": {
     "value": "{platformScale.menu-section-header-to-description-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4010,7 +4010,7 @@
       }
     }
   },
-  "menu-section-header-to-description-large": {
+  "Menu/Section/Header/To/Description/Large": {
     "value": "{platformScale.menu-section-header-to-description-large}",
     "type": "spacing",
     "$extensions": {
@@ -4020,7 +4020,7 @@
       }
     }
   },
-  "menu-section-header-to-description-extra-large": {
+  "Menu/Section/Header/To/Description/Extra large": {
     "value": "{platformScale.menu-section-header-to-description-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4030,7 +4030,7 @@
       }
     }
   },
-  "menu-item-section-divider-height": {
+  "Menu/Item/Section/Divider/Height": {
     "value": "{platformScale.menu-item-section-divider-height}",
     "type": "sizing",
     "$extensions": {
@@ -4040,7 +4040,7 @@
       }
     }
   },
-  "menu-item-top-to-disclosure-icon-extra-large": {
+  "Menu/Item/Top/To/Disclosure/Icon/Extra large": {
     "value": "{platformScale.menu-item-top-to-disclosure-icon-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4050,7 +4050,7 @@
       }
     }
   },
-  "menu-item-top-to-disclosure-icon-large": {
+  "Menu/Item/Top/To/Disclosure/Icon/Large": {
     "value": "{platformScale.menu-item-top-to-disclosure-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -4060,7 +4060,7 @@
       }
     }
   },
-  "menu-item-top-to-disclosure-icon-medium": {
+  "Menu/Item/Top/To/Disclosure/Icon/Medium": {
     "value": "{platformScale.menu-item-top-to-disclosure-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4070,7 +4070,7 @@
       }
     }
   },
-  "menu-item-top-to-disclosure-icon-small": {
+  "Menu/Item/Top/To/Disclosure/Icon/Small": {
     "value": "{platformScale.menu-item-top-to-disclosure-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -4080,7 +4080,7 @@
       }
     }
   },
-  "menu-item-top-to-selected-icon-extra-large": {
+  "Menu/Item/Top/To/Selected/Icon/Extra large": {
     "value": "{platformScale.menu-item-top-to-selected-icon-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4090,7 +4090,7 @@
       }
     }
   },
-  "menu-item-top-to-selected-icon-large": {
+  "Menu/Item/Top/To/Selected/Icon/Large": {
     "value": "{platformScale.menu-item-top-to-selected-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -4100,7 +4100,7 @@
       }
     }
   },
-  "menu-item-top-to-selected-icon-medium": {
+  "Menu/Item/Top/To/Selected/Icon/Medium": {
     "value": "{platformScale.menu-item-top-to-selected-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4110,7 +4110,7 @@
       }
     }
   },
-  "menu-item-top-to-selected-icon-small": {
+  "Menu/Item/Top/To/Selected/Icon/Small": {
     "value": "{platformScale.menu-item-top-to-selected-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -4120,7 +4120,7 @@
       }
     }
   },
-  "menu-item-top-to-thumbnail-small": {
+  "Menu/Item/Top/To/Thumbnail/Small": {
     "value": "{platformScale.menu-item-top-to-thumbnail-small}",
     "type": "spacing",
     "$extensions": {
@@ -4130,7 +4130,7 @@
       }
     }
   },
-  "menu-item-top-to-thumbnail-medium": {
+  "Menu/Item/Top/To/Thumbnail/Medium": {
     "value": "{platformScale.menu-item-top-to-thumbnail-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4140,7 +4140,7 @@
       }
     }
   },
-  "menu-item-top-to-thumbnail-large": {
+  "Menu/Item/Top/To/Thumbnail/Large": {
     "value": "{platformScale.menu-item-top-to-thumbnail-large}",
     "type": "spacing",
     "$extensions": {
@@ -4150,7 +4150,7 @@
       }
     }
   },
-  "menu-item-top-to-thumbnail-extra-large": {
+  "Menu/Item/Top/To/Thumbnail/Extra large": {
     "value": "{platformScale.menu-item-top-to-thumbnail-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4160,7 +4160,7 @@
       }
     }
   },
-  "meter-maximum-width": {
+  "Meter/Maximum/Width": {
     "value": "{platformScale.meter-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -4170,7 +4170,7 @@
       }
     }
   },
-  "meter-minimum-width": {
+  "Meter/Minimum/Width": {
     "value": "{platformScale.meter-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -4180,7 +4180,7 @@
       }
     }
   },
-  "meter-thickness-large": {
+  "Meter/Thickness/Large": {
     "value": "{platformScale.meter-thickness-large}",
     "type": "spacing",
     "$extensions": {
@@ -4190,7 +4190,7 @@
       }
     }
   },
-  "meter-thickness-medium": {
+  "Meter/Thickness/Medium": {
     "value": "{platformScale.meter-thickness-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4200,7 +4200,7 @@
       }
     }
   },
-  "meter-thickness-extra-large": {
+  "Meter/Thickness/Extra large": {
     "value": "{platformScale.meter-thickness-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4210,7 +4210,7 @@
       }
     }
   },
-  "meter-thickness-small": {
+  "Meter/Thickness/Small": {
     "value": "{platformScale.meter-thickness-small}",
     "type": "spacing",
     "$extensions": {
@@ -4220,7 +4220,7 @@
       }
     }
   },
-  "meter-width": {
+  "Meter/Width": {
     "value": "{platformScale.meter-width}",
     "type": "sizing",
     "$extensions": {
@@ -4230,7 +4230,7 @@
       }
     }
   },
-  "number-field-with-stepper-minimum-width-small": {
+  "Number/Field/With/Stepper/Minimum/Width/Small": {
     "value": "{platformScale.number-field-with-stepper-minimum-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -4240,7 +4240,7 @@
       }
     }
   },
-  "number-field-with-stepper-minimum-width-medium": {
+  "Number/Field/With/Stepper/Minimum/Width/Medium": {
     "value": "{platformScale.number-field-with-stepper-minimum-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -4250,7 +4250,7 @@
       }
     }
   },
-  "number-field-with-stepper-minimum-width-large": {
+  "Number/Field/With/Stepper/Minimum/Width/Large": {
     "value": "{platformScale.number-field-with-stepper-minimum-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -4260,7 +4260,7 @@
       }
     }
   },
-  "number-field-with-stepper-minimum-width-extra-large": {
+  "Number/Field/With/Stepper/Minimum/Width/Extra large": {
     "value": "{platformScale.number-field-with-stepper-minimum-width-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -4270,7 +4270,7 @@
       }
     }
   },
-  "number-field-visual-to-in-field-stepper-small": {
+  "Number/Field/Visual/To/In/Field/Stepper/Small": {
     "value": "{platformScale.number-field-visual-to-in-field-stepper-small}",
     "type": "spacing",
     "$extensions": {
@@ -4280,7 +4280,7 @@
       }
     }
   },
-  "number-field-visual-to-in-field-stepper-medium": {
+  "Number/Field/Visual/To/In/Field/Stepper/Medium": {
     "value": "{platformScale.number-field-visual-to-in-field-stepper-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4290,7 +4290,7 @@
       }
     }
   },
-  "number-field-visual-to-in-field-stepper-large": {
+  "Number/Field/Visual/To/In/Field/Stepper/Large": {
     "value": "{platformScale.number-field-visual-to-in-field-stepper-large}",
     "type": "spacing",
     "$extensions": {
@@ -4300,7 +4300,7 @@
       }
     }
   },
-  "number-field-visual-to-in-field-stepper-extra-large": {
+  "Number/Field/Visual/To/In/Field/Stepper/Extra large": {
     "value": "{platformScale.number-field-visual-to-in-field-stepper-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4310,7 +4310,7 @@
       }
     }
   },
-  "opacity-checkerboard-square-size-small": {
+  "Opacity/Checkerboard/Square/Size/Small": {
     "value": "{platformScale.opacity-checkerboard-square-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -4320,7 +4320,7 @@
       }
     }
   },
-  "opacity-checkerboard-square-size-medium": {
+  "Opacity/Checkerboard/Square/Size/Medium": {
     "value": "{platformScale.opacity-checkerboard-square-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -4331,7 +4331,7 @@
       }
     }
   },
-  "picker-border-width": {
+  "Picker/Border/Width": {
     "value": "{platformScale.picker-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -4341,7 +4341,7 @@
       }
     }
   },
-  "picker-end-edge-to-disclosure-icon-quiet": {
+  "Picker/End/Edge/To/Disclosure/Icon/Quiet": {
     "value": "{platformScale.picker-end-edge-to-disclosure-icon-quiet}",
     "type": "spacing",
     "$extensions": {
@@ -4351,7 +4351,7 @@
       }
     }
   },
-  "number-field-minimum-width-multiplier": {
+  "Number/Field/Minimum/Width/Multiplier": {
     "value": "{platformScale.number-field-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -4361,7 +4361,7 @@
       }
     }
   },
-  "picker-minimum-width-multiplier": {
+  "Picker/Minimum/Width/Multiplier": {
     "value": "{platformScale.picker-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -4371,7 +4371,7 @@
       }
     }
   },
-  "picker-visual-to-disclosure-icon-extra-large": {
+  "Picker/Visual/To/Disclosure/Icon/Extra large": {
     "value": "{platformScale.picker-visual-to-disclosure-icon-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4381,7 +4381,7 @@
       }
     }
   },
-  "picker-visual-to-disclosure-icon-large": {
+  "Picker/Visual/To/Disclosure/Icon/Large": {
     "value": "{platformScale.picker-visual-to-disclosure-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -4391,7 +4391,7 @@
       }
     }
   },
-  "picker-visual-to-disclosure-icon-medium": {
+  "Picker/Visual/To/Disclosure/Icon/Medium": {
     "value": "{platformScale.picker-visual-to-disclosure-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4401,7 +4401,7 @@
       }
     }
   },
-  "picker-visual-to-disclosure-icon-small": {
+  "Picker/Visual/To/Disclosure/Icon/Small": {
     "value": "{platformScale.picker-visual-to-disclosure-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -4411,7 +4411,7 @@
       }
     }
   },
-  "popover-tip-height": {
+  "Popover/Tip/Height": {
     "value": "{platformScale.popover-tip-height}",
     "type": "sizing",
     "$extensions": {
@@ -4421,7 +4421,7 @@
       }
     }
   },
-  "popover-tip-width": {
+  "Popover/Tip/Width": {
     "value": "{platformScale.popover-tip-width}",
     "type": "sizing",
     "$extensions": {
@@ -4431,7 +4431,7 @@
       }
     }
   },
-  "🚫 popover-top-to-content-area": {
+  "🚫 Popover/Top to content/Area": {
     "value": "{platformScale.🚫 popover-top-to-content-area}",
     "type": "spacing",
     "$extensions": {
@@ -4441,7 +4441,7 @@
       }
     }
   },
-  "popover-edge-to-content-area": {
+  "Popover/Edge to content/Area": {
     "value": "{platformScale.popover-edge-to-content-area}",
     "type": "spacing",
     "$extensions": {
@@ -4451,7 +4451,7 @@
       }
     }
   },
-  "progress-bar-maximum-width": {
+  "Progress/Bar/Maximum/Width": {
     "value": "{platformScale.progress-bar-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -4461,7 +4461,7 @@
       }
     }
   },
-  "progress-bar-minimum-width": {
+  "Progress/Bar/Minimum/Width": {
     "value": "{platformScale.progress-bar-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -4471,7 +4471,7 @@
       }
     }
   },
-  "progress-bar-thickness-extra-large": {
+  "Progress/Bar/Thickness/Extra large": {
     "value": "{platformScale.progress-bar-thickness-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4481,7 +4481,7 @@
       }
     }
   },
-  "progress-bar-thickness-large": {
+  "Progress/Bar/Thickness/Large": {
     "value": "{platformScale.progress-bar-thickness-large}",
     "type": "spacing",
     "$extensions": {
@@ -4491,7 +4491,7 @@
       }
     }
   },
-  "progress-bar-thickness-medium": {
+  "Progress/Bar/Thickness/Medium": {
     "value": "{platformScale.progress-bar-thickness-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4501,7 +4501,7 @@
       }
     }
   },
-  "progress-bar-thickness-small": {
+  "Progress/Bar/Thickness/Small": {
     "value": "{platformScale.progress-bar-thickness-small}",
     "type": "spacing",
     "$extensions": {
@@ -4511,7 +4511,7 @@
       }
     }
   },
-  "progress-circle-size-large": {
+  "Progress/Circle/Size/Large": {
     "value": "{platformScale.progress-circle-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -4521,7 +4521,7 @@
       }
     }
   },
-  "progress-circle-size-medium": {
+  "Progress/Circle/Size/Medium": {
     "value": "{platformScale.progress-circle-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -4531,7 +4531,7 @@
       }
     }
   },
-  "progress-circle-size-small": {
+  "Progress/Circle/Size/Small": {
     "value": "{platformScale.progress-circle-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -4541,7 +4541,7 @@
       }
     }
   },
-  "progress-circle-thickness-large": {
+  "Progress/Circle/Thickness/Large": {
     "value": "{platformScale.progress-circle-thickness-large}",
     "type": "spacing",
     "$extensions": {
@@ -4551,7 +4551,7 @@
       }
     }
   },
-  "progress-circle-thickness-medium": {
+  "Progress/Circle/Thickness/Medium": {
     "value": "{platformScale.progress-circle-thickness-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4561,7 +4561,7 @@
       }
     }
   },
-  "progress-circle-thickness-small": {
+  "Progress/Circle/Thickness/Small": {
     "value": "{platformScale.progress-circle-thickness-small}",
     "type": "spacing",
     "$extensions": {
@@ -4571,7 +4571,7 @@
       }
     }
   },
-  "radio-button-control-size-extra-large": {
+  "Radio/Button/Control/Size/Extra large": {
     "value": "{platformScale.radio-button-control-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -4581,7 +4581,7 @@
       }
     }
   },
-  "radio-button-control-size-large": {
+  "Radio/Button/Control/Size/Large": {
     "value": "{platformScale.radio-button-control-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -4591,7 +4591,7 @@
       }
     }
   },
-  "radio-button-control-size-medium": {
+  "Radio/Button/Control/Size/Medium": {
     "value": "{platformScale.radio-button-control-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -4601,7 +4601,7 @@
       }
     }
   },
-  "radio-button-control-size-small": {
+  "Radio/Button/Control/Size/Small": {
     "value": "{platformScale.radio-button-control-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -4611,7 +4611,7 @@
       }
     }
   },
-  "radio-button-selection-indicator": {
+  "Radio/Button/Selection/Indicator": {
     "value": "{platformScale.radio-button-selection-indicator}",
     "type": "spacing",
     "$extensions": {
@@ -4621,7 +4621,7 @@
       }
     }
   },
-  "radio-button-top-to-control-extra-large": {
+  "Radio/Button/Top/To/Control/Extra large": {
     "value": "{platformScale.radio-button-top-to-control-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -4631,7 +4631,7 @@
       }
     }
   },
-  "radio-button-top-to-control-large": {
+  "Radio/Button/Top/To/Control/Large": {
     "value": "{platformScale.radio-button-top-to-control-large}",
     "type": "spacing",
     "$extensions": {
@@ -4641,7 +4641,7 @@
       }
     }
   },
-  "radio-button-top-to-control-medium": {
+  "Radio/Button/Top/To/Control/Medium": {
     "value": "{platformScale.radio-button-top-to-control-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4651,7 +4651,7 @@
       }
     }
   },
-  "radio-button-top-to-control-small": {
+  "Radio/Button/Top/To/Control/Small": {
     "value": "{platformScale.radio-button-top-to-control-small}",
     "type": "spacing",
     "$extensions": {
@@ -4661,7 +4661,7 @@
       }
     }
   },
-  "🚫 rating-indicator-to-icon": {
+  "🚫 Rating/Indicator/To/Icon": {
     "value": "{platformScale.🚫 rating-indicator-to-icon}",
     "type": "spacing",
     "$extensions": {
@@ -4671,7 +4671,7 @@
       }
     }
   },
-  "rating-top-to-content-area-small": {
+  "Rating/Top to content/Area/Small": {
     "value": "{platformScale.rating-top-to-content-area-small}",
     "type": "spacing",
     "$extensions": {
@@ -4681,7 +4681,7 @@
       }
     }
   },
-  "rating-bottom-to-content-area-small": {
+  "Rating/Bottom to content/Area/Small": {
     "value": "{platformScale.rating-bottom-to-content-area-small}",
     "type": "spacing",
     "$extensions": {
@@ -4691,7 +4691,7 @@
       }
     }
   },
-  "rating-edge-to-content-area-small": {
+  "Rating/Edge to content/Area/Small": {
     "value": "{platformScale.rating-edge-to-content-area-small}",
     "type": "spacing",
     "$extensions": {
@@ -4701,7 +4701,7 @@
       }
     }
   },
-  "rating-top-to-content-area-medium": {
+  "Rating/Top to content/Area/Medium": {
     "value": "{platformScale.rating-top-to-content-area-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4711,7 +4711,7 @@
       }
     }
   },
-  "rating-bottom-to-content-area-medium": {
+  "Rating/Bottom to content/Area/Medium": {
     "value": "{platformScale.rating-bottom-to-content-area-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4721,7 +4721,7 @@
       }
     }
   },
-  "rating-edge-to-content-area-medium": {
+  "Rating/Edge to content/Area/Medium": {
     "value": "{platformScale.rating-edge-to-content-area-medium}",
     "type": "spacing",
     "$extensions": {
@@ -4731,7 +4731,7 @@
       }
     }
   },
-  "🚫 rating-indicator-width": {
+  "🚫 Rating/Indicator/Width": {
     "value": "{platformScale.🚫 rating-indicator-width}",
     "type": "sizing",
     "$extensions": {
@@ -4741,7 +4741,7 @@
       }
     }
   },
-  "rating-width-small": {
+  "Rating/Width/Small": {
     "value": "{platformScale.rating-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -4751,7 +4751,7 @@
       }
     }
   },
-  "rating-height-small": {
+  "Rating/Height/Small": {
     "value": "{platformScale.rating-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -4761,7 +4761,7 @@
       }
     }
   },
-  "rating-width-medium": {
+  "Rating/Width/Medium": {
     "value": "{platformScale.rating-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -4771,7 +4771,7 @@
       }
     }
   },
-  "rating-height-medium": {
+  "Rating/Height/Medium": {
     "value": "{platformScale.rating-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -4781,7 +4781,7 @@
       }
     }
   },
-  "select-box-horizontal-minimum-height": {
+  "Select/Box/Horizontal/Minimum/Height": {
     "value": "{platformScale.select-box-horizontal-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -4791,7 +4791,7 @@
       }
     }
   },
-  "select-box-horizontal-width": {
+  "Select/Box/Horizontal/Width": {
     "value": "{platformScale.select-box-horizontal-width}",
     "type": "sizing",
     "$extensions": {
@@ -4801,7 +4801,7 @@
       }
     }
   },
-  "select-box-vertical-height": {
+  "Select/Box/Vertical/Height": {
     "value": "{platformScale.select-box-vertical-height}",
     "type": "sizing",
     "$extensions": {
@@ -4811,7 +4811,7 @@
       }
     }
   },
-  "select-box-edge-to-checkbox": {
+  "Select/Box/Edge/To/Checkbox": {
     "value": "{platformScale.select-box-edge-to-checkbox}",
     "type": "spacing",
     "$extensions": {
@@ -4821,7 +4821,7 @@
       }
     }
   },
-  "select-box-horizontal-end-to-content": {
+  "Select/Box/Horizontal/End/To/Content": {
     "value": "{platformScale.select-box-horizontal-end-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -4831,7 +4831,7 @@
       }
     }
   },
-  "select-box-horizontal-illustration-to-label": {
+  "Select/Box/Horizontal/Illustration/To/Label": {
     "value": "{platformScale.select-box-horizontal-illustration-to-label}",
     "type": "spacing",
     "$extensions": {
@@ -4841,7 +4841,7 @@
       }
     }
   },
-  "select-box-horizontal-label-to-description": {
+  "Select/Box/Horizontal/Label/To/Description": {
     "value": "{platformScale.select-box-horizontal-label-to-description}",
     "type": "spacing",
     "$extensions": {
@@ -4851,7 +4851,7 @@
       }
     }
   },
-  "select-box-horizontal-start-to-content": {
+  "Select/Box/Horizontal/Start/To/Content": {
     "value": "{platformScale.select-box-horizontal-start-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -4861,7 +4861,7 @@
       }
     }
   },
-  "select-box-horizontal-top-to-content": {
+  "Select/Box/Horizontal/Top to content": {
     "value": "{platformScale.select-box-horizontal-top-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -4871,7 +4871,7 @@
       }
     }
   },
-  "select-box-top-to-checkbox": {
+  "Select/Box/Top/To/Checkbox": {
     "value": "{platformScale.select-box-top-to-checkbox}",
     "type": "spacing",
     "$extensions": {
@@ -4881,7 +4881,7 @@
       }
     }
   },
-  "select-box-vertical-edge-to-content": {
+  "Select/Box/Vertical/Edge to content": {
     "value": "{platformScale.select-box-vertical-edge-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -4891,7 +4891,7 @@
       }
     }
   },
-  "select-box-vertical-illustration-to-label": {
+  "Select/Box/Vertical/Illustration/To/Label": {
     "value": "{platformScale.select-box-vertical-illustration-to-label}",
     "type": "spacing",
     "$extensions": {
@@ -4901,7 +4901,7 @@
       }
     }
   },
-  "search-field-minimum-width-multiplier": {
+  "Search/Field/Minimum/Width/Multiplier": {
     "value": "{platformScale.search-field-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -4911,7 +4911,7 @@
       }
     }
   },
-  "side-navigation-bottom-to-text": {
+  "Side/Navigation/Bottom to text": {
     "value": "{platformScale.side-navigation-bottom-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -4921,7 +4921,7 @@
       }
     }
   },
-  "side-navigation-header-to-item": {
+  "Side/Navigation/Header/To/Item": {
     "value": "{platformScale.side-navigation-header-to-item}",
     "type": "spacing",
     "$extensions": {
@@ -4931,7 +4931,7 @@
       }
     }
   },
-  "side-navigation-item-to-header": {
+  "Side/Navigation/Item/To/Header": {
     "value": "{platformScale.side-navigation-item-to-header}",
     "type": "spacing",
     "$extensions": {
@@ -4941,7 +4941,7 @@
       }
     }
   },
-  "side-navigation-item-to-item": {
+  "Side/Navigation/Item/To/Item": {
     "value": "{platformScale.side-navigation-item-to-item}",
     "type": "spacing",
     "$extensions": {
@@ -4951,7 +4951,7 @@
       }
     }
   },
-  "side-navigation-maximum-width": {
+  "Side/Navigation/Maximum/Width": {
     "value": "{platformScale.side-navigation-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -4961,7 +4961,7 @@
       }
     }
   },
-  "side-navigation-minimum-width": {
+  "Side/Navigation/Minimum/Width": {
     "value": "{platformScale.side-navigation-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -4971,7 +4971,7 @@
       }
     }
   },
-  "side-navigation-second-level-edge-to-text": {
+  "Side/Navigation/Second/Level/Edge to text": {
     "value": "{platformScale.side-navigation-second-level-edge-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -4981,7 +4981,7 @@
       }
     }
   },
-  "side-navigation-third-level-edge-to-text": {
+  "Side/Navigation/Third/Level/Edge to text": {
     "value": "{platformScale.side-navigation-third-level-edge-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -4991,7 +4991,7 @@
       }
     }
   },
-  "side-navigation-width": {
+  "Side/Navigation/Width": {
     "value": "{platformScale.side-navigation-width}",
     "type": "sizing",
     "$extensions": {
@@ -5001,7 +5001,7 @@
       }
     }
   },
-  "side-navigation-with-icon-second-level-edge-to-text": {
+  "Side/Navigation/With/Icon/Second/Level/Edge to text": {
     "value": "{platformScale.side-navigation-with-icon-second-level-edge-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -5011,7 +5011,7 @@
       }
     }
   },
-  "side-navigation-with-icon-third-level-edge-to-text": {
+  "Side/Navigation/With/Icon/Third/Level/Edge to text": {
     "value": "{platformScale.side-navigation-with-icon-third-level-edge-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -5021,7 +5021,7 @@
       }
     }
   },
-  "slider-control-to-field-label-small": {
+  "Slider/Control/To/Field/Label/Small": {
     "value": "{platformScale.slider-control-to-field-label-small}",
     "type": "spacing",
     "$extensions": {
@@ -5031,7 +5031,7 @@
       }
     }
   },
-  "slider-control-to-field-label-medium": {
+  "Slider/Control/To/Field/Label/Medium": {
     "value": "{platformScale.slider-control-to-field-label-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5041,7 +5041,7 @@
       }
     }
   },
-  "slider-control-to-field-label-large": {
+  "Slider/Control/To/Field/Label/Large": {
     "value": "{platformScale.slider-control-to-field-label-large}",
     "type": "spacing",
     "$extensions": {
@@ -5051,7 +5051,7 @@
       }
     }
   },
-  "slider-control-to-field-label-extra-large": {
+  "Slider/Control/To/Field/Label/Extra large": {
     "value": "{platformScale.slider-control-to-field-label-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -5061,7 +5061,7 @@
       }
     }
   },
-  "slider-control-to-field-label-editable-small": {
+  "Slider/Control/To/Field/Label/Editable/Small": {
     "value": "{platformScale.slider-control-to-field-label-editable-small}",
     "type": "spacing",
     "$extensions": {
@@ -5071,7 +5071,7 @@
       }
     }
   },
-  "slider-control-to-field-label-editable-medium": {
+  "Slider/Control/To/Field/Label/Editable/Medium": {
     "value": "{platformScale.slider-control-to-field-label-editable-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5081,7 +5081,7 @@
       }
     }
   },
-  "slider-control-to-field-label-editable-large": {
+  "Slider/Control/To/Field/Label/Editable/Large": {
     "value": "{platformScale.slider-control-to-field-label-editable-large}",
     "type": "spacing",
     "$extensions": {
@@ -5091,7 +5091,7 @@
       }
     }
   },
-  "slider-control-to-field-label-editable-extra-large": {
+  "Slider/Control/To/Field/Label/Editable/Extra large": {
     "value": "{platformScale.slider-control-to-field-label-editable-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -5101,7 +5101,7 @@
       }
     }
   },
-  "slider-control-to-field-label-side-small": {
+  "Slider/Control/To/Field/Label/Side/Small": {
     "value": "{platformScale.slider-control-to-field-label-side-small}",
     "type": "spacing",
     "$extensions": {
@@ -5111,7 +5111,7 @@
       }
     }
   },
-  "slider-control-to-field-label-side-medium": {
+  "Slider/Control/To/Field/Label/Side/Medium": {
     "value": "{platformScale.slider-control-to-field-label-side-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5121,7 +5121,7 @@
       }
     }
   },
-  "slider-control-to-field-label-side-large": {
+  "Slider/Control/To/Field/Label/Side/Large": {
     "value": "{platformScale.slider-control-to-field-label-side-large}",
     "type": "spacing",
     "$extensions": {
@@ -5131,7 +5131,7 @@
       }
     }
   },
-  "slider-control-to-field-label-side-extra-large": {
+  "Slider/Control/To/Field/Label/Side/Extra large": {
     "value": "{platformScale.slider-control-to-field-label-side-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -5141,7 +5141,7 @@
       }
     }
   },
-  "slider-control-to-text-field-small": {
+  "Slider/Control/To/Text/Field/Small": {
     "value": "{platformScale.slider-control-to-text-field-small}",
     "type": "spacing",
     "$extensions": {
@@ -5151,7 +5151,7 @@
       }
     }
   },
-  "slider-control-to-text-field-medium": {
+  "Slider/Control/To/Text/Field/Medium": {
     "value": "{platformScale.slider-control-to-text-field-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5161,7 +5161,7 @@
       }
     }
   },
-  "slider-control-to-text-field-large": {
+  "Slider/Control/To/Text/Field/Large": {
     "value": "{platformScale.slider-control-to-text-field-large}",
     "type": "spacing",
     "$extensions": {
@@ -5171,7 +5171,7 @@
       }
     }
   },
-  "slider-control-to-text-field-extra-large": {
+  "Slider/Control/To/Text/Field/Extra large": {
     "value": "{platformScale.slider-control-to-text-field-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -5181,7 +5181,7 @@
       }
     }
   },
-  "🚫 slider-handle-border-width-down-extra-large": {
+  "🚫 Slider/Handle/Border/Width/Down/Extra large": {
     "value": "{platformScale.🚫 slider-handle-border-width-down-extra-large}",
     "type": "borderWidth",
     "$extensions": {
@@ -5191,7 +5191,7 @@
       }
     }
   },
-  "🚫 slider-handle-border-width-down-large": {
+  "🚫 Slider/Handle/Border/Width/Down/Large": {
     "value": "{platformScale.🚫 slider-handle-border-width-down-large}",
     "type": "borderWidth",
     "$extensions": {
@@ -5201,7 +5201,7 @@
       }
     }
   },
-  "🚫 slider-handle-border-width-down-medium": {
+  "🚫 Slider/Handle/Border/Width/Down/Medium": {
     "value": "{platformScale.🚫 slider-handle-border-width-down-medium}",
     "type": "borderWidth",
     "$extensions": {
@@ -5211,7 +5211,7 @@
       }
     }
   },
-  "🚫 slider-handle-border-width-down-small": {
+  "🚫 Slider/Handle/Border/Width/Down/Small": {
     "value": "{platformScale.🚫 slider-handle-border-width-down-small}",
     "type": "borderWidth",
     "$extensions": {
@@ -5221,7 +5221,7 @@
       }
     }
   },
-  "segmented-control-selection-border-width": {
+  "Segmented/Control/Selection/Border/Width": {
     "value": "{platformScale.segmented-control-selection-border-width}",
     "type": "borderWidth",
     "$extensions": {
@@ -5231,7 +5231,7 @@
       }
     }
   },
-  "🚫 slider-handle-gap": {
+  "🚫 Slider/Handle/Gap": {
     "value": "{platformScale.🚫 slider-handle-gap}",
     "type": "spacing",
     "$extensions": {
@@ -5241,7 +5241,7 @@
       }
     }
   },
-  "slider-handle-height-precision-small": {
+  "Slider/Handle/Height/Precision/Small": {
     "value": "{platformScale.slider-handle-height-precision-small}",
     "type": "sizing",
     "$extensions": {
@@ -5251,7 +5251,7 @@
       }
     }
   },
-  "slider-handle-height-precision-medium": {
+  "Slider/Handle/Height/Precision/Medium": {
     "value": "{platformScale.slider-handle-height-precision-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5261,7 +5261,7 @@
       }
     }
   },
-  "slider-handle-height-precision-large": {
+  "Slider/Handle/Height/Precision/Large": {
     "value": "{platformScale.slider-handle-height-precision-large}",
     "type": "sizing",
     "$extensions": {
@@ -5271,7 +5271,7 @@
       }
     }
   },
-  "slider-handle-height-precision-extra-large": {
+  "Slider/Handle/Height/Precision/Extra large": {
     "value": "{platformScale.slider-handle-height-precision-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5281,7 +5281,7 @@
       }
     }
   },
-  "slider-handle-small": {
+  "Slider/Handle/Small": {
     "value": "{platformScale.slider-handle-small}",
     "type": "sizing",
     "$extensions": {
@@ -5291,7 +5291,7 @@
       }
     }
   },
-  "slider-handle-medium": {
+  "Slider/Handle/Medium": {
     "value": "{platformScale.slider-handle-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5301,7 +5301,7 @@
       }
     }
   },
-  "slider-handle-large": {
+  "Slider/Handle/Large": {
     "value": "{platformScale.slider-handle-large}",
     "type": "sizing",
     "$extensions": {
@@ -5311,7 +5311,7 @@
       }
     }
   },
-  "slider-handle-extra-large": {
+  "Slider/Handle/Extra large": {
     "value": "{platformScale.slider-handle-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5321,7 +5321,7 @@
       }
     }
   },
-  "slider-handle-precision-width": {
+  "Slider/Handle/Precision/Width": {
     "value": "{platformScale.slider-handle-precision-width}",
     "type": "sizing",
     "$extensions": {
@@ -5331,7 +5331,7 @@
       }
     }
   },
-  "🚫 slider-handle-size-extra-large": {
+  "🚫 Slider/Handle/Size/Extra large": {
     "value": "{platformScale.🚫 slider-handle-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5341,7 +5341,7 @@
       }
     }
   },
-  "🚫 slider-handle-size-large": {
+  "🚫 Slider/Handle/Size/Large": {
     "value": "{platformScale.🚫 slider-handle-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -5351,7 +5351,7 @@
       }
     }
   },
-  "🚫 slider-handle-size-medium": {
+  "🚫 Slider/Handle/Size/Medium": {
     "value": "{platformScale.🚫 slider-handle-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5361,7 +5361,7 @@
       }
     }
   },
-  "🚫 slider-handle-size-small": {
+  "🚫 Slider/Handle/Size/Small": {
     "value": "{platformScale.🚫 slider-handle-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -5371,7 +5371,7 @@
       }
     }
   },
-  "slider-track-height-medium": {
+  "Slider/Track/Height/Medium": {
     "value": "{platformScale.slider-track-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5381,7 +5381,7 @@
       }
     }
   },
-  "slider-track-height-large": {
+  "Slider/Track/Height/Large": {
     "value": "{platformScale.slider-track-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -5391,7 +5391,7 @@
       }
     }
   },
-  "🚫 slider-track-thickness": {
+  "🚫 Slider/Track/Thickness": {
     "value": "{platformScale.🚫 slider-track-thickness}",
     "type": "spacing",
     "$extensions": {
@@ -5401,7 +5401,7 @@
       }
     }
   },
-  "status-light-dot-size-extra-large": {
+  "Status/Light/Dot/Size/Extra large": {
     "value": "{platformScale.status-light-dot-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5411,7 +5411,7 @@
       }
     }
   },
-  "status-light-dot-size-large": {
+  "Status/Light/Dot/Size/Large": {
     "value": "{platformScale.status-light-dot-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -5421,7 +5421,7 @@
       }
     }
   },
-  "status-light-dot-size-medium": {
+  "Status/Light/Dot/Size/Medium": {
     "value": "{platformScale.status-light-dot-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5431,7 +5431,7 @@
       }
     }
   },
-  "status-light-dot-size-small": {
+  "Status/Light/Dot/Size/Small": {
     "value": "{platformScale.status-light-dot-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -5441,7 +5441,7 @@
       }
     }
   },
-  "standard-panel-top-to-close-button-compact": {
+  "Standard/Panel/Top/To/Close/Button/Compact": {
     "value": "{platformScale.standard-panel-top-to-close-button-compact}",
     "type": "spacing",
     "$extensions": {
@@ -5451,7 +5451,7 @@
       }
     }
   },
-  "standard-panel-top-to-close-button-regular": {
+  "Standard/Panel/Top/To/Close/Button/Regular": {
     "value": "{platformScale.standard-panel-top-to-close-button-regular}",
     "type": "spacing",
     "$extensions": {
@@ -5461,7 +5461,7 @@
       }
     }
   },
-  "standard-panel-top-to-close-button-spacious": {
+  "Standard/Panel/Top/To/Close/Button/Spacious": {
     "value": "{platformScale.standard-panel-top-to-close-button-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -5471,7 +5471,7 @@
       }
     }
   },
-  "standard-panel-edge-to-close-button-compact": {
+  "Standard/Panel/Edge/To/Close/Button/Compact": {
     "value": "{platformScale.standard-panel-edge-to-close-button-compact}",
     "type": "spacing",
     "$extensions": {
@@ -5481,7 +5481,7 @@
       }
     }
   },
-  "standard-panel-edge-to-close-button-regular": {
+  "Standard/Panel/Edge/To/Close/Button/Regular": {
     "value": "{platformScale.standard-panel-edge-to-close-button-regular}",
     "type": "spacing",
     "$extensions": {
@@ -5491,7 +5491,7 @@
       }
     }
   },
-  "standard-panel-edge-to-close-button-spacious": {
+  "Standard/Panel/Edge/To/Close/Button/Spacious": {
     "value": "{platformScale.standard-panel-edge-to-close-button-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -5501,7 +5501,7 @@
       }
     }
   },
-  "status-light-top-to-dot-extra-large": {
+  "Status/Light/Top/To/Dot/Extra large": {
     "value": "{platformScale.status-light-top-to-dot-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -5511,7 +5511,7 @@
       }
     }
   },
-  "status-light-top-to-dot-large": {
+  "Status/Light/Top/To/Dot/Large": {
     "value": "{platformScale.status-light-top-to-dot-large}",
     "type": "spacing",
     "$extensions": {
@@ -5521,7 +5521,7 @@
       }
     }
   },
-  "status-light-top-to-dot-medium": {
+  "Status/Light/Top/To/Dot/Medium": {
     "value": "{platformScale.status-light-top-to-dot-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5531,7 +5531,7 @@
       }
     }
   },
-  "status-light-top-to-dot-small": {
+  "Status/Light/Top/To/Dot/Small": {
     "value": "{platformScale.status-light-top-to-dot-small}",
     "type": "spacing",
     "$extensions": {
@@ -5541,7 +5541,7 @@
       }
     }
   },
-  "status-light-text-to-visual-75": {
+  "Status/Light/Text/To/Visual/75": {
     "value": "{platformScale.status-light-text-to-visual-75}",
     "type": "spacing",
     "$extensions": {
@@ -5551,7 +5551,7 @@
       }
     }
   },
-  "status-light-text-to-visual-100": {
+  "Status/Light/Text/To/Visual/100": {
     "value": "{platformScale.status-light-text-to-visual-100}",
     "type": "spacing",
     "$extensions": {
@@ -5561,7 +5561,7 @@
       }
     }
   },
-  "status-light-text-to-visual-200": {
+  "Status/Light/Text/To/Visual/200": {
     "value": "{platformScale.status-light-text-to-visual-200}",
     "type": "spacing",
     "$extensions": {
@@ -5571,7 +5571,7 @@
       }
     }
   },
-  "status-light-text-to-visual-300": {
+  "Status/Light/Text/To/Visual/300": {
     "value": "{platformScale.status-light-text-to-visual-300}",
     "type": "spacing",
     "$extensions": {
@@ -5581,7 +5581,7 @@
       }
     }
   },
-  "steplist-step-default-width-small": {
+  "Steplist/Step/Default/Width/Small": {
     "value": "{platformScale.steplist-step-default-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -5591,7 +5591,7 @@
       }
     }
   },
-  "steplist-step-default-width-medium": {
+  "Steplist/Step/Default/Width/Medium": {
     "value": "{platformScale.steplist-step-default-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5601,7 +5601,7 @@
       }
     }
   },
-  "steplist-step-default-width-large": {
+  "Steplist/Step/Default/Width/Large": {
     "value": "{platformScale.steplist-step-default-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -5611,7 +5611,7 @@
       }
     }
   },
-  "steplist-step-default-width-extra-large": {
+  "Steplist/Step/Default/Width/Extra large": {
     "value": "{platformScale.steplist-step-default-width-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5621,7 +5621,7 @@
       }
     }
   },
-  "steplist-step-default-height-small": {
+  "Steplist/Step/Default/Height/Small": {
     "value": "{platformScale.steplist-step-default-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -5631,7 +5631,7 @@
       }
     }
   },
-  "steplist-step-default-height-medium": {
+  "Steplist/Step/Default/Height/Medium": {
     "value": "{platformScale.steplist-step-default-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5641,7 +5641,7 @@
       }
     }
   },
-  "steplist-step-default-height-large": {
+  "Steplist/Step/Default/Height/Large": {
     "value": "{platformScale.steplist-step-default-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -5651,7 +5651,7 @@
       }
     }
   },
-  "steplist-step-default-height-extra-large": {
+  "Steplist/Step/Default/Height/Extra large": {
     "value": "{platformScale.steplist-step-default-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5661,7 +5661,7 @@
       }
     }
   },
-  "steplist-visual-size-small": {
+  "Steplist/Visual/Size/Small": {
     "value": "{platformScale.steplist-visual-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -5671,7 +5671,7 @@
       }
     }
   },
-  "steplist-visual-size-medium": {
+  "Steplist/Visual/Size/Medium": {
     "value": "{platformScale.steplist-visual-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5681,7 +5681,7 @@
       }
     }
   },
-  "steplist-visual-size-large": {
+  "Steplist/Visual/Size/Large": {
     "value": "{platformScale.steplist-visual-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -5691,7 +5691,7 @@
       }
     }
   },
-  "steplist-visual-size-extra-large": {
+  "Steplist/Visual/Size/Extra large": {
     "value": "{platformScale.steplist-visual-size-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5701,7 +5701,7 @@
       }
     }
   },
-  "steplist-track-thickness-medium": {
+  "Steplist/Track/Thickness/Medium": {
     "value": "{platformScale.steplist-track-thickness-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5711,7 +5711,7 @@
       }
     }
   },
-  "steplist-step-to-track-size-small": {
+  "Steplist/Step/To/Track/Size/Small": {
     "value": "{platformScale.steplist-step-to-track-size-small}",
     "type": "spacing",
     "$extensions": {
@@ -5721,7 +5721,7 @@
       }
     }
   },
-  "steplist-step-to-track-size-medium": {
+  "Steplist/Step/To/Track/Size/Medium": {
     "value": "{platformScale.steplist-step-to-track-size-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5731,7 +5731,7 @@
       }
     }
   },
-  "steplist-step-to-track-size-large": {
+  "Steplist/Step/To/Track/Size/Large": {
     "value": "{platformScale.steplist-step-to-track-size-large}",
     "type": "spacing",
     "$extensions": {
@@ -5741,7 +5741,7 @@
       }
     }
   },
-  "steplist-step-to-track-size-extra-large": {
+  "Steplist/Step/To/Track/Size/Extra large": {
     "value": "{platformScale.steplist-step-to-track-size-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -5751,7 +5751,7 @@
       }
     }
   },
-  "steplist-bottom-to-text": {
+  "Steplist/Bottom to text": {
     "value": "{platformScale.steplist-bottom-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -5761,7 +5761,7 @@
       }
     }
   },
-  "swatch-group-spacing-spacious": {
+  "Swatch/Group/Spacing/Spacious": {
     "value": "{platformScale.swatch-group-spacing-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -5771,7 +5771,7 @@
       }
     }
   },
-  "swatch-rectangle-width-multiplier": {
+  "Swatch/Rectangle/Width/Multiplier": {
     "value": "{platformScale.swatch-rectangle-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -5781,7 +5781,7 @@
       }
     }
   },
-  "🚫 tag-minimum-width-multiplier": {
+  "🚫 Tag/Minimum/Width/Multiplier": {
     "value": "{platformScale.🚫 tag-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -5791,7 +5791,7 @@
       }
     }
   },
-  "tag-maximum-width-multiplier": {
+  "Tag/Maximum/Width/Multiplier": {
     "value": "{platformScale.tag-maximum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -5801,7 +5801,7 @@
       }
     }
   },
-  "swatch-size-extra-small": {
+  "Swatch/Size/Extra small": {
     "value": "{platformScale.swatch-size-extra-small}",
     "type": "sizing",
     "$extensions": {
@@ -5811,7 +5811,7 @@
       }
     }
   },
-  "swatch-size-large": {
+  "Swatch/Size/Large": {
     "value": "{platformScale.swatch-size-large}",
     "type": "sizing",
     "$extensions": {
@@ -5821,7 +5821,7 @@
       }
     }
   },
-  "swatch-size-medium": {
+  "Swatch/Size/Medium": {
     "value": "{platformScale.swatch-size-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5831,7 +5831,7 @@
       }
     }
   },
-  "swatch-size-small": {
+  "Swatch/Size/Small": {
     "value": "{platformScale.swatch-size-small}",
     "type": "sizing",
     "$extensions": {
@@ -5841,7 +5841,7 @@
       }
     }
   },
-  "swatch-slash-thickness-extra-small": {
+  "Swatch/Slash/Thickness/Extra small": {
     "value": "{platformScale.swatch-slash-thickness-extra-small}",
     "type": "spacing",
     "$extensions": {
@@ -5851,7 +5851,7 @@
       }
     }
   },
-  "swatch-slash-thickness-large": {
+  "Swatch/Slash/Thickness/Large": {
     "value": "{platformScale.swatch-slash-thickness-large}",
     "type": "spacing",
     "$extensions": {
@@ -5861,7 +5861,7 @@
       }
     }
   },
-  "swatch-slash-thickness-medium": {
+  "Swatch/Slash/Thickness/Medium": {
     "value": "{platformScale.swatch-slash-thickness-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5871,7 +5871,7 @@
       }
     }
   },
-  "swatch-slash-thickness-small": {
+  "Swatch/Slash/Thickness/Small": {
     "value": "{platformScale.swatch-slash-thickness-small}",
     "type": "spacing",
     "$extensions": {
@@ -5881,7 +5881,7 @@
       }
     }
   },
-  "switch-control-height-extra-large": {
+  "Switch/Control/Height/Extra large": {
     "value": "{platformScale.switch-control-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5891,7 +5891,7 @@
       }
     }
   },
-  "switch-control-height-large": {
+  "Switch/Control/Height/Large": {
     "value": "{platformScale.switch-control-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -5901,7 +5901,7 @@
       }
     }
   },
-  "switch-control-height-medium": {
+  "Switch/Control/Height/Medium": {
     "value": "{platformScale.switch-control-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5911,7 +5911,7 @@
       }
     }
   },
-  "switch-control-height-small": {
+  "Switch/Control/Height/Small": {
     "value": "{platformScale.switch-control-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -5921,7 +5921,7 @@
       }
     }
   },
-  "switch-control-width-extra-large": {
+  "Switch/Control/Width/Extra large": {
     "value": "{platformScale.switch-control-width-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -5931,7 +5931,7 @@
       }
     }
   },
-  "switch-control-width-large": {
+  "Switch/Control/Width/Large": {
     "value": "{platformScale.switch-control-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -5941,7 +5941,7 @@
       }
     }
   },
-  "switch-control-width-medium": {
+  "Switch/Control/Width/Medium": {
     "value": "{platformScale.switch-control-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -5951,7 +5951,7 @@
       }
     }
   },
-  "switch-control-width-small": {
+  "Switch/Control/Width/Small": {
     "value": "{platformScale.switch-control-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -5961,7 +5961,7 @@
       }
     }
   },
-  "switch-top-to-control-extra-large": {
+  "Switch/Top/To/Control/Extra large": {
     "value": "{platformScale.switch-top-to-control-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -5971,7 +5971,7 @@
       }
     }
   },
-  "switch-top-to-control-large": {
+  "Switch/Top/To/Control/Large": {
     "value": "{platformScale.switch-top-to-control-large}",
     "type": "spacing",
     "$extensions": {
@@ -5981,7 +5981,7 @@
       }
     }
   },
-  "switch-top-to-control-medium": {
+  "Switch/Top/To/Control/Medium": {
     "value": "{platformScale.switch-top-to-control-medium}",
     "type": "spacing",
     "$extensions": {
@@ -5991,7 +5991,7 @@
       }
     }
   },
-  "switch-top-to-control-small": {
+  "Switch/Top/To/Control/Small": {
     "value": "{platformScale.switch-top-to-control-small}",
     "type": "spacing",
     "$extensions": {
@@ -6001,7 +6001,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-compact-extra-large": {
+  "Tab/Item/Bottom to text/Compact/Extra large": {
     "value": "{platformScale.tab-item-bottom-to-text-compact-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6011,7 +6011,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-compact-large": {
+  "Tab/Item/Bottom to text/Compact/Large": {
     "value": "{platformScale.tab-item-bottom-to-text-compact-large}",
     "type": "spacing",
     "$extensions": {
@@ -6021,7 +6021,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-compact-medium": {
+  "Tab/Item/Bottom to text/Compact/Medium": {
     "value": "{platformScale.tab-item-bottom-to-text-compact-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6031,7 +6031,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-compact-small": {
+  "Tab/Item/Bottom to text/Compact/Small": {
     "value": "{platformScale.tab-item-bottom-to-text-compact-small}",
     "type": "spacing",
     "$extensions": {
@@ -6041,7 +6041,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-extra-large": {
+  "Tab/Item/Bottom to text/Extra large": {
     "value": "{platformScale.tab-item-bottom-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6051,7 +6051,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-large": {
+  "Tab/Item/Bottom to text/Large": {
     "value": "{platformScale.tab-item-bottom-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -6061,7 +6061,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-medium": {
+  "Tab/Item/Bottom to text/Medium": {
     "value": "{platformScale.tab-item-bottom-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6071,7 +6071,7 @@
       }
     }
   },
-  "tab-item-bottom-to-text-small": {
+  "Tab/Item/Bottom to text/Small": {
     "value": "{platformScale.tab-item-bottom-to-text-small}",
     "type": "spacing",
     "$extensions": {
@@ -6081,7 +6081,7 @@
       }
     }
   },
-  "tab-item-compact-height-extra-large": {
+  "Tab/Item/Compact/Height/Extra large": {
     "value": "{platformScale.tab-item-compact-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -6091,7 +6091,7 @@
       }
     }
   },
-  "tab-item-compact-height-large": {
+  "Tab/Item/Compact/Height/Large": {
     "value": "{platformScale.tab-item-compact-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -6101,7 +6101,7 @@
       }
     }
   },
-  "tab-item-compact-height-medium": {
+  "Tab/Item/Compact/Height/Medium": {
     "value": "{platformScale.tab-item-compact-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -6111,7 +6111,7 @@
       }
     }
   },
-  "tab-item-compact-height-small": {
+  "Tab/Item/Compact/Height/Small": {
     "value": "{platformScale.tab-item-compact-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -6121,7 +6121,7 @@
       }
     }
   },
-  "tab-item-focus-indicator-gap-extra-large": {
+  "Tab/Item/Focus/Indicator/Gap/Extra large": {
     "value": "{platformScale.tab-item-focus-indicator-gap-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6131,7 +6131,7 @@
       }
     }
   },
-  "tab-item-focus-indicator-gap-large": {
+  "Tab/Item/Focus/Indicator/Gap/Large": {
     "value": "{platformScale.tab-item-focus-indicator-gap-large}",
     "type": "spacing",
     "$extensions": {
@@ -6141,7 +6141,7 @@
       }
     }
   },
-  "tab-item-focus-indicator-gap-medium": {
+  "Tab/Item/Focus/Indicator/Gap/Medium": {
     "value": "{platformScale.tab-item-focus-indicator-gap-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6151,7 +6151,7 @@
       }
     }
   },
-  "tab-item-focus-indicator-gap-small": {
+  "Tab/Item/Focus/Indicator/Gap/Small": {
     "value": "{platformScale.tab-item-focus-indicator-gap-small}",
     "type": "spacing",
     "$extensions": {
@@ -6161,7 +6161,7 @@
       }
     }
   },
-  "tab-item-height-extra-large": {
+  "Tab/Item/Height/Extra large": {
     "value": "{platformScale.tab-item-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -6171,7 +6171,7 @@
       }
     }
   },
-  "tab-item-height-large": {
+  "Tab/Item/Height/Large": {
     "value": "{platformScale.tab-item-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -6181,7 +6181,7 @@
       }
     }
   },
-  "tab-item-height-medium": {
+  "Tab/Item/Height/Medium": {
     "value": "{platformScale.tab-item-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -6191,7 +6191,7 @@
       }
     }
   },
-  "tab-item-height-small": {
+  "Tab/Item/Height/Small": {
     "value": "{platformScale.tab-item-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -6201,7 +6201,7 @@
       }
     }
   },
-  "tab-item-start-to-edge-extra-large": {
+  "Tab/Item/Start/To/Edge/Extra large": {
     "value": "{platformScale.tab-item-start-to-edge-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6211,7 +6211,7 @@
       }
     }
   },
-  "tab-item-start-to-edge-large": {
+  "Tab/Item/Start/To/Edge/Large": {
     "value": "{platformScale.tab-item-start-to-edge-large}",
     "type": "spacing",
     "$extensions": {
@@ -6221,7 +6221,7 @@
       }
     }
   },
-  "tab-item-start-to-edge-medium": {
+  "Tab/Item/Start/To/Edge/Medium": {
     "value": "{platformScale.tab-item-start-to-edge-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6231,7 +6231,7 @@
       }
     }
   },
-  "tab-item-start-to-edge-quiet": {
+  "Tab/Item/Start/To/Edge/Quiet": {
     "value": "{platformScale.tab-item-start-to-edge-quiet}",
     "type": "spacing",
     "$extensions": {
@@ -6241,7 +6241,7 @@
       }
     }
   },
-  "tab-item-start-to-edge-small": {
+  "Tab/Item/Start/To/Edge/Small": {
     "value": "{platformScale.tab-item-start-to-edge-small}",
     "type": "spacing",
     "$extensions": {
@@ -6251,7 +6251,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-horizontal-extra-large": {
+  "Tab/Item/To/Tab/Item/Horizontal/Extra large": {
     "value": "{platformScale.tab-item-to-tab-item-horizontal-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6261,7 +6261,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-horizontal-large": {
+  "Tab/Item/To/Tab/Item/Horizontal/Large": {
     "value": "{platformScale.tab-item-to-tab-item-horizontal-large}",
     "type": "spacing",
     "$extensions": {
@@ -6271,7 +6271,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-horizontal-medium": {
+  "Tab/Item/To/Tab/Item/Horizontal/Medium": {
     "value": "{platformScale.tab-item-to-tab-item-horizontal-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6281,7 +6281,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-horizontal-small": {
+  "Tab/Item/To/Tab/Item/Horizontal/Small": {
     "value": "{platformScale.tab-item-to-tab-item-horizontal-small}",
     "type": "spacing",
     "$extensions": {
@@ -6291,7 +6291,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-vertical-extra-large": {
+  "Tab/Item/To/Tab/Item/Vertical/Extra large": {
     "value": "{platformScale.tab-item-to-tab-item-vertical-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6301,7 +6301,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-vertical-large": {
+  "Tab/Item/To/Tab/Item/Vertical/Large": {
     "value": "{platformScale.tab-item-to-tab-item-vertical-large}",
     "type": "spacing",
     "$extensions": {
@@ -6311,7 +6311,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-vertical-medium": {
+  "Tab/Item/To/Tab/Item/Vertical/Medium": {
     "value": "{platformScale.tab-item-to-tab-item-vertical-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6321,7 +6321,7 @@
       }
     }
   },
-  "tab-item-to-tab-item-vertical-small": {
+  "Tab/Item/To/Tab/Item/Vertical/Small": {
     "value": "{platformScale.tab-item-to-tab-item-vertical-small}",
     "type": "spacing",
     "$extensions": {
@@ -6331,7 +6331,7 @@
       }
     }
   },
-  "tab-item-top-to-text-compact-extra-large": {
+  "Tab/Item/Top to text/Compact/Extra large": {
     "value": "{platformScale.tab-item-top-to-text-compact-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6341,7 +6341,7 @@
       }
     }
   },
-  "tab-item-top-to-text-compact-large": {
+  "Tab/Item/Top to text/Compact/Large": {
     "value": "{platformScale.tab-item-top-to-text-compact-large}",
     "type": "spacing",
     "$extensions": {
@@ -6351,7 +6351,7 @@
       }
     }
   },
-  "tab-item-top-to-text-compact-medium": {
+  "Tab/Item/Top to text/Compact/Medium": {
     "value": "{platformScale.tab-item-top-to-text-compact-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6361,7 +6361,7 @@
       }
     }
   },
-  "tab-item-top-to-text-compact-small": {
+  "Tab/Item/Top to text/Compact/Small": {
     "value": "{platformScale.tab-item-top-to-text-compact-small}",
     "type": "spacing",
     "$extensions": {
@@ -6371,7 +6371,7 @@
       }
     }
   },
-  "tab-item-top-to-text-extra-large": {
+  "Tab/Item/Top to text/Extra large": {
     "value": "{platformScale.tab-item-top-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6381,7 +6381,7 @@
       }
     }
   },
-  "tab-item-top-to-text-large": {
+  "Tab/Item/Top to text/Large": {
     "value": "{platformScale.tab-item-top-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -6391,7 +6391,7 @@
       }
     }
   },
-  "tab-item-top-to-text-medium": {
+  "Tab/Item/Top to text/Medium": {
     "value": "{platformScale.tab-item-top-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6401,7 +6401,7 @@
       }
     }
   },
-  "tab-item-top-to-text-small": {
+  "Tab/Item/Top to text/Small": {
     "value": "{platformScale.tab-item-top-to-text-small}",
     "type": "spacing",
     "$extensions": {
@@ -6411,7 +6411,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-compact-extra-large": {
+  "Tab/Item/Top/To/Workflow/Icon/Compact/Extra large": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-compact-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6421,7 +6421,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-compact-large": {
+  "Tab/Item/Top/To/Workflow/Icon/Compact/Large": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-compact-large}",
     "type": "spacing",
     "$extensions": {
@@ -6431,7 +6431,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-compact-medium": {
+  "Tab/Item/Top/To/Workflow/Icon/Compact/Medium": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-compact-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6441,7 +6441,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-compact-small": {
+  "Tab/Item/Top/To/Workflow/Icon/Compact/Small": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-compact-small}",
     "type": "spacing",
     "$extensions": {
@@ -6451,7 +6451,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-extra-large": {
+  "Tab/Item/Top/To/Workflow/Icon/Extra large": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6461,7 +6461,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-large": {
+  "Tab/Item/Top/To/Workflow/Icon/Large": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -6471,7 +6471,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-medium": {
+  "Tab/Item/Top/To/Workflow/Icon/Medium": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6481,7 +6481,7 @@
       }
     }
   },
-  "tab-item-top-to-workflow-icon-small": {
+  "Tab/Item/Top/To/Workflow/Icon/Small": {
     "value": "{platformScale.tab-item-top-to-workflow-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -6491,7 +6491,7 @@
       }
     }
   },
-  "table-border-divider-width": {
+  "Table/Border/Divider/Width": {
     "value": "{platformScale.table-border-divider-width}",
     "type": "sizing",
     "$extensions": {
@@ -6501,7 +6501,7 @@
       }
     }
   },
-  "table-checkbox-to-text": {
+  "Table/Checkbox/To/Text": {
     "value": "{platformScale.table-checkbox-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -6511,7 +6511,7 @@
       }
     }
   },
-  "table-column-header-row-bottom-to-text-extra-large": {
+  "Table/Column/Header/Row/Bottom to text/Extra large": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6521,7 +6521,7 @@
       }
     }
   },
-  "table-column-header-row-bottom-to-text-large": {
+  "Table/Column/Header/Row/Bottom to text/Large": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -6531,7 +6531,7 @@
       }
     }
   },
-  "table-column-header-row-bottom-to-text-medium": {
+  "Table/Column/Header/Row/Bottom to text/Medium": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6541,7 +6541,7 @@
       }
     }
   },
-  "table-column-header-row-bottom-to-text-small": {
+  "Table/Column/Header/Row/Bottom to text/Small": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-small}",
     "type": "spacing",
     "$extensions": {
@@ -6551,7 +6551,7 @@
       }
     }
   },
-  "table-column-header-row-top-to-text-extra-large": {
+  "Table/Column/Header/Row/Top to text/Extra large": {
     "value": "{platformScale.table-column-header-row-top-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6561,7 +6561,7 @@
       }
     }
   },
-  "table-column-header-row-top-to-text-large": {
+  "Table/Column/Header/Row/Top to text/Large": {
     "value": "{platformScale.table-column-header-row-top-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -6571,7 +6571,7 @@
       }
     }
   },
-  "table-column-header-row-top-to-text-medium": {
+  "Table/Column/Header/Row/Top to text/Medium": {
     "value": "{platformScale.table-column-header-row-top-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6581,7 +6581,7 @@
       }
     }
   },
-  "table-column-header-row-top-to-text-small": {
+  "Table/Column/Header/Row/Top to text/Small": {
     "value": "{platformScale.table-column-header-row-top-to-text-small}",
     "type": "spacing",
     "$extensions": {
@@ -6591,7 +6591,7 @@
       }
     }
   },
-  "table-edge-to-content": {
+  "Table/Edge to content": {
     "value": "{platformScale.table-edge-to-content}",
     "type": "spacing",
     "$extensions": {
@@ -6601,7 +6601,7 @@
       }
     }
   },
-  "table-header-row-checkbox-to-top-extra-large": {
+  "Table/Header/Row/Checkbox/To/Top/Extra large": {
     "value": "{platformScale.table-header-row-checkbox-to-top-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6611,7 +6611,7 @@
       }
     }
   },
-  "table-header-row-checkbox-to-top-large": {
+  "Table/Header/Row/Checkbox/To/Top/Large": {
     "value": "{platformScale.table-header-row-checkbox-to-top-large}",
     "type": "spacing",
     "$extensions": {
@@ -6621,7 +6621,7 @@
       }
     }
   },
-  "table-header-row-checkbox-to-top-medium": {
+  "Table/Header/Row/Checkbox/To/Top/Medium": {
     "value": "{platformScale.table-header-row-checkbox-to-top-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6631,7 +6631,7 @@
       }
     }
   },
-  "table-header-row-checkbox-to-top-small": {
+  "Table/Header/Row/Checkbox/To/Top/Small": {
     "value": "{platformScale.table-header-row-checkbox-to-top-small}",
     "type": "spacing",
     "$extensions": {
@@ -6641,7 +6641,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-extra-large-compact": {
+  "Table/Row/Bottom to text/Extra large/Compact": {
     "value": "{platformScale.table-row-bottom-to-text-extra-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6651,7 +6651,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-extra-large": {
+  "Table/Row/Bottom to text/Extra large": {
     "value": "{platformScale.table-row-bottom-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6662,7 +6662,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-extra-large-spacious": {
+  "Table/Row/Bottom to text/Extra large/Spacious": {
     "value": "{platformScale.table-row-bottom-to-text-extra-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6672,7 +6672,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-large-compact": {
+  "Table/Row/Bottom to text/Large/Compact": {
     "value": "{platformScale.table-row-bottom-to-text-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6682,7 +6682,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-large": {
+  "Table/Row/Bottom to text/Large": {
     "value": "{platformScale.table-row-bottom-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -6693,7 +6693,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-large-spacious": {
+  "Table/Row/Bottom to text/Large/Spacious": {
     "value": "{platformScale.table-row-bottom-to-text-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6703,7 +6703,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-medium-compact": {
+  "Table/Row/Bottom to text/Medium/Compact": {
     "value": "{platformScale.table-row-bottom-to-text-medium-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6713,7 +6713,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-medium": {
+  "Table/Row/Bottom to text/Medium": {
     "value": "{platformScale.table-row-bottom-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6724,7 +6724,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-medium-spacious": {
+  "Table/Row/Bottom to text/Medium/Spacious": {
     "value": "{platformScale.table-row-bottom-to-text-medium-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6734,7 +6734,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-small-compact": {
+  "Table/Row/Bottom to text/Small/Compact": {
     "value": "{platformScale.table-row-bottom-to-text-small-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6744,7 +6744,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-small": {
+  "Table/Row/Bottom to text/Small": {
     "value": "{platformScale.table-row-bottom-to-text-small}",
     "type": "spacing",
     "$extensions": {
@@ -6755,7 +6755,7 @@
       }
     }
   },
-  "table-row-bottom-to-text-small-spacious": {
+  "Table/Row/Bottom to text/Small/Spacious": {
     "value": "{platformScale.table-row-bottom-to-text-small-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6765,7 +6765,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-extra-large-compact": {
+  "Table/Row/Checkbox/To/Top/Extra large/Compact": {
     "value": "{platformScale.table-row-checkbox-to-top-extra-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6775,7 +6775,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-extra-large": {
+  "Table/Row/Checkbox/To/Top/Extra large": {
     "value": "{platformScale.table-row-checkbox-to-top-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -6786,7 +6786,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-extra-large-spacious": {
+  "Table/Row/Checkbox/To/Top/Extra large/Spacious": {
     "value": "{platformScale.table-row-checkbox-to-top-extra-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6796,7 +6796,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-large-compact": {
+  "Table/Row/Checkbox/To/Top/Large/Compact": {
     "value": "{platformScale.table-row-checkbox-to-top-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6806,7 +6806,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-large": {
+  "Table/Row/Checkbox/To/Top/Large": {
     "value": "{platformScale.table-row-checkbox-to-top-large}",
     "type": "spacing",
     "$extensions": {
@@ -6817,7 +6817,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-large-spacious": {
+  "Table/Row/Checkbox/To/Top/Large/Spacious": {
     "value": "{platformScale.table-row-checkbox-to-top-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6827,7 +6827,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-medium-compact": {
+  "Table/Row/Checkbox/To/Top/Medium/Compact": {
     "value": "{platformScale.table-row-checkbox-to-top-medium-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6837,7 +6837,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-medium": {
+  "Table/Row/Checkbox/To/Top/Medium": {
     "value": "{platformScale.table-row-checkbox-to-top-medium}",
     "type": "spacing",
     "$extensions": {
@@ -6848,7 +6848,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-medium-spacious": {
+  "Table/Row/Checkbox/To/Top/Medium/Spacious": {
     "value": "{platformScale.table-row-checkbox-to-top-medium-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6858,7 +6858,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-small-compact": {
+  "Table/Row/Checkbox/To/Top/Small/Compact": {
     "value": "{platformScale.table-row-checkbox-to-top-small-compact}",
     "type": "spacing",
     "$extensions": {
@@ -6868,7 +6868,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-small": {
+  "Table/Row/Checkbox/To/Top/Small": {
     "value": "{platformScale.table-row-checkbox-to-top-small}",
     "type": "spacing",
     "$extensions": {
@@ -6879,7 +6879,7 @@
       }
     }
   },
-  "table-row-checkbox-to-top-small-spacious": {
+  "Table/Row/Checkbox/To/Top/Small/Spacious": {
     "value": "{platformScale.table-row-checkbox-to-top-small-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -6889,7 +6889,7 @@
       }
     }
   },
-  "table-row-height-extra-large-compact": {
+  "Table/Row/Height/Extra large/Compact": {
     "value": "{platformScale.table-row-height-extra-large-compact}",
     "type": "sizing",
     "$extensions": {
@@ -6899,7 +6899,7 @@
       }
     }
   },
-  "table-row-height-extra-large": {
+  "Table/Row/Height/Extra large": {
     "value": "{platformScale.table-row-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -6910,7 +6910,7 @@
       }
     }
   },
-  "table-row-height-extra-large-spacious": {
+  "Table/Row/Height/Extra large/Spacious": {
     "value": "{platformScale.table-row-height-extra-large-spacious}",
     "type": "sizing",
     "$extensions": {
@@ -6920,7 +6920,7 @@
       }
     }
   },
-  "table-row-height-large-compact": {
+  "Table/Row/Height/Large/Compact": {
     "value": "{platformScale.table-row-height-large-compact}",
     "type": "sizing",
     "$extensions": {
@@ -6930,7 +6930,7 @@
       }
     }
   },
-  "table-row-height-large": {
+  "Table/Row/Height/Large": {
     "value": "{platformScale.table-row-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -6941,7 +6941,7 @@
       }
     }
   },
-  "table-row-height-large-spacious": {
+  "Table/Row/Height/Large/Spacious": {
     "value": "{platformScale.table-row-height-large-spacious}",
     "type": "sizing",
     "$extensions": {
@@ -6951,7 +6951,7 @@
       }
     }
   },
-  "table-row-height-medium-compact": {
+  "Table/Row/Height/Medium/Compact": {
     "value": "{platformScale.table-row-height-medium-compact}",
     "type": "sizing",
     "$extensions": {
@@ -6961,7 +6961,7 @@
       }
     }
   },
-  "table-row-height-medium": {
+  "Table/Row/Height/Medium": {
     "value": "{platformScale.table-row-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -6972,7 +6972,7 @@
       }
     }
   },
-  "table-row-height-medium-spacious": {
+  "Table/Row/Height/Medium/Spacious": {
     "value": "{platformScale.table-row-height-medium-spacious}",
     "type": "sizing",
     "$extensions": {
@@ -6982,7 +6982,7 @@
       }
     }
   },
-  "table-row-height-small-compact": {
+  "Table/Row/Height/Small/Compact": {
     "value": "{platformScale.table-row-height-small-compact}",
     "type": "sizing",
     "$extensions": {
@@ -6992,7 +6992,7 @@
       }
     }
   },
-  "table-row-height-small": {
+  "Table/Row/Height/Small": {
     "value": "{platformScale.table-row-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -7003,7 +7003,7 @@
       }
     }
   },
-  "table-row-height-small-spacious": {
+  "Table/Row/Height/Small/Spacious": {
     "value": "{platformScale.table-row-height-small-spacious}",
     "type": "sizing",
     "$extensions": {
@@ -7013,7 +7013,7 @@
       }
     }
   },
-  "table-row-top-to-text-extra-large-compact": {
+  "Table/Row/Top to text/Extra large/Compact": {
     "value": "{platformScale.table-row-top-to-text-extra-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7023,7 +7023,7 @@
       }
     }
   },
-  "table-row-top-to-text-extra-large": {
+  "Table/Row/Top to text/Extra large": {
     "value": "{platformScale.table-row-top-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -7034,7 +7034,7 @@
       }
     }
   },
-  "table-row-top-to-text-extra-large-spacious": {
+  "Table/Row/Top to text/Extra large/Spacious": {
     "value": "{platformScale.table-row-top-to-text-extra-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7044,7 +7044,7 @@
       }
     }
   },
-  "table-row-top-to-text-large-compact": {
+  "Table/Row/Top to text/Large/Compact": {
     "value": "{platformScale.table-row-top-to-text-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7054,7 +7054,7 @@
       }
     }
   },
-  "table-row-top-to-text-large": {
+  "Table/Row/Top to text/Large": {
     "value": "{platformScale.table-row-top-to-text-large}",
     "type": "spacing",
     "$extensions": {
@@ -7065,7 +7065,7 @@
       }
     }
   },
-  "table-row-top-to-text-large-spacious": {
+  "Table/Row/Top to text/Large/Spacious": {
     "value": "{platformScale.table-row-top-to-text-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7075,7 +7075,7 @@
       }
     }
   },
-  "table-row-top-to-text-medium-compact": {
+  "Table/Row/Top to text/Medium/Compact": {
     "value": "{platformScale.table-row-top-to-text-medium-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7085,7 +7085,7 @@
       }
     }
   },
-  "table-row-top-to-text-medium": {
+  "Table/Row/Top to text/Medium": {
     "value": "{platformScale.table-row-top-to-text-medium}",
     "type": "spacing",
     "$extensions": {
@@ -7096,7 +7096,7 @@
       }
     }
   },
-  "table-row-top-to-text-medium-spacious": {
+  "Table/Row/Top to text/Medium/Spacious": {
     "value": "{platformScale.table-row-top-to-text-medium-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7106,7 +7106,7 @@
       }
     }
   },
-  "table-row-top-to-text-small-compact": {
+  "Table/Row/Top to text/Small/Compact": {
     "value": "{platformScale.table-row-top-to-text-small-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7116,7 +7116,7 @@
       }
     }
   },
-  "table-row-top-to-text-small": {
+  "Table/Row/Top to text/Small": {
     "value": "{platformScale.table-row-top-to-text-small}",
     "type": "spacing",
     "$extensions": {
@@ -7127,7 +7127,7 @@
       }
     }
   },
-  "table-row-top-to-text-small-spacious": {
+  "Table/Row/Top to text/Small/Spacious": {
     "value": "{platformScale.table-row-top-to-text-small-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7137,7 +7137,7 @@
       }
     }
   },
-  "table-section-header-row-height-extra-large": {
+  "Table/Section/Header/Row/Height/Extra large": {
     "value": "{platformScale.table-section-header-row-height-extra-large}",
     "type": "sizing",
     "$extensions": {
@@ -7147,7 +7147,7 @@
       }
     }
   },
-  "table-section-header-row-height-large": {
+  "Table/Section/Header/Row/Height/Large": {
     "value": "{platformScale.table-section-header-row-height-large}",
     "type": "sizing",
     "$extensions": {
@@ -7157,7 +7157,7 @@
       }
     }
   },
-  "table-section-header-row-height-medium": {
+  "Table/Section/Header/Row/Height/Medium": {
     "value": "{platformScale.table-section-header-row-height-medium}",
     "type": "sizing",
     "$extensions": {
@@ -7167,7 +7167,7 @@
       }
     }
   },
-  "table-section-header-row-height-small": {
+  "Table/Section/Header/Row/Height/Small": {
     "value": "{platformScale.table-section-header-row-height-small}",
     "type": "sizing",
     "$extensions": {
@@ -7177,7 +7177,7 @@
       }
     }
   },
-  "tag-minimum-width-small": {
+  "Tag/Minimum/Width/Small": {
     "value": "{platformScale.tag-minimum-width-small}",
     "type": "sizing",
     "$extensions": {
@@ -7187,7 +7187,7 @@
       }
     }
   },
-  "tag-minimum-width-medium": {
+  "Tag/Minimum/Width/Medium": {
     "value": "{platformScale.tag-minimum-width-medium}",
     "type": "sizing",
     "$extensions": {
@@ -7197,7 +7197,7 @@
       }
     }
   },
-  "tag-minimum-width-large": {
+  "Tag/Minimum/Width/Large": {
     "value": "{platformScale.tag-minimum-width-large}",
     "type": "sizing",
     "$extensions": {
@@ -7207,7 +7207,7 @@
       }
     }
   },
-  "takeover-dialog-height": {
+  "Takeover/Dialog/Height": {
     "value": "{platformScale.takeover-dialog-height}",
     "type": "sizing",
     "$extensions": {
@@ -7217,7 +7217,7 @@
       }
     }
   },
-  "takeover-dialog-width": {
+  "Takeover/Dialog/Width": {
     "value": "{platformScale.takeover-dialog-width}",
     "type": "sizing",
     "$extensions": {
@@ -7227,7 +7227,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-extra-large-compact": {
+  "Table/Thumbnail/To/Top/Minimum/Extra large/Compact": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-extra-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7237,7 +7237,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-extra-large": {
+  "Table/Thumbnail/To/Top/Minimum/Extra large": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-extra-large}",
     "type": "spacing",
     "$extensions": {
@@ -7248,7 +7248,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-extra-large-spacious": {
+  "Table/Thumbnail/To/Top/Minimum/Extra large/Spacious": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-extra-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7258,7 +7258,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-large-compact": {
+  "Table/Thumbnail/To/Top/Minimum/Large/Compact": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-large-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7268,7 +7268,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-large": {
+  "Table/Thumbnail/To/Top/Minimum/Large": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-large}",
     "type": "spacing",
     "$extensions": {
@@ -7279,7 +7279,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-large-spacious": {
+  "Table/Thumbnail/To/Top/Minimum/Large/Spacious": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-large-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7289,7 +7289,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-medium-compact": {
+  "Table/Thumbnail/To/Top/Minimum/Medium/Compact": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-medium-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7299,7 +7299,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-medium": {
+  "Table/Thumbnail/To/Top/Minimum/Medium": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-medium}",
     "type": "spacing",
     "$extensions": {
@@ -7310,7 +7310,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-medium-spacious": {
+  "Table/Thumbnail/To/Top/Minimum/Medium/Spacious": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-medium-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7320,7 +7320,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-small-compact": {
+  "Table/Thumbnail/To/Top/Minimum/Small/Compact": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-small-compact}",
     "type": "spacing",
     "$extensions": {
@@ -7330,7 +7330,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-small": {
+  "Table/Thumbnail/To/Top/Minimum/Small": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-small}",
     "type": "spacing",
     "$extensions": {
@@ -7341,7 +7341,7 @@
       }
     }
   },
-  "table-thumbnail-to-top-minimum-small-spacious": {
+  "Table/Thumbnail/To/Top/Minimum/Small/Spacious": {
     "value": "{platformScale.table-thumbnail-to-top-minimum-small-spacious}",
     "type": "spacing",
     "$extensions": {
@@ -7351,7 +7351,7 @@
       }
     }
   },
-  "tag-label-to-clear-icon-small": {
+  "Tag/Label/To/Clear/Icon/Small": {
     "value": "{platformScale.tag-label-to-clear-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -7361,7 +7361,7 @@
       }
     }
   },
-  "tag-label-to-clear-icon-medium": {
+  "Tag/Label/To/Clear/Icon/Medium": {
     "value": "{platformScale.tag-label-to-clear-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -7371,7 +7371,7 @@
       }
     }
   },
-  "tag-label-to-clear-icon-large": {
+  "Tag/Label/To/Clear/Icon/Large": {
     "value": "{platformScale.tag-label-to-clear-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -7381,7 +7381,7 @@
       }
     }
   },
-  "tag-edge-to-clear-icon-small": {
+  "Tag/Edge/To/Clear/Icon/Small": {
     "value": "{platformScale.tag-edge-to-clear-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -7391,7 +7391,7 @@
       }
     }
   },
-  "tag-edge-to-clear-icon-medium": {
+  "Tag/Edge/To/Clear/Icon/Medium": {
     "value": "{platformScale.tag-edge-to-clear-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -7401,7 +7401,7 @@
       }
     }
   },
-  "tag-edge-to-clear-icon-large": {
+  "Tag/Edge/To/Clear/Icon/Large": {
     "value": "{platformScale.tag-edge-to-clear-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -7411,7 +7411,7 @@
       }
     }
   },
-  "tag-top-to-avatar-large": {
+  "Tag/Top/To/Avatar/Large": {
     "value": "{platformScale.tag-top-to-avatar-large}",
     "type": "spacing",
     "$extensions": {
@@ -7421,7 +7421,7 @@
       }
     }
   },
-  "tag-top-to-avatar-medium": {
+  "Tag/Top/To/Avatar/Medium": {
     "value": "{platformScale.tag-top-to-avatar-medium}",
     "type": "spacing",
     "$extensions": {
@@ -7431,7 +7431,7 @@
       }
     }
   },
-  "tag-top-to-avatar-small": {
+  "Tag/Top/To/Avatar/Small": {
     "value": "{platformScale.tag-top-to-avatar-small}",
     "type": "spacing",
     "$extensions": {
@@ -7441,7 +7441,7 @@
       }
     }
   },
-  "tag-top-to-cross-icon-large": {
+  "Tag/Top/To/Cross/Icon/Large": {
     "value": "{platformScale.tag-top-to-cross-icon-large}",
     "type": "spacing",
     "$extensions": {
@@ -7451,7 +7451,7 @@
       }
     }
   },
-  "tag-top-to-cross-icon-medium": {
+  "Tag/Top/To/Cross/Icon/Medium": {
     "value": "{platformScale.tag-top-to-cross-icon-medium}",
     "type": "spacing",
     "$extensions": {
@@ -7461,7 +7461,7 @@
       }
     }
   },
-  "tag-top-to-cross-icon-small": {
+  "Tag/Top/To/Cross/Icon/Small": {
     "value": "{platformScale.tag-top-to-cross-icon-small}",
     "type": "spacing",
     "$extensions": {
@@ -7471,7 +7471,7 @@
       }
     }
   },
-  "text-area-minimum-height": {
+  "Text/Area/Minimum/Height": {
     "value": "{platformScale.text-area-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -7481,7 +7481,7 @@
       }
     }
   },
-  "text-area-minimum-width": {
+  "Text/Area/Minimum/Width": {
     "value": "{platformScale.text-area-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -7491,7 +7491,7 @@
       }
     }
   },
-  "text-field-minimum-width-multiplier": {
+  "Text/Field/Minimum/Width/Multiplier": {
     "value": "{platformScale.text-field-minimum-width-multiplier}",
     "type": "number",
     "$extensions": {
@@ -7501,7 +7501,7 @@
       }
     }
   },
-  "thumbnail-opacity-checkerboard-square-size": {
+  "Thumbnail/Opacity/Checkerboard/Square/Size": {
     "value": "{platformScale.thumbnail-opacity-checkerboard-square-size}",
     "type": "sizing",
     "$extensions": {
@@ -7511,7 +7511,7 @@
       }
     }
   },
-  "thumbnail-size-50": {
+  "Thumbnail/Size/50": {
     "value": "{platformScale.thumbnail-size-50}",
     "type": "sizing",
     "$extensions": {
@@ -7521,7 +7521,7 @@
       }
     }
   },
-  "thumbnail-size-75": {
+  "Thumbnail/Size/75": {
     "value": "{platformScale.thumbnail-size-75}",
     "type": "sizing",
     "$extensions": {
@@ -7531,7 +7531,7 @@
       }
     }
   },
-  "thumbnail-size-100": {
+  "Thumbnail/Size/100": {
     "value": "{platformScale.thumbnail-size-100}",
     "type": "sizing",
     "$extensions": {
@@ -7541,7 +7541,7 @@
       }
     }
   },
-  "thumbnail-size-200": {
+  "Thumbnail/Size/200": {
     "value": "{platformScale.thumbnail-size-200}",
     "type": "sizing",
     "$extensions": {
@@ -7551,7 +7551,7 @@
       }
     }
   },
-  "thumbnail-size-300": {
+  "Thumbnail/Size/300": {
     "value": "{platformScale.thumbnail-size-300}",
     "type": "sizing",
     "$extensions": {
@@ -7561,7 +7561,7 @@
       }
     }
   },
-  "thumbnail-size-400": {
+  "Thumbnail/Size/400": {
     "value": "{platformScale.thumbnail-size-400}",
     "type": "sizing",
     "$extensions": {
@@ -7571,7 +7571,7 @@
       }
     }
   },
-  "thumbnail-size-500": {
+  "Thumbnail/Size/500": {
     "value": "{platformScale.thumbnail-size-500}",
     "type": "sizing",
     "$extensions": {
@@ -7581,7 +7581,7 @@
       }
     }
   },
-  "thumbnail-size-600": {
+  "Thumbnail/Size/600": {
     "value": "{platformScale.thumbnail-size-600}",
     "type": "sizing",
     "$extensions": {
@@ -7591,7 +7591,7 @@
       }
     }
   },
-  "thumbnail-size-700": {
+  "Thumbnail/Size/700": {
     "value": "{platformScale.thumbnail-size-700}",
     "type": "sizing",
     "$extensions": {
@@ -7601,7 +7601,7 @@
       }
     }
   },
-  "thumbnail-size-800": {
+  "Thumbnail/Size/800": {
     "value": "{platformScale.thumbnail-size-800}",
     "type": "sizing",
     "$extensions": {
@@ -7611,7 +7611,7 @@
       }
     }
   },
-  "thumbnail-size-900": {
+  "Thumbnail/Size/900": {
     "value": "{platformScale.thumbnail-size-900}",
     "type": "sizing",
     "$extensions": {
@@ -7621,7 +7621,7 @@
       }
     }
   },
-  "thumbnail-size-1000": {
+  "Thumbnail/Size/1000": {
     "value": "{platformScale.thumbnail-size-1000}",
     "type": "sizing",
     "$extensions": {
@@ -7631,7 +7631,7 @@
       }
     }
   },
-  "toast-bottom-to-text": {
+  "Toast/Bottom to text": {
     "value": "{platformScale.toast-bottom-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -7641,7 +7641,7 @@
       }
     }
   },
-  "toast-height": {
+  "Toast/Height": {
     "value": "{platformScale.toast-height}",
     "type": "sizing",
     "$extensions": {
@@ -7651,7 +7651,7 @@
       }
     }
   },
-  "toast-maximum-width": {
+  "Toast/Maximum/Width": {
     "value": "{platformScale.toast-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -7661,7 +7661,7 @@
       }
     }
   },
-  "toast-top-to-text": {
+  "Toast/Top to text": {
     "value": "{platformScale.toast-top-to-text}",
     "type": "spacing",
     "$extensions": {
@@ -7671,7 +7671,7 @@
       }
     }
   },
-  "toast-top-to-workflow-icon": {
+  "Toast/Top/To/Workflow/Icon": {
     "value": "{platformScale.toast-top-to-workflow-icon}",
     "type": "spacing",
     "$extensions": {
@@ -7681,7 +7681,7 @@
       }
     }
   },
-  "tooltip-maximum-width": {
+  "Tooltip/Maximum/Width": {
     "value": "{platformScale.tooltip-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -7691,7 +7691,7 @@
       }
     }
   },
-  "tooltip-tip-height": {
+  "Tooltip/Tip/Height": {
     "value": "{platformScale.tooltip-tip-height}",
     "type": "sizing",
     "$extensions": {
@@ -7701,7 +7701,7 @@
       }
     }
   },
-  "tooltip-tip-width": {
+  "Tooltip/Tip/Width": {
     "value": "{platformScale.tooltip-tip-width}",
     "type": "sizing",
     "$extensions": {
@@ -7711,7 +7711,7 @@
       }
     }
   },
-  "tree-view-disclosure-indicator-height": {
+  "Tree/View/Disclosure indicator/Height": {
     "value": "{platformScale.tree-view-disclosure-indicator-height}",
     "type": "sizing",
     "$extensions": {
@@ -7721,7 +7721,7 @@
       }
     }
   },
-  "tree-view-disclosure-indicator-width": {
+  "Tree/View/Disclosure indicator/Width": {
     "value": "{platformScale.tree-view-disclosure-indicator-width}",
     "type": "sizing",
     "$extensions": {
@@ -7731,7 +7731,7 @@
       }
     }
   },
-  "tree-view-minimum-height": {
+  "Tree/View/Minimum/Height": {
     "value": "{platformScale.tree-view-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -7741,7 +7741,7 @@
       }
     }
   },
-  "tree-view-minimum-width": {
+  "Tree/View/Minimum/Width": {
     "value": "{platformScale.tree-view-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -7751,7 +7751,7 @@
       }
     }
   },
-  "divider-horizontal-minimum-width": {
+  "Divider/Horizontal/Minimum/Width": {
     "value": "{platformScale.divider-horizontal-minimum-width}",
     "type": "sizing",
     "$extensions": {
@@ -7761,7 +7761,7 @@
       }
     }
   },
-  "divider-vertical-minimum-height": {
+  "Divider/Vertical/Minimum/Height": {
     "value": "{platformScale.divider-vertical-minimum-height}",
     "type": "sizing",
     "$extensions": {
@@ -7771,7 +7771,7 @@
       }
     }
   },
-  "segmented-control-item-height": {
+  "Segmented/Control/Item/Height": {
     "value": "{platformScale.segmented-control-item-height}",
     "type": "sizing",
     "$extensions": {
@@ -7781,7 +7781,7 @@
       }
     }
   },
-  "segmented-control-item-maximum-width": {
+  "Segmented/Control/Item/Maximum/Width": {
     "value": "{platformScale.segmented-control-item-maximum-width}",
     "type": "sizing",
     "$extensions": {
@@ -7791,7 +7791,7 @@
       }
     }
   },
-  "tray-top-to-content-area": {
+  "Tray/Top to content/Area": {
     "value": "{platformScale.tray-top-to-content-area}",
     "type": "spacing",
     "$extensions": {
@@ -7801,7 +7801,7 @@
       }
     }
   },
-  "tree-view-bottom-to-label": {
+  "Tree/View/Bottom/To/Label": {
     "value": "{platformScale.tree-view-bottom-to-label}",
     "type": "spacing",
     "$extensions": {
@@ -7811,7 +7811,7 @@
       }
     }
   },
-  "tree-view-drag-handle-to-checkbox": {
+  "Tree/View/Drag/Handle/To/Checkbox": {
     "value": "{platformScale.tree-view-drag-handle-to-checkbox}",
     "type": "spacing",
     "$extensions": {
@@ -7821,7 +7821,7 @@
       }
     }
   },
-  "tree-view-edge-to-checkbox": {
+  "Tree/View/Edge/To/Checkbox": {
     "value": "{platformScale.tree-view-edge-to-checkbox}",
     "type": "spacing",
     "$extensions": {
@@ -7831,7 +7831,7 @@
       }
     }
   },
-  "tree-view-edge-to-drag-handle": {
+  "Tree/View/Edge/To/Drag/Handle": {
     "value": "{platformScale.tree-view-edge-to-drag-handle}",
     "type": "spacing",
     "$extensions": {
@@ -7841,7 +7841,7 @@
       }
     }
   },
-  "tree-view-end-edge-to-action-area": {
+  "Tree/View/End/Edge/To/Action/Area": {
     "value": "{platformScale.tree-view-end-edge-to-action-area}",
     "type": "spacing",
     "$extensions": {
@@ -7851,7 +7851,7 @@
       }
     }
   },
-  "tree-view-header-to-item": {
+  "Tree/View/Header/To/Item": {
     "value": "{platformScale.tree-view-header-to-item}",
     "type": "spacing",
     "$extensions": {
@@ -7861,7 +7861,7 @@
       }
     }
   },
-  "tree-view-item-to-header": {
+  "Tree/View/Item/To/Header": {
     "value": "{platformScale.tree-view-item-to-header}",
     "type": "spacing",
     "$extensions": {
@@ -7871,7 +7871,7 @@
       }
     }
   },
-  "tree-view-item-to-item": {
+  "Tree/View/Item/To/Item": {
     "value": "{platformScale.tree-view-item-to-item}",
     "type": "spacing",
     "$extensions": {
@@ -7881,7 +7881,7 @@
       }
     }
   },
-  "tree-view-item-to-item-detached": {
+  "Tree/View/Item/To/Item/Detached": {
     "value": "{platformScale.tree-view-item-to-item-detached}",
     "type": "spacing",
     "$extensions": {
@@ -7891,7 +7891,7 @@
       }
     }
   },
-  "tree-view-label-to-action-area": {
+  "Tree/View/Label/To/Action/Area": {
     "value": "{platformScale.tree-view-label-to-action-area}",
     "type": "spacing",
     "$extensions": {
@@ -7901,7 +7901,7 @@
       }
     }
   },
-  "tree-view-level-increment": {
+  "Tree/View/Level/Increment": {
     "value": "{platformScale.tree-view-level-increment}",
     "type": "spacing",
     "$extensions": {
@@ -7911,7 +7911,7 @@
       }
     }
   },
-  "tree-view-minimum-top-to-context-area": {
+  "Tree/View/Minimum/Top/To/Context/Area": {
     "value": "{platformScale.tree-view-minimum-top-to-context-area}",
     "type": "spacing",
     "$extensions": {
@@ -7921,7 +7921,7 @@
       }
     }
   },
-  "tree-view-top-to-action-button": {
+  "Tree/View/Top/To/Action/Button": {
     "value": "{platformScale.tree-view-top-to-action-button}",
     "type": "spacing",
     "$extensions": {
@@ -7931,7 +7931,7 @@
       }
     }
   },
-  "tree-view-top-to-checkbox": {
+  "Tree/View/Top/To/Checkbox": {
     "value": "{platformScale.tree-view-top-to-checkbox}",
     "type": "spacing",
     "$extensions": {
@@ -7941,7 +7941,7 @@
       }
     }
   },
-  "tree-view-top-to-disclosure-indicator": {
+  "Tree/View/Top/To/Disclosure indicator": {
     "value": "{platformScale.tree-view-top-to-disclosure-indicator}",
     "type": "spacing",
     "$extensions": {
@@ -7951,7 +7951,7 @@
       }
     }
   },
-  "tree-view-top-to-drag-handle": {
+  "Tree/View/Top/To/Drag/Handle": {
     "value": "{platformScale.tree-view-top-to-drag-handle}",
     "type": "spacing",
     "$extensions": {
@@ -7961,7 +7961,7 @@
       }
     }
   },
-  "tree-view-top-to-label": {
+  "Tree/View/Top/To/Label": {
     "value": "{platformScale.tree-view-top-to-label}",
     "type": "spacing",
     "$extensions": {
@@ -7971,7 +7971,7 @@
       }
     }
   },
-  "tooltip-tip-corner-radius": {
+  "Tooltip/Tip/Corner/Radius": {
     "value": "{platformScale.tooltip-tip-corner-radius}",
     "type": "borderRadius",
     "$extensions": {
@@ -7981,7 +7981,7 @@
       }
     }
   },
-  "thumbnail-corner-radius": {
+  "Thumbnail/Corner/Radius": {
     "value": "{platformScale.thumbnail-corner-radius}",
     "type": "borderRadius",
     "$extensions": {

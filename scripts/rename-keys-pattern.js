@@ -37,7 +37,7 @@ function getAllJsonFiles(dir) {
     if (stat && stat.isDirectory()) {
       if (file === 'Platform scale') return; // skip this directory
       results = results.concat(getAllJsonFiles(filePath));
-    } else if (file.endsWith('.json')) {
+    } else if (file === 'modeless.json') {
       results.push(filePath);
     }
   });
@@ -108,4 +108,46 @@ files.forEach(filePath => {
   } catch (e) {
     console.error('Error reading', filePath, e.message);
   }
-}); 
+});
+
+// Also process $themes.json for Modeless $figmaVariableReferences
+const themesPath = path.join(baseDir, '$themes.json');
+if (fs.existsSync(themesPath)) {
+  try {
+    const themesJson = JSON.parse(fs.readFileSync(themesPath, 'utf8'));
+    let changed = false;
+    if (Array.isArray(themesJson)) {
+      themesJson.forEach(obj => {
+        if (obj && obj.name === 'Modeless' && obj.$figmaVariableReferences) {
+          const newRefs = {};
+          Object.keys(obj.$figmaVariableReferences).forEach(key => {
+            const newKey = renameKey(key);
+            if (newKey !== key) changed = true;
+            newRefs[newKey] = obj.$figmaVariableReferences[key];
+          });
+          obj.$figmaVariableReferences = newRefs;
+        }
+      });
+    } else if (typeof themesJson === 'object') {
+      // If $themes.json is an object with a 'themes' array or similar
+      const arr = Array.isArray(themesJson.themes) ? themesJson.themes : [];
+      arr.forEach(obj => {
+        if (obj && obj.name === 'Modeless' && obj.$figmaVariableReferences) {
+          const newRefs = {};
+          Object.keys(obj.$figmaVariableReferences).forEach(key => {
+            const newKey = renameKey(key);
+            if (newKey !== key) changed = true;
+            newRefs[newKey] = obj.$figmaVariableReferences[key];
+          });
+          obj.$figmaVariableReferences = newRefs;
+        }
+      });
+    }
+    if (changed) {
+      fs.writeFileSync(themesPath, JSON.stringify(themesJson, null, 2));
+      console.log('Updated $figmaVariableReferences keys in $themes.json for Modeless');
+    }
+  } catch (e) {
+    console.error('Error processing $themes.json:', e.message);
+  }
+} 

@@ -41,7 +41,7 @@
       }
     },
     "cjk-letter-spacing": {
-      "value": "{letter-spacing}",
+      "value": "{platformScale.letter-spacing}",
       "type": "letterSpacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -71,7 +71,7 @@
       }
     },
     "default-font-family": {
-      "value": "{sans-serif-font-family}",
+      "value": "{platformScale.sans-serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {

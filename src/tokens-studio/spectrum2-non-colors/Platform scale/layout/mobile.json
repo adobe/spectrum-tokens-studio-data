@@ -881,7 +881,7 @@
       }
     },
     "corner-radius-none": {
-      "value": "{corner-radius-0}",
+      "value": "{platformScale.corner-radius-0}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -891,7 +891,7 @@
       }
     },
     "corner-radius-small-default": {
-      "value": "{corner-radius-100}",
+      "value": "{platformScale.corner-radius-100}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -901,7 +901,7 @@
       }
     },
     "corner-radius-medium-default": {
-      "value": "{corner-radius-500}",
+      "value": "{platformScale.corner-radius-500}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -911,7 +911,7 @@
       }
     },
     "corner-radius-large-default": {
-      "value": "{corner-radius-700}",
+      "value": "{platformScale.corner-radius-700}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -921,7 +921,7 @@
       }
     },
     "corner-radius-extra-large-default": {
-      "value": "{corner-radius-800}",
+      "value": "{platformScale.corner-radius-800}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -931,7 +931,7 @@
       }
     },
     "corner-radius-full": {
-      "value": "{corner-radius-1000}",
+      "value": "{platformScale.corner-radius-1000}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -941,7 +941,7 @@
       }
     },
     "corner-radius-small-size-small": {
-      "value": "{corner-radius-75}",
+      "value": "{platformScale.corner-radius-75}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -951,7 +951,7 @@
       }
     },
     "corner-radius-small-size-medium": {
-      "value": "{corner-radius-100}",
+      "value": "{platformScale.corner-radius-100}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -961,7 +961,7 @@
       }
     },
     "corner-radius-small-size-large": {
-      "value": "{corner-radius-200}",
+      "value": "{platformScale.corner-radius-200}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -971,7 +971,7 @@
       }
     },
     "corner-radius-small-size-extra-large": {
-      "value": "{corner-radius-300}",
+      "value": "{platformScale.corner-radius-300}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -981,7 +981,7 @@
       }
     },
     "corner-radius-medium-size-extra-small": {
-      "value": "{corner-radius-300}",
+      "value": "{platformScale.corner-radius-300}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -991,7 +991,7 @@
       }
     },
     "corner-radius-medium-size-small": {
-      "value": "{corner-radius-400}",
+      "value": "{platformScale.corner-radius-400}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -1001,7 +1001,7 @@
       }
     },
     "corner-radius-medium-size-medium": {
-      "value": "{corner-radius-500}",
+      "value": "{platformScale.corner-radius-500}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -1011,7 +1011,7 @@
       }
     },
     "corner-radius-medium-size-large": {
-      "value": "{corner-radius-600}",
+      "value": "{platformScale.corner-radius-600}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -1021,7 +1021,7 @@
       }
     },
     "corner-radius-medium-size-extra-large": {
-      "value": "{corner-radius-700}",
+      "value": "{platformScale.corner-radius-700}",
       "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
@@ -1071,7 +1071,7 @@
       }
     },
     "🚫 drop-shadow-x": {
-      "value": "{drop-shadow-x-100}",
+      "value": "{platformScale.drop-shadow-x-100}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1081,7 +1081,7 @@
       }
     },
     "🚫 drop-shadow-y": {
-      "value": "{drop-shadow-y-100}",
+      "value": "{platformScale.drop-shadow-y-100}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1091,7 +1091,7 @@
       }
     },
     "🚫 drop-shadow-blur": {
-      "value": "{drop-shadow-blur-100}",
+      "value": "{platformScale.drop-shadow-blur-100}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1191,7 +1191,7 @@
       }
     },
     "drop-shadow-emphasized-default-x": {
-      "value": "{drop-shadow-x-100}",
+      "value": "{platformScale.drop-shadow-x-100}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1201,7 +1201,7 @@
       }
     },
     "drop-shadow-emphasized-default-y": {
-      "value": "{drop-shadow-y-100}",
+      "value": "{platformScale.drop-shadow-y-100}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1211,7 +1211,7 @@
       }
     },
     "drop-shadow-emphasized-default-blur": {
-      "value": "{drop-shadow-blur-100}",
+      "value": "{platformScale.drop-shadow-blur-100}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1221,7 +1221,7 @@
       }
     },
     "drop-shadow-emphasized-hover-x": {
-      "value": "{drop-shadow-x-200}",
+      "value": "{platformScale.drop-shadow-x-200}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1231,7 +1231,7 @@
       }
     },
     "drop-shadow-emphasized-hover-y": {
-      "value": "{drop-shadow-y-200}",
+      "value": "{platformScale.drop-shadow-y-200}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1241,7 +1241,7 @@
       }
     },
     "drop-shadow-emphasized-hover-blur": {
-      "value": "{drop-shadow-blur-200}",
+      "value": "{platformScale.drop-shadow-blur-200}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1251,7 +1251,7 @@
       }
     },
     "drop-shadow-elevated-x": {
-      "value": "{drop-shadow-x-200}",
+      "value": "{platformScale.drop-shadow-x-200}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1261,7 +1261,7 @@
       }
     },
     "drop-shadow-elevated-y": {
-      "value": "{drop-shadow-y-200}",
+      "value": "{platformScale.drop-shadow-y-200}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1271,7 +1271,7 @@
       }
     },
     "drop-shadow-elevated-blur": {
-      "value": "{drop-shadow-blur-200}",
+      "value": "{platformScale.drop-shadow-blur-200}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1281,7 +1281,7 @@
       }
     },
     "drop-shadow-dragged-x": {
-      "value": "{drop-shadow-x-300}",
+      "value": "{platformScale.drop-shadow-x-300}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1291,7 +1291,7 @@
       }
     },
     "drop-shadow-dragged-y": {
-      "value": "{drop-shadow-y-300}",
+      "value": "{platformScale.drop-shadow-y-300}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1301,7 +1301,7 @@
       }
     },
     "drop-shadow-dragged-blur": {
-      "value": "{drop-shadow-blur-300}",
+      "value": "{platformScale.drop-shadow-blur-300}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1761,7 +1761,7 @@
       }
     },
     "🚫 field-width-small": {
-      "value": "{field-default-width-small}",
+      "value": "{platformScale.field-default-width-small}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1783,7 +1783,7 @@
       }
     },
     "🚫 field-width-medium": {
-      "value": "{field-default-width-medium}",
+      "value": "{platformScale.field-default-width-medium}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1803,7 +1803,7 @@
       }
     },
     "🚫 field-width-large": {
-      "value": "{field-default-width-large}",
+      "value": "{platformScale.field-default-width-large}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -1823,7 +1823,7 @@
       }
     },
     "🚫 field-width-extra-large": {
-      "value": "{field-default-width-extra-large}",
+      "value": "{platformScale.field-default-width-extra-large}",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -2213,7 +2213,7 @@
       }
     },
     "window-to-edge": {
-      "value": "{spacing-600}",
+      "value": "{platformScale.spacing-600}",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {

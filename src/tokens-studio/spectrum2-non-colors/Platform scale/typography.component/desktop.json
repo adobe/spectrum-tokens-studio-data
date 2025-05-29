@@ -1,7 +1,7 @@
 {
   "platformScale": {
     "body-cjk-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -11,7 +11,7 @@
       }
     },
     "body-cjk-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -21,7 +21,7 @@
       }
     },
     "body-cjk-font-family": {
-      "value": "{cjk-font-family}",
+      "value": "{platformScale.cjk-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -31,7 +31,7 @@
       }
     },
     "body-cjk-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -41,7 +41,7 @@
       }
     },
     "body-cjk-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -51,7 +51,7 @@
       }
     },
     "body-cjk-line-height": {
-      "value": "{cjk-line-height-200}",
+      "value": "{platformScale.cjk-line-height-200}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -61,7 +61,7 @@
       }
     },
     "body-cjk-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -71,7 +71,7 @@
       }
     },
     "body-cjk-strong-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -81,7 +81,7 @@
       }
     },
     "body-cjk-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -91,7 +91,7 @@
       }
     },
     "body-cjk-strong-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -101,7 +101,7 @@
       }
     },
     "body-line-height": {
-      "value": "{line-height-200}",
+      "value": "{platformScale.line-height-200}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -121,7 +121,7 @@
       }
     },
     "body-sans-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -131,7 +131,7 @@
       }
     },
     "body-sans-serif-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -141,7 +141,7 @@
       }
     },
     "body-sans-serif-font-family": {
-      "value": "{sans-serif-font-family}",
+      "value": "{platformScale.sans-serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -151,7 +151,7 @@
       }
     },
     "body-sans-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -161,7 +161,7 @@
       }
     },
     "body-sans-serif-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -171,7 +171,7 @@
       }
     },
     "body-sans-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -181,7 +181,7 @@
       }
     },
     "body-sans-serif-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -191,7 +191,7 @@
       }
     },
     "body-sans-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -201,7 +201,7 @@
       }
     },
     "body-sans-serif-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -211,7 +211,7 @@
       }
     },
     "body-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -221,7 +221,7 @@
       }
     },
     "body-serif-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -231,7 +231,7 @@
       }
     },
     "body-serif-font-family": {
-      "value": "{serif-font-family}",
+      "value": "{platformScale.serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -241,7 +241,7 @@
       }
     },
     "body-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -251,7 +251,7 @@
       }
     },
     "body-serif-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -261,7 +261,7 @@
       }
     },
     "body-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -271,7 +271,7 @@
       }
     },
     "body-serif-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -281,7 +281,7 @@
       }
     },
     "body-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -291,7 +291,7 @@
       }
     },
     "body-serif-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -301,7 +301,7 @@
       }
     },
     "body-size-l": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -311,7 +311,7 @@
       }
     },
     "body-size-m": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -321,7 +321,7 @@
       }
     },
     "body-size-s": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -331,7 +331,7 @@
       }
     },
     "body-size-xl": {
-      "value": "{font-size-400}",
+      "value": "{platformScale.font-size-400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -341,7 +341,7 @@
       }
     },
     "body-size-xxs": {
-      "value": "{font-size-50}",
+      "value": "{platformScale.font-size-50}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -351,7 +351,7 @@
       }
     },
     "body-size-xs": {
-      "value": "{font-size-75}",
+      "value": "{platformScale.font-size-75}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -361,7 +361,7 @@
       }
     },
     "body-size-xxl": {
-      "value": "{font-size-500}",
+      "value": "{platformScale.font-size-500}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -371,7 +371,7 @@
       }
     },
     "body-size-xxxl": {
-      "value": "{font-size-600}",
+      "value": "{platformScale.font-size-600}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -381,7 +381,7 @@
       }
     },
     "code-cjk-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -391,7 +391,7 @@
       }
     },
     "code-cjk-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -401,7 +401,7 @@
       }
     },
     "code-cjk-font-family": {
-      "value": "{code-font-family}",
+      "value": "{platformScale.code-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -411,7 +411,7 @@
       }
     },
     "code-cjk-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -421,7 +421,7 @@
       }
     },
     "code-cjk-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -431,7 +431,7 @@
       }
     },
     "code-cjk-line-height": {
-      "value": "{cjk-line-height-200}",
+      "value": "{platformScale.cjk-line-height-200}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -441,7 +441,7 @@
       }
     },
     "code-cjk-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -451,7 +451,7 @@
       }
     },
     "code-cjk-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -461,7 +461,7 @@
       }
     },
     "code-cjk-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -471,7 +471,7 @@
       }
     },
     "code-cjk-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -481,7 +481,7 @@
       }
     },
     "code-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -491,7 +491,7 @@
       }
     },
     "code-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -511,7 +511,7 @@
       }
     },
     "code-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -521,7 +521,7 @@
       }
     },
     "code-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -531,7 +531,7 @@
       }
     },
     "code-line-height": {
-      "value": "{line-height-200}",
+      "value": "{platformScale.line-height-200}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -541,7 +541,7 @@
       }
     },
     "code-size-xl": {
-      "value": "{font-size-400}",
+      "value": "{platformScale.font-size-400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -551,7 +551,7 @@
       }
     },
     "code-size-l": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -561,7 +561,7 @@
       }
     },
     "code-size-m": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -571,7 +571,7 @@
       }
     },
     "code-size-s": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -581,7 +581,7 @@
       }
     },
     "code-size-xs": {
-      "value": "{font-size-75}",
+      "value": "{platformScale.font-size-75}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -591,7 +591,7 @@
       }
     },
     "code-cjk-size-xl": {
-      "value": "{code-size-xl}",
+      "value": "{platformScale.code-size-xl}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -601,7 +601,7 @@
       }
     },
     "code-cjk-size-l": {
-      "value": "{code-size-l}",
+      "value": "{platformScale.code-size-l}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -611,7 +611,7 @@
       }
     },
     "code-cjk-size-m": {
-      "value": "{code-size-m}",
+      "value": "{platformScale.code-size-m}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -621,7 +621,7 @@
       }
     },
     "code-cjk-size-s": {
-      "value": "{code-size-s}",
+      "value": "{platformScale.code-size-s}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -631,7 +631,7 @@
       }
     },
     "code-cjk-size-xs": {
-      "value": "{code-size-xs}",
+      "value": "{platformScale.code-size-xs}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -641,7 +641,7 @@
       }
     },
     "code-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -651,7 +651,7 @@
       }
     },
     "code-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -661,7 +661,7 @@
       }
     },
     "code-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -671,7 +671,7 @@
       }
     },
     "code-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -681,7 +681,7 @@
       }
     },
     "detail-cjk-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -691,7 +691,7 @@
       }
     },
     "detail-cjk-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -701,7 +701,7 @@
       }
     },
     "detail-cjk-font-family": {
-      "value": "{cjk-font-family}",
+      "value": "{platformScale.cjk-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -711,7 +711,7 @@
       }
     },
     "detail-cjk-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -721,7 +721,7 @@
       }
     },
     "detail-cjk-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -731,7 +731,7 @@
       }
     },
     "🚫 detail-cjk-light-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -741,7 +741,7 @@
       }
     },
     "🚫 detail-cjk-light-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -751,7 +751,7 @@
       }
     },
     "🚫 detail-cjk-light-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -761,7 +761,7 @@
       }
     },
     "🚫 detail-cjk-light-font-weight": {
-      "value": "{light-font-weight}",
+      "value": "{platformScale.light-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -771,7 +771,7 @@
       }
     },
     "🚫 detail-cjk-light-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -781,7 +781,7 @@
       }
     },
     "🚫 detail-cjk-light-strong-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -791,7 +791,7 @@
       }
     },
     "🚫 detail-cjk-light-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -801,7 +801,7 @@
       }
     },
     "🚫 detail-cjk-light-strong-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -811,7 +811,7 @@
       }
     },
     "detail-cjk-line-height": {
-      "value": "{cjk-line-height-100}",
+      "value": "{platformScale.cjk-line-height-100}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -821,7 +821,7 @@
       }
     },
     "detail-cjk-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -831,7 +831,7 @@
       }
     },
     "detail-cjk-strong-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -841,7 +841,7 @@
       }
     },
     "detail-cjk-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -851,7 +851,7 @@
       }
     },
     "detail-cjk-strong-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -871,7 +871,7 @@
       }
     },
     "detail-line-height": {
-      "value": "{line-height-100}",
+      "value": "{platformScale.line-height-100}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -901,7 +901,7 @@
       }
     },
     "detail-sans-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -911,7 +911,7 @@
       }
     },
     "detail-sans-serif-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -921,7 +921,7 @@
       }
     },
     "detail-sans-serif-font-family": {
-      "value": "{sans-serif-font-family}",
+      "value": "{platformScale.sans-serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -931,7 +931,7 @@
       }
     },
     "detail-sans-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -941,7 +941,7 @@
       }
     },
     "detail-sans-serif-font-weight": {
-      "value": "{medium-font-weight}",
+      "value": "{platformScale.medium-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -951,7 +951,7 @@
       }
     },
     "🚫 detail-sans-serif-light-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -961,7 +961,7 @@
       }
     },
     "🚫 detail-sans-serif-light-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -971,7 +971,7 @@
       }
     },
     "🚫 detail-sans-serif-light-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -981,7 +981,7 @@
       }
     },
     "🚫 detail-sans-serif-light-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -991,7 +991,7 @@
       }
     },
     "🚫 detail-sans-serif-light-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1001,7 +1001,7 @@
       }
     },
     "🚫 detail-sans-serif-light-strong-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1011,7 +1011,7 @@
       }
     },
     "🚫 detail-sans-serif-light-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1021,7 +1021,7 @@
       }
     },
     "🚫 detail-sans-serif-light-strong-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1031,7 +1031,7 @@
       }
     },
     "detail-sans-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1041,7 +1041,7 @@
       }
     },
     "detail-sans-serif-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1051,7 +1051,7 @@
       }
     },
     "detail-sans-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1061,7 +1061,7 @@
       }
     },
     "detail-sans-serif-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1081,7 +1081,7 @@
       }
     },
     "detail-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1091,7 +1091,7 @@
       }
     },
     "detail-serif-emphasized-font-weight": {
-      "value": "{medium-font-weight}",
+      "value": "{platformScale.medium-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1101,7 +1101,7 @@
       }
     },
     "detail-serif-font-family": {
-      "value": "{serif-font-family}",
+      "value": "{platformScale.serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -1111,7 +1111,7 @@
       }
     },
     "detail-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1121,7 +1121,7 @@
       }
     },
     "detail-serif-font-weight": {
-      "value": "{medium-font-weight}",
+      "value": "{platformScale.medium-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1131,7 +1131,7 @@
       }
     },
     "🚫 detail-serif-light-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1141,7 +1141,7 @@
       }
     },
     "🚫 detail-serif-light-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1151,7 +1151,7 @@
       }
     },
     "🚫 detail-serif-light-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1161,7 +1161,7 @@
       }
     },
     "🚫 detail-serif-light-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1171,7 +1171,7 @@
       }
     },
     "🚫 detail-serif-light-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1181,7 +1181,7 @@
       }
     },
     "🚫 detail-serif-light-strong-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1191,7 +1191,7 @@
       }
     },
     "🚫 detail-serif-light-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1201,7 +1201,7 @@
       }
     },
     "🚫 detail-serif-light-strong-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1211,7 +1211,7 @@
       }
     },
     "detail-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1221,7 +1221,7 @@
       }
     },
     "detail-serif-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1231,7 +1231,7 @@
       }
     },
     "detail-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1241,7 +1241,7 @@
       }
     },
     "detail-serif-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1261,7 +1261,7 @@
       }
     },
     "detail-cjk-size-xs": {
-      "value": "{font-size-25}",
+      "value": "{platformScale.font-size-25}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1271,7 +1271,7 @@
       }
     },
     "detail-cjk-size-s": {
-      "value": "{font-size-50}",
+      "value": "{platformScale.font-size-50}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1281,7 +1281,7 @@
       }
     },
     "detail-cjk-size-m": {
-      "value": "{font-size-75}",
+      "value": "{platformScale.font-size-75}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1291,7 +1291,7 @@
       }
     },
     "detail-cjk-size-l": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1301,7 +1301,7 @@
       }
     },
     "detail-cjk-size-xl": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1311,7 +1311,7 @@
       }
     },
     "detail-size-l": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1321,7 +1321,7 @@
       }
     },
     "detail-size-m": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1331,7 +1331,7 @@
       }
     },
     "detail-size-xs": {
-      "value": "{font-size-50}",
+      "value": "{platformScale.font-size-50}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1341,7 +1341,7 @@
       }
     },
     "detail-size-s": {
-      "value": "{font-size-75}",
+      "value": "{platformScale.font-size-75}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1351,7 +1351,7 @@
       }
     },
     "detail-size-xl": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1361,7 +1361,7 @@
       }
     },
     "heading-cjk-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1371,7 +1371,7 @@
       }
     },
     "heading-cjk-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1381,7 +1381,7 @@
       }
     },
     "heading-cjk-font-family": {
-      "value": "{cjk-font-family}",
+      "value": "{platformScale.cjk-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -1391,7 +1391,7 @@
       }
     },
     "heading-cjk-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1401,7 +1401,7 @@
       }
     },
     "heading-cjk-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1411,7 +1411,7 @@
       }
     },
     "heading-cjk-heavy-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1421,7 +1421,7 @@
       }
     },
     "heading-cjk-heavy-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1431,7 +1431,7 @@
       }
     },
     "heading-cjk-heavy-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1441,7 +1441,7 @@
       }
     },
     "heading-cjk-heavy-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1451,7 +1451,7 @@
       }
     },
     "heading-cjk-heavy-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1461,7 +1461,7 @@
       }
     },
     "heading-cjk-heavy-strong-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1471,7 +1471,7 @@
       }
     },
     "heading-cjk-heavy-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1481,7 +1481,7 @@
       }
     },
     "heading-cjk-heavy-strong-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1491,7 +1491,7 @@
       }
     },
     "🚫 heading-cjk-light-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1501,7 +1501,7 @@
       }
     },
     "🚫 heading-cjk-light-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1511,7 +1511,7 @@
       }
     },
     "🚫 heading-cjk-light-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1521,7 +1521,7 @@
       }
     },
     "🚫 heading-cjk-light-font-weight": {
-      "value": "{light-font-weight}",
+      "value": "{platformScale.light-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1531,7 +1531,7 @@
       }
     },
     "🚫 heading-cjk-light-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1541,7 +1541,7 @@
       }
     },
     "🚫 heading-cjk-light-strong-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1551,7 +1551,7 @@
       }
     },
     "🚫 heading-cjk-light-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1561,7 +1561,7 @@
       }
     },
     "🚫 heading-cjk-light-strong-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1571,7 +1571,7 @@
       }
     },
     "heading-cjk-line-height": {
-      "value": "{cjk-line-height-100}",
+      "value": "{platformScale.cjk-line-height-100}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1581,7 +1581,7 @@
       }
     },
     "heading-cjk-size-l": {
-      "value": "{font-size-600}",
+      "value": "{platformScale.font-size-600}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1591,7 +1591,7 @@
       }
     },
     "heading-cjk-size-m": {
-      "value": "{font-size-400}",
+      "value": "{platformScale.font-size-400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1601,7 +1601,7 @@
       }
     },
     "heading-cjk-size-s": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1611,7 +1611,7 @@
       }
     },
     "heading-cjk-size-xl": {
-      "value": "{font-size-800}",
+      "value": "{platformScale.font-size-800}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1621,7 +1621,7 @@
       }
     },
     "heading-cjk-size-xs": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1631,7 +1631,7 @@
       }
     },
     "heading-cjk-size-xxl": {
-      "value": "{font-size-1000}",
+      "value": "{platformScale.font-size-1000}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1641,7 +1641,7 @@
       }
     },
     "🚫 heading-cjk-size-xxs": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1651,7 +1651,7 @@
       }
     },
     "heading-cjk-size-xxxl": {
-      "value": "{font-size-1200}",
+      "value": "{platformScale.font-size-1200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1661,7 +1661,7 @@
       }
     },
     "heading-cjk-size-xxxxl": {
-      "value": "{font-size-1400}",
+      "value": "{platformScale.font-size-1400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1671,7 +1671,7 @@
       }
     },
     "body-cjk-size-xxxl": {
-      "value": "{font-size-500}",
+      "value": "{platformScale.font-size-500}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1681,7 +1681,7 @@
       }
     },
     "body-cjk-size-xxl": {
-      "value": "{font-size-400}",
+      "value": "{platformScale.font-size-400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1691,7 +1691,7 @@
       }
     },
     "body-cjk-size-xl": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1701,7 +1701,7 @@
       }
     },
     "body-cjk-size-l": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1711,7 +1711,7 @@
       }
     },
     "body-cjk-size-m": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1721,7 +1721,7 @@
       }
     },
     "body-cjk-size-s": {
-      "value": "{font-size-75}",
+      "value": "{platformScale.font-size-75}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1731,7 +1731,7 @@
       }
     },
     "body-cjk-size-xs": {
-      "value": "{font-size-50}",
+      "value": "{platformScale.font-size-50}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1741,7 +1741,7 @@
       }
     },
     "body-cjk-size-xxs": {
-      "value": "{font-size-25}",
+      "value": "{platformScale.font-size-25}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -1751,7 +1751,7 @@
       }
     },
     "heading-cjk-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1761,7 +1761,7 @@
       }
     },
     "heading-cjk-strong-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1771,7 +1771,7 @@
       }
     },
     "heading-cjk-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1781,7 +1781,7 @@
       }
     },
     "heading-cjk-strong-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1791,7 +1791,7 @@
       }
     },
     "heading-line-height": {
-      "value": "{line-height-100}",
+      "value": "{platformScale.line-height-100}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1821,7 +1821,7 @@
       }
     },
     "heading-sans-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1831,7 +1831,7 @@
       }
     },
     "heading-sans-serif-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1841,7 +1841,7 @@
       }
     },
     "heading-sans-serif-font-family": {
-      "value": "{sans-serif-font-family}",
+      "value": "{platformScale.sans-serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -1851,7 +1851,7 @@
       }
     },
     "heading-sans-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1861,7 +1861,7 @@
       }
     },
     "heading-sans-serif-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1871,7 +1871,7 @@
       }
     },
     "heading-sans-serif-heavy-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1881,7 +1881,7 @@
       }
     },
     "heading-sans-serif-heavy-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1891,7 +1891,7 @@
       }
     },
     "heading-sans-serif-heavy-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1901,7 +1901,7 @@
       }
     },
     "heading-sans-serif-heavy-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1911,7 +1911,7 @@
       }
     },
     "heading-sans-serif-heavy-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1921,7 +1921,7 @@
       }
     },
     "heading-sans-serif-heavy-strong-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1931,7 +1931,7 @@
       }
     },
     "heading-sans-serif-heavy-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1941,7 +1941,7 @@
       }
     },
     "heading-sans-serif-heavy-strong-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1951,7 +1951,7 @@
       }
     },
     "🚫 heading-sans-serif-light-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1961,7 +1961,7 @@
       }
     },
     "🚫 heading-sans-serif-light-emphasized-font-weight": {
-      "value": "{light-font-weight}",
+      "value": "{platformScale.light-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1971,7 +1971,7 @@
       }
     },
     "🚫 heading-sans-serif-light-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -1981,7 +1981,7 @@
       }
     },
     "🚫 heading-sans-serif-light-font-weight": {
-      "value": "{light-font-weight}",
+      "value": "{platformScale.light-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -1991,7 +1991,7 @@
       }
     },
     "🚫 heading-sans-serif-light-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2001,7 +2001,7 @@
       }
     },
     "🚫 heading-sans-serif-light-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2011,7 +2011,7 @@
       }
     },
     "🚫 heading-sans-serif-light-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2021,7 +2021,7 @@
       }
     },
     "🚫 heading-sans-serif-light-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2031,7 +2031,7 @@
       }
     },
     "heading-sans-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2041,7 +2041,7 @@
       }
     },
     "heading-sans-serif-strong-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2051,7 +2051,7 @@
       }
     },
     "heading-sans-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2061,7 +2061,7 @@
       }
     },
     "heading-sans-serif-strong-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2071,7 +2071,7 @@
       }
     },
     "heading-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2081,7 +2081,7 @@
       }
     },
     "heading-serif-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2091,7 +2091,7 @@
       }
     },
     "heading-serif-font-family": {
-      "value": "{serif-font-family}",
+      "value": "{platformScale.serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -2101,7 +2101,7 @@
       }
     },
     "heading-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2111,7 +2111,7 @@
       }
     },
     "heading-serif-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2121,7 +2121,7 @@
       }
     },
     "heading-serif-heavy-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2131,7 +2131,7 @@
       }
     },
     "heading-serif-heavy-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2141,7 +2141,7 @@
       }
     },
     "heading-serif-heavy-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2151,7 +2151,7 @@
       }
     },
     "heading-serif-heavy-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2161,7 +2161,7 @@
       }
     },
     "heading-serif-heavy-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2171,7 +2171,7 @@
       }
     },
     "heading-serif-heavy-strong-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2181,7 +2181,7 @@
       }
     },
     "heading-serif-heavy-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2191,7 +2191,7 @@
       }
     },
     "heading-serif-heavy-strong-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2201,7 +2201,7 @@
       }
     },
     "🚫 heading-serif-light-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2211,7 +2211,7 @@
       }
     },
     "🚫 heading-serif-light-emphasized-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2221,7 +2221,7 @@
       }
     },
     "🚫 heading-serif-light-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2231,7 +2231,7 @@
       }
     },
     "🚫 heading-serif-light-font-weight": {
-      "value": "{regular-font-weight}",
+      "value": "{platformScale.regular-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2241,7 +2241,7 @@
       }
     },
     "🚫 heading-serif-light-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2251,7 +2251,7 @@
       }
     },
     "🚫 heading-serif-light-strong-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2261,7 +2261,7 @@
       }
     },
     "🚫 heading-serif-light-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2271,7 +2271,7 @@
       }
     },
     "🚫 heading-serif-light-strong-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2281,7 +2281,7 @@
       }
     },
     "heading-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2291,7 +2291,7 @@
       }
     },
     "heading-serif-strong-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2301,7 +2301,7 @@
       }
     },
     "heading-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2311,7 +2311,7 @@
       }
     },
     "heading-serif-strong-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2321,7 +2321,7 @@
       }
     },
     "heading-size-l": {
-      "value": "{font-size-700}",
+      "value": "{platformScale.font-size-700}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2331,7 +2331,7 @@
       }
     },
     "heading-size-m": {
-      "value": "{font-size-500}",
+      "value": "{platformScale.font-size-500}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2341,7 +2341,7 @@
       }
     },
     "heading-size-s": {
-      "value": "{font-size-400}",
+      "value": "{platformScale.font-size-400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2351,7 +2351,7 @@
       }
     },
     "heading-size-xl": {
-      "value": "{font-size-900}",
+      "value": "{platformScale.font-size-900}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2361,7 +2361,7 @@
       }
     },
     "heading-size-xs": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2371,7 +2371,7 @@
       }
     },
     "heading-size-xxl": {
-      "value": "{font-size-1100}",
+      "value": "{platformScale.font-size-1100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2381,7 +2381,7 @@
       }
     },
     "🚫 heading-size-xxs": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2391,7 +2391,7 @@
       }
     },
     "heading-size-xxxl": {
-      "value": "{font-size-1300}",
+      "value": "{platformScale.font-size-1300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2401,7 +2401,7 @@
       }
     },
     "heading-size-xxxxl": {
-      "value": "{font-size-1500}",
+      "value": "{platformScale.font-size-1500}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2411,7 +2411,7 @@
       }
     },
     "title-cjk-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2421,7 +2421,7 @@
       }
     },
     "title-cjk-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2431,7 +2431,7 @@
       }
     },
     "title-cjk-font-family": {
-      "value": "{cjk-font-family}",
+      "value": "{platformScale.cjk-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -2441,7 +2441,7 @@
       }
     },
     "title-cjk-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2451,7 +2451,7 @@
       }
     },
     "title-cjk-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2461,7 +2461,7 @@
       }
     },
     "title-cjk-line-height": {
-      "value": "{cjk-line-height-100}",
+      "value": "{platformScale.cjk-line-height-100}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2471,7 +2471,7 @@
       }
     },
     "standard-panel-title-font-size": {
-      "value": "{title-size-s}",
+      "value": "{platformScale.title-size-s}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2481,7 +2481,7 @@
       }
     },
     "title-cjk-size-l": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2491,7 +2491,7 @@
       }
     },
     "title-cjk-size-m": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2501,7 +2501,7 @@
       }
     },
     "title-cjk-size-s": {
-      "value": "{font-size-75}",
+      "value": "{platformScale.font-size-75}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2511,7 +2511,7 @@
       }
     },
     "title-cjk-size-xl": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2521,7 +2521,7 @@
       }
     },
     "title-cjk-size-xs": {
-      "value": "{font-size-50}",
+      "value": "{platformScale.font-size-50}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2531,7 +2531,7 @@
       }
     },
     "title-cjk-size-xxl": {
-      "value": "{font-size-400}",
+      "value": "{platformScale.font-size-400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2541,7 +2541,7 @@
       }
     },
     "title-cjk-size-xxxl": {
-      "value": "{font-size-500}",
+      "value": "{platformScale.font-size-500}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2551,7 +2551,7 @@
       }
     },
     "title-cjk-strong-emphasized-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2561,7 +2561,7 @@
       }
     },
     "title-cjk-strong-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2571,7 +2571,7 @@
       }
     },
     "title-cjk-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2581,7 +2581,7 @@
       }
     },
     "title-cjk-strong-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2591,7 +2591,7 @@
       }
     },
     "title-line-height": {
-      "value": "{line-height-100}",
+      "value": "{platformScale.line-height-100}",
       "type": "lineHeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2621,7 +2621,7 @@
       }
     },
     "title-sans-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2631,7 +2631,7 @@
       }
     },
     "title-sans-serif-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2641,7 +2641,7 @@
       }
     },
     "title-sans-serif-font-family": {
-      "value": "{sans-serif-font-family}",
+      "value": "{platformScale.sans-serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -2651,7 +2651,7 @@
       }
     },
     "title-sans-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2661,7 +2661,7 @@
       }
     },
     "title-sans-serif-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2671,7 +2671,7 @@
       }
     },
     "title-sans-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2681,7 +2681,7 @@
       }
     },
     "title-sans-serif-strong-emphasized-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2691,7 +2691,7 @@
       }
     },
     "title-sans-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2701,7 +2701,7 @@
       }
     },
     "title-sans-serif-strong-font-weight": {
-      "value": "{extra-bold-font-weight}",
+      "value": "{platformScale.extra-bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2711,7 +2711,7 @@
       }
     },
     "title-serif-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2721,7 +2721,7 @@
       }
     },
     "title-serif-emphasized-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2731,7 +2731,7 @@
       }
     },
     "title-serif-font-family": {
-      "value": "{serif-font-family}",
+      "value": "{platformScale.serif-font-family}",
       "type": "fontFamilies",
       "$extensions": {
         "spectrum-tokens": {
@@ -2741,7 +2741,7 @@
       }
     },
     "title-serif-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2751,7 +2751,7 @@
       }
     },
     "title-serif-font-weight": {
-      "value": "{bold-font-weight}",
+      "value": "{platformScale.bold-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2761,7 +2761,7 @@
       }
     },
     "title-serif-strong-emphasized-font-style": {
-      "value": "{italic-font-style}",
+      "value": "{platformScale.italic-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2771,7 +2771,7 @@
       }
     },
     "title-serif-strong-emphasized-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2781,7 +2781,7 @@
       }
     },
     "title-serif-strong-font-style": {
-      "value": "{default-font-style}",
+      "value": "{platformScale.default-font-style}",
       "type": "other",
       "$extensions": {
         "spectrum-tokens": {
@@ -2791,7 +2791,7 @@
       }
     },
     "title-serif-strong-font-weight": {
-      "value": "{black-font-weight}",
+      "value": "{platformScale.black-font-weight}",
       "type": "fontWeights",
       "$extensions": {
         "spectrum-tokens": {
@@ -2801,7 +2801,7 @@
       }
     },
     "title-size-l": {
-      "value": "{font-size-300}",
+      "value": "{platformScale.font-size-300}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2811,7 +2811,7 @@
       }
     },
     "title-size-m": {
-      "value": "{font-size-200}",
+      "value": "{platformScale.font-size-200}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2821,7 +2821,7 @@
       }
     },
     "title-size-s": {
-      "value": "{font-size-100}",
+      "value": "{platformScale.font-size-100}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2831,7 +2831,7 @@
       }
     },
     "title-size-xl": {
-      "value": "{font-size-400}",
+      "value": "{platformScale.font-size-400}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2841,7 +2841,7 @@
       }
     },
     "title-size-xs": {
-      "value": "{font-size-75}",
+      "value": "{platformScale.font-size-75}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2851,7 +2851,7 @@
       }
     },
     "title-size-xxl": {
-      "value": "{font-size-500}",
+      "value": "{platformScale.font-size-500}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {
@@ -2861,7 +2861,7 @@
       }
     },
     "title-size-xxxl": {
-      "value": "{font-size-600}",
+      "value": "{platformScale.font-size-600}",
       "type": "fontSizes",
       "$extensions": {
         "spectrum-tokens": {

@@ -235,7 +235,7 @@
       }
     },
     "thumbnail-opacity-disabled": {
-      "value": "{colorTheme.colorTheme.opacity-disabled}",
+      "value": "{colorTheme.opacity-disabled}",
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {

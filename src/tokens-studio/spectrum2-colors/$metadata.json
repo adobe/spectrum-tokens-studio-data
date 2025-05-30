@@ -1,28 +1,28 @@
 {
   "tokenSetOrder": [
+    "colorTheme/palette/dark",
+    "colorTheme/palette/light",
+    "colorTheme/palette/wireframe",
     "colorTheme/alias/dark",
     "colorTheme/alias/light",
     "colorTheme/alias/wireframe",
-    "colorTheme/component/dark",
-    "colorTheme/component/light",
-    "colorTheme/component/wireframe",
     "colorTheme/icon/dark",
     "colorTheme/icon/light",
     "colorTheme/icon/wireframe",
+    "colorTheme/component/dark",
+    "colorTheme/component/light",
+    "colorTheme/component/wireframe",
     "colorTheme/opacity.alias/dark",
     "colorTheme/opacity.alias/light",
     "colorTheme/opacity.alias/wireframe",
     "colorTheme/opacity.component/dark",
     "colorTheme/opacity.component/light",
     "colorTheme/opacity.component/wireframe",
-    "colorTheme/palette/dark",
-    "colorTheme/palette/light",
-    "colorTheme/palette/wireframe",
+    "spectrum2/palette/modeless",
     "spectrum2/alias/modeless",
-    "spectrum2/component/modeless",
     "spectrum2/icon/modeless",
+    "spectrum2/component/modeless",
     "spectrum2/opacity.alias/modeless",
-    "spectrum2/opacity.component/modeless",
-    "spectrum2/palette/modeless"
+    "spectrum2/opacity.component/modeless"
   ]
 }

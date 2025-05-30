@@ -117,8 +117,8 @@
         }
       }
     },
-    "color-loupe-drop-shadow-color": {
-      "value": "{Alias-drop-shadow-elevated}",
+    "🚫 color-loupe-drop-shadow-color": {
+      "value": "{colorTheme.drop-shadow-elevated-color}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -154,7 +154,7 @@
       }
     },
     "drop-zone-background-color": {
-      "value": "{Alias-content-visual-semantic-accent}",
+      "value": "{colorTheme.accent-visual-color}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -316,7 +316,7 @@
       }
     },
     "stack-item-selected-background-color-emphasized": {
-      "value": "{Alias-background-semantic-accent-default}",
+      "value": "{colorTheme.accent-background-color-default}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -370,7 +370,7 @@
       }
     },
     "table-selected-row-background-color-non-emphasized": {
-      "value": "{Alias-background-neutral-selected-default}",
+      "value": "{colorTheme.neutral-background-color-selected-default}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -388,7 +388,7 @@
       }
     },
     "table-selected-row-background-color": {
-      "value": "{Alias-background-semantic-informative-default}",
+      "value": "{colorTheme.informative-background-color-default}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -415,7 +415,7 @@
       }
     },
     "tree-view-selected-row-background-color-emphasized": {
-      "value": "{Alias-background-semantic-informative-default}",
+      "value": "{colorTheme.informative-background-color-default}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {

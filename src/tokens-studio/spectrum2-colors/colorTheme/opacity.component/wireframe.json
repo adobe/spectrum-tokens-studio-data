@@ -1,7 +1,7 @@
 {
   "colorTheme": {
     "avatar-opacity-disabled": {
-      "value": "{opacity-disabled}",
+      "value": "{colorTheme.opacity-disabled}",
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {
@@ -55,7 +55,7 @@
       }
     },
     "color-handle-outer-border-opacity": {
-      "value": "{color-handle-inner-border-opacity}",
+      "value": "{colorTheme.color-handle-inner-border-opacity}",
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {
@@ -235,7 +235,7 @@
       }
     },
     "thumbnail-opacity-disabled": {
-      "value": "{opacity-disabled}",
+      "value": "{colorTheme.colorTheme.opacity-disabled}",
       "type": "opacity",
       "$extensions": {
         "spectrum-tokens": {

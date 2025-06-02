@@ -5,11 +5,11 @@ const baseDir = path.join('src', 'tokens-studio', 'spectrum2-non-colors');
 
 // Thematic groups for key renaming
 const componentGroups = [
-  'accordion', 'component', 'field', 'slider', 'body', 'icon', 'checkmark', 'arrow', 'asterisk', 'chevron', 'add', 'android', 'border', 'color', 'character-count', 'content-area', 'disclosure-indicator', 'visual', 'text', 'control', 'track', 'palette', 'font', 'cjk', 'serif', 'sans-serif', 'black', 'bold', 'default', 'extra-bold'
+  'accordion','floating-action-button', 'drop-shadow', 'field-label', 'action-bar', 'action-button', 'component', 'field', 'slider', 'body', 'icon', 'checkmark', 'arrow', 'asterisk', 'chevron', 'add', 'android', 'border', 'color', 'character-count', 'content-area', 'disclosure-indicator', 'visual', 'text', 'control', 'track', 'palette', 'font', 'cjk', 'serif', 'sans-serif', 'black', 'bold', 'default', 'extra-bold'
 ];
 
 const spatialGroups = [
-  'bottom-to-text', 'bottom-to-control', 'bottom-to-content', 'bottom-to-visual', 'top-to-content', 'top-to-text', 'edge-to-content', 'edge-to-visual', 'edge-to-visual-only', 'edge-to-text', 'edge-to-control', 'edge-to-disclosure-indicator', 'edge-to-field', 'edge-to-track', 'edge-to-icon', 'content-area-bottom-to-content', 'content-area-top-to-content', 'content-area-edge-to-content', 'disclosure-indicator-to-text', 'character-count-to-field-quiet'
+  'bottom-to-text', 'bottom-to-control', 'bottom-to-content', 'bottom-to-visual', 'top-to-content', 'top-to-text', 'edge-to-content', 'edge-to-visual', 'edge-to-visual-only', 'edge-to-text', 'edge-to-control', 'edge-to-disclosure-indicator', 'edge-to-field', 'edge-to-track', 'edge-to-icon', 'content-area-bottom-to-content', 'content-area-top-to-content', 'content-area-edge-to-content', 'disclosure-indicator-to-text', 'character-count-to-field-quiet', 'close-button-to-counter', 'edge-to-hold-icon', 'edge-to-hold-icon-only', 'text-to-component'
 ];
 
 const sizeGroups = [

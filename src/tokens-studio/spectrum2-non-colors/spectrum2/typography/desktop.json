@@ -50,7 +50,7 @@
     }
   },
   "cjk-line-height-100": {
-    "value": "1.5",
+    "value": "150%",
     "type": "lineHeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -60,7 +60,7 @@
     }
   },
   "cjk-line-height-200": {
-    "value": "1.7",
+    "value": "170%",
     "type": "lineHeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -330,7 +330,7 @@
     }
   },
   "line-height-100": {
-    "value": "1.3",
+    "value": "130%",
     "type": "lineHeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -340,7 +340,7 @@
     }
   },
   "line-height-200": {
-    "value": "1.5",
+    "value": "150%",
     "type": "lineHeights",
     "$extensions": {
       "spectrum-tokens": {
@@ -568,5 +568,9 @@
         "name": "serif-font-family"
       }
     }
+  },
+  "test": {
+    "value": "150%",
+    "type": "lineHeights"
   }
 }

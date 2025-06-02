@@ -1,5 +1,5 @@
-[
-  {
+{
+  "0": {
     "id": "689b644177e0122506b519097ecca2fa3a06ec8f",
     "name": "Desktop",
     "selectedTokenSets": {
@@ -1333,7 +1333,7 @@
     },
     "group": ".Platform scale"
   },
-  {
+  "1": {
     "id": "e6e05eaed96a2e410f6a5e66dda1eaa68bf52fe1",
     "name": "Mobile",
     "selectedTokenSets": {
@@ -2667,7 +2667,7 @@
     },
     "group": ".Platform scale"
   },
-  {
+  "2": {
     "id": "ba475698596b2ca020b37426e165744c4279a9bf",
     "name": "Modeless",
     "selectedTokenSets": {
@@ -2746,7 +2746,7 @@
     },
     "group": "Iconography"
   },
-  {
+  "3": {
     "id": "2629ffbaaca97ef10a27eb51832b201ac6361acc",
     "name": "Modeless",
     "$figmaStyleReferences": {
@@ -3035,7 +3035,7 @@
     },
     "group": "Typography"
   },
-  {
+  "4": {
     "id": "8bf1ebbc184aab60781e8eda2101468adf335075",
     "name": "Modeless",
     "$figmaStyleReferences": {},
@@ -4056,4 +4056,4 @@
     },
     "group": "Layout"
   }
-]
+}

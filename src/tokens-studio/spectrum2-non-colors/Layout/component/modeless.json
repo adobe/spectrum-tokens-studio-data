@@ -179,16 +179,6 @@
       }
     }
   },
-  "🚫 Accordion/Disclosure indicator to text": {
-    "value": "{platformScale.🚫 accordion-disclosure-indicator-to-text}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "27b481a4-0ea9-4e1c-a283-4a799d18d642",
-        "name": "accordion-disclosure-indicator-to-text"
-      }
-    }
-  },
   "Accordion/Disclosure indicator to text/Small": {
     "value": "{platformScale.accordion-disclosure-indicator-to-text-small}",
     "type": "spacing",
@@ -226,16 +216,6 @@
       "spectrum-tokens": {
         "uuid": "90fe1ad4-76a8-4b02-a036-af6d4397334e",
         "name": "accordion-disclosure-indicator-to-text-extra-large"
-      }
-    }
-  },
-  "🚫 Accordion/Edge to disclosure indicator": {
-    "value": "{platformScale.🚫 accordion-edge-to-disclosure-indicator}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "614e6448-c0a4-4ad1-b125-f362e3001a86",
-        "name": "accordion-edge-to-disclosure-indicator"
       }
     }
   },
@@ -426,16 +406,6 @@
       "spectrum-tokens": {
         "uuid": "5ec703d4-19d9-4be5-976f-e4c1966c0d3d",
         "name": "standard-dialog-maximum-width-large"
-      }
-    }
-  },
-  "🚫 Accordion/Small/Top to text/Spacious": {
-    "value": "{platformScale.🚫 accordion-small-top-to-text-spacious}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "229fa20e-6d13-40b0-b19f-5cf6386f81ac",
-        "name": "accordion-small-top-to-text-spacious"
       }
     }
   },
@@ -970,16 +940,6 @@
       }
     }
   },
-  "🚫 Alert/Dialog/Description/Size": {
-    "value": "{platformScale.🚫 alert-dialog-description-size}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "9dc42d1a-b87d-4a5d-a5a3-6afd4d5bd599",
-        "name": "alert-dialog-description-size"
-      }
-    }
-  },
   "Action/Bar/Counter/Font/Size": {
     "value": "{platformScale.action-bar-counter-font-size}",
     "type": "fontSizes",
@@ -1007,16 +967,6 @@
       "spectrum-tokens": {
         "uuid": "7d066c2d-ea59-483d-b8a3-6a9b9e35eedd",
         "name": "alert-dialog-minimum-width"
-      }
-    }
-  },
-  "🚫 Alert/Dialog/Title/Size": {
-    "value": "{platformScale.🚫 alert-dialog-title-size}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "9b7ce1fc-ea8a-4d7b-a926-0accbd6b1197",
-        "name": "alert-dialog-title-size"
       }
     }
   },
@@ -1380,26 +1330,6 @@
       }
     }
   },
-  "🚫 Breadcrumbs/Bottom to text": {
-    "value": "{platformScale.🚫 breadcrumbs-bottom-to-text}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "f0e6a20d-8c2d-4aa3-9060-b6ca66aa7943",
-        "name": "breadcrumbs-bottom-to-text"
-      }
-    }
-  },
-  "🚫 Breadcrumbs/Bottom to text/Compact": {
-    "value": "{platformScale.🚫 breadcrumbs-bottom-to-text-compact}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "70a356be-c304-4bb4-a9df-97806931f089",
-        "name": "breadcrumbs-bottom-to-text-compact"
-      }
-    }
-  },
   "Breadcrumbs/Bottom to text/Multiline": {
     "value": "{platformScale.breadcrumbs-bottom-to-text-multiline}",
     "type": "spacing",
@@ -1420,26 +1350,6 @@
       }
     }
   },
-  "🚫 Breadcrumbs/Height": {
-    "value": "{platformScale.🚫 breadcrumbs-height}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "2d39863c-6987-413c-90d8-07fcc506a0d4",
-        "name": "breadcrumbs-height"
-      }
-    }
-  },
-  "🚫 Breadcrumbs/Height/Compact": {
-    "value": "{platformScale.🚫 breadcrumbs-height-compact}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "8393f599-37e8-484a-a1c6-0934ce15a507",
-        "name": "breadcrumbs-height-compact"
-      }
-    }
-  },
   "Breadcrumbs/Height/Multiline": {
     "value": "{platformScale.breadcrumbs-height-multiline}",
     "type": "sizing",
@@ -1450,16 +1360,6 @@
       }
     }
   },
-  "🚫 Breadcrumbs/Separator/Icon/To/Bottom/Text/Multiline": {
-    "value": "{platformScale.🚫 breadcrumbs-separator-icon-to-bottom-text-multiline}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "56dd2fd0-c7a3-4f2c-bda9-8e6ba6d99e6c",
-        "name": "breadcrumbs-separator-icon-to-bottom-text-multiline"
-      }
-    }
-  },
   "Breadcrumbs/Separator/To/Bottom/Text/Multiline": {
     "value": "{platformScale.breadcrumbs-separator-to-bottom-text-multiline}",
     "type": "spacing",
@@ -1467,16 +1367,6 @@
       "spectrum-tokens": {
         "uuid": "ba160ed7-e66b-4dd1-bef8-e91fe9b05d2c",
         "name": "breadcrumbs-separator-to-bottom-text-multiline"
-      }
-    }
-  },
-  "🚫 Breadcrumbs/Start/Edge to text": {
-    "value": "{platformScale.🚫 breadcrumbs-start-edge-to-text}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "a0542dab-98fb-45d8-b4a0-79cfd2cc4f1c",
-        "name": "breadcrumbs-start-edge-to-text"
       }
     }
   },
@@ -1530,36 +1420,6 @@
       }
     }
   },
-  "🚫 Breadcrumbs/Top/To/Separator/Icon": {
-    "value": "{platformScale.🚫 breadcrumbs-top-to-separator-icon}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "15e56281-5fc1-4b59-b815-fc333231e364",
-        "name": "breadcrumbs-top-to-separator-icon"
-      }
-    }
-  },
-  "🚫 Breadcrumbs/Top/To/Separator/Icon/Compact": {
-    "value": "{platformScale.🚫 breadcrumbs-top-to-separator-icon-compact}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "a63e8df1-124f-4f3e-9e1b-ba422b8d8257",
-        "name": "breadcrumbs-top-to-separator-icon-compact"
-      }
-    }
-  },
-  "🚫 Breadcrumbs/Top/To/Separator/Icon/Multiline": {
-    "value": "{platformScale.🚫 breadcrumbs-top-to-separator-icon-multiline}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "6b310160-ab2e-40fd-9216-21ddcb36b575",
-        "name": "breadcrumbs-top-to-separator-icon-multiline"
-      }
-    }
-  },
   "Breadcrumbs/Top/To/Separator/Large": {
     "value": "{platformScale.breadcrumbs-top-to-separator-large}",
     "type": "spacing",
@@ -1590,26 +1450,6 @@
       }
     }
   },
-  "🚫 Breadcrumbs/Top to text": {
-    "value": "{platformScale.🚫 breadcrumbs-top-to-text}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "d084038e-bc31-43be-99ee-13cf727eaf9d",
-        "name": "breadcrumbs-top-to-text"
-      }
-    }
-  },
-  "🚫 Breadcrumbs/Top to text/Compact": {
-    "value": "{platformScale.🚫 breadcrumbs-top-to-text-compact}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "b19547e2-bd8f-435d-b726-4f2ce6a83984",
-        "name": "breadcrumbs-top-to-text-compact"
-      }
-    }
-  },
   "Breadcrumbs/Top to text/Multiline": {
     "value": "{platformScale.breadcrumbs-top-to-text-multiline}",
     "type": "spacing",
@@ -1630,16 +1470,6 @@
       }
     }
   },
-  "🚫 Breadcrumbs/Top/To/Truncated/Menu/Compact": {
-    "value": "{platformScale.🚫 breadcrumbs-top-to-truncated-menu-compact}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "e0aba287-799f-4621-97cb-563352002a20",
-        "name": "breadcrumbs-top-to-truncated-menu-compact"
-      }
-    }
-  },
   "Breadcrumbs/Truncated/Menu/To/Bottom/Text": {
     "value": "{platformScale.breadcrumbs-truncated-menu-to-bottom-text}",
     "type": "spacing",
@@ -1647,16 +1477,6 @@
       "spectrum-tokens": {
         "uuid": "2285d870-68ec-469f-a034-2fdeb31e33f0",
         "name": "breadcrumbs-truncated-menu-to-bottom-text"
-      }
-    }
-  },
-  "🚫 Breadcrumbs/Truncated/Menu/To/Separator/Icon": {
-    "value": "{platformScale.🚫 breadcrumbs-truncated-menu-to-separator-icon}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "1fe2a3df-3179-4c4a-8d1f-de41297b6d74",
-        "name": "breadcrumbs-truncated-menu-to-separator-icon"
       }
     }
   },
@@ -2470,16 +2290,6 @@
       }
     }
   },
-  "🚫 Coach/Mark/Body/Size": {
-    "value": "{platformScale.🚫 coach-mark-body-size}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "eba9f466-deda-48d5-a120-14419d5a670f",
-        "name": "coach-mark-body-size"
-      }
-    }
-  },
   "Coach/Mark/Body/Font/Size": {
     "value": "{platformScale.coach-mark-body-font-size}",
     "type": "fontSizes",
@@ -2560,16 +2370,6 @@
       }
     }
   },
-  "🚫 Coach/Mark/Pagination/Body/Size": {
-    "value": "{platformScale.🚫 coach-mark-pagination-body-size}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "df8bc8ae-b6fa-4414-93b7-c89d8097fe11",
-        "name": "coach-mark-pagination-body-size"
-      }
-    }
-  },
   "Coach/Mark/Pagination/Body/Font/Size": {
     "value": "{platformScale.coach-mark-pagination-body-font-size}",
     "type": "fontSizes",
@@ -2587,16 +2387,6 @@
       "spectrum-tokens": {
         "uuid": "d2ff2d4f-058e-412b-9e16-1725d6d29e25",
         "name": "coach-mark-pagination-text-to-bottom-edge"
-      }
-    }
-  },
-  "🚫 Coach/Mark/Title/Size": {
-    "value": "{platformScale.🚫 coach-mark-title-size}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "331604db-3f28-472e-810d-9010ed2c8e33",
-        "name": "coach-mark-title-size"
       }
     }
   },
@@ -2890,26 +2680,6 @@
       }
     }
   },
-  "🚫 Color/Loupe/Drop/Shadow/Blur": {
-    "value": "{platformScale.🚫 color-loupe-drop-shadow-blur}",
-    "type": "other",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "86caa027-9e9e-4a5f-aa38-058f0a96bc9d",
-        "name": "color-loupe-drop-shadow-blur"
-      }
-    }
-  },
-  "🚫 Color/Loupe/Drop/Shadow/Y": {
-    "value": "{platformScale.🚫 color-loupe-drop-shadow-y}",
-    "type": "other",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "c9af5d60-11b1-4fc3-972e-6a607120657b",
-        "name": "color-loupe-drop-shadow-y"
-      }
-    }
-  },
   "Color/Loupe/Height": {
     "value": "{platformScale.color-loupe-height}",
     "type": "sizing",
@@ -3030,56 +2800,6 @@
       }
     }
   },
-  "🚫 Combo/Box/Quiet/Minimum/Width/Multiplier": {
-    "value": "{platformScale.🚫 combo-box-quiet-minimum-width-multiplier}",
-    "type": "number",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "4798728b-9a97-4ce1-b703-0182b1513e8b",
-        "name": "combo-box-quiet-minimum-width-multiplier"
-      }
-    }
-  },
-  "🚫 Combo/Box/Visual/To/Field/Button/Extra large": {
-    "value": "{platformScale.🚫 combo-box-visual-to-field-button-extra-large}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "4a4ee415-1f25-4d36-928c-5ece0ce4abcc",
-        "name": "combo-box-visual-to-field-button-extra-large"
-      }
-    }
-  },
-  "🚫 Combo/Box/Visual/To/Field/Button/Large": {
-    "value": "{platformScale.🚫 combo-box-visual-to-field-button-large}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "356c4912-69c7-4a95-956b-c1aa78cb02cb",
-        "name": "combo-box-visual-to-field-button-large"
-      }
-    }
-  },
-  "🚫 Combo/Box/Visual/To/Field/Button/Medium": {
-    "value": "{platformScale.🚫 combo-box-visual-to-field-button-medium}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "c5a4baf2-effe-4d9a-92f3-b4ead5440d36",
-        "name": "combo-box-visual-to-field-button-medium"
-      }
-    }
-  },
-  "🚫 Combo/Box/Visual/To/Field/Button/Quiet": {
-    "value": "{platformScale.🚫 combo-box-visual-to-field-button-quiet}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "292cbbe1-1ba4-4369-9768-2051c07e6406",
-        "name": "combo-box-visual-to-field-button-quiet"
-      }
-    }
-  },
   "Combo/Box/Visual/To/Field/Button": {
     "value": "{platformScale.combo-box-visual-to-field-button}",
     "type": "spacing",
@@ -3087,26 +2807,6 @@
       "spectrum-tokens": {
         "uuid": "6c3c7201-2f5b-455a-bcbf-5e3d783887bf",
         "name": "combo-box-visual-to-field-button"
-      }
-    }
-  },
-  "🚫 Combo/Box/Visual/To/Field/Button/Small": {
-    "value": "{platformScale.🚫 combo-box-visual-to-field-button-small}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "5d054a3e-e4bb-4ca3-b84a-51b3d7fa2cb8",
-        "name": "combo-box-visual-to-field-button-small"
-      }
-    }
-  },
-  "🚫 Contextual/Help/Body/Size": {
-    "value": "{platformScale.🚫 contextual-help-body-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "e458fa68-ab9c-4441-a7d5-a02f42df1cae",
-        "name": "contextual-help-body-size"
       }
     }
   },
@@ -3127,16 +2827,6 @@
       "spectrum-tokens": {
         "uuid": "83be73fe-50bc-4be8-969c-0361a816225b",
         "name": "contextual-help-minimum-width"
-      }
-    }
-  },
-  "🚫 Contextual/Help/Title/Size": {
-    "value": "{platformScale.🚫 contextual-help-title-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "5358fd6c-d9a0-4caa-a85e-af82ed82efaf",
-        "name": "contextual-help-title-size"
       }
     }
   },
@@ -3180,16 +2870,6 @@
       }
     }
   },
-  "🚫 Drop/Zone/Body/Size": {
-    "value": "{platformScale.🚫 drop-zone-body-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "bb3fee51-24cc-4643-9f22-fa1592ab2457",
-        "name": "drop-zone-body-size"
-      }
-    }
-  },
   "Coach/Indicator/Collapsed/Gap": {
     "value": "{platformScale.coach-indicator-collapsed-gap}",
     "type": "spacing",
@@ -3227,36 +2907,6 @@
       "spectrum-tokens": {
         "uuid": "a596af57-256f-4445-b91f-36e47bfb2d95",
         "name": "drop-zone-border-dash-length"
-      }
-    }
-  },
-  "🚫 Drop/Zone/CJK/Title/Size": {
-    "value": "{platformScale.🚫 drop-zone-cjk-title-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "013387e8-8925-4bb4-a8ee-94420141fde9",
-        "name": "drop-zone-cjk-title-size"
-      }
-    }
-  },
-  "🚫 Drop/Zone/Content/Maximum/Width": {
-    "value": "{platformScale.🚫 drop-zone-content-maximum-width}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "b8d0db71-9a25-46fc-b77a-037fcf86be8e",
-        "name": "drop-zone-content-maximum-width"
-      }
-    }
-  },
-  "🚫 Drop/Zone/Title/Size": {
-    "value": "{platformScale.🚫 drop-zone-title-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "edc68bfe-7ad3-4a12-81fa-ded8fb6fc2e3",
-        "name": "drop-zone-title-size"
       }
     }
   },
@@ -3317,46 +2967,6 @@
       "spectrum-tokens": {
         "uuid": "4738ec46-a43c-48f9-aeca-87863275dc4d",
         "name": "field-label-to-component"
-      }
-    }
-  },
-  "🚫 Field/Label/To/Component/Quiet/Extra large": {
-    "value": "{platformScale.🚫 field-label-to-component-quiet-extra-large}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "d6c750dc-3117-4c1a-96bf-b94d530e912d",
-        "name": "field-label-to-component-quiet-extra-large"
-      }
-    }
-  },
-  "🚫 Field/Label/To/Component/Quiet/Large": {
-    "value": "{platformScale.🚫 field-label-to-component-quiet-large}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "be80f1b1-4c08-479f-a39e-28b6a64714f2",
-        "name": "field-label-to-component-quiet-large"
-      }
-    }
-  },
-  "🚫 Field/Label/To/Component/Quiet/Medium": {
-    "value": "{platformScale.🚫 field-label-to-component-quiet-medium}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "dc00948e-3c0f-4c6b-8e3e-a7fbf396e059",
-        "name": "field-label-to-component-quiet-medium"
-      }
-    }
-  },
-  "🚫 Field/Label/To/Component/Quiet/Small": {
-    "value": "{platformScale.🚫 field-label-to-component-quiet-small}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "1218beeb-1d74-4e1a-b495-38d5f07afb55",
-        "name": "field-label-to-component-quiet-small"
       }
     }
   },
@@ -3470,76 +3080,6 @@
       }
     }
   },
-  "🚫 Help/Text/Top/To/Workflow/Icon/Extra large": {
-    "value": "{platformScale.🚫 help-text-top-to-workflow-icon-extra-large}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "bec914a9-5905-40ac-bd61-a727016c1228",
-        "name": "help-text-top-to-workflow-icon-extra-large"
-      }
-    }
-  },
-  "🚫 Help/Text/Top/To/Workflow/Icon/Large": {
-    "value": "{platformScale.🚫 help-text-top-to-workflow-icon-large}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "54cae12b-5f21-47b4-a964-6033bd025975",
-        "name": "help-text-top-to-workflow-icon-large"
-      }
-    }
-  },
-  "🚫 Help/Text/Top/To/Workflow/Icon/Medium": {
-    "value": "{platformScale.🚫 help-text-top-to-workflow-icon-medium}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "d159b313-4def-493a-adcf-398e2d1fce9f",
-        "name": "help-text-top-to-workflow-icon-medium"
-      }
-    }
-  },
-  "🚫 Help/Text/Top/To/Workflow/Icon/Small": {
-    "value": "{platformScale.🚫 help-text-top-to-workflow-icon-small}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "91cb19ef-63fc-4d98-a61e-a5f55951f656",
-        "name": "help-text-top-to-workflow-icon-small"
-      }
-    }
-  },
-  "🚫 Illustrated/Message/Body/Size": {
-    "value": "{platformScale.🚫 illustrated-message-body-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "4140710f-ae31-4ae3-b8b6-2d3eb6a1ae78",
-        "name": "illustrated-message-body-size"
-      }
-    }
-  },
-  "🚫 Illustrated/Message/CJK/Title/Size": {
-    "value": "{platformScale.🚫 illustrated-message-cjk-title-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "e77279df-bc62-441a-8a30-5faa41d0df10",
-        "name": "illustrated-message-cjk-title-size"
-      }
-    }
-  },
-  "🚫 Illustrated/Message/Maximum/Width": {
-    "value": "{platformScale.🚫 illustrated-message-maximum-width}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "0e464925-5524-4fcc-a2f1-54ef42a2990a",
-        "name": "illustrated-message-maximum-width"
-      }
-    }
-  },
   "Illustrated/Message/Horizontal/Maximum/Width": {
     "value": "{platformScale.illustrated-message-horizontal-maximum-width}",
     "type": "sizing",
@@ -3557,16 +3097,6 @@
       "spectrum-tokens": {
         "uuid": "95c055b0-f688-4405-8426-1b2302e32ebd",
         "name": "illustrated-message-vertical-maximum-width"
-      }
-    }
-  },
-  "🚫 Illustrated/Message/Title/Size": {
-    "value": "{platformScale.🚫 illustrated-message-title-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "365ec548-431b-4e1e-9f9d-7b04d337f001",
-        "name": "illustrated-message-title-size"
       }
     }
   },
@@ -3607,16 +3137,6 @@
       "spectrum-tokens": {
         "uuid": "8b6a0ab1-4dba-4da2-9c67-3befca0f110e",
         "name": "in-field-button-edge-to-disclosure-icon-stacked-small"
-      }
-    }
-  },
-  "🚫 In/Field/Button/Edge/To/Fill": {
-    "value": "{platformScale.🚫 in-field-button-edge-to-fill}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "5bffe992-2982-49e8-aa3a-e4e93c884f43",
-        "name": "in-field-button-edge-to-fill"
       }
     }
   },
@@ -3937,16 +3457,6 @@
       "spectrum-tokens": {
         "uuid": "033fb47f-30d8-4ff2-9825-a3318ca2118b",
         "name": "menu-item-edge-to-content-not-selected-small"
-      }
-    }
-  },
-  "🚫 Menu/Item/Label/To/Description": {
-    "value": "{platformScale.🚫 menu-item-label-to-description}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "628cf42f-eb40-49b0-b110-3340421d4502",
-        "name": "menu-item-label-to-description"
       }
     }
   },
@@ -4431,16 +3941,6 @@
       }
     }
   },
-  "🚫 Popover/Top to content/Area": {
-    "value": "{platformScale.🚫 popover-top-to-content-area}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "f97488e8-b1c1-442e-b98c-0ae6cff0b774",
-        "name": "popover-top-to-content-area"
-      }
-    }
-  },
   "Popover/Edge to content/Area": {
     "value": "{platformScale.popover-edge-to-content-area}",
     "type": "spacing",
@@ -4661,16 +4161,6 @@
       }
     }
   },
-  "🚫 Rating/Indicator/To/Icon": {
-    "value": "{platformScale.🚫 rating-indicator-to-icon}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "b132d948-bec9-4a29-b281-e77801ce5a7c",
-        "name": "rating-indicator-to-icon"
-      }
-    }
-  },
   "Rating/Top to content/Area/Small": {
     "value": "{platformScale.rating-top-to-content-area-small}",
     "type": "spacing",
@@ -4728,16 +4218,6 @@
       "spectrum-tokens": {
         "uuid": "888c8501-b709-4b72-9d19-504e3b0befb4",
         "name": "rating-edge-to-content-area-medium"
-      }
-    }
-  },
-  "🚫 Rating/Indicator/Width": {
-    "value": "{platformScale.🚫 rating-indicator-width}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "f0958cee-9688-43db-9542-1aef164f9dfe",
-        "name": "rating-indicator-width"
       }
     }
   },
@@ -5181,46 +4661,6 @@
       }
     }
   },
-  "🚫 Slider/Handle/Border/Width/Down/Extra large": {
-    "value": "{platformScale.🚫 slider-handle-border-width-down-extra-large}",
-    "type": "borderWidth",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "47d025e2-0b26-4ebc-9b46-3cd1e470b9bc",
-        "name": "slider-handle-border-width-down-extra-large"
-      }
-    }
-  },
-  "🚫 Slider/Handle/Border/Width/Down/Large": {
-    "value": "{platformScale.🚫 slider-handle-border-width-down-large}",
-    "type": "borderWidth",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "525e7d74-2bc0-48ac-85ca-b07335819a31",
-        "name": "slider-handle-border-width-down-large"
-      }
-    }
-  },
-  "🚫 Slider/Handle/Border/Width/Down/Medium": {
-    "value": "{platformScale.🚫 slider-handle-border-width-down-medium}",
-    "type": "borderWidth",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "63c65cd6-a2c2-4430-a1e9-cf82ae0a3f25",
-        "name": "slider-handle-border-width-down-medium"
-      }
-    }
-  },
-  "🚫 Slider/Handle/Border/Width/Down/Small": {
-    "value": "{platformScale.🚫 slider-handle-border-width-down-small}",
-    "type": "borderWidth",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "c9b7d8d9-c5ba-4d97-a03b-a214104ede23",
-        "name": "slider-handle-border-width-down-small"
-      }
-    }
-  },
   "Segmented/Control/Selection/Border/Width": {
     "value": "{platformScale.segmented-control-selection-border-width}",
     "type": "borderWidth",
@@ -5228,16 +4668,6 @@
       "spectrum-tokens": {
         "uuid": "10f93760-7b09-4a4e-8cc2-33783e571926",
         "name": "segmented-control-selection-border-width"
-      }
-    }
-  },
-  "🚫 Slider/Handle/Gap": {
-    "value": "{platformScale.🚫 slider-handle-gap}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "1a257268-32e9-4c5c-8477-32a724ff1d42",
-        "name": "slider-handle-gap"
       }
     }
   },
@@ -5331,46 +4761,6 @@
       }
     }
   },
-  "🚫 Slider/Handle/Size/Extra large": {
-    "value": "{platformScale.🚫 slider-handle-size-extra-large}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "10ccce0d-5a2c-414e-8055-0be76709c180",
-        "name": "slider-handle-size-extra-large"
-      }
-    }
-  },
-  "🚫 Slider/Handle/Size/Large": {
-    "value": "{platformScale.🚫 slider-handle-size-large}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "3df3c866-faf0-43db-8c18-f442e7f94822",
-        "name": "slider-handle-size-large"
-      }
-    }
-  },
-  "🚫 Slider/Handle/Size/Medium": {
-    "value": "{platformScale.🚫 slider-handle-size-medium}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "a8a02181-c797-461d-a666-a63f7535a096",
-        "name": "slider-handle-size-medium"
-      }
-    }
-  },
-  "🚫 Slider/Handle/Size/Small": {
-    "value": "{platformScale.🚫 slider-handle-size-small}",
-    "type": "sizing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "1384d419-bfad-44d7-847c-a0f2c195fb93",
-        "name": "slider-handle-size-small"
-      }
-    }
-  },
   "Slider/Track/Height/Medium": {
     "value": "{platformScale.slider-track-height-medium}",
     "type": "sizing",
@@ -5388,16 +4778,6 @@
       "spectrum-tokens": {
         "uuid": "211a95ca-f83e-4711-83ed-a723258d8336",
         "name": "slider-track-height-large"
-      }
-    }
-  },
-  "🚫 Slider/Track/Thickness": {
-    "value": "{platformScale.🚫 slider-track-thickness}",
-    "type": "spacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "50a71b8b-30fb-40c0-b81e-5ce0dcc8c96b",
-        "name": "slider-track-thickness"
       }
     }
   },
@@ -5778,16 +5158,6 @@
       "spectrum-tokens": {
         "uuid": "b3157e9d-82a0-429e-b987-8c240a669af7",
         "name": "swatch-rectangle-width-multiplier"
-      }
-    }
-  },
-  "🚫 Tag/Minimum/Width/Multiplier": {
-    "value": "{platformScale.🚫 tag-minimum-width-multiplier}",
-    "type": "number",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "837b2ac3-0adc-438c-b249-b96bac07049f",
-        "name": "tag-minimum-width-multiplier"
       }
     }
   },

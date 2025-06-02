@@ -730,86 +730,6 @@
         }
       }
     },
-    "🚫 detail-cjk-light-emphasized-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "c7b1b312-cd81-4c65-8a67-017f91aee40b",
-          "name": "detail-cjk-light-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 detail-cjk-light-emphasized-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "279d9a16-279f-4788-b5b0-af825a4b5d40",
-          "name": "detail-cjk-light-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 detail-cjk-light-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "4cc06d86-326e-4b6f-a751-99445bb1d131",
-          "name": "detail-cjk-light-font-style"
-        }
-      }
-    },
-    "🚫 detail-cjk-light-font-weight": {
-      "value": "{platformScale.light-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "3b531775-a1fd-4a40-b169-7c42b8c6de38",
-          "name": "detail-cjk-light-font-weight"
-        }
-      }
-    },
-    "🚫 detail-cjk-light-strong-emphasized-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "1d4235ff-c183-4d6c-8277-9783e3e1ce7a",
-          "name": "detail-cjk-light-strong-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 detail-cjk-light-strong-emphasized-font-weight": {
-      "value": "{platformScale.extra-bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "0bc51146-a3e5-48c4-8324-4490b9d30f4d",
-          "name": "detail-cjk-light-strong-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 detail-cjk-light-strong-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "ec87fefe-f35f-41a0-9be1-6d076f0db230",
-          "name": "detail-cjk-light-strong-font-style"
-        }
-      }
-    },
-    "🚫 detail-cjk-light-strong-font-weight": {
-      "value": "{platformScale.extra-bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "91231878-73dc-46ce-a277-1d14e0e36842",
-          "name": "detail-cjk-light-strong-font-weight"
-        }
-      }
-    },
     "detail-cjk-line-height": {
       "value": "{platformScale.cjk-line-height-100}",
       "type": "lineHeights",
@@ -857,16 +777,6 @@
         "spectrum-tokens": {
           "uuid": "ef2997f3-276c-4662-8644-9514590114f4",
           "name": "detail-cjk-strong-font-weight"
-        }
-      }
-    },
-    "🚫 detail-letter-spacing": {
-      "value": "6%",
-      "type": "letterSpacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "c4dbe044-dc8c-4722-b36c-5442cd2bc279",
-          "name": "detail-letter-spacing"
         }
       }
     },
@@ -950,86 +860,6 @@
         }
       }
     },
-    "🚫 detail-sans-serif-light-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "fc6098a2-3263-433c-8378-ba609629ef53",
-          "name": "detail-sans-serif-light-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-light-emphasized-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "64972012-5050-41d0-9c9b-269b533a58b7",
-          "name": "detail-sans-serif-light-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-light-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "a6b7c26e-3ff5-4241-b9cc-3026604fe30e",
-          "name": "detail-sans-serif-light-font-style"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-light-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "cf8f93e2-2b79-4a4c-bb31-313e013148e3",
-          "name": "detail-sans-serif-light-font-weight"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-light-strong-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "b7364639-2686-4e12-9ede-d6543d0d0d6d",
-          "name": "detail-sans-serif-light-strong-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-light-strong-emphasized-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "53f16a1c-9d44-4384-9a7e-88a2c4319486",
-          "name": "detail-sans-serif-light-strong-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-light-strong-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "c1966f09-1c6e-4fe0-89ad-8fb8e847e3ba",
-          "name": "detail-sans-serif-light-strong-font-style"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-light-strong-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "4f0f95d3-098a-4852-bd21-785f5bf054b5",
-          "name": "detail-sans-serif-light-strong-font-weight"
-        }
-      }
-    },
     "detail-sans-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
       "type": "other",
@@ -1067,16 +897,6 @@
         "spectrum-tokens": {
           "uuid": "a150e66c-daf4-4c71-a2e2-577600878988",
           "name": "detail-sans-serif-strong-font-weight"
-        }
-      }
-    },
-    "🚫 detail-sans-serif-text-transform": {
-      "value": "uppercase",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "8646d403-21f9-4e77-8a21-92289c303715",
-          "name": "detail-sans-serif-text-transform"
         }
       }
     },
@@ -1130,86 +950,6 @@
         }
       }
     },
-    "🚫 detail-serif-light-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "320bcd8e-2bb8-4e9e-9b1d-4838b2966857",
-          "name": "detail-serif-light-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 detail-serif-light-emphasized-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "3d27f76e-b068-4f06-bea8-ee31fcbc49b2",
-          "name": "detail-serif-light-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 detail-serif-light-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "f6478d1d-5dcf-43eb-a4fc-498479b29aa7",
-          "name": "detail-serif-light-font-style"
-        }
-      }
-    },
-    "🚫 detail-serif-light-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "2a15a805-fd08-4f8e-82e6-9264ef8937cb",
-          "name": "detail-serif-light-font-weight"
-        }
-      }
-    },
-    "🚫 detail-serif-light-strong-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "42d2049f-cda2-4ae4-8d0a-41f7789f768b",
-          "name": "detail-serif-light-strong-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 detail-serif-light-strong-emphasized-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "1c524d85-9fca-433c-b5c4-5eaa456cc3a2",
-          "name": "detail-serif-light-strong-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 detail-serif-light-strong-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "7a878a3f-b663-41ee-8357-6e62f2e51d80",
-          "name": "detail-serif-light-strong-font-style"
-        }
-      }
-    },
-    "🚫 detail-serif-light-strong-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "fc5df058-f678-4dc8-953f-e2738798ee2b",
-          "name": "detail-serif-light-strong-font-weight"
-        }
-      }
-    },
     "detail-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
       "type": "other",
@@ -1247,16 +987,6 @@
         "spectrum-tokens": {
           "uuid": "d737931b-f63c-4874-8fa5-872b95048727",
           "name": "detail-serif-strong-font-weight"
-        }
-      }
-    },
-    "🚫 detail-serif-text-transform": {
-      "value": "uppercase",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "0e161c32-c412-4cda-bacb-7eaa548b5534",
-          "name": "detail-serif-text-transform"
         }
       }
     },
@@ -1490,86 +1220,6 @@
         }
       }
     },
-    "🚫 heading-cjk-light-emphasized-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "dac03eec-6910-4176-bfca-33f8a57cf3d7",
-          "name": "heading-cjk-light-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 heading-cjk-light-emphasized-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "aea9787b-ee0b-40cc-9089-5973e52b18bd",
-          "name": "heading-cjk-light-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 heading-cjk-light-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "b5704c75-2914-4268-9023-7f7452e826c1",
-          "name": "heading-cjk-light-font-style"
-        }
-      }
-    },
-    "🚫 heading-cjk-light-font-weight": {
-      "value": "{platformScale.light-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "9da0ba4c-b4e3-4052-8b2e-d2fde714bb9d",
-          "name": "heading-cjk-light-font-weight"
-        }
-      }
-    },
-    "🚫 heading-cjk-light-strong-emphasized-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "9136e25e-563b-4485-bad7-41809d5317de",
-          "name": "heading-cjk-light-strong-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 heading-cjk-light-strong-emphasized-font-weight": {
-      "value": "{platformScale.extra-bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "83cc347c-7a1a-4665-9de4-cf19903f1043",
-          "name": "heading-cjk-light-strong-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 heading-cjk-light-strong-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "be854057-43b1-40ce-bdc7-69960cd7638c",
-          "name": "heading-cjk-light-strong-font-style"
-        }
-      }
-    },
-    "🚫 heading-cjk-light-strong-font-weight": {
-      "value": "{platformScale.extra-bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "5ca91bc2-215b-4cbb-b966-80bfffd569ad",
-          "name": "heading-cjk-light-strong-font-weight"
-        }
-      }
-    },
     "heading-cjk-line-height": {
       "value": "{platformScale.cjk-line-height-100}",
       "type": "lineHeights",
@@ -1637,16 +1287,6 @@
         "spectrum-tokens": {
           "uuid": "fbf59302-1ad2-4327-bfde-d638a0ca2429",
           "name": "heading-cjk-size-xxl"
-        }
-      }
-    },
-    "🚫 heading-cjk-size-xxs": {
-      "value": "{platformScale.font-size-100}",
-      "type": "fontSizes",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "bddd6a96-c280-47ca-8858-20df055e488d",
-          "name": "heading-cjk-size-xxs"
         }
       }
     },
@@ -1950,86 +1590,6 @@
         }
       }
     },
-    "🚫 heading-sans-serif-light-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "5f88eb81-7052-4c21-9896-f14cb09f0e70",
-          "name": "heading-sans-serif-light-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 heading-sans-serif-light-emphasized-font-weight": {
-      "value": "{platformScale.light-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "e882ea46-8f0a-4313-84f5-85bb8d9f1f5e",
-          "name": "heading-sans-serif-light-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 heading-sans-serif-light-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "c5551fd5-4ee2-4c93-b91f-9ed295fa63a4",
-          "name": "heading-sans-serif-light-font-style"
-        }
-      }
-    },
-    "🚫 heading-sans-serif-light-font-weight": {
-      "value": "{platformScale.light-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "ff84a748-5923-451d-967c-a346d2dee46c",
-          "name": "heading-sans-serif-light-font-weight"
-        }
-      }
-    },
-    "🚫 heading-sans-serif-light-strong-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "bc5d65e0-e13a-424c-a260-9268a0dee66c",
-          "name": "heading-sans-serif-light-strong-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 heading-sans-serif-light-strong-emphasized-font-weight": {
-      "value": "{platformScale.bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "c297a503-fc3c-4939-8c5a-6611b9b04719",
-          "name": "heading-sans-serif-light-strong-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 heading-sans-serif-light-strong-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "67271ca0-c9fd-4047-a615-6314d7333f7a",
-          "name": "heading-sans-serif-light-strong-font-style"
-        }
-      }
-    },
-    "🚫 heading-sans-serif-light-strong-font-weight": {
-      "value": "{platformScale.bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "75437f9a-7ee8-4194-b4b3-0746be097396",
-          "name": "heading-sans-serif-light-strong-font-weight"
-        }
-      }
-    },
     "heading-sans-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
       "type": "other",
@@ -2200,86 +1760,6 @@
         }
       }
     },
-    "🚫 heading-serif-light-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "7bd831cd-3fe0-402b-a105-f65b8e8023e2",
-          "name": "heading-serif-light-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 heading-serif-light-emphasized-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "b5f79fde-07f7-4c07-897e-0bfdf27e2839",
-          "name": "heading-serif-light-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 heading-serif-light-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "5f30418a-aa76-434e-bca9-902d5be0d929",
-          "name": "heading-serif-light-font-style"
-        }
-      }
-    },
-    "🚫 heading-serif-light-font-weight": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "66958795-6459-4750-8c68-dc39ab383837",
-          "name": "heading-serif-light-font-weight"
-        }
-      }
-    },
-    "🚫 heading-serif-light-strong-emphasized-font-style": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "71c8e302-6bc1-4f45-b804-c847dd153d1b",
-          "name": "heading-serif-light-strong-emphasized-font-style"
-        }
-      }
-    },
-    "🚫 heading-serif-light-strong-emphasized-font-weight": {
-      "value": "{platformScale.bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "98c61df3-057d-4345-881e-0c04628757f3",
-          "name": "heading-serif-light-strong-emphasized-font-weight"
-        }
-      }
-    },
-    "🚫 heading-serif-light-strong-font-style": {
-      "value": "{platformScale.default-font-style}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "73906871-24e5-48cc-9140-ec700c08d144",
-          "name": "heading-serif-light-strong-font-style"
-        }
-      }
-    },
-    "🚫 heading-serif-light-strong-font-weight": {
-      "value": "{platformScale.bold-font-weight}",
-      "type": "fontWeights",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "29ad1c96-62e4-4143-88e8-fc8e08913a52",
-          "name": "heading-serif-light-strong-font-weight"
-        }
-      }
-    },
     "heading-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
       "type": "other",
@@ -2377,16 +1857,6 @@
         "spectrum-tokens": {
           "uuid": "464e34cd-e768-4a38-a72b-cae1a4852ef3",
           "name": "heading-size-xxl"
-        }
-      }
-    },
-    "🚫 heading-size-xxs": {
-      "value": "{platformScale.font-size-100}",
-      "type": "fontSizes",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "82a831b4-b624-475b-b2be-4eb949e48626",
-          "name": "heading-size-xxs"
         }
       }
     },

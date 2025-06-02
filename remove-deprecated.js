@@ -2,15 +2,36 @@ const fs = require('fs');
 const path = require('path');
 
 function removeDeprecatedTokens(jsonData) {
-    const result = {};
-    
-    for (const [key, value] of Object.entries(jsonData)) {
-        if (!key.startsWith('🚫')) {
-            result[key] = value;
-        }
+    if (Array.isArray(jsonData)) {
+        return jsonData.map(item => removeDeprecatedTokens(item));
     }
     
-    return result;
+    if (typeof jsonData === 'object' && jsonData !== null) {
+        const result = {};
+        
+        for (const [key, value] of Object.entries(jsonData)) {
+            if (!key.startsWith('🚫')) {
+                // Check if the value contains a platformScale reference
+                if (typeof value === 'object' && value !== null && value.value) {
+                    const newValue = { ...value };
+                    // Remove 🚫 from platformScale references
+                    if (typeof newValue.value === 'string' && newValue.value.includes('platformScale.🚫')) {
+                        newValue.value = newValue.value.replace('platformScale.🚫', 'platformScale.');
+                    }
+                    result[key] = removeDeprecatedTokens(newValue);
+                } else if (typeof value === 'string' && value.includes('platformScale.🚫')) {
+                    // Handle platformScale references in $themes.json
+                    result[key] = value.replace('platformScale.🚫', 'platformScale.');
+                } else {
+                    result[key] = removeDeprecatedTokens(value);
+                }
+            }
+        }
+        
+        return result;
+    }
+    
+    return jsonData;
 }
 
 function processFile(filePath) {

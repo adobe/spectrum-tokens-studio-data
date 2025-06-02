@@ -40,46 +40,6 @@
         }
       }
     },
-    "🚫 character-count-to-field-quiet-extra-large": {
-      "value": "-4px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "8b5b5dce-a9c4-4c03-a194-8a5bc716b18a",
-          "name": "character-count-to-field-quiet-extra-large"
-        }
-      }
-    },
-    "🚫 character-count-to-field-quiet-large": {
-      "value": "-3px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "3f385135-015a-44dd-bde3-60389b14c2ff",
-          "name": "character-count-to-field-quiet-large"
-        }
-      }
-    },
-    "🚫 character-count-to-field-quiet-medium": {
-      "value": "-3px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "2ebe9ae0-3b74-47dc-af79-e1dd5f93b9bd",
-          "name": "character-count-to-field-quiet-medium"
-        }
-      }
-    },
-    "🚫 character-count-to-field-quiet-small": {
-      "value": "-3px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "f2f62625-dfd4-46b0-9113-033820745569",
-          "name": "character-count-to-field-quiet-small"
-        }
-      }
-    },
     "color-control-track-width": {
       "value": "24px",
       "type": "sizing",
@@ -1070,36 +1030,6 @@
         }
       }
     },
-    "🚫 drop-shadow-x": {
-      "value": "{platformScale.drop-shadow-x-100}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "81415747-aa3f-4ef3-b0bc-7c33f07a4316",
-          "name": "drop-shadow-x"
-        }
-      }
-    },
-    "🚫 drop-shadow-y": {
-      "value": "{platformScale.drop-shadow-y-100}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "c530129f-248c-4e36-ba7f-05d6d6a53962",
-          "name": "drop-shadow-y"
-        }
-      }
-    },
-    "🚫 drop-shadow-blur": {
-      "value": "{platformScale.drop-shadow-blur-100}",
-      "type": "other",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "ac20a6da-31a7-4c8b-b361-0ad820cd8429",
-          "name": "drop-shadow-blur"
-        }
-      }
-    },
     "drop-shadow-x-100": {
       "value": "0px",
       "type": "sizing",
@@ -1340,16 +1270,6 @@
         }
       }
     },
-    "🚫 field-edge-to-alert-icon-quiet": {
-      "value": "0px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "7858fdf3-e35f-4bc5-997a-0d480ec1cb32",
-          "name": "field-edge-to-alert-icon-quiet"
-        }
-      }
-    },
     "field-edge-to-alert-icon-small": {
       "value": "9px",
       "type": "spacing",
@@ -1357,16 +1277,6 @@
         "spectrum-tokens": {
           "uuid": "20658099-94df-4c6c-a2f2-558c92174121",
           "name": "field-edge-to-alert-icon-small"
-        }
-      }
-    },
-    "🚫 field-edge-to-border-quiet": {
-      "value": "0px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "7fb81dcf-3329-4353-917d-75de8f43c05d",
-          "name": "field-edge-to-border-quiet"
         }
       }
     },
@@ -1410,16 +1320,6 @@
         }
       }
     },
-    "🚫 field-edge-to-text-quiet": {
-      "value": "0px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "3f7cee20-c187-4066-be4b-f5a1335736f5",
-          "name": "field-edge-to-text-quiet"
-        }
-      }
-    },
     "field-edge-to-validation-icon-extra-large": {
       "value": "18px",
       "type": "spacing",
@@ -1447,16 +1347,6 @@
         "spectrum-tokens": {
           "uuid": "a93c8845-c89b-4e8d-b06e-c34e7c7b0e99",
           "name": "field-edge-to-validation-icon-medium"
-        }
-      }
-    },
-    "🚫 field-edge-to-validation-icon-quiet": {
-      "value": "0px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "151915e5-f946-474f-9595-18d8a159a6ff",
-          "name": "field-edge-to-validation-icon-quiet"
         }
       }
     },
@@ -1760,17 +1650,6 @@
         }
       }
     },
-    "🚫 field-width-small": {
-      "value": "{platformScale.field-default-width-small}",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "d316d676-b4cf-4d16-b89c-63ef1d969861",
-          "name": "field-width-small",
-          "deprecated-uuids": "096ddcb7-5afd-416f-9a11-4275556c4b52"
-        }
-      }
-    },
     "field-default-width-small": {
       "value": "192px",
       "type": "sizing",
@@ -1779,16 +1658,6 @@
           "uuid": "39c39c14-0500-4bf6-a542-967697aaff41",
           "name": "field-default-width-small",
           "deprecated-uuids": "096ddcb7-5afd-416f-9a11-4275556c4b52"
-        }
-      }
-    },
-    "🚫 field-width-medium": {
-      "value": "{platformScale.field-default-width-medium}",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "935927d3-b25e-468a-999a-938643901e50",
-          "name": "field-width-medium"
         }
       }
     },
@@ -1802,16 +1671,6 @@
         }
       }
     },
-    "🚫 field-width-large": {
-      "value": "{platformScale.field-default-width-large}",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "cc43e053-1255-403f-aaf5-2182f5438592",
-          "name": "field-width-large"
-        }
-      }
-    },
     "field-default-width-large": {
       "value": "224px",
       "type": "sizing",
@@ -1819,16 +1678,6 @@
         "spectrum-tokens": {
           "uuid": "c6d08f8b-4e8c-478a-8b08-5b69d2da1a5e",
           "name": "field-default-width-large"
-        }
-      }
-    },
-    "🚫 field-width-extra-large": {
-      "value": "{platformScale.field-default-width-extra-large}",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "a903b595-ffe8-43ae-af9b-7b6577191dc5",
-          "name": "field-width-extra-large"
         }
       }
     },

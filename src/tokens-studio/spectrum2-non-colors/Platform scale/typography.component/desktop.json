@@ -2,7 +2,7 @@
   "platformScale": {
     "body-cjk-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "3e90be19-62fd-4e53-abf9-4c697baba5da",
@@ -32,7 +32,7 @@
     },
     "body-cjk-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "41389b62-c449-485b-bfa8-1659bacc8c42",
@@ -62,7 +62,7 @@
     },
     "body-cjk-strong-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f792aac0-62f2-47e3-b6ac-158ae009d9c3",
@@ -82,7 +82,7 @@
     },
     "body-cjk-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "11fe09ad-92eb-4d7d-8872-467cdd69659b",
@@ -122,7 +122,7 @@
     },
     "body-sans-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "717c067c-55d1-4927-ad9c-8784769f581d",
@@ -152,7 +152,7 @@
     },
     "body-sans-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "e1da0eff-7482-46a0-8190-4c54c6b1e1dd",
@@ -172,7 +172,7 @@
     },
     "body-sans-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b87e6738-af38-49be-9945-f3a307ce7b6f",
@@ -192,7 +192,7 @@
     },
     "body-sans-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b36db31f-eaaa-4310-9f54-f7b509d5f571",
@@ -212,7 +212,7 @@
     },
     "body-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c817210d-2b1a-4648-bff3-33fa212491f1",
@@ -242,7 +242,7 @@
     },
     "body-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "d317d387-9bc8-4258-a79a-a0dd4e22d952",
@@ -262,7 +262,7 @@
     },
     "body-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b940bdc8-d373-4bd0-8620-d6c04134698b",
@@ -282,7 +282,7 @@
     },
     "body-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c8b531d1-949e-4492-9897-450a477983ce",
@@ -382,7 +382,7 @@
     },
     "code-cjk-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f892e676-5218-4dc9-870b-c9d2df6f3152",
@@ -412,7 +412,7 @@
     },
     "code-cjk-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b26477bc-8bf1-41aa-b849-cfde54e27780",
@@ -442,7 +442,7 @@
     },
     "code-cjk-strong-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "38006d42-4f02-46ff-917f-6c0163525642",
@@ -462,7 +462,7 @@
     },
     "code-cjk-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "a30c9a18-1a49-4b16-87a0-e882c81dd1bd",
@@ -482,7 +482,7 @@
     },
     "code-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "9d3151ad-4a37-4eeb-aadd-7389ccb09345",
@@ -512,7 +512,7 @@
     },
     "code-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b98a9c39-7d39-4b6d-ad35-46c8b1725c0c",
@@ -642,7 +642,7 @@
     },
     "code-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "83d53fe1-372f-46ba-b8e0-f90ca2e59647",
@@ -662,7 +662,7 @@
     },
     "code-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "dac3d8d5-3005-4fa6-b71a-6679470176cf",
@@ -682,7 +682,7 @@
     },
     "detail-cjk-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "3dca0579-91c4-4f60-a2a6-25f16eb673b3",
@@ -712,7 +712,7 @@
     },
     "detail-cjk-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "4d2a9b37-101b-4025-95d6-aba18b701a58",
@@ -742,7 +742,7 @@
     },
     "detail-cjk-strong-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "75a3a4ec-2b57-4a49-b3bd-84b41a3cd314",
@@ -762,7 +762,7 @@
     },
     "detail-cjk-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "653358fc-5ee4-4e97-affc-c56896d370c0",
@@ -812,7 +812,7 @@
     },
     "detail-sans-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "5c7dcef1-514e-4d43-b2ef-76639e214b8c",
@@ -842,7 +842,7 @@
     },
     "detail-sans-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "21a9500c-f9a4-4ff3-9eb5-6da81bf314f6",
@@ -862,7 +862,7 @@
     },
     "detail-sans-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "82d04795-da5f-4868-a90d-980f5376a878",
@@ -882,7 +882,7 @@
     },
     "detail-sans-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c56642f3-043c-4738-bed0-61b324221f4e",
@@ -902,7 +902,7 @@
     },
     "detail-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "cfaf6a70-3eb5-4887-bae6-8ae41c094192",
@@ -932,7 +932,7 @@
     },
     "detail-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "524c5101-f745-47e6-b233-62cd005850f8",
@@ -952,7 +952,7 @@
     },
     "detail-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "7fdffa4e-4370-45cf-aab0-316561a56a24",
@@ -972,7 +972,7 @@
     },
     "detail-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "3b2124e3-e50b-4ab7-8340-f97b1f8fef1e",
@@ -1092,7 +1092,7 @@
     },
     "heading-cjk-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "05c74b28-3051-498c-874a-5dc523bc27e5",
@@ -1122,7 +1122,7 @@
     },
     "heading-cjk-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c93b39df-82e9-4e87-920f-1747e5d48e8e",
@@ -1142,7 +1142,7 @@
     },
     "heading-cjk-heavy-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "aef21944-3dac-4b2d-ba7b-0a4df3f406bb",
@@ -1162,7 +1162,7 @@
     },
     "heading-cjk-heavy-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b2f50ba2-e694-47ba-b81a-ea8fc813247e",
@@ -1182,7 +1182,7 @@
     },
     "heading-cjk-heavy-strong-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "619a15ba-f74e-4ff4-a604-312b810f1a50",
@@ -1202,7 +1202,7 @@
     },
     "heading-cjk-heavy-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "26817f91-2742-4170-aa01-1e1e67ef01e8",
@@ -1392,7 +1392,7 @@
     },
     "heading-cjk-strong-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "22934d4d-4952-40a7-a5e5-256a7a3c9371",
@@ -1412,7 +1412,7 @@
     },
     "heading-cjk-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "4f061165-0e86-46b9-83c3-c95eeb8ff956",
@@ -1462,7 +1462,7 @@
     },
     "heading-sans-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "2f17833a-28a4-4152-8999-12b077557797",
@@ -1492,7 +1492,7 @@
     },
     "heading-sans-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "561d905e-7f44-43da-b2b4-26e12551ef6d",
@@ -1512,7 +1512,7 @@
     },
     "heading-sans-serif-heavy-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "924c338f-7141-490a-a842-ad632c26160c",
@@ -1532,7 +1532,7 @@
     },
     "heading-sans-serif-heavy-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "0c4cdd06-8180-40b1-9b1f-d7d973a7b772",
@@ -1552,7 +1552,7 @@
     },
     "heading-sans-serif-heavy-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c20ea22a-c34d-4c7c-a816-75b533e28c92",
@@ -1572,7 +1572,7 @@
     },
     "heading-sans-serif-heavy-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "86775b10-5682-49fb-9d38-6bdb857da801",
@@ -1592,7 +1592,7 @@
     },
     "heading-sans-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f692d35f-1b11-43d1-ad29-967436b90928",
@@ -1612,7 +1612,7 @@
     },
     "heading-sans-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "2117cb6e-67f7-4509-b4fb-e9e442b6dc0e",
@@ -1632,7 +1632,7 @@
     },
     "heading-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "fe694554-832d-457d-a320-f02629f9c441",
@@ -1662,7 +1662,7 @@
     },
     "heading-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "938f3684-44c6-4ae2-935a-b88921fcd7fe",
@@ -1682,7 +1682,7 @@
     },
     "heading-serif-heavy-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "a18ac621-eade-4224-9660-3e9a080219ec",
@@ -1702,7 +1702,7 @@
     },
     "heading-serif-heavy-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "14532cb8-6c88-46ce-886b-96fac971e7b9",
@@ -1722,7 +1722,7 @@
     },
     "heading-serif-heavy-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "adf303e8-1e27-4aec-9bbc-5abe166358ec",
@@ -1742,7 +1742,7 @@
     },
     "heading-serif-heavy-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b2875bbe-b5cb-452f-b7d6-3dcb4fc59921",
@@ -1762,7 +1762,7 @@
     },
     "heading-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "da6e1593-9d2a-4fd8-8877-d30d6e1d1c07",
@@ -1782,7 +1782,7 @@
     },
     "heading-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "2e0ef484-406a-4902-995d-9a3d5177ec12",
@@ -1882,7 +1882,7 @@
     },
     "title-cjk-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "2be8bfb1-7a0c-452d-9532-ea2eda408b82",
@@ -1912,7 +1912,7 @@
     },
     "title-cjk-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f421339b-fc3b-4d4e-86b4-65a63584131b",
@@ -2022,7 +2022,7 @@
     },
     "title-cjk-strong-emphasized-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "55c1dcc1-f296-47eb-989b-ae5e22748869",
@@ -2042,7 +2042,7 @@
     },
     "title-cjk-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "85e5ba03-3f0a-4245-a26c-ac9c3df23d1b",
@@ -2092,7 +2092,7 @@
     },
     "title-sans-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "98fd5c98-b53d-49f0-bce1-705b53ae9ae4",
@@ -2122,7 +2122,7 @@
     },
     "title-sans-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "faa965d6-42c0-40f9-802e-ff0ea69d740d",
@@ -2142,7 +2142,7 @@
     },
     "title-sans-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "39c10c1e-56c1-4a94-b5b9-a91a2db92050",
@@ -2162,7 +2162,7 @@
     },
     "title-sans-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "871928bc-14ac-465d-b245-c39bcf265a72",
@@ -2182,7 +2182,7 @@
     },
     "title-serif-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "cf6281f7-00ef-437e-b89b-d6d774818f0b",
@@ -2212,7 +2212,7 @@
     },
     "title-serif-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "70955f1b-4124-432e-bd9d-c5b42c890195",
@@ -2232,7 +2232,7 @@
     },
     "title-serif-strong-emphasized-font-style": {
       "value": "{platformScale.italic-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "6359f577-d462-456b-a748-ceecb893b4a2",
@@ -2252,7 +2252,7 @@
     },
     "title-serif-strong-font-style": {
       "value": "{platformScale.default-font-style}",
-      "type": "other",
+      "type": "text",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "6d2f0e78-e527-41c7-8843-af89a9790da6",

@@ -6,6 +6,22 @@ function normalizeKey(key) {
   return key.toLowerCase().replace(/[\/]/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
+// Recursively find all modeless.json files
+function findModelessFiles(dir) {
+  let results = [];
+  const list = fs.readdirSync(dir);
+  for (const file of list) {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+    if (stat && stat.isDirectory()) {
+      results = results.concat(findModelessFiles(filePath));
+    } else if (file === 'modeless.json') {
+      results.push(filePath);
+    }
+  }
+  return results;
+}
+
 // Load JSON file
 function loadJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
@@ -13,21 +29,19 @@ function loadJson(filePath) {
 
 // Main update function
 function updateFigmaKeys() {
-  const themesPath = path.join('src/tokens-studio/spectrum2-non-colors/$themes.json');
-  const modelessGlobalPath = path.join('src/tokens-studio/spectrum2-non-colors/Typography/global/modeless.json');
-  const modelessComponentPath = path.join('src/tokens-studio/spectrum2-non-colors/Typography/component/modeless.json');
+  const baseDir = path.join('src/tokens-studio/spectrum2-non-colors');
+  const themesPath = path.join(baseDir, '$themes.json');
 
   const themes = loadJson(themesPath);
-  const modelessGlobal = loadJson(modelessGlobalPath);
-  const modelessComponent = loadJson(modelessComponentPath);
 
-  // Build normalized key maps
+  // Find all modeless.json files and collect all keys
+  const modelessFiles = findModelessFiles(baseDir);
   const modelessKeyMap = {};
-  for (const key of Object.keys(modelessGlobal)) {
-    modelessKeyMap[normalizeKey(key)] = key;
-  }
-  for (const key of Object.keys(modelessComponent)) {
-    modelessKeyMap[normalizeKey(key)] = key;
+  for (const file of modelessFiles) {
+    const modeless = loadJson(file);
+    for (const key of Object.keys(modeless)) {
+      modelessKeyMap[normalizeKey(key)] = key;
+    }
   }
 
   // Find the $figmaVariableReferences object (search all theme entries)
@@ -59,7 +73,7 @@ function updateFigmaKeys() {
     console.log('--- Key Mapping Report ---');
     for (const entry of report) {
       if (entry.new) {
-        console.log(`MATCH: "${entry.old}" -> "${entry.new}"`);
+        // console.log(`MATCH: "${entry.old}" -> "${entry.new}"`);
       } else {
         console.log(`NO MATCH: "${entry.old}"`);
       }

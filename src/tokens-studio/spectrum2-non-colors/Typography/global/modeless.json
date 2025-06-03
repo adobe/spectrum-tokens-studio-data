@@ -81,7 +81,7 @@
   },
   "Default/Font style": {
     "value": "{platformScale.default-font-style}",
-    "type": "other",
+    "type": "text",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "25668698-bf78-46f4-bc6c-8fea068ddb34",
@@ -281,7 +281,7 @@
   },
   "Italic/Font style": {
     "value": "{platformScale.italic-font-style}",
-    "type": "other",
+    "type": "text",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "9a58e4ae-dfa1-428b-9d90-11f4275418da",

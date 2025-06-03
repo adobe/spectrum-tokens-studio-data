@@ -11,7 +11,7 @@ function processObject(obj, filePath) {
     for (const key in obj) {
         if (typeof obj[key] === 'object' && obj[key] !== null) {
             // If the key contains "font-style" and has type "other"
-            if (key.includes('font-style') && obj[key].type === 'other') {
+            if (key.includes('Font style') && obj[key].type === 'other') {
                 obj[key].type = 'text';
                 modified = true;
                 console.log(`Updated type in ${filePath} for key: ${key}`);

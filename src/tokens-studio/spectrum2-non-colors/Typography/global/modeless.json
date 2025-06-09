@@ -49,26 +49,6 @@
       }
     }
   },
-  "CJK/Line height/100": {
-    "value": "{platformScale.cjk-line-height-100}",
-    "type": "lineHeights",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "8b4ab68d-9060-4e11-9ecc-3b9d3db27fe4",
-        "name": "cjk-line-height-100"
-      }
-    }
-  },
-  "CJK/Line height/200": {
-    "value": "{platformScale.cjk-line-height-200}",
-    "type": "lineHeights",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "c5a5d186-54b3-44a0-b1c6-e9b102871015",
-        "name": "cjk-line-height-200"
-      }
-    }
-  },
   "Default/Font family": {
     "value": "{platformScale.default-font-family}",
     "type": "fontFamilies",
@@ -326,26 +306,6 @@
       "spectrum-tokens": {
         "uuid": "fd477873-3767-4883-ab3f-5ee2758b923b",
         "name": "light-font-weight"
-      }
-    }
-  },
-  "Line height/100": {
-    "value": "{platformScale.line-height-100}",
-    "type": "lineHeights",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "dd125d1d-cf4d-45c8-ab21-52331a9a264b",
-        "name": "line-height-100"
-      }
-    }
-  },
-  "Line height/200": {
-    "value": "{platformScale.line-height-200}",
-    "type": "lineHeights",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "832f2589-0e75-48dd-bbe3-e3f5b98e6c97",
-        "name": "line-height-200"
       }
     }
   },

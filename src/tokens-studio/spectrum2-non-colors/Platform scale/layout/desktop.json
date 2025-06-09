@@ -2181,6 +2181,16 @@
         }
       }
     },
+    "visual-to-control-100": {
+      "value": "8px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "0a392deb-fee3-4968-bc52-1377f9e23307",
+          "name": "visual-to-control-100"
+        }
+      }
+    },
     "window-to-edge": {
       "value": "{platformScale.spacing-600}",
       "type": "spacing",

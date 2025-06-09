@@ -431,7 +431,7 @@
       }
     },
     "accordion-top-to-text-compact-medium": {
-      "value": "4px",
+      "value": "8px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -441,7 +441,7 @@
       }
     },
     "accordion-top-to-text-compact-small": {
-      "value": "2px",
+      "value": "3px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -485,7 +485,7 @@
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "4f6e49d2-9ab8-4548-aae4-eed45a4003b9",
+          "uuid": "efd68835-b6de-479c-9c71-bccbe8e20c21",
           "name": "accordion-top-to-text-small"
         }
       }

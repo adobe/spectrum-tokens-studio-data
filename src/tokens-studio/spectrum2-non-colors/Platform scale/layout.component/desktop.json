@@ -40,43 +40,43 @@
         }
       }
     },
-    "accordion-bottom-to-text-regular-extra-large": {
+    "accordion-bottom-to-text-extra-large": {
       "value": "12px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "8c199212-a745-414c-8f6b-22d2445ade3c",
-          "name": "accordion-bottom-to-text-regular-extra-large"
+          "uuid": "47f2bc45-5fa5-439a-a705-ef965c6ea010",
+          "name": "accordion-bottom-to-text-extra-large"
         }
       }
     },
-    "accordion-bottom-to-text-regular-large": {
+    "accordion-bottom-to-text-large": {
       "value": "11px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "f484838e-1f0c-4125-9298-beb4ddc0fd53",
-          "name": "accordion-bottom-to-text-regular-large"
+          "uuid": "7ec7fa3a-5ab0-41e8-816a-bdd63b7d9d82",
+          "name": "accordion-bottom-to-text-large"
         }
       }
     },
-    "accordion-bottom-to-text-regular-medium": {
+    "accordion-bottom-to-text-medium": {
       "value": "9px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "2d6fa243-5f7e-41a8-840b-27a6432f54bc",
-          "name": "accordion-bottom-to-text-regular-medium"
+          "uuid": "c0f14d75-a7a7-4325-b891-76d055e6371f",
+          "name": "accordion-bottom-to-text-medium"
         }
       }
     },
-    "accordion-bottom-to-text-regular-small": {
+    "accordion-bottom-to-text-small": {
       "value": "7px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "d64620dc-dd4a-447a-8491-d9e144ec8828",
-          "name": "accordion-bottom-to-text-regular-small"
+          "uuid": "ee8445cc-82a2-489f-9ff9-ec5d38a8dfd5",
+          "name": "accordion-bottom-to-text-small"
         }
       }
     },
@@ -411,7 +411,7 @@
       }
     },
     "accordion-top-to-text-compact-extra-large": {
-      "value": "5px",
+      "value": "8px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -421,7 +421,7 @@
       }
     },
     "accordion-top-to-text-compact-large": {
-      "value": "4px",
+      "value": "8px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -431,7 +431,7 @@
       }
     },
     "accordion-top-to-text-compact-medium": {
-      "value": "4px",
+      "value": "8px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -441,7 +441,7 @@
       }
     },
     "accordion-top-to-text-compact-small": {
-      "value": "2px",
+      "value": "3px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -450,48 +450,48 @@
         }
       }
     },
-    "accordion-top-to-text-regular-extra-large": {
-      "value": "9px",
+    "accordion-top-to-text-extra-large": {
+      "value": "13px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "9289aae4-ddaa-4a43-8f00-973dea8350f2",
-          "name": "accordion-top-to-text-regular-extra-large"
+          "uuid": "1a8c45b2-caa4-47b9-b72a-782894168342",
+          "name": "accordion-top-to-text-extra-large"
         }
       }
     },
-    "accordion-top-to-text-regular-large": {
-      "value": "9px",
+    "accordion-top-to-text-large": {
+      "value": "12px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "2021d787-ddaa-470a-a25d-8a57f67b7359",
-          "name": "accordion-top-to-text-regular-large"
+          "uuid": "b005554a-ac7f-45ff-86a1-d240d1270f40",
+          "name": "accordion-top-to-text-large"
         }
       }
     },
-    "accordion-top-to-text-regular-medium": {
-      "value": "8px",
+    "accordion-top-to-text-medium": {
+      "value": "12px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "48db5aeb-6752-4267-89c7-48ed84692ec8",
-          "name": "accordion-top-to-text-regular-medium"
+          "uuid": "728ad09d-0820-4c71-9974-57386f3d62d2",
+          "name": "accordion-top-to-text-medium"
         }
       }
     },
-    "accordion-top-to-text-regular-small": {
-      "value": "5px",
+    "accordion-top-to-text-small": {
+      "value": "7px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "4f6e49d2-9ab8-4548-aae4-eed45a4003b9",
-          "name": "accordion-top-to-text-regular-small"
+          "uuid": "efd68835-b6de-479c-9c71-bccbe8e20c21",
+          "name": "accordion-top-to-text-small"
         }
       }
     },
     "accordion-top-to-text-spacious-extra-large": {
-      "value": "13px",
+      "value": "17px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -501,7 +501,7 @@
       }
     },
     "accordion-top-to-text-spacious-large": {
-      "value": "12px",
+      "value": "16px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -511,7 +511,7 @@
       }
     },
     "accordion-top-to-text-spacious-medium": {
-      "value": "12px",
+      "value": "16px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -521,7 +521,7 @@
       }
     },
     "accordion-top-to-text-spacious-small": {
-      "value": "9px",
+      "value": "11px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -2118,6 +2118,56 @@
         "spectrum-tokens": {
           "uuid": "24d72e3c-ed0d-47d7-85f5-4792fcf87b7f",
           "name": "collection-card-minimum-height-hero-extra-large"
+        }
+      }
+    },
+    "list-view-minimum-height": {
+      "value": "40px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "fe1dcf27-addf-4aa9-9057-7b98a4dcacdc",
+          "name": "list-view-minimum-height"
+        }
+      }
+    },
+    "list-view-minimum-width": {
+      "value": "200px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "82b718ef-6127-472b-b92f-f2f15833c49f",
+          "name": "list-view-minimum-width"
+        }
+      }
+    },
+    "stack-item-header-minimum-width": {
+      "value": "200px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "6880260b-1d48-4bfc-9745-3e7c506c40fb",
+          "name": "stack-item-header-minimum-width"
+        }
+      }
+    },
+    "list-view-item-top-corner-radius": {
+      "value": "{platformScale.corner-radius-medium-default}",
+      "type": "borderRadius",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "6e4611f7-f202-4003-94b4-587d48d07e32",
+          "name": "list-view-item-top-corner-radius"
+        }
+      }
+    },
+    "list-view-item-bottom-corner-radius": {
+      "value": "{platformScale.corner-radius-medium-default}",
+      "type": "borderRadius",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "57821e37-d39e-49d5-b978-4ece3747e531",
+          "name": "list-view-item-bottom-corner-radius"
         }
       }
     },
@@ -4782,6 +4832,106 @@
         }
       }
     },
+    "stack-item-start-edge-to-content": {
+      "value": "4px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "abc302a3-c0b5-4f93-a141-39988ca3720b",
+          "name": "stack-item-start-edge-to-content"
+        }
+      }
+    },
+    "stack-item-drag-handle-to-control": {
+      "value": "8px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "80800e9d-8b0d-4d1b-adfc-f85faee2bc2f",
+          "name": "stack-item-drag-handle-to-control"
+        }
+      }
+    },
+    "stack-item-text-to-control": {
+      "value": "8px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "e65d0e08-9c29-43f6-b7a2-281865a82b70",
+          "name": "stack-item-text-to-control"
+        }
+      }
+    },
+    "stack-item-edge-to-control": {
+      "value": "12px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "cb302d23-5dd8-4ca6-b104-3fc5f03f633b",
+          "name": "stack-item-edge-to-control"
+        }
+      }
+    },
+    "stack-item-edge-to-visual": {
+      "value": "12px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "5405f82f-6022-468c-a150-b74210ef52cb",
+          "name": "stack-item-edge-to-visual"
+        }
+      }
+    },
+    "stack-item-action-to-navigation": {
+      "value": "4px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "3b41366d-2c29-4477-95fa-528c762b8a3b",
+          "name": "stack-item-action-to-navigation"
+        }
+      }
+    },
+    "list-view-end-edge-to-content": {
+      "value": "6px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "6dc382ce-8e48-4bd9-8078-1272da767b13",
+          "name": "list-view-end-edge-to-content"
+        }
+      }
+    },
+    "label-to-description-0": {
+      "value": "0px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "4a00c810-c099-4de1-85b8-aaa7ed9538bb",
+          "name": "label-to-description-0"
+        }
+      }
+    },
+    "stack-item-header-to-item": {
+      "value": "0px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "c030a978-cf5b-4ad0-a3c7-dde81f1bf136",
+          "name": "stack-item-header-to-item"
+        }
+      }
+    },
+    "stack-item-item-to-item": {
+      "value": "-1px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "3862f137-37f5-44c3-a31b-68834d8e1c3c",
+          "name": "stack-item-item-to-item"
+        }
+      }
+    },
     "status-light-dot-size-extra-large": {
       "value": "14px",
       "type": "sizing",
@@ -6578,6 +6728,76 @@
         }
       }
     },
+    "tag-field-default-width-small": {
+      "value": "240px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "65194439-66b2-4f47-9096-80e018f2708a",
+          "name": "tag-field-default-width-small"
+        }
+      }
+    },
+    "tag-field-default-width-medium": {
+      "value": "264px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "7afa2c15-4eae-42af-b323-5dfde15a68cc",
+          "name": "tag-field-default-width-medium"
+        }
+      }
+    },
+    "tag-field-default-width-large": {
+      "value": "288px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "ebea4627-12b5-4f51-9bda-be4f9dca213b",
+          "name": "tag-field-default-width-large"
+        }
+      }
+    },
+    "tag-field-minimum-width": {
+      "value": "180px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "be7ccb7a-5eba-4104-91cf-f24121648b76",
+          "name": "tag-field-minimum-width"
+        }
+      }
+    },
+    "tag-field-minimum-height-small": {
+      "value": "44px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "b45ded81-85da-4c0d-abfe-3ff51c7e9c70",
+          "name": "tag-field-minimum-height-small"
+        }
+      }
+    },
+    "tag-field-minimum-height-medium": {
+      "value": "56px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "12d9d6b6-1621-433a-bc94-4a47843153b9",
+          "name": "tag-field-minimum-height-medium"
+        }
+      }
+    },
+    "tag-field-minimum-height-large": {
+      "value": "68px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "09f85b07-baa8-4f51-9067-cf41749e4214",
+          "name": "tag-field-minimum-height-large"
+        }
+      }
+    },
     "takeover-dialog-height": {
       "value": "100%",
       "type": "sizing",
@@ -6839,6 +7059,36 @@
         "spectrum-tokens": {
           "uuid": "c9e5e973-4942-414e-b128-5569f62453a2",
           "name": "tag-top-to-cross-icon-small"
+        }
+      }
+    },
+    "tag-field-edge-to-content-small": {
+      "value": "10px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "b6eebf3a-4733-4177-a235-6eccfacf67cd",
+          "name": "tag-field-edge-to-content-small"
+        }
+      }
+    },
+    "tag-field-edge-to-content-medium": {
+      "value": "12px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "798ecb75-638c-41dd-81a0-d7ecca9960da",
+          "name": "tag-field-edge-to-content-medium"
+        }
+      }
+    },
+    "tag-field-edge-to-content-large": {
+      "value": "14px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "03b1351c-1309-4e1a-a18b-bf3a350814c4",
+          "name": "tag-field-edge-to-content-large"
         }
       }
     },

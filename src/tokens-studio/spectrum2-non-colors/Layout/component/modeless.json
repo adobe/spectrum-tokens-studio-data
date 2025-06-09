@@ -40,42 +40,42 @@
     }
   },
   "Accordion/Bottom to text/Regular/Extra large": {
-    "value": "{platformScale.accordion-bottom-to-text-regular-extra-large}",
+    "value": "{platformScale.accordion-bottom-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "8c199212-a745-414c-8f6b-22d2445ade3c",
-        "name": "accordion-bottom-to-text-regular-extra-large"
+        "name": "accordion-bottom-to-text-extra-large"
       }
     }
   },
   "Accordion/Bottom to text/Regular/Large": {
-    "value": "{platformScale.accordion-bottom-to-text-regular-large}",
+    "value": "{platformScale.accordion-bottom-to-text-large}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "f484838e-1f0c-4125-9298-beb4ddc0fd53",
-        "name": "accordion-bottom-to-text-regular-large"
+        "name": "accordion-bottom-to-text-large"
       }
     }
   },
   "Accordion/Bottom to text/Regular/Medium": {
-    "value": "{platformScale.accordion-bottom-to-text-regular-medium}",
+    "value": "{platformScale.accordion-bottom-to-text-medium}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "2d6fa243-5f7e-41a8-840b-27a6432f54bc",
-        "name": "accordion-bottom-to-text-regular-medium"
+        "name": "accordion-bottom-to-text-medium"
       }
     }
   },
   "Accordion/Bottom to text/Regular/Small": {
-    "value": "{platformScale.accordion-bottom-to-text-regular-small}",
+    "value": "{platformScale.accordion-bottom-to-text-small}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "d64620dc-dd4a-447a-8491-d9e144ec8828",
-        "name": "accordion-bottom-to-text-regular-small"
+        "name": "accordion-bottom-to-text-small"
       }
     }
   },
@@ -450,42 +450,42 @@
     }
   },
   "Accordion/Top to text/Regular/Extra large": {
-    "value": "{platformScale.accordion-top-to-text-regular-extra-large}",
+    "value": "{platformScale.accordion-top-to-text-extra-large}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "9289aae4-ddaa-4a43-8f00-973dea8350f2",
-        "name": "accordion-top-to-text-regular-extra-large"
+        "name": "accordion-top-to-text-extra-large"
       }
     }
   },
   "Accordion/Top to text/Regular/Large": {
-    "value": "{platformScale.accordion-top-to-text-regular-large}",
+    "value": "{platformScale.accordion-top-to-text-large}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "2021d787-ddaa-470a-a25d-8a57f67b7359",
-        "name": "accordion-top-to-text-regular-large"
+        "name": "accordion-top-to-text-large"
       }
     }
   },
   "Accordion/Top to text/Regular/Medium": {
-    "value": "{platformScale.accordion-top-to-text-regular-medium}",
+    "value": "{platformScale.accordion-top-to-text-medium}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "48db5aeb-6752-4267-89c7-48ed84692ec8",
-        "name": "accordion-top-to-text-regular-medium"
+        "name": "accordion-top-to-text-medium"
       }
     }
   },
   "Accordion/Top to text/Regular/Small": {
-    "value": "{platformScale.accordion-top-to-text-regular-small}",
+    "value": "{platformScale.accordion-top-to-text-small}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "4f6e49d2-9ab8-4548-aae4-eed45a4003b9",
-        "name": "accordion-top-to-text-regular-small"
+        "name": "accordion-top-to-text-small"
       }
     }
   },

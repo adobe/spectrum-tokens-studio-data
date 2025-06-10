@@ -1,8 +1,4 @@
 {
-  "Body/Line height": {
-    "value": "{platformScale.body-line-height}",
-    "type": "lineHeights"
-  },
   "Body/Margin multiplier": {
     "value": "{platformScale.body-margin-multiplier}",
     "type": "number"
@@ -130,10 +126,6 @@
   "Code/Font weight": {
     "value": "{platformScale.code-font-weight}",
     "type": "fontWeights"
-  },
-  "Code/Line height": {
-    "value": "{platformScale.code-line-height}",
-    "type": "lineHeights"
   },
   "Code/Size/XL": {
     "value": "{platformScale.code-size-xl}",
@@ -411,10 +403,6 @@
       }
     }
   },
-  "Detail/Line height": {
-    "value": "{platformScale.detail-line-height}",
-    "type": "lineHeights"
-  },
   "Detail/Margin/Bottom/Multiplier": {
     "value": "{platformScale.detail-margin-bottom-multiplier}",
     "type": "number"
@@ -514,10 +502,6 @@
   "Detail/Size/XL": {
     "value": "{platformScale.detail-size-xl}",
     "type": "fontSizes"
-  },
-  "Heading/Line height": {
-    "value": "{platformScale.heading-line-height}",
-    "type": "lineHeights"
   },
   "Heading/Margin/Bottom/Multiplier": {
     "value": "{platformScale.heading-margin-bottom-multiplier}",
@@ -698,10 +682,6 @@
   "Standard/Panel/Title/Font/Size": {
     "value": "{platformScale.standard-panel-title-font-size}",
     "type": "fontSizes"
-  },
-  "Title/Line height": {
-    "value": "{platformScale.title-line-height}",
-    "type": "lineHeights"
   },
   "Title/Margin/Bottom/Multiplier": {
     "value": "{platformScale.title-margin-bottom-multiplier}",

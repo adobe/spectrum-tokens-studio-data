@@ -7392,7 +7392,7 @@
     }
   },
   "List view/Item/Top corner radius": {
-    "value": "{platformScale.list-view-item-top-corner-radius}platformScale.corner-radius-medium-default}",
+    "value": "{platformScale.list-view-item-top-corner-radius}",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
@@ -7402,7 +7402,7 @@
     }
   },
   "List view/Item/Bottom corner radius": {
-    "value": "{platformScale.list-view-item-bottom-corner-radius}platformScale.corner-radius-medium-default}",
+    "value": "{platformScale.list-view-item-bottom-corner-radius}",
     "type": "borderRadius",
     "$extensions": {
       "spectrum-tokens": {
@@ -7502,7 +7502,7 @@
     }
   },
   "Stack item/Item to item": {
-    "value": "{platformScale.stack-item-item-to-item}1px",
+    "value": "{platformScale.stack-item-item-to-item}",
     "type": "spacing",
     "$extensions": {
       "spectrum-tokens": {

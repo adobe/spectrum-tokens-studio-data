@@ -1535,7 +1535,7 @@
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "c5778e77-0ff1-431a-a72e-37f3066d3257",
-        "name": "field-top-to-disclosure-icon-75"
+        "name": "Field/Top to disclosure icon/75"
       }
     }
   },
@@ -1545,7 +1545,7 @@
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "62c3618c-f28f-4b56-9227-a061dc54d19d",
-        "name": "field-top-to-disclosure-icon-100"
+        "name": "Field/Top to disclosure icon/100"
       }
     }
   },
@@ -1555,7 +1555,7 @@
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "bdf0fc6a-404c-492c-86bb-5d2ba06714e6",
-        "name": "field-top-to-disclosure-icon-200"
+        "name": "Field/Top to disclosure icon/200"
       }
     }
   },
@@ -1565,7 +1565,7 @@
     "$extensions": {
       "spectrum-tokens": {
         "uuid": "d5db6c17-700e-4782-9c29-001269b50200",
-        "name": "field-top-to-disclosure-icon-300"
+        "name": "Field/Top to disclosure icon/300"
       }
     }
   },
@@ -2067,6 +2067,136 @@
       "spectrum-tokens": {
         "uuid": "a3e53161-c38a-4ee0-88c2-4a36fd530e51",
         "name": "window-to-edge"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Compact/Small": {
+    "value": "{platformScale.field-top-to-disclosure-icon-compact-small}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6138a3a4-4d5f-42ae-b1eb-6d2b44b51072",
+        "name": "Field/Top to disclosure icon/Compact/Small"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Small": {
+    "value": "{platformScale.field-top-to-disclosure-icon-small}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "0516bc3d-36a1-4dcb-9d1d-1fce7c431890",
+        "name": "Field/Top to disclosure icon/Small"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Spacious/Small": {
+    "value": "{platformScale.field-top-to-disclosure-icon-spacious-small}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "0f68ff7a-b68e-4688-9da1-bbce083d2b98",
+        "name": "Field/Top to disclosure icon/Spacious/Small"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Compact/Medium": {
+    "value": "{platformScale.field-top-to-disclosure-icon-compact-medium}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b1e50285-c36d-4d95-a609-255a39845436",
+        "name": "Field/Top to disclosure icon/Compact/Medium"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Medium": {
+    "value": "{platformScale.field-top-to-disclosure-icon-medium}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "54198ff3-d745-40b1-bcc0-2bca4fe1955e",
+        "name": "Field/Top to disclosure icon/Medium"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Spacious/Medium": {
+    "value": "{platformScale.field-top-to-disclosure-icon-spacious-medium}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "35900436-1a71-4a06-8b21-53b98398f7bc",
+        "name": "Field/Top to disclosure icon/Spacious/Medium"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Compact/Large": {
+    "value": "{platformScale.field-top-to-disclosure-icon-compact-large}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "101de772-de06-40dc-b3fb-9f3ff4ff4b45",
+        "name": "Field/Top to disclosure icon/Compact/Large"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Large": {
+    "value": "{platformScale.field-top-to-disclosure-icon-large}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b7093f51-e97a-4cdc-b068-f00ef8bb6658",
+        "name": "Field/Top to disclosure icon/Large"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Spacious/Large": {
+    "value": "{platformScale.field-top-to-disclosure-icon-spacious-large}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "a3ee5984-d111-47f6-98b7-ad96b525e1ef",
+        "name": "Field/Top to disclosure icon/Spacious/Large"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Compact/Extra large": {
+    "value": "{platformScale.field-top-to-disclosure-icon-compact-extra-large}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "39f7e2c2-219b-4f4d-a45a-c0e2e458312e",
+        "name": "Field/Top to disclosure icon/Compact/Extra large"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Extra large": {
+    "value": "{platformScale.field-top-to-disclosure-icon-extra-large}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "8ac99ac4-b63c-4824-a49f-35f0820cde81",
+        "name": "Field/Top to disclosure icon/Extra large"
+      }
+    }
+  },
+  "Field/Top to disclosure icon/Spacious/Extra large": {
+    "value": "{platformScale.field-top-to-disclosure-icon-spacious-extra-large}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "ca7c26d4-38eb-4382-b524-a27c73a34b7a",
+        "name": "Field/Top to disclosure icon/Spacious/Extra large"
+      }
+    }
+  },
+  "Visual to control/100": {
+    "value": "{platformScale.visual-to-control-100}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "0a392deb-fee3-4968-bc52-1377f9e23307",
+        "name": "visual-to-control-100"
       }
     }
   }

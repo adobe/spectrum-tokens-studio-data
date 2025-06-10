@@ -7360,5 +7360,255 @@
         "name": "thumbnail-corner-radius"
       }
     }
+  },
+  "List view/Minimum height": {
+    "value": "{platformScale.list-view-minimum-height}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "fe1dcf27-addf-4aa9-9057-7b98a4dcacdc",
+        "name": "list-view-minimum-height"
+      }
+    }
+  },
+  "List view/Minimum width": {
+    "value": "{platformScale.list-view-minimum-width}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "82b718ef-6127-472b-b92f-f2f15833c49f",
+        "name": "list-view-minimum-width"
+      }
+    }
+  },
+  "Stack item/Header/Minimum width": {
+    "value": "{platformScale.stack-item-header-minimum-width}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6880260b-1d48-4bfc-9745-3e7c506c40fb",
+        "name": "Stack item/header-minimum-width"
+      }
+    }
+  },
+  "List view/Item/Top corner radius": {
+    "value": "{platformScale.list-view-item-top-corner-radius}platformScale.corner-radius-medium-default}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6e4611f7-f202-4003-94b4-587d48d07e32",
+        "name": "list-view-item-top-corner-radius"
+      }
+    }
+  },
+  "List view/Item/Bottom corner radius": {
+    "value": "{platformScale.list-view-item-bottom-corner-radius}platformScale.corner-radius-medium-default}",
+    "type": "borderRadius",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "57821e37-d39e-49d5-b978-4ece3747e531",
+        "name": "list-view-item-bottom-corner-radius"
+      }
+    }
+  },
+  "Stack item/Start edge to content": {
+    "value": "{platformScale.stack-item-start-edge-to-content}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "abc302a3-c0b5-4f93-a141-39988ca3720b",
+        "name": "Stack item/start-edge-to-content"
+      }
+    }
+  },
+  "Stack item/Drag handle to control": {
+    "value": "{platformScale.stack-item-drag-handle-to-control}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "80800e9d-8b0d-4d1b-adfc-f85faee2bc2f",
+        "name": "Stack item/drag-handle-to-control"
+      }
+    }
+  },
+  "Stack item/Text to control": {
+    "value": "{platformScale.stack-item-text-to-control}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "e65d0e08-9c29-43f6-b7a2-281865a82b70",
+        "name": "Stack item/text-to-control"
+      }
+    }
+  },
+  "Stack item/Edge to control": {
+    "value": "{platformScale.stack-item-edge-to-control}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "cb302d23-5dd8-4ca6-b104-3fc5f03f633b",
+        "name": "Stack item/edge-to-control"
+      }
+    }
+  },
+  "Stack item/Edge to visual": {
+    "value": "{platformScale.stack-item-edge-to-visual}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "5405f82f-6022-468c-a150-b74210ef52cb",
+        "name": "Stack item/edge-to-visual"
+      }
+    }
+  },
+  "Stack item/Action to navigation": {
+    "value": "{platformScale.stack-item-action-to-navigation}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "3b41366d-2c29-4477-95fa-528c762b8a3b",
+        "name": "Stack item/action-to-navigation"
+      }
+    }
+  },
+  "List view/End edge to content": {
+    "value": "{platformScale.list-view-end-edge-to-content}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "6dc382ce-8e48-4bd9-8078-1272da767b13",
+        "name": "list-view-end-edge-to-content"
+      }
+    }
+  },
+  "Label to description/0": {
+    "value": "{platformScale.label-to-description-0}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "4a00c810-c099-4de1-85b8-aaa7ed9538bb",
+        "name": "label-to-description-0"
+      }
+    }
+  },
+  "Stack item/Header to item": {
+    "value": "{platformScale.stack-item-header-to-item}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "c030a978-cf5b-4ad0-a3c7-dde81f1bf136",
+        "name": "Stack item/header-to-item"
+      }
+    }
+  },
+  "Stack item/Item to item": {
+    "value": "{platformScale.stack-item-item-to-item}1px",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "3862f137-37f5-44c3-a31b-68834d8e1c3c",
+        "name": "Stack item/item-to-item"
+      }
+    }
+  },
+  "Tag field/Default width/Small": {
+    "value": "{platformScale.tag-field-default-width-small}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "65194439-66b2-4f47-9096-80e018f2708a",
+        "name": "Tag field/Default width/small"
+      }
+    }
+  },
+  "Tag field/Default width/Medium": {
+    "value": "{platformScale.tag-field-default-width-medium}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "7afa2c15-4eae-42af-b323-5dfde15a68cc",
+        "name": "Tag field/Default width/medium"
+      }
+    }
+  },
+  "Tag field/Default width/Large": {
+    "value": "{platformScale.tag-field-default-width-large}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "ebea4627-12b5-4f51-9bda-be4f9dca213b",
+        "name": "Tag field/Default width/large"
+      }
+    }
+  },
+  "Tag field/Minimum width": {
+    "value": "{platformScale.tag-field-minimum-width}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "be7ccb7a-5eba-4104-91cf-f24121648b76",
+        "name": "Tag field/minimum-width"
+      }
+    }
+  },
+  "Tag field/Minimum height/Small": {
+    "value": "{platformScale.tag-field-minimum-height-small}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b45ded81-85da-4c0d-abfe-3ff51c7e9c70",
+        "name": "Tag field/Minimum height/small"
+      }
+    }
+  },
+  "Tag field/Minimum height/Medium": {
+    "value": "{platformScale.tag-field-minimum-height-medium}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "12d9d6b6-1621-433a-bc94-4a47843153b9",
+        "name": "Tag field/Minimum height/medium"
+      }
+    }
+  },
+  "Tag field/Minimum height/Large": {
+    "value": "{platformScale.tag-field-minimum-height-large}",
+    "type": "sizing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "09f85b07-baa8-4f51-9067-cf41749e4214",
+        "name": "Tag field/Minimum height/large"
+      }
+    }
+  },
+  "Tag field/Edge to content/Small": {
+    "value": "{platformScale.tag-field-edge-to-content-small}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "b6eebf3a-4733-4177-a235-6eccfacf67cd",
+        "name": "Tag field/Edge to content/small"
+      }
+    }
+  },
+  "Tag field/Edge to content/Medium": {
+    "value": "{platformScale.tag-field-edge-to-content-medium}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "798ecb75-638c-41dd-81a0-d7ecca9960da",
+        "name": "Tag field/Edge to content/medium"
+      }
+    }
+  },
+  "Tag field/Edge to content/Large": {
+    "value": "{platformScale.tag-field-edge-to-content-large}",
+    "type": "spacing",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "03b1351c-1309-4e1a-a18b-bf3a350814c4",
+        "name": "Tag field/Edge to content/large"
+      }
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "background-opacity-default": {
-    "value": "{colorTheme.background-opacity-default}",
+    "value": "0",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -10,7 +10,7 @@
     }
   },
   "background-opacity-down": {
-    "value": "{colorTheme.background-opacity-down}",
+    "value": "0.1",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -20,7 +20,7 @@
     }
   },
   "background-opacity-hover": {
-    "value": "{colorTheme.background-opacity-hover}",
+    "value": "0.1",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -30,7 +30,7 @@
     }
   },
   "background-opacity-key-focus": {
-    "value": "{colorTheme.background-opacity-key-focus}",
+    "value": "0.1",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -40,7 +40,7 @@
     }
   },
   "opacity-disabled": {
-    "value": "{colorTheme.opacity-disabled}",
+    "value": "0.3",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
@@ -50,11 +50,11 @@
     }
   },
   "overlay-opacity": {
-    "value": "{colorTheme.overlay-opacity}",
+    "value": "0.6",
     "type": "opacity",
     "$extensions": {
       "spectrum-tokens": {
-        "uuid": "26b9803c-577f-4a29-badd-dfc459e8b73e",
+        "uuid": "31d5b502-6266-4309-8f8a-3892e6e158da",
         "name": "overlay-opacity"
       }
     }

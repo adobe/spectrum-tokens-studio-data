@@ -1,8 +1,4 @@
 {
-  "Body/Margin multiplier": {
-    "value": "{platformScale.body-margin-multiplier}",
-    "type": "number"
-  },
   "Body/Sans serif/Emphasized/Font style": {
     "value": "{platformScale.body-sans-serif-emphasized-font-style}",
     "type": "text"
@@ -403,14 +399,6 @@
       }
     }
   },
-  "Detail/Margin/Bottom/Multiplier": {
-    "value": "{platformScale.detail-margin-bottom-multiplier}",
-    "type": "number"
-  },
-  "Detail/Margin/Top/Multiplier": {
-    "value": "{platformScale.detail-margin-top-multiplier}",
-    "type": "number"
-  },
   "Detail/Sans serif/Emphasized/Font style": {
     "value": "{platformScale.detail-sans-serif-emphasized-font-style}",
     "type": "text"
@@ -502,14 +490,6 @@
   "Detail/Size/XL": {
     "value": "{platformScale.detail-size-xl}",
     "type": "fontSizes"
-  },
-  "Heading/Margin/Bottom/Multiplier": {
-    "value": "{platformScale.heading-margin-bottom-multiplier}",
-    "type": "number"
-  },
-  "Heading/Margin/Top/Multiplier": {
-    "value": "{platformScale.heading-margin-top-multiplier}",
-    "type": "number"
   },
   "Heading/Sans serif/Emphasized/Font style": {
     "value": "{platformScale.heading-sans-serif-emphasized-font-style}",
@@ -682,14 +662,6 @@
   "Standard/Panel/Title/Font/Size": {
     "value": "{platformScale.standard-panel-title-font-size}",
     "type": "fontSizes"
-  },
-  "Title/Margin/Bottom/Multiplier": {
-    "value": "{platformScale.title-margin-bottom-multiplier}",
-    "type": "number"
-  },
-  "Title/Margin/Top/Multiplier": {
-    "value": "{platformScale.title-margin-top-multiplier}",
-    "type": "number"
   },
   "Title/Sans serif/Emphasized/Font style": {
     "value": "{platformScale.title-sans-serif-emphasized-font-style}",

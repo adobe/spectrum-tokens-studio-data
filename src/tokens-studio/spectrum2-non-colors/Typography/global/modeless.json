@@ -19,16 +19,6 @@
       }
     }
   },
-  "CJK/Font family": {
-    "value": "{platformScale.cjk-font-family}",
-    "type": "fontFamilies",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "034892ba-eff6-4193-b4c5-61d20c8f22eb",
-        "name": "cjk-font-family"
-      }
-    }
-  },
   "Letter spacing": {
     "value": "{platformScale.letter-spacing}",
     "type": "letterSpacing",
@@ -36,16 +26,6 @@
       "spectrum-tokens": {
         "uuid": "d8caf3aa-1261-411f-b383-18f87334c117",
         "name": "letter-spacing"
-      }
-    }
-  },
-  "CJK/Letter spacing": {
-    "value": "{platformScale.cjk-letter-spacing}",
-    "type": "letterSpacing",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "12e27721-35f5-4d03-95f3-3fc9e1cf50e4",
-        "name": "cjk-letter-spacing"
       }
     }
   },

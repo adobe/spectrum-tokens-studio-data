@@ -2410,16 +2410,6 @@
       }
     }
   },
-  "Illustrated message/Small/CJK/Title/Font size": {
-    "value": "{platformScale.illustrated-message-small-cjk-title-font-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "9a6cf390-ca10-4242-a7d4-da4c9acc4058",
-        "name": "illustrated-message-small-cjk-title-font-size"
-      }
-    }
-  },
   "Illustrated message/Medium/Title/Font size": {
     "value": "{platformScale.illustrated-message-medium-title-font-size}",
     "type": "fontSizes",
@@ -2430,16 +2420,6 @@
       }
     }
   },
-  "Illustrated message/Medium/CJK/Title/Font size": {
-    "value": "{platformScale.illustrated-message-medium-cjk-title-font-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "ee763c7d-b98f-4f2e-9fc4-764cfa2ac53f",
-        "name": "illustrated-message-medium-cjk-title-font-size"
-      }
-    }
-  },
   "Illustrated message/Large/Title/Font size": {
     "value": "{platformScale.illustrated-message-large-title-font-size}",
     "type": "fontSizes",
@@ -2447,16 +2427,6 @@
       "spectrum-tokens": {
         "uuid": "abfe147d-04dd-45bd-8e86-eae6249e1745",
         "name": "illustrated-message-large-title-font-size"
-      }
-    }
-  },
-  "Illustrated message/Large/CJK/Title/Font size": {
-    "value": "{platformScale.illustrated-message-large-cjk-title-font-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "1929c819-5333-43ad-ba6c-fcf236270251",
-        "name": "illustrated-message-large-cjk-title-font-size"
       }
     }
   },
@@ -2497,16 +2467,6 @@
       "spectrum-tokens": {
         "uuid": "07564dd0-3628-42e1-8a29-253448a8c75f",
         "name": "drop-zone-title-font-size"
-      }
-    }
-  },
-  "Drop zone/CJK/Title/Font size": {
-    "value": "{platformScale.drop-zone-cjk-title-font-size}",
-    "type": "fontSizes",
-    "$extensions": {
-      "spectrum-tokens": {
-        "uuid": "56fc89be-658e-4c5c-9b8e-7ac6f7d7db75",
-        "name": "drop-zone-cjk-title-font-size"
       }
     }
   },

@@ -608,10 +608,6 @@
     "value": "{platformScale.breadcrumbs-text-to-separator-multiline}",
     "type": "spacing"
   },
-  "Button/Minimum width/Multiplier": {
-    "value": "{platformScale.button-minimum-width-multiplier}",
-    "type": "number"
-  },
   "Coach indicator/Collapsed/Ring rounding increment": {
     "value": "{platformScale.coach-indicator-collapsed-ring-rounding-increment}",
     "type": "borderRadius"
@@ -1100,10 +1096,6 @@
     "value": "{platformScale.color-wheel-width}",
     "type": "sizing"
   },
-  "Combo box/Minimum width/Multiplier": {
-    "value": "{platformScale.combo-box-minimum-width-multiplier}",
-    "type": "number"
-  },
   "Combo box/Visual to field button": {
     "value": "{platformScale.combo-box-visual-to-field-button}",
     "type": "spacing"
@@ -1528,14 +1520,6 @@
     "value": "{platformScale.picker-end-edge-to-disclosure-icon-quiet}",
     "type": "spacing"
   },
-  "Number field/Minimum width/Multiplier": {
-    "value": "{platformScale.number-field-minimum-width-multiplier}",
-    "type": "number"
-  },
-  "Picker/Minimum width/Multiplier": {
-    "value": "{platformScale.picker-minimum-width-multiplier}",
-    "type": "number"
-  },
   "Picker/Visual to disclosure icon/Extra large": {
     "value": "{platformScale.picker-visual-to-disclosure-icon-extra-large}",
     "type": "spacing"
@@ -1735,10 +1719,6 @@
   "Select box/Vertical/Illustration to label": {
     "value": "{platformScale.select-box-vertical-illustration-to-label}",
     "type": "spacing"
-  },
-  "Search/Field/Minimum width/Multiplier": {
-    "value": "{platformScale.search-field-minimum-width-multiplier}",
-    "type": "number"
   },
   "Side navigation/Bottom to text": {
     "value": "{platformScale.side-navigation-bottom-to-text}",
@@ -2043,14 +2023,6 @@
   "Swatch group/Spacing/Spacious": {
     "value": "{platformScale.swatch-group-spacing-spacious}",
     "type": "spacing"
-  },
-  "Swatch/Rectangle width/Multiplier": {
-    "value": "{platformScale.swatch-rectangle-width-multiplier}",
-    "type": "number"
-  },
-  "Tag/Maximum width/Multiplier": {
-    "value": "{platformScale.tag-maximum-width-multiplier}",
-    "type": "number"
   },
   "Swatch/Size/Extra small": {
     "value": "{platformScale.swatch-size-extra-small}",
@@ -2719,10 +2691,6 @@
   "Text area/Minimum width": {
     "value": "{platformScale.text-area-minimum-width}",
     "type": "sizing"
-  },
-  "Text field/Minimum width/Multiplier": {
-    "value": "{platformScale.text-field-minimum-width-multiplier}",
-    "type": "number"
   },
   "Thumbnail/Opacity checkerboard/Square size": {
     "value": "{platformScale.thumbnail-opacity-checkerboard-square-size}",

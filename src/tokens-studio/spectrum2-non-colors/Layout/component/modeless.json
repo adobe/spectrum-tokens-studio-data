@@ -252,7 +252,7 @@
     "value": "{platformScale.triple-calendar-popover-minimum-width}",
     "type": "sizing"
   },
-  "Segmented/Text field/Gap": {
+  "Segmented text field/Gap": {
     "value": "{platformScale.segmented-text-field-gap}",
     "type": "spacing"
   },
@@ -272,7 +272,7 @@
     "value": "{platformScale.date-picker-text-to-visual}",
     "type": "spacing"
   },
-  "Segmented/Text field/Rounding": {
+  "Segmented text field/Rounding": {
     "value": "{platformScale.segmented-text-field-rounding}",
     "type": "borderRadius"
   },
@@ -1016,55 +1016,55 @@
     "value": "{platformScale.color-area-width}",
     "type": "sizing"
   },
-  "Color/Handle/Border width": {
+  "Color handle/Border width": {
     "value": "{platformScale.color-handle-border-width}",
     "type": "borderWidth"
   },
-  "Color/Handle/Drop shadow/Blur": {
+  "Color handle/Drop shadow/Blur": {
     "value": "{platformScale.color-handle-drop-shadow-blur}",
     "type": "other"
   },
-  "Color/Handle/Drop shadow/X": {
+  "Color handle/Drop shadow/X": {
     "value": "{platformScale.color-handle-drop-shadow-x}",
     "type": "other"
   },
-  "Color/Handle/Drop shadow/Y": {
+  "Color handle/Drop shadow/Y": {
     "value": "{platformScale.color-handle-drop-shadow-y}",
     "type": "other"
   },
-  "Color/Handle/Inner/Border width": {
+  "Color handle/Inner/Border width": {
     "value": "{platformScale.color-handle-inner-border-width}",
     "type": "borderWidth"
   },
-  "Color/Handle/Outer/Border width": {
+  "Color handle/Outer/Border width": {
     "value": "{platformScale.color-handle-outer-border-width}",
     "type": "borderWidth"
   },
-  "Color/Handle/Size": {
+  "Color handle/Size": {
     "value": "{platformScale.color-handle-size}",
     "type": "sizing"
   },
-  "Color/Handle/Size/Key focus": {
+  "Color handle/Size/Key focus": {
     "value": "{platformScale.color-handle-size-key-focus}",
     "type": "sizing"
   },
-  "Color/Loupe/Bottom to color handle": {
+  "Color loupe/Bottom to color handle": {
     "value": "{platformScale.color-loupe-bottom-to-color-handle}",
     "type": "spacing"
   },
-  "Color/Loupe/Height": {
+  "Color loupe/Height": {
     "value": "{platformScale.color-loupe-height}",
     "type": "sizing"
   },
-  "Color/Loupe/Inner/Border width": {
+  "Color loupe/Inner/Border width": {
     "value": "{platformScale.color-loupe-inner-border-width}",
     "type": "borderWidth"
   },
-  "Color/Loupe/Outer/Border width": {
+  "Color loupe/Outer/Border width": {
     "value": "{platformScale.color-loupe-outer-border-width}",
     "type": "borderWidth"
   },
-  "Color/Loupe/Width": {
+  "Color loupe/Width": {
     "value": "{platformScale.color-loupe-width}",
     "type": "sizing"
   },
@@ -1308,35 +1308,35 @@
     "value": "{platformScale.in-field-stepper-to-end-extra-large}",
     "type": "spacing"
   },
-  "In field button width/Stacked/Extra large": {
+  "In field button/Width/Stacked/Extra large": {
     "value": "{platformScale.in-field-button-width-stacked-extra-large}",
     "type": "sizing"
   },
-  "In field button width/Stacked/Large": {
+  "In field button/Width/Stacked/Large": {
     "value": "{platformScale.in-field-button-width-stacked-large}",
     "type": "sizing"
   },
-  "In field button width/Stacked/Medium": {
+  "In field button/Width/Stacked/Medium": {
     "value": "{platformScale.in-field-button-width-stacked-medium}",
     "type": "sizing"
   },
-  "In field button width/Stacked/Small": {
+  "In field button/Width/Stacked/Small": {
     "value": "{platformScale.in-field-button-width-stacked-small}",
     "type": "sizing"
   },
-  "In field/Progress circle/Size/75": {
+  "In field progress circle/Size/75": {
     "value": "{platformScale.in-field-progress-circle-size-75}",
     "type": "sizing"
   },
-  "In field/Progress circle/Size/100": {
+  "In field progress circle/Size/100": {
     "value": "{platformScale.in-field-progress-circle-size-100}",
     "type": "sizing"
   },
-  "In field/Progress circle/Size/200": {
+  "In field progress circle/Size/200": {
     "value": "{platformScale.in-field-progress-circle-size-200}",
     "type": "sizing"
   },
-  "In field/Progress circle/Size/300": {
+  "In field progress circle/Size/300": {
     "value": "{platformScale.in-field-progress-circle-size-300}",
     "type": "sizing"
   },
@@ -2040,19 +2040,19 @@
     "value": "{platformScale.swatch-size-small}",
     "type": "sizing"
   },
-  "Swatch/Slash/Thickness/Extra small": {
+  "Swatch/Slash thickness/Extra small": {
     "value": "{platformScale.swatch-slash-thickness-extra-small}",
     "type": "spacing"
   },
-  "Swatch/Slash/Thickness/Large": {
+  "Swatch/Slash thickness/Large": {
     "value": "{platformScale.swatch-slash-thickness-large}",
     "type": "spacing"
   },
-  "Swatch/Slash/Thickness/Medium": {
+  "Swatch/Slash thickness/Medium": {
     "value": "{platformScale.swatch-slash-thickness-medium}",
     "type": "spacing"
   },
-  "Swatch/Slash/Thickness/Small": {
+  "Swatch/Slash thickness/Small": {
     "value": "{platformScale.swatch-slash-thickness-small}",
     "type": "spacing"
   },
@@ -2308,35 +2308,35 @@
     "value": "{platformScale.table-checkbox-to-text}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Bottom to text/Extra large": {
+  "Table/Column header row/Bottom to text/Extra large": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-extra-large}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Bottom to text/Large": {
+  "Table/Column header row/Bottom to text/Large": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-large}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Bottom to text/Medium": {
+  "Table/Column header row/Bottom to text/Medium": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-medium}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Bottom to text/Small": {
+  "Table/Column header row/Bottom to text/Small": {
     "value": "{platformScale.table-column-header-row-bottom-to-text-small}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Top to text/Extra large": {
+  "Table/Column header row/Top to text/Extra large": {
     "value": "{platformScale.table-column-header-row-top-to-text-extra-large}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Top to text/Large": {
+  "Table/Column header row/Top to text/Large": {
     "value": "{platformScale.table-column-header-row-top-to-text-large}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Top to text/Medium": {
+  "Table/Column header row/Top to text/Medium": {
     "value": "{platformScale.table-column-header-row-top-to-text-medium}",
     "type": "spacing"
   },
-  "Table/Column/Header row/Top to text/Small": {
+  "Table/Column header row/Top to text/Small": {
     "value": "{platformScale.table-column-header-row-top-to-text-small}",
     "type": "spacing"
   },

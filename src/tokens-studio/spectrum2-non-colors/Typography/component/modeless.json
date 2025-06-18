@@ -1,11 +1,35 @@
 {
-  "Body/Sans serif/Emphasized/Font style": {
-    "value": "{platformScale.body-sans-serif-emphasized-font-style}",
-    "type": "text"
+  "Body/Size/XXS": {
+    "value": "{platformScale.body-size-xxs}",
+    "type": "fontSizes"
   },
-  "Body/Sans serif/Emphasized/Font weight": {
-    "value": "{platformScale.body-sans-serif-emphasized-font-weight}",
-    "type": "fontWeights"
+  "Body/Size/XS": {
+    "value": "{platformScale.body-size-xs}",
+    "type": "fontSizes"
+  },
+  "Body/Size/S": {
+    "value": "{platformScale.body-size-s}",
+    "type": "fontSizes"
+  },
+  "Body/Size/M": {
+    "value": "{platformScale.body-size-m}",
+    "type": "fontSizes"
+  },
+  "Body/Size/L": {
+    "value": "{platformScale.body-size-l}",
+    "type": "fontSizes"
+  },
+  "Body/Size/XL": {
+    "value": "{platformScale.body-size-xl}",
+    "type": "fontSizes"
+  },
+  "Body/Size/XXL": {
+    "value": "{platformScale.body-size-xxl}",
+    "type": "fontSizes"
+  },
+  "Body/Size/XXXL": {
+    "value": "{platformScale.body-size-xxxl}",
+    "type": "fontSizes"
   },
   "Body/Sans serif/Font family": {
     "value": "{platformScale.body-sans-serif-font-family}",
@@ -19,12 +43,12 @@
     "value": "{platformScale.body-sans-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Body/Sans serif/Strong/Emphasized/Font style": {
-    "value": "{platformScale.body-sans-serif-strong-emphasized-font-style}",
+  "Body/Sans serif/Emphasized/Font style": {
+    "value": "{platformScale.body-sans-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Body/Sans serif/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.body-sans-serif-strong-emphasized-font-weight}",
+  "Body/Sans serif/Emphasized/Font weight": {
+    "value": "{platformScale.body-sans-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Body/Sans serif/Strong/Font style": {
@@ -35,12 +59,12 @@
     "value": "{platformScale.body-sans-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Body/Serif/Emphasized/Font style": {
-    "value": "{platformScale.body-serif-emphasized-font-style}",
+  "Body/Sans serif/Strong/Emphasized/Font style": {
+    "value": "{platformScale.body-sans-serif-strong-emphasized-font-style}",
     "type": "text"
   },
-  "Body/Serif/Emphasized/Font weight": {
-    "value": "{platformScale.body-serif-emphasized-font-weight}",
+  "Body/Sans serif/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.body-sans-serif-strong-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Body/Serif/Font family": {
@@ -55,12 +79,12 @@
     "value": "{platformScale.body-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Body/Serif/Strong/Emphasized/Font style": {
-    "value": "{platformScale.body-serif-strong-emphasized-font-style}",
+  "Body/Serif/Emphasized/Font style": {
+    "value": "{platformScale.body-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Body/Serif/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.body-serif-strong-emphasized-font-weight}",
+  "Body/Serif/Emphasized/Font weight": {
+    "value": "{platformScale.body-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Body/Serif/Strong/Font style": {
@@ -71,44 +95,12 @@
     "value": "{platformScale.body-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Body/Size/L": {
-    "value": "{platformScale.body-size-l}",
-    "type": "fontSizes"
-  },
-  "Body/Size/M": {
-    "value": "{platformScale.body-size-m}",
-    "type": "fontSizes"
-  },
-  "Body/Size/S": {
-    "value": "{platformScale.body-size-s}",
-    "type": "fontSizes"
-  },
-  "Body/Size/XL": {
-    "value": "{platformScale.body-size-xl}",
-    "type": "fontSizes"
-  },
-  "Body/Size/XXS": {
-    "value": "{platformScale.body-size-xxs}",
-    "type": "fontSizes"
-  },
-  "Body/Size/XS": {
-    "value": "{platformScale.body-size-xs}",
-    "type": "fontSizes"
-  },
-  "Body/Size/XXL": {
-    "value": "{platformScale.body-size-xxl}",
-    "type": "fontSizes"
-  },
-  "Body/Size/XXXL": {
-    "value": "{platformScale.body-size-xxxl}",
-    "type": "fontSizes"
-  },
-  "Code/Emphasized/Font style": {
-    "value": "{platformScale.code-emphasized-font-style}",
+  "Body/Serif/Strong/Emphasized/Font style": {
+    "value": "{platformScale.body-serif-strong-emphasized-font-style}",
     "type": "text"
   },
-  "Code/Emphasized/Font weight": {
-    "value": "{platformScale.code-emphasized-font-weight}",
+  "Body/Serif/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.body-serif-strong-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Code/Font family": {
@@ -123,32 +115,32 @@
     "value": "{platformScale.code-font-weight}",
     "type": "fontWeights"
   },
-  "Code/Size/XL": {
-    "value": "{platformScale.code-size-xl}",
-    "type": "fontSizes"
-  },
-  "Code/Size/L": {
-    "value": "{platformScale.code-size-l}",
-    "type": "fontSizes"
-  },
-  "Code/Size/M": {
-    "value": "{platformScale.code-size-m}",
+  "Code/Size/XS": {
+    "value": "{platformScale.code-size-xs}",
     "type": "fontSizes"
   },
   "Code/Size/S": {
     "value": "{platformScale.code-size-s}",
     "type": "fontSizes"
   },
-  "Code/Size/XS": {
-    "value": "{platformScale.code-size-xs}",
+  "Code/Size/M": {
+    "value": "{platformScale.code-size-m}",
     "type": "fontSizes"
   },
-  "Code/Strong/Emphasized/Font style": {
-    "value": "{platformScale.code-strong-emphasized-font-style}",
+  "Code/Size/L": {
+    "value": "{platformScale.code-size-l}",
+    "type": "fontSizes"
+  },
+  "Code/Size/XL": {
+    "value": "{platformScale.code-size-xl}",
+    "type": "fontSizes"
+  },
+  "Code/Emphasized/Font style": {
+    "value": "{platformScale.code-emphasized-font-style}",
     "type": "text"
   },
-  "Code/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.code-strong-emphasized-font-weight}",
+  "Code/Emphasized/Font weight": {
+    "value": "{platformScale.code-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Code/Strong/Font style": {
@@ -157,6 +149,14 @@
   },
   "Code/Strong/Font weight": {
     "value": "{platformScale.code-strong-font-weight}",
+    "type": "fontWeights"
+  },
+  "Code/Strong/Emphasized/Font style": {
+    "value": "{platformScale.code-strong-emphasized-font-style}",
+    "type": "text"
+  },
+  "Code/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.code-strong-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Component/XS/Regular": {
@@ -399,13 +399,25 @@
       }
     }
   },
-  "Detail/Sans serif/Emphasized/Font style": {
-    "value": "{platformScale.detail-sans-serif-emphasized-font-style}",
-    "type": "text"
+  "Detail/Size/XS": {
+    "value": "{platformScale.detail-size-xs}",
+    "type": "fontSizes"
   },
-  "Detail/Sans serif/Emphasized/Font weight": {
-    "value": "{platformScale.detail-sans-serif-emphasized-font-weight}",
-    "type": "fontWeights"
+  "Detail/Size/S": {
+    "value": "{platformScale.detail-size-s}",
+    "type": "fontSizes"
+  },
+  "Detail/Size/M": {
+    "value": "{platformScale.detail-size-m}",
+    "type": "fontSizes"
+  },
+  "Detail/Size/L": {
+    "value": "{platformScale.detail-size-l}",
+    "type": "fontSizes"
+  },
+  "Detail/Size/XL": {
+    "value": "{platformScale.detail-size-xl}",
+    "type": "fontSizes"
   },
   "Detail/Sans serif/Font family": {
     "value": "{platformScale.detail-sans-serif-font-family}",
@@ -419,12 +431,12 @@
     "value": "{platformScale.detail-sans-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Detail/Sans serif/Strong/Emphasized/Font style": {
-    "value": "{platformScale.detail-sans-serif-strong-emphasized-font-style}",
+  "Detail/Sans serif/Emphasized/Font style": {
+    "value": "{platformScale.detail-sans-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Detail/Sans serif/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.detail-sans-serif-strong-emphasized-font-weight}",
+  "Detail/Sans serif/Emphasized/Font weight": {
+    "value": "{platformScale.detail-sans-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Detail/Sans serif/Strong/Font style": {
@@ -435,12 +447,12 @@
     "value": "{platformScale.detail-sans-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Detail/Serif/Emphasized/Font style": {
-    "value": "{platformScale.detail-serif-emphasized-font-style}",
+  "Detail/Sans serif/Strong/Emphasized/Font style": {
+    "value": "{platformScale.detail-sans-serif-strong-emphasized-font-style}",
     "type": "text"
   },
-  "Detail/Serif/Emphasized/Font weight": {
-    "value": "{platformScale.detail-serif-emphasized-font-weight}",
+  "Detail/Sans serif/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.detail-sans-serif-strong-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Detail/Serif/Font family": {
@@ -455,12 +467,12 @@
     "value": "{platformScale.detail-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Detail/Serif/Strong/Emphasized/Font style": {
-    "value": "{platformScale.detail-serif-strong-emphasized-font-style}",
+  "Detail/Serif/Emphasized/Font style": {
+    "value": "{platformScale.detail-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Detail/Serif/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.detail-serif-strong-emphasized-font-weight}",
+  "Detail/Serif/Emphasized/Font weight": {
+    "value": "{platformScale.detail-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Detail/Serif/Strong/Font style": {
@@ -471,32 +483,12 @@
     "value": "{platformScale.detail-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Detail/Size/L": {
-    "value": "{platformScale.detail-size-l}",
-    "type": "fontSizes"
-  },
-  "Detail/Size/M": {
-    "value": "{platformScale.detail-size-m}",
-    "type": "fontSizes"
-  },
-  "Detail/Size/XS": {
-    "value": "{platformScale.detail-size-xs}",
-    "type": "fontSizes"
-  },
-  "Detail/Size/S": {
-    "value": "{platformScale.detail-size-s}",
-    "type": "fontSizes"
-  },
-  "Detail/Size/XL": {
-    "value": "{platformScale.detail-size-xl}",
-    "type": "fontSizes"
-  },
-  "Heading/Sans serif/Emphasized/Font style": {
-    "value": "{platformScale.heading-sans-serif-emphasized-font-style}",
+  "Detail/Serif/Strong/Emphasized/Font style": {
+    "value": "{platformScale.detail-serif-strong-emphasized-font-style}",
     "type": "text"
   },
-  "Heading/Sans serif/Emphasized/Font weight": {
-    "value": "{platformScale.heading-sans-serif-emphasized-font-weight}",
+  "Detail/Serif/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.detail-serif-strong-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Heading/Sans serif/Font family": {
@@ -511,28 +503,12 @@
     "value": "{platformScale.heading-sans-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Heading/Sans serif/Heavy/Emphasized/Font style": {
-    "value": "{platformScale.heading-sans-serif-heavy-emphasized-font-style}",
+  "Heading/Sans serif/Emphasized/Font style": {
+    "value": "{platformScale.heading-sans-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Heading/Sans serif/Heavy/Emphasized/Font weight": {
-    "value": "{platformScale.heading-sans-serif-heavy-emphasized-font-weight}",
-    "type": "fontWeights"
-  },
-  "Heading/Sans serif/Heavy/Font style": {
-    "value": "{platformScale.heading-sans-serif-heavy-font-style}",
-    "type": "text"
-  },
-  "Heading/Sans serif/Heavy/Font weight": {
-    "value": "{platformScale.heading-sans-serif-heavy-font-weight}",
-    "type": "fontWeights"
-  },
-  "Heading/Sans serif/Heavy/Strong/Emphasized/Font style": {
-    "value": "{platformScale.heading-sans-serif-heavy-strong-emphasized-font-style}",
-    "type": "text"
-  },
-  "Heading/Sans serif/Heavy/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.heading-sans-serif-heavy-strong-emphasized-font-weight}",
+  "Heading/Sans serif/Emphasized/Font weight": {
+    "value": "{platformScale.heading-sans-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Heading/Sans serif/Heavy/Strong/Font style": {
@@ -559,12 +535,28 @@
     "value": "{platformScale.heading-sans-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Heading/Serif/Emphasized/Font style": {
-    "value": "{platformScale.heading-serif-emphasized-font-style}",
+  "Heading/Sans serif/Heavy/Font style": {
+    "value": "{platformScale.heading-sans-serif-heavy-font-style}",
     "type": "text"
   },
-  "Heading/Serif/Emphasized/Font weight": {
-    "value": "{platformScale.heading-serif-emphasized-font-weight}",
+  "Heading/Sans serif/Heavy/Font weight": {
+    "value": "{platformScale.heading-sans-serif-heavy-font-weight}",
+    "type": "fontWeights"
+  },
+  "Heading/Sans serif/Heavy/Emphasized/Font style": {
+    "value": "{platformScale.heading-sans-serif-heavy-emphasized-font-style}",
+    "type": "text"
+  },
+  "Heading/Sans serif/Heavy/Emphasized/Font weight": {
+    "value": "{platformScale.heading-sans-serif-heavy-emphasized-font-weight}",
+    "type": "fontWeights"
+  },
+  "Heading/Sans serif/Heavy/Strong/Emphasized/Font style": {
+    "value": "{platformScale.heading-sans-serif-heavy-strong-emphasized-font-style}",
+    "type": "text"
+  },
+  "Heading/Sans serif/Heavy/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.heading-sans-serif-heavy-strong-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Heading/Serif/Font family": {
@@ -579,44 +571,12 @@
     "value": "{platformScale.heading-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Heading/Serif/Heavy/Emphasized/Font style": {
-    "value": "{platformScale.heading-serif-heavy-emphasized-font-style}",
+  "Heading/Serif/Emphasized/Font style": {
+    "value": "{platformScale.heading-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Heading/Serif/Heavy/Emphasized/Font weight": {
-    "value": "{platformScale.heading-serif-heavy-emphasized-font-weight}",
-    "type": "fontWeights"
-  },
-  "Heading/Serif/Heavy/Font style": {
-    "value": "{platformScale.heading-serif-heavy-font-style}",
-    "type": "text"
-  },
-  "Heading/Serif/Heavy/Font weight": {
-    "value": "{platformScale.heading-serif-heavy-font-weight}",
-    "type": "fontWeights"
-  },
-  "Heading/Serif/Heavy/Strong/Emphasized/Font style": {
-    "value": "{platformScale.heading-serif-heavy-strong-emphasized-font-style}",
-    "type": "text"
-  },
-  "Heading/Serif/Heavy/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.heading-serif-heavy-strong-emphasized-font-weight}",
-    "type": "fontWeights"
-  },
-  "Heading/Serif/Heavy/Strong/Font style": {
-    "value": "{platformScale.heading-serif-heavy-strong-font-style}",
-    "type": "text"
-  },
-  "Heading/Serif/Heavy/Strong/Font weight": {
-    "value": "{platformScale.heading-serif-heavy-strong-font-weight}",
-    "type": "fontWeights"
-  },
-  "Heading/Serif/Strong/Emphasized/Font style": {
-    "value": "{platformScale.heading-serif-strong-emphasized-font-style}",
-    "type": "text"
-  },
-  "Heading/Serif/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.heading-serif-strong-emphasized-font-weight}",
+  "Heading/Serif/Emphasized/Font weight": {
+    "value": "{platformScale.heading-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Heading/Serif/Strong/Font style": {
@@ -627,24 +587,64 @@
     "value": "{platformScale.heading-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Heading/Size/L": {
-    "value": "{platformScale.heading-size-l}",
-    "type": "fontSizes"
+  "Heading/Serif/Strong/Emphasized/Font style": {
+    "value": "{platformScale.heading-serif-strong-emphasized-font-style}",
+    "type": "text"
   },
-  "Heading/Size/M": {
-    "value": "{platformScale.heading-size-m}",
+  "Heading/Serif/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.heading-serif-strong-emphasized-font-weight}",
+    "type": "fontWeights"
+  },
+  "Heading/Serif/Heavy/Font style": {
+    "value": "{platformScale.heading-serif-heavy-font-style}",
+    "type": "text"
+  },
+  "Heading/Serif/Heavy/Font weight": {
+    "value": "{platformScale.heading-serif-heavy-font-weight}",
+    "type": "fontWeights"
+  },
+  "Heading/Serif/Heavy/Emphasized/Font style": {
+    "value": "{platformScale.heading-serif-heavy-emphasized-font-style}",
+    "type": "text"
+  },
+  "Heading/Serif/Heavy/Emphasized/Font weight": {
+    "value": "{platformScale.heading-serif-heavy-emphasized-font-weight}",
+    "type": "fontWeights"
+  },
+  "Heading/Serif/Heavy/Strong/Font style": {
+    "value": "{platformScale.heading-serif-heavy-strong-font-style}",
+    "type": "text"
+  },
+  "Heading/Serif/Heavy/Strong/Font weight": {
+    "value": "{platformScale.heading-serif-heavy-strong-font-weight}",
+    "type": "fontWeights"
+  },
+  "Heading/Serif/Heavy/Strong/Emphasized/Font style": {
+    "value": "{platformScale.heading-serif-heavy-strong-emphasized-font-style}",
+    "type": "text"
+  },
+  "Heading/Serif/Heavy/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.heading-serif-heavy-strong-emphasized-font-weight}",
+    "type": "fontWeights"
+  },
+  "Heading/Size/XS": {
+    "value": "{platformScale.heading-size-xs}",
     "type": "fontSizes"
   },
   "Heading/Size/S": {
     "value": "{platformScale.heading-size-s}",
     "type": "fontSizes"
   },
-  "Heading/Size/XL": {
-    "value": "{platformScale.heading-size-xl}",
+  "Heading/Size/M": {
+    "value": "{platformScale.heading-size-m}",
     "type": "fontSizes"
   },
-  "Heading/Size/XS": {
-    "value": "{platformScale.heading-size-xs}",
+  "Heading/Size/L": {
+    "value": "{platformScale.heading-size-l}",
+    "type": "fontSizes"
+  },
+  "Heading/Size/XL": {
+    "value": "{platformScale.heading-size-xl}",
     "type": "fontSizes"
   },
   "Heading/Size/XXL": {
@@ -663,13 +663,33 @@
     "value": "{platformScale.standard-panel-title-font-size}",
     "type": "fontSizes"
   },
-  "Title/Sans serif/Emphasized/Font style": {
-    "value": "{platformScale.title-sans-serif-emphasized-font-style}",
-    "type": "text"
+  "Title/Size/XS": {
+    "value": "{platformScale.title-size-xs}",
+    "type": "fontSizes"
   },
-  "Title/Sans serif/Emphasized/Font weight": {
-    "value": "{platformScale.title-sans-serif-emphasized-font-weight}",
-    "type": "fontWeights"
+  "Title/Size/S": {
+    "value": "{platformScale.title-size-s}",
+    "type": "fontSizes"
+  },
+  "Title/Size/M": {
+    "value": "{platformScale.title-size-m}",
+    "type": "fontSizes"
+  },
+  "Title/Size/L": {
+    "value": "{platformScale.title-size-l}",
+    "type": "fontSizes"
+  },
+  "Title/Size/XL": {
+    "value": "{platformScale.title-size-xl}",
+    "type": "fontSizes"
+  },
+  "Title/Size/XXL": {
+    "value": "{platformScale.title-size-xxl}",
+    "type": "fontSizes"
+  },
+  "Title/Size/XXXL": {
+    "value": "{platformScale.title-size-xxxl}",
+    "type": "fontSizes"
   },
   "Title/Sans serif/Font family": {
     "value": "{platformScale.title-sans-serif-font-family}",
@@ -683,12 +703,12 @@
     "value": "{platformScale.title-sans-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Title/Sans serif/Strong/Emphasized/Font style": {
-    "value": "{platformScale.title-sans-serif-strong-emphasized-font-style}",
+  "Title/Sans serif/Emphasized/Font style": {
+    "value": "{platformScale.title-sans-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Title/Sans serif/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.title-sans-serif-strong-emphasized-font-weight}",
+  "Title/Sans serif/Emphasized/Font weight": {
+    "value": "{platformScale.title-sans-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Title/Sans serif/Strong/Font style": {
@@ -699,12 +719,12 @@
     "value": "{platformScale.title-sans-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Title/Serif/Emphasized/Font style": {
-    "value": "{platformScale.title-serif-emphasized-font-style}",
+  "Title/Sans serif/Strong/Emphasized/Font style": {
+    "value": "{platformScale.title-sans-serif-strong-emphasized-font-style}",
     "type": "text"
   },
-  "Title/Serif/Emphasized/Font weight": {
-    "value": "{platformScale.title-serif-emphasized-font-weight}",
+  "Title/Sans serif/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.title-sans-serif-strong-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Title/Serif/Font family": {
@@ -719,12 +739,12 @@
     "value": "{platformScale.title-serif-font-weight}",
     "type": "fontWeights"
   },
-  "Title/Serif/Strong/Emphasized/Font style": {
-    "value": "{platformScale.title-serif-strong-emphasized-font-style}",
+  "Title/Serif/Emphasized/Font style": {
+    "value": "{platformScale.title-serif-emphasized-font-style}",
     "type": "text"
   },
-  "Title/Serif/Strong/Emphasized/Font weight": {
-    "value": "{platformScale.title-serif-strong-emphasized-font-weight}",
+  "Title/Serif/Emphasized/Font weight": {
+    "value": "{platformScale.title-serif-emphasized-font-weight}",
     "type": "fontWeights"
   },
   "Title/Serif/Strong/Font style": {
@@ -735,32 +755,12 @@
     "value": "{platformScale.title-serif-strong-font-weight}",
     "type": "fontWeights"
   },
-  "Title/Size/L": {
-    "value": "{platformScale.title-size-l}",
-    "type": "fontSizes"
+  "Title/Serif/Strong/Emphasized/Font style": {
+    "value": "{platformScale.title-serif-strong-emphasized-font-style}",
+    "type": "text"
   },
-  "Title/Size/M": {
-    "value": "{platformScale.title-size-m}",
-    "type": "fontSizes"
-  },
-  "Title/Size/S": {
-    "value": "{platformScale.title-size-s}",
-    "type": "fontSizes"
-  },
-  "Title/Size/XL": {
-    "value": "{platformScale.title-size-xl}",
-    "type": "fontSizes"
-  },
-  "Title/Size/XS": {
-    "value": "{platformScale.title-size-xs}",
-    "type": "fontSizes"
-  },
-  "Title/Size/XXL": {
-    "value": "{platformScale.title-size-xxl}",
-    "type": "fontSizes"
-  },
-  "Title/Size/XXXL": {
-    "value": "{platformScale.title-size-xxxl}",
-    "type": "fontSizes"
+  "Title/Serif/Strong/Emphasized/Font weight": {
+    "value": "{platformScale.title-serif-strong-emphasized-font-weight}",
+    "type": "fontWeights"
   }
 }

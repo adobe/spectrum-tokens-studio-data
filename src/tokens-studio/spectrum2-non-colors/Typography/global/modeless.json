@@ -1,27 +1,47 @@
 {
-  "Black/Font weight": {
-    "value": "{platformScale.black-font-weight}",
+  "Font weight/Light": {
+    "value": "{platformScale.light-font-weight}",
     "type": "fontWeights"
   },
-  "Bold/Font weight": {
+  "Font weight/Regular": {
+    "value": "{platformScale.regular-font-weight}",
+    "type": "fontWeights"
+  },
+  "Font weight/Medium": {
+    "value": "{platformScale.medium-font-weight}",
+    "type": "fontWeights"
+  },
+  "Font weight/Bold": {
     "value": "{platformScale.bold-font-weight}",
+    "type": "fontWeights"
+  },
+  "Font weight/Extra bold": {
+    "value": "{platformScale.extra-bold-font-weight}",
+    "type": "fontWeights"
+  },
+  "Font weight/Black": {
+    "value": "{platformScale.black-font-weight}",
     "type": "fontWeights"
   },
   "Letter spacing": {
     "value": "{platformScale.letter-spacing}",
     "type": "letterSpacing"
   },
-  "Default/Font family": {
+  "Font family/Default": {
     "value": "{platformScale.default-font-family}",
     "type": "fontFamilies"
   },
-  "Default/Font style": {
+  "Font family/Sans serif": {
+    "value": "{platformScale.sans-serif-font-family}",
+    "type": "fontFamilies"
+  },
+  "Font family/Serif": {
+    "value": "{platformScale.serif-font-family}",
+    "type": "fontFamilies"
+  },
+  "Font style/Default": {
     "value": "{platformScale.default-font-style}",
     "type": "text"
-  },
-  "Extra bold/Font weight": {
-    "value": "{platformScale.extra-bold-font-weight}",
-    "type": "fontWeights"
   },
   "Font size/25": {
     "value": "{platformScale.font-size-25}",
@@ -95,7 +115,7 @@
     "value": "{platformScale.font-size-1500}",
     "type": "fontSizes"
   },
-  "Italic/Font style": {
+  "Font style/Italic": {
     "value": "{platformScale.italic-font-style}",
     "type": "text"
   },
@@ -111,96 +131,76 @@
     "value": "{platformScale.text-align-end}",
     "type": "other"
   },
-  "Light/Font weight": {
-    "value": "{platformScale.light-font-weight}",
-    "type": "fontWeights"
-  },
-  "Line height/Font size/25": {
+  "Line height/25": {
     "value": "{platformScale.line-height-font-size-25}",
     "type": "lineHeights"
   },
-  "Line height/Font size/50": {
+  "Line height/50": {
     "value": "{platformScale.line-height-font-size-50}",
     "type": "lineHeights"
   },
-  "Line height/Font size/75": {
+  "Line height/75": {
     "value": "{platformScale.line-height-font-size-75}",
     "type": "lineHeights"
   },
-  "Line height/Font size/100": {
+  "Line height/100": {
     "value": "{platformScale.line-height-font-size-100}",
     "type": "lineHeights"
   },
-  "Line height/Font size/200": {
+  "Line height/200": {
     "value": "{platformScale.line-height-font-size-200}",
     "type": "lineHeights"
   },
-  "Line height/Font size/300": {
+  "Line height/300": {
     "value": "{platformScale.line-height-font-size-300}",
     "type": "lineHeights"
   },
-  "Line height/Font size/400": {
+  "Line height/400": {
     "value": "{platformScale.line-height-font-size-400}",
     "type": "lineHeights"
   },
-  "Line height/Font size/500": {
+  "Line height/500": {
     "value": "{platformScale.line-height-font-size-500}",
     "type": "lineHeights"
   },
-  "Line height/Font size/600": {
+  "Line height/600": {
     "value": "{platformScale.line-height-font-size-600}",
     "type": "lineHeights"
   },
-  "Line height/Font size/700": {
+  "Line height/700": {
     "value": "{platformScale.line-height-font-size-700}",
     "type": "lineHeights"
   },
-  "Line height/Font size/800": {
+  "Line height/800": {
     "value": "{platformScale.line-height-font-size-800}",
     "type": "lineHeights"
   },
-  "Line height/Font size/900": {
+  "Line height/900": {
     "value": "{platformScale.line-height-font-size-900}",
     "type": "lineHeights"
   },
-  "Line height/Font size/1000": {
+  "Line height/1000": {
     "value": "{platformScale.line-height-font-size-1000}",
     "type": "lineHeights"
   },
-  "Line height/Font size/1100": {
+  "Line height/1100": {
     "value": "{platformScale.line-height-font-size-1100}",
     "type": "lineHeights"
   },
-  "Line height/Font size/1200": {
+  "Line height/1200": {
     "value": "{platformScale.line-height-font-size-1200}",
     "type": "lineHeights"
   },
-  "Line height/Font size/1300": {
+  "Line height/1300": {
     "value": "{platformScale.line-height-font-size-1300}",
     "type": "lineHeights"
   },
-  "Line height/Font size/1400": {
+  "Line height/1400": {
     "value": "{platformScale.line-height-font-size-1400}",
     "type": "lineHeights"
   },
-  "Line height/Font size/1500": {
+  "Line height/1500": {
     "value": "{platformScale.line-height-font-size-1500}",
     "type": "lineHeights"
-  },
-  "Medium/Font weight": {
-    "value": "{platformScale.medium-font-weight}",
-    "type": "fontWeights"
-  },
-  "Regular/Font weight": {
-    "value": "{platformScale.regular-font-weight}",
-    "type": "fontWeights"
-  },
-  "Sans serif/Font family": {
-    "value": "{platformScale.sans-serif-font-family}",
-    "type": "fontFamilies"
-  },
-  "Serif/Font family": {
-    "value": "{platformScale.serif-font-family}",
-    "type": "fontFamilies"
   }
 }

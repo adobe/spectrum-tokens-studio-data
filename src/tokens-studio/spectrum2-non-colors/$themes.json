@@ -2766,8 +2766,8 @@
     "name": "Modeless",
     "group": "Typography",
     "selectedTokenSets": {
-      "Typography.component/modeless": "enabled",
-      "Typography.global/modeless": "enabled"
+      "Typography/component/modeless": "enabled",
+      "Typography/global/modeless": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3242:1437",
     "$figmaModeId": "3242:3",
@@ -2975,8 +2975,8 @@
     "name": "Modeless",
     "group": "Layout",
     "selectedTokenSets": {
-      "Layout.component/modeless": "enabled",
-      "Layout.global/modeless": "enabled"
+      "Layout/component/modeless": "enabled",
+      "Layout/global/modeless": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3242:1438",
     "$figmaModeId": "3242:4",

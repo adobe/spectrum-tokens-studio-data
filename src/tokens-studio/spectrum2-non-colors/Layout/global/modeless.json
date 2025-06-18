@@ -1,874 +1,1026 @@
 {
-  "Android/Elevation": {
-    "value": "{platformScale.android-elevation}",
-    "type": "spacing"
-  },
-  "Border width/100": {
-    "value": "{platformScale.border-width-100}",
-    "type": "borderWidth"
-  },
-  "Border width/200": {
-    "value": "{platformScale.border-width-200}",
-    "type": "borderWidth"
-  },
-  "Border width/400": {
-    "value": "{platformScale.border-width-400}",
-    "type": "borderWidth"
-  },
-  "Color control/Track width": {
-    "value": "{platformScale.color-control-track-width}",
-    "type": "sizing"
-  },
-  "Component/Bottom to text/50": {
-    "value": "{platformScale.component-bottom-to-text-50}",
-    "type": "spacing"
-  },
-  "Component/Bottom to text/75": {
-    "value": "{platformScale.component-bottom-to-text-75}",
-    "type": "spacing"
-  },
-  "Component/Bottom to text/100": {
-    "value": "{platformScale.component-bottom-to-text-100}",
-    "type": "spacing"
-  },
-  "Component/Bottom to text/200": {
-    "value": "{platformScale.component-bottom-to-text-200}",
-    "type": "spacing"
-  },
-  "Component/Bottom to text/300": {
-    "value": "{platformScale.component-bottom-to-text-300}",
-    "type": "spacing"
-  },
-  "Component/Edge to text/50": {
-    "value": "{platformScale.component-edge-to-text-50}",
-    "type": "spacing"
-  },
-  "Component/Edge to text/75": {
-    "value": "{platformScale.component-edge-to-text-75}",
-    "type": "spacing"
-  },
-  "Component/Edge to text/100": {
-    "value": "{platformScale.component-edge-to-text-100}",
-    "type": "spacing"
-  },
-  "Component/Edge to text/200": {
-    "value": "{platformScale.component-edge-to-text-200}",
-    "type": "spacing"
-  },
-  "Component/Edge to text/300": {
-    "value": "{platformScale.component-edge-to-text-300}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual/50": {
-    "value": "{platformScale.component-edge-to-visual-50}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual/75": {
-    "value": "{platformScale.component-edge-to-visual-75}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual/100": {
-    "value": "{platformScale.component-edge-to-visual-100}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual/200": {
-    "value": "{platformScale.component-edge-to-visual-200}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual/300": {
-    "value": "{platformScale.component-edge-to-visual-300}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual only/50": {
-    "value": "{platformScale.component-edge-to-visual-only-50}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual only/75": {
-    "value": "{platformScale.component-edge-to-visual-only-75}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual only/100": {
-    "value": "{platformScale.component-edge-to-visual-only-100}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual only/200": {
-    "value": "{platformScale.component-edge-to-visual-only-200}",
-    "type": "spacing"
-  },
-  "Component/Edge to visual only/300": {
-    "value": "{platformScale.component-edge-to-visual-only-300}",
-    "type": "spacing"
-  },
-  "Component/Height/50": {
-    "value": "{platformScale.component-height-50}",
-    "type": "sizing"
-  },
-  "Component/Height/75": {
-    "value": "{platformScale.component-height-75}",
-    "type": "sizing"
-  },
-  "Component/Height/100": {
-    "value": "{platformScale.component-height-100}",
-    "type": "sizing"
-  },
-  "Component/Height/200": {
-    "value": "{platformScale.component-height-200}",
-    "type": "sizing"
-  },
-  "Component/Height/300": {
-    "value": "{platformScale.component-height-300}",
-    "type": "sizing"
-  },
-  "Component/Height/400": {
-    "value": "{platformScale.component-height-400}",
-    "type": "sizing"
-  },
-  "Component/Height/500": {
-    "value": "{platformScale.component-height-500}",
-    "type": "sizing"
-  },
-  "Component/Padding/Vertical/50": {
-    "value": "{platformScale.component-padding-vertical-50}",
-    "type": "spacing"
-  },
-  "Component/Padding/Vertical/75": {
-    "value": "{platformScale.component-padding-vertical-75}",
-    "type": "spacing"
-  },
-  "Component/Padding/Vertical/100": {
-    "value": "{platformScale.component-padding-vertical-100}",
-    "type": "spacing"
-  },
-  "Component/Padding/Vertical/200": {
-    "value": "{platformScale.component-padding-vertical-200}",
-    "type": "spacing"
-  },
-  "Component/Padding/Vertical/300": {
-    "value": "{platformScale.component-padding-vertical-300}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to text/75": {
-    "value": "{platformScale.component-pill-edge-to-text-75}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to text/100": {
-    "value": "{platformScale.component-pill-edge-to-text-100}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to text/200": {
-    "value": "{platformScale.component-pill-edge-to-text-200}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to text/300": {
-    "value": "{platformScale.component-pill-edge-to-text-300}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual/75": {
-    "value": "{platformScale.component-pill-edge-to-visual-75}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual/100": {
-    "value": "{platformScale.component-pill-edge-to-visual-100}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual/200": {
-    "value": "{platformScale.component-pill-edge-to-visual-200}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual/300": {
-    "value": "{platformScale.component-pill-edge-to-visual-300}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual only/75": {
-    "value": "{platformScale.component-pill-edge-to-visual-only-75}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual only/100": {
-    "value": "{platformScale.component-pill-edge-to-visual-only-100}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual only/200": {
-    "value": "{platformScale.component-pill-edge-to-visual-only-200}",
-    "type": "spacing"
-  },
-  "Component/Pill/Edge to visual only/300": {
-    "value": "{platformScale.component-pill-edge-to-visual-only-300}",
-    "type": "spacing"
-  },
-  "Component/Size/Difference/Down": {
-    "value": "{platformScale.component-size-difference-down}",
-    "type": "dimension"
-  },
-  "Component/Size/Minimum/Perspective/Down": {
-    "value": "{platformScale.component-size-minimum-perspective-down}",
-    "type": "sizing"
-  },
-  "Component/Size/Maximum/Perspective/Down": {
-    "value": "{platformScale.component-size-maximum-perspective-down}",
-    "type": "sizing"
-  },
-  "Component/Size/Width/Ratio/Down": {
-    "value": "{platformScale.component-size-width-ratio-down}",
-    "type": "number"
-  },
-  "Gradient/Stop 1/Genai": {
-    "value": "{platformScale.gradient-stop-1-genai}",
-    "type": "number"
-  },
-  "Gradient/Stop 2/Genai": {
-    "value": "{platformScale.gradient-stop-2-genai}",
-    "type": "number"
-  },
-  "Gradient/Stop 3/Genai": {
-    "value": "{platformScale.gradient-stop-3-genai}",
-    "type": "number"
-  },
-  "Gradient/Stop 1/Premium": {
-    "value": "{platformScale.gradient-stop-1-premium}",
-    "type": "number"
-  },
-  "Gradient/Stop 2/Premium": {
-    "value": "{platformScale.gradient-stop-2-premium}",
-    "type": "number"
-  },
-  "Gradient/Stop 3/Premium": {
-    "value": "{platformScale.gradient-stop-3-premium}",
-    "type": "number"
-  },
-  "Component/To menu/Extra large": {
-    "value": "{platformScale.component-to-menu-extra-large}",
-    "type": "spacing"
-  },
-  "Component/To menu/Large": {
-    "value": "{platformScale.component-to-menu-large}",
-    "type": "spacing"
-  },
-  "Component/To menu/Medium": {
-    "value": "{platformScale.component-to-menu-medium}",
-    "type": "spacing"
-  },
-  "Component/To menu/Small": {
-    "value": "{platformScale.component-to-menu-small}",
-    "type": "spacing"
-  },
-  "Component/Top to text/50": {
-    "value": "{platformScale.component-top-to-text-50}",
-    "type": "spacing"
-  },
-  "Component/Top to text/75": {
-    "value": "{platformScale.component-top-to-text-75}",
-    "type": "spacing"
-  },
-  "Component/Top to text/100": {
-    "value": "{platformScale.component-top-to-text-100}",
-    "type": "spacing"
-  },
-  "Component/Top to text/200": {
-    "value": "{platformScale.component-top-to-text-200}",
-    "type": "spacing"
-  },
-  "Component/Top to text/300": {
-    "value": "{platformScale.component-top-to-text-300}",
-    "type": "spacing"
-  },
-  "Component/Top to workflow icon/50": {
-    "value": "{platformScale.component-top-to-workflow-icon-50}",
-    "type": "spacing"
-  },
-  "Component/Top to workflow icon/75": {
-    "value": "{platformScale.component-top-to-workflow-icon-75}",
-    "type": "spacing"
-  },
-  "Component/Top to workflow icon/100": {
-    "value": "{platformScale.component-top-to-workflow-icon-100}",
-    "type": "spacing"
-  },
-  "Component/Top to workflow icon/200": {
-    "value": "{platformScale.component-top-to-workflow-icon-200}",
-    "type": "spacing"
-  },
-  "Component/Top to workflow icon/300": {
-    "value": "{platformScale.component-top-to-workflow-icon-300}",
-    "type": "spacing"
-  },
-  "Corner radius/0": {
-    "value": "{platformScale.corner-radius-0}",
-    "type": "borderRadius"
-  },
-  "Corner radius/75": {
-    "value": "{platformScale.corner-radius-75}",
-    "type": "borderRadius"
-  },
-  "Corner radius/100": {
-    "value": "{platformScale.corner-radius-100}",
-    "type": "borderRadius"
-  },
-  "Corner radius/200": {
-    "value": "{platformScale.corner-radius-200}",
-    "type": "borderRadius"
-  },
-  "Corner radius/300": {
-    "value": "{platformScale.corner-radius-300}",
-    "type": "borderRadius"
-  },
-  "Corner radius/400": {
-    "value": "{platformScale.corner-radius-400}",
-    "type": "borderRadius"
-  },
-  "Corner radius/500": {
-    "value": "{platformScale.corner-radius-500}",
-    "type": "borderRadius"
-  },
-  "Corner radius/600": {
-    "value": "{platformScale.corner-radius-600}",
-    "type": "borderRadius"
-  },
-  "Corner radius/700": {
-    "value": "{platformScale.corner-radius-700}",
-    "type": "borderRadius"
-  },
-  "Corner radius/800": {
-    "value": "{platformScale.corner-radius-800}",
-    "type": "borderRadius"
-  },
-  "Corner radius/None": {
-    "value": "{platformScale.corner-radius-none}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Small/Default": {
-    "value": "{platformScale.corner-radius-small-default}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Medium/Default": {
-    "value": "{platformScale.corner-radius-medium-default}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Large/Default": {
-    "value": "{platformScale.corner-radius-large-default}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Extra large/Default": {
-    "value": "{platformScale.corner-radius-extra-large-default}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Small/Size/Small": {
-    "value": "{platformScale.corner-radius-small-size-small}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Small/Size/Medium": {
-    "value": "{platformScale.corner-radius-small-size-medium}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Small/Size/Large": {
-    "value": "{platformScale.corner-radius-small-size-large}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Small/Size/Extra large": {
-    "value": "{platformScale.corner-radius-small-size-extra-large}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Medium/Size/Extra small": {
-    "value": "{platformScale.corner-radius-medium-size-extra-small}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Medium/Size/Small": {
-    "value": "{platformScale.corner-radius-medium-size-small}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Medium/Size/Medium": {
-    "value": "{platformScale.corner-radius-medium-size-medium}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Medium/Size/Large": {
-    "value": "{platformScale.corner-radius-medium-size-large}",
-    "type": "borderRadius"
-  },
-  "Corner radius/Medium/Size/Extra large": {
-    "value": "{platformScale.corner-radius-medium-size-extra-large}",
-    "type": "borderRadius"
-  },
-  "Disclosure indicator/Top to disclosure icon/Extra large": {
-    "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Disclosure indicator/Top to disclosure icon/Large": {
-    "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-large}",
-    "type": "spacing"
-  },
-  "Disclosure indicator/Top to disclosure icon/Medium": {
-    "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-medium}",
-    "type": "spacing"
-  },
-  "Disclosure indicator/Top to disclosure icon/Small": {
-    "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-small}",
-    "type": "spacing"
-  },
-  "Drop shadow/X/100": {
-    "value": "{platformScale.drop-shadow-x-100}",
-    "type": "sizing"
-  },
-  "Drop shadow/Y/100": {
-    "value": "{platformScale.drop-shadow-y-100}",
-    "type": "sizing"
-  },
-  "Drop shadow/Blur/100": {
-    "value": "{platformScale.drop-shadow-blur-100}",
-    "type": "sizing"
-  },
-  "Drop shadow/X/200": {
-    "value": "{platformScale.drop-shadow-x-200}",
-    "type": "sizing"
-  },
-  "Drop shadow/Y/200": {
-    "value": "{platformScale.drop-shadow-y-200}",
-    "type": "sizing"
-  },
-  "Drop shadow/Blur/200": {
-    "value": "{platformScale.drop-shadow-blur-200}",
-    "type": "sizing"
-  },
-  "Drop shadow/X/300": {
-    "value": "{platformScale.drop-shadow-x-300}",
-    "type": "sizing"
-  },
-  "Drop shadow/Y/300": {
-    "value": "{platformScale.drop-shadow-y-300}",
-    "type": "sizing"
-  },
-  "Drop shadow/Blur/300": {
-    "value": "{platformScale.drop-shadow-blur-300}",
-    "type": "sizing"
-  },
-  "Drop shadow/Emphasized/Default/X": {
-    "value": "{platformScale.drop-shadow-emphasized-default-x}",
-    "type": "sizing"
-  },
-  "Drop shadow/Emphasized/Default/Y": {
-    "value": "{platformScale.drop-shadow-emphasized-default-y}",
-    "type": "sizing"
-  },
-  "Drop shadow/Emphasized/Default/Blur": {
-    "value": "{platformScale.drop-shadow-emphasized-default-blur}",
-    "type": "sizing"
-  },
-  "Drop shadow/Emphasized/Hover/X": {
-    "value": "{platformScale.drop-shadow-emphasized-hover-x}",
-    "type": "sizing"
-  },
-  "Drop shadow/Emphasized/Hover/Y": {
-    "value": "{platformScale.drop-shadow-emphasized-hover-y}",
-    "type": "sizing"
-  },
-  "Drop shadow/Emphasized/Hover/Blur": {
-    "value": "{platformScale.drop-shadow-emphasized-hover-blur}",
-    "type": "sizing"
-  },
-  "Drop shadow/Elevated/X": {
-    "value": "{platformScale.drop-shadow-elevated-x}",
-    "type": "sizing"
-  },
-  "Drop shadow/Elevated/Y": {
-    "value": "{platformScale.drop-shadow-elevated-y}",
-    "type": "sizing"
-  },
-  "Drop shadow/Elevated/Blur": {
-    "value": "{platformScale.drop-shadow-elevated-blur}",
-    "type": "sizing"
-  },
-  "Drop shadow/Dragged/X": {
-    "value": "{platformScale.drop-shadow-dragged-x}",
-    "type": "sizing"
-  },
-  "Drop shadow/Dragged/Y": {
-    "value": "{platformScale.drop-shadow-dragged-y}",
-    "type": "sizing"
-  },
-  "Drop shadow/Dragged/Blur": {
-    "value": "{platformScale.drop-shadow-dragged-blur}",
-    "type": "sizing"
-  },
-  "Field/Edge to alert icon/Extra large": {
-    "value": "{platformScale.field-edge-to-alert-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Edge to alert icon/Large": {
-    "value": "{platformScale.field-edge-to-alert-icon-large}",
-    "type": "spacing"
-  },
-  "Field/Edge to alert icon/Medium": {
-    "value": "{platformScale.field-edge-to-alert-icon-medium}",
-    "type": "spacing"
-  },
-  "Field/Edge to alert icon/Small": {
-    "value": "{platformScale.field-edge-to-alert-icon-small}",
-    "type": "spacing"
-  },
-  "Field/Edge to disclosure icon/75": {
-    "value": "{platformScale.field-edge-to-disclosure-icon-75}",
-    "type": "spacing"
-  },
-  "Field/Edge to disclosure icon/100": {
-    "value": "{platformScale.field-edge-to-disclosure-icon-100}",
-    "type": "spacing"
-  },
-  "Field/Edge to disclosure icon/200": {
-    "value": "{platformScale.field-edge-to-disclosure-icon-200}",
-    "type": "spacing"
-  },
-  "Field/Edge to disclosure icon/300": {
-    "value": "{platformScale.field-edge-to-disclosure-icon-300}",
-    "type": "spacing"
-  },
-  "Field/Edge to validation icon/Extra large": {
-    "value": "{platformScale.field-edge-to-validation-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Edge to validation icon/Large": {
-    "value": "{platformScale.field-edge-to-validation-icon-large}",
-    "type": "spacing"
-  },
-  "Field/Edge to validation icon/Medium": {
-    "value": "{platformScale.field-edge-to-validation-icon-medium}",
-    "type": "spacing"
-  },
-  "Field/Edge to validation icon/Small": {
-    "value": "{platformScale.field-edge-to-validation-icon-small}",
-    "type": "spacing"
-  },
-  "Field/Edge to visual/Quiet": {
-    "value": "{platformScale.field-edge-to-visual-quiet}",
-    "type": "spacing"
-  },
-  "Field/End/Edge to disclosure icon/75": {
-    "value": "{platformScale.field-end-edge-to-disclosure-icon-75}",
-    "type": "spacing"
-  },
-  "Field/End/Edge to disclosure icon/100": {
-    "value": "{platformScale.field-end-edge-to-disclosure-icon-100}",
-    "type": "spacing"
-  },
-  "Field/End/Edge to disclosure icon/200": {
-    "value": "{platformScale.field-end-edge-to-disclosure-icon-200}",
-    "type": "spacing"
-  },
-  "Field/End/Edge to disclosure icon/300": {
-    "value": "{platformScale.field-end-edge-to-disclosure-icon-300}",
-    "type": "spacing"
-  },
-  "Field/Text to alert icon/Extra large": {
-    "value": "{platformScale.field-text-to-alert-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Text to alert icon/Large": {
-    "value": "{platformScale.field-text-to-alert-icon-large}",
-    "type": "spacing"
-  },
-  "Field/Text to alert icon/Medium": {
-    "value": "{platformScale.field-text-to-alert-icon-medium}",
-    "type": "spacing"
-  },
-  "Field/Text to alert icon/Small": {
-    "value": "{platformScale.field-text-to-alert-icon-small}",
-    "type": "spacing"
-  },
-  "Field/Text to validation icon/Extra large": {
-    "value": "{platformScale.field-text-to-validation-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Text to validation icon/Large": {
-    "value": "{platformScale.field-text-to-validation-icon-large}",
-    "type": "spacing"
-  },
-  "Field/Text to validation icon/Medium": {
-    "value": "{platformScale.field-text-to-validation-icon-medium}",
-    "type": "spacing"
-  },
-  "Field/Text to validation icon/Small": {
-    "value": "{platformScale.field-text-to-validation-icon-small}",
-    "type": "spacing"
-  },
-  "Field/Top to alert icon/Extra large": {
-    "value": "{platformScale.field-top-to-alert-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Top to alert icon/Large": {
-    "value": "{platformScale.field-top-to-alert-icon-large}",
-    "type": "spacing"
-  },
-  "Field/Top to alert icon/Medium": {
-    "value": "{platformScale.field-top-to-alert-icon-medium}",
-    "type": "spacing"
-  },
-  "Field/Top to alert icon/Small": {
-    "value": "{platformScale.field-top-to-alert-icon-small}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/75": {
-    "value": "{platformScale.field-top-to-disclosure-icon-75}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/100": {
-    "value": "{platformScale.field-top-to-disclosure-icon-100}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/200": {
-    "value": "{platformScale.field-top-to-disclosure-icon-200}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/300": {
-    "value": "{platformScale.field-top-to-disclosure-icon-300}",
-    "type": "spacing"
-  },
-  "Field/Top to progress circle/Extra large": {
-    "value": "{platformScale.field-top-to-progress-circle-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Top to progress circle/Large": {
-    "value": "{platformScale.field-top-to-progress-circle-large}",
-    "type": "spacing"
-  },
-  "Field/Top to progress circle/Medium": {
-    "value": "{platformScale.field-top-to-progress-circle-medium}",
-    "type": "spacing"
-  },
-  "Field/Top to progress circle/Small": {
-    "value": "{platformScale.field-top-to-progress-circle-small}",
-    "type": "spacing"
-  },
-  "Field/Top to validation icon/Extra large": {
-    "value": "{platformScale.field-top-to-validation-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Top to validation icon/Large": {
-    "value": "{platformScale.field-top-to-validation-icon-large}",
-    "type": "spacing"
-  },
-  "Field/Top to validation icon/Medium": {
-    "value": "{platformScale.field-top-to-validation-icon-medium}",
-    "type": "spacing"
-  },
-  "Field/Top to validation icon/Small": {
-    "value": "{platformScale.field-top-to-validation-icon-small}",
-    "type": "spacing"
-  },
-  "Field/Default width/Small": {
-    "value": "{platformScale.field-default-width-small}",
-    "type": "sizing"
-  },
-  "Field/Default width/Medium": {
-    "value": "{platformScale.field-default-width-medium}",
-    "type": "sizing"
-  },
-  "Field/Default width/Large": {
-    "value": "{platformScale.field-default-width-large}",
-    "type": "sizing"
-  },
-  "Field/Default width/Extra large": {
-    "value": "{platformScale.field-default-width-extra-large}",
-    "type": "sizing"
-  },
-  "Side/Focus indicator": {
-    "value": "{platformScale.side-focus-indicator}",
-    "type": "sizing"
-  },
-  "Focus indicator/Gap": {
-    "value": "{platformScale.focus-indicator-gap}",
-    "type": "spacing"
-  },
-  "Focus indicator/Thickness": {
-    "value": "{platformScale.focus-indicator-thickness}",
-    "type": "spacing"
-  },
-  "Navigational indicator/Top to back icon/Extra large": {
-    "value": "{platformScale.navigational-indicator-top-to-back-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Navigational indicator/Top to back icon/Large": {
-    "value": "{platformScale.navigational-indicator-top-to-back-icon-large}",
-    "type": "spacing"
-  },
-  "Navigational indicator/Top to back icon/Medium": {
-    "value": "{platformScale.navigational-indicator-top-to-back-icon-medium}",
-    "type": "spacing"
-  },
-  "Navigational indicator/Top to back icon/Small": {
-    "value": "{platformScale.navigational-indicator-top-to-back-icon-small}",
-    "type": "spacing"
-  },
-  "Side label/Character count to field": {
-    "value": "{platformScale.side-label-character-count-to-field}",
-    "type": "spacing"
-  },
-  "Side label/Character count/Top margin/Extra large": {
-    "value": "{platformScale.side-label-character-count-top-margin-extra-large}",
-    "type": "spacing"
-  },
-  "Side label/Character count/Top margin/Large": {
-    "value": "{platformScale.side-label-character-count-top-margin-large}",
-    "type": "spacing"
-  },
-  "Side label/Character count/Top margin/Medium": {
-    "value": "{platformScale.side-label-character-count-top-margin-medium}",
-    "type": "spacing"
-  },
-  "Side label/Character count/Top margin/Small": {
-    "value": "{platformScale.side-label-character-count-top-margin-small}",
-    "type": "spacing"
-  },
-  "Spacing/50": {
-    "value": "{platformScale.spacing-50}",
-    "type": "spacing"
-  },
-  "Spacing/75": {
-    "value": "{platformScale.spacing-75}",
-    "type": "spacing"
-  },
-  "Spacing/100": {
-    "value": "{platformScale.spacing-100}",
-    "type": "spacing"
-  },
-  "Spacing/200": {
-    "value": "{platformScale.spacing-200}",
-    "type": "spacing"
-  },
-  "Spacing/300": {
-    "value": "{platformScale.spacing-300}",
-    "type": "spacing"
-  },
-  "Spacing/400": {
-    "value": "{platformScale.spacing-400}",
-    "type": "spacing"
-  },
-  "Spacing/500": {
-    "value": "{platformScale.spacing-500}",
-    "type": "spacing"
-  },
-  "Spacing/600": {
-    "value": "{platformScale.spacing-600}",
-    "type": "spacing"
-  },
-  "Spacing/700": {
-    "value": "{platformScale.spacing-700}",
-    "type": "spacing"
-  },
-  "Spacing/800": {
-    "value": "{platformScale.spacing-800}",
-    "type": "spacing"
-  },
-  "Spacing/900": {
-    "value": "{platformScale.spacing-900}",
-    "type": "spacing"
-  },
-  "Spacing/1000": {
-    "value": "{platformScale.spacing-1000}",
-    "type": "spacing"
-  },
-  "Text to control/50": {
-    "value": "{platformScale.text-to-control-50}",
-    "type": "spacing"
-  },
-  "Text to control/75": {
-    "value": "{platformScale.text-to-control-75}",
-    "type": "spacing"
-  },
-  "Text to control/100": {
-    "value": "{platformScale.text-to-control-100}",
-    "type": "spacing"
-  },
-  "Text to control/200": {
-    "value": "{platformScale.text-to-control-200}",
-    "type": "spacing"
-  },
-  "Text to control/300": {
-    "value": "{platformScale.text-to-control-300}",
-    "type": "spacing"
-  },
-  "Text to visual/50": {
-    "value": "{platformScale.text-to-visual-50}",
-    "type": "spacing"
-  },
-  "Text to visual/75": {
-    "value": "{platformScale.text-to-visual-75}",
-    "type": "spacing"
-  },
-  "Text to visual/100": {
-    "value": "{platformScale.text-to-visual-100}",
-    "type": "spacing"
-  },
-  "Text to visual/200": {
-    "value": "{platformScale.text-to-visual-200}",
-    "type": "spacing"
-  },
-  "Text to visual/300": {
-    "value": "{platformScale.text-to-visual-300}",
-    "type": "spacing"
-  },
-  "Text to visual/400": {
-    "value": "{platformScale.text-to-visual-400}",
-    "type": "spacing"
-  },
-  "Text underline/Gap": {
-    "value": "{platformScale.text-underline-gap}",
-    "type": "spacing"
-  },
-  "Text underline/Thickness": {
-    "value": "{platformScale.text-underline-thickness}",
-    "type": "spacing"
+  "Android": {
+    "Elevation": {
+      "value": "{platformScale.android-elevation}",
+      "type": "spacing"
+    }
+  },
+  "Border width": {
+    "100": {
+      "value": "{platformScale.border-width-100}",
+      "type": "borderWidth"
+    },
+    "200": {
+      "value": "{platformScale.border-width-200}",
+      "type": "borderWidth"
+    },
+    "400": {
+      "value": "{platformScale.border-width-400}",
+      "type": "borderWidth"
+    }
+  },
+  "Color control": {
+    "Track width": {
+      "value": "{platformScale.color-control-track-width}",
+      "type": "sizing"
+    }
+  },
+  "Component": {
+    "Bottom to text": {
+      "50": {
+        "value": "{platformScale.component-bottom-to-text-50}",
+        "type": "spacing"
+      },
+      "75": {
+        "value": "{platformScale.component-bottom-to-text-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.component-bottom-to-text-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.component-bottom-to-text-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.component-bottom-to-text-300}",
+        "type": "spacing"
+      }
+    },
+    "Edge to text": {
+      "50": {
+        "value": "{platformScale.component-edge-to-text-50}",
+        "type": "spacing"
+      },
+      "75": {
+        "value": "{platformScale.component-edge-to-text-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.component-edge-to-text-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.component-edge-to-text-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.component-edge-to-text-300}",
+        "type": "spacing"
+      }
+    },
+    "Edge to visual": {
+      "50": {
+        "value": "{platformScale.component-edge-to-visual-50}",
+        "type": "spacing"
+      },
+      "75": {
+        "value": "{platformScale.component-edge-to-visual-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.component-edge-to-visual-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.component-edge-to-visual-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.component-edge-to-visual-300}",
+        "type": "spacing"
+      }
+    },
+    "Edge to visual only": {
+      "50": {
+        "value": "{platformScale.component-edge-to-visual-only-50}",
+        "type": "spacing"
+      },
+      "75": {
+        "value": "{platformScale.component-edge-to-visual-only-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.component-edge-to-visual-only-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.component-edge-to-visual-only-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.component-edge-to-visual-only-300}",
+        "type": "spacing"
+      }
+    },
+    "Height": {
+      "50": {
+        "value": "{platformScale.component-height-50}",
+        "type": "sizing"
+      },
+      "75": {
+        "value": "{platformScale.component-height-75}",
+        "type": "sizing"
+      },
+      "100": {
+        "value": "{platformScale.component-height-100}",
+        "type": "sizing"
+      },
+      "200": {
+        "value": "{platformScale.component-height-200}",
+        "type": "sizing"
+      },
+      "300": {
+        "value": "{platformScale.component-height-300}",
+        "type": "sizing"
+      },
+      "400": {
+        "value": "{platformScale.component-height-400}",
+        "type": "sizing"
+      },
+      "500": {
+        "value": "{platformScale.component-height-500}",
+        "type": "sizing"
+      }
+    },
+    "Padding": {
+      "Vertical": {
+        "50": {
+          "value": "{platformScale.component-padding-vertical-50}",
+          "type": "spacing"
+        },
+        "75": {
+          "value": "{platformScale.component-padding-vertical-75}",
+          "type": "spacing"
+        },
+        "100": {
+          "value": "{platformScale.component-padding-vertical-100}",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "{platformScale.component-padding-vertical-200}",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "{platformScale.component-padding-vertical-300}",
+          "type": "spacing"
+        }
+      }
+    },
+    "Pill": {
+      "Edge to text": {
+        "75": {
+          "value": "{platformScale.component-pill-edge-to-text-75}",
+          "type": "spacing"
+        },
+        "100": {
+          "value": "{platformScale.component-pill-edge-to-text-100}",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "{platformScale.component-pill-edge-to-text-200}",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "{platformScale.component-pill-edge-to-text-300}",
+          "type": "spacing"
+        }
+      },
+      "Edge to visual": {
+        "75": {
+          "value": "{platformScale.component-pill-edge-to-visual-75}",
+          "type": "spacing"
+        },
+        "100": {
+          "value": "{platformScale.component-pill-edge-to-visual-100}",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "{platformScale.component-pill-edge-to-visual-200}",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "{platformScale.component-pill-edge-to-visual-300}",
+          "type": "spacing"
+        }
+      },
+      "Edge to visual only": {
+        "75": {
+          "value": "{platformScale.component-pill-edge-to-visual-only-75}",
+          "type": "spacing"
+        },
+        "100": {
+          "value": "{platformScale.component-pill-edge-to-visual-only-100}",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "{platformScale.component-pill-edge-to-visual-only-200}",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "{platformScale.component-pill-edge-to-visual-only-300}",
+          "type": "spacing"
+        }
+      }
+    },
+    "Size": {
+      "Difference": {
+        "Down": {
+          "value": "{platformScale.component-size-difference-down}",
+          "type": "dimension"
+        }
+      },
+      "Minimum": {
+        "Perspective": {
+          "Down": {
+            "value": "{platformScale.component-size-minimum-perspective-down}",
+            "type": "sizing"
+          }
+        }
+      },
+      "Maximum": {
+        "Perspective": {
+          "Down": {
+            "value": "{platformScale.component-size-maximum-perspective-down}",
+            "type": "sizing"
+          }
+        }
+      },
+      "Width": {
+        "Ratio": {
+          "Down": {
+            "value": "{platformScale.component-size-width-ratio-down}",
+            "type": "number"
+          }
+        }
+      }
+    },
+    "To menu": {
+      "Extra large": {
+        "value": "{platformScale.component-to-menu-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.component-to-menu-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.component-to-menu-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.component-to-menu-small}",
+        "type": "spacing"
+      }
+    },
+    "Top to text": {
+      "50": {
+        "value": "{platformScale.component-top-to-text-50}",
+        "type": "spacing"
+      },
+      "75": {
+        "value": "{platformScale.component-top-to-text-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.component-top-to-text-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.component-top-to-text-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.component-top-to-text-300}",
+        "type": "spacing"
+      }
+    },
+    "Top to workflow icon": {
+      "50": {
+        "value": "{platformScale.component-top-to-workflow-icon-50}",
+        "type": "spacing"
+      },
+      "75": {
+        "value": "{platformScale.component-top-to-workflow-icon-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.component-top-to-workflow-icon-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.component-top-to-workflow-icon-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.component-top-to-workflow-icon-300}",
+        "type": "spacing"
+      }
+    }
+  },
+  "Gradient": {
+    "Stop 1": {
+      "Genai": {
+        "value": "{platformScale.gradient-stop-1-genai}",
+        "type": "number"
+      },
+      "Premium": {
+        "value": "{platformScale.gradient-stop-1-premium}",
+        "type": "number"
+      }
+    },
+    "Stop 2": {
+      "Genai": {
+        "value": "{platformScale.gradient-stop-2-genai}",
+        "type": "number"
+      },
+      "Premium": {
+        "value": "{platformScale.gradient-stop-2-premium}",
+        "type": "number"
+      }
+    },
+    "Stop 3": {
+      "Genai": {
+        "value": "{platformScale.gradient-stop-3-genai}",
+        "type": "number"
+      },
+      "Premium": {
+        "value": "{platformScale.gradient-stop-3-premium}",
+        "type": "number"
+      }
+    }
+  },
+  "Corner radius": {
+    "0": {
+      "value": "{platformScale.corner-radius-0}",
+      "type": "borderRadius"
+    },
+    "75": {
+      "value": "{platformScale.corner-radius-75}",
+      "type": "borderRadius"
+    },
+    "100": {
+      "value": "{platformScale.corner-radius-100}",
+      "type": "borderRadius"
+    },
+    "200": {
+      "value": "{platformScale.corner-radius-200}",
+      "type": "borderRadius"
+    },
+    "300": {
+      "value": "{platformScale.corner-radius-300}",
+      "type": "borderRadius"
+    },
+    "400": {
+      "value": "{platformScale.corner-radius-400}",
+      "type": "borderRadius"
+    },
+    "500": {
+      "value": "{platformScale.corner-radius-500}",
+      "type": "borderRadius"
+    },
+    "600": {
+      "value": "{platformScale.corner-radius-600}",
+      "type": "borderRadius"
+    },
+    "700": {
+      "value": "{platformScale.corner-radius-700}",
+      "type": "borderRadius"
+    },
+    "800": {
+      "value": "{platformScale.corner-radius-800}",
+      "type": "borderRadius"
+    },
+    "None": {
+      "value": "{platformScale.corner-radius-none}",
+      "type": "borderRadius"
+    },
+    "Small": {
+      "Default": {
+        "value": "{platformScale.corner-radius-small-default}",
+        "type": "borderRadius"
+      },
+      "Size": {
+        "Small": {
+          "value": "{platformScale.corner-radius-small-size-small}",
+          "type": "borderRadius"
+        },
+        "Medium": {
+          "value": "{platformScale.corner-radius-small-size-medium}",
+          "type": "borderRadius"
+        },
+        "Large": {
+          "value": "{platformScale.corner-radius-small-size-large}",
+          "type": "borderRadius"
+        },
+        "Extra large": {
+          "value": "{platformScale.corner-radius-small-size-extra-large}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "Medium": {
+      "Default": {
+        "value": "{platformScale.corner-radius-medium-default}",
+        "type": "borderRadius"
+      },
+      "Size": {
+        "Extra small": {
+          "value": "{platformScale.corner-radius-medium-size-extra-small}",
+          "type": "borderRadius"
+        },
+        "Small": {
+          "value": "{platformScale.corner-radius-medium-size-small}",
+          "type": "borderRadius"
+        },
+        "Medium": {
+          "value": "{platformScale.corner-radius-medium-size-medium}",
+          "type": "borderRadius"
+        },
+        "Large": {
+          "value": "{platformScale.corner-radius-medium-size-large}",
+          "type": "borderRadius"
+        },
+        "Extra large": {
+          "value": "{platformScale.corner-radius-medium-size-extra-large}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "Large": {
+      "Default": {
+        "value": "{platformScale.corner-radius-large-default}",
+        "type": "borderRadius"
+      }
+    },
+    "Extra large": {
+      "Default": {
+        "value": "{platformScale.corner-radius-extra-large-default}",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "Disclosure indicator": {
+    "Top to disclosure icon": {
+      "Extra large": {
+        "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.disclosure-indicator-top-to-disclosure-icon-small}",
+        "type": "spacing"
+      }
+    }
+  },
+  "Drop shadow": {
+    "X": {
+      "100": {
+        "value": "{platformScale.drop-shadow-x-100}",
+        "type": "sizing"
+      },
+      "200": {
+        "value": "{platformScale.drop-shadow-x-200}",
+        "type": "sizing"
+      },
+      "300": {
+        "value": "{platformScale.drop-shadow-x-300}",
+        "type": "sizing"
+      }
+    },
+    "Y": {
+      "100": {
+        "value": "{platformScale.drop-shadow-y-100}",
+        "type": "sizing"
+      },
+      "200": {
+        "value": "{platformScale.drop-shadow-y-200}",
+        "type": "sizing"
+      },
+      "300": {
+        "value": "{platformScale.drop-shadow-y-300}",
+        "type": "sizing"
+      }
+    },
+    "Blur": {
+      "100": {
+        "value": "{platformScale.drop-shadow-blur-100}",
+        "type": "sizing"
+      },
+      "200": {
+        "value": "{platformScale.drop-shadow-blur-200}",
+        "type": "sizing"
+      },
+      "300": {
+        "value": "{platformScale.drop-shadow-blur-300}",
+        "type": "sizing"
+      }
+    },
+    "Emphasized": {
+      "Default": {
+        "X": {
+          "value": "{platformScale.drop-shadow-emphasized-default-x}",
+          "type": "sizing"
+        },
+        "Y": {
+          "value": "{platformScale.drop-shadow-emphasized-default-y}",
+          "type": "sizing"
+        },
+        "Blur": {
+          "value": "{platformScale.drop-shadow-emphasized-default-blur}",
+          "type": "sizing"
+        }
+      },
+      "Hover": {
+        "X": {
+          "value": "{platformScale.drop-shadow-emphasized-hover-x}",
+          "type": "sizing"
+        },
+        "Y": {
+          "value": "{platformScale.drop-shadow-emphasized-hover-y}",
+          "type": "sizing"
+        },
+        "Blur": {
+          "value": "{platformScale.drop-shadow-emphasized-hover-blur}",
+          "type": "sizing"
+        }
+      }
+    },
+    "Elevated": {
+      "X": {
+        "value": "{platformScale.drop-shadow-elevated-x}",
+        "type": "sizing"
+      },
+      "Y": {
+        "value": "{platformScale.drop-shadow-elevated-y}",
+        "type": "sizing"
+      },
+      "Blur": {
+        "value": "{platformScale.drop-shadow-elevated-blur}",
+        "type": "sizing"
+      }
+    },
+    "Dragged": {
+      "X": {
+        "value": "{platformScale.drop-shadow-dragged-x}",
+        "type": "sizing"
+      },
+      "Y": {
+        "value": "{platformScale.drop-shadow-dragged-y}",
+        "type": "sizing"
+      },
+      "Blur": {
+        "value": "{platformScale.drop-shadow-dragged-blur}",
+        "type": "sizing"
+      }
+    }
+  },
+  "Field": {
+    "Edge to alert icon": {
+      "Extra large": {
+        "value": "{platformScale.field-edge-to-alert-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-edge-to-alert-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-edge-to-alert-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.field-edge-to-alert-icon-small}",
+        "type": "spacing"
+      }
+    },
+    "Edge to disclosure icon": {
+      "75": {
+        "value": "{platformScale.field-edge-to-disclosure-icon-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.field-edge-to-disclosure-icon-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.field-edge-to-disclosure-icon-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.field-edge-to-disclosure-icon-300}",
+        "type": "spacing"
+      }
+    },
+    "Edge to validation icon": {
+      "Extra large": {
+        "value": "{platformScale.field-edge-to-validation-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-edge-to-validation-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-edge-to-validation-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.field-edge-to-validation-icon-small}",
+        "type": "spacing"
+      }
+    },
+    "Edge to visual": {
+      "Quiet": {
+        "value": "{platformScale.field-edge-to-visual-quiet}",
+        "type": "spacing"
+      }
+    },
+    "End": {
+      "Edge to disclosure icon": {
+        "75": {
+          "value": "{platformScale.field-end-edge-to-disclosure-icon-75}",
+          "type": "spacing"
+        },
+        "100": {
+          "value": "{platformScale.field-end-edge-to-disclosure-icon-100}",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "{platformScale.field-end-edge-to-disclosure-icon-200}",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "{platformScale.field-end-edge-to-disclosure-icon-300}",
+          "type": "spacing"
+        }
+      }
+    },
+    "Text to alert icon": {
+      "Extra large": {
+        "value": "{platformScale.field-text-to-alert-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-text-to-alert-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-text-to-alert-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.field-text-to-alert-icon-small}",
+        "type": "spacing"
+      }
+    },
+    "Text to validation icon": {
+      "Extra large": {
+        "value": "{platformScale.field-text-to-validation-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-text-to-validation-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-text-to-validation-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.field-text-to-validation-icon-small}",
+        "type": "spacing"
+      }
+    },
+    "Top to alert icon": {
+      "Extra large": {
+        "value": "{platformScale.field-top-to-alert-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-top-to-alert-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-top-to-alert-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.field-top-to-alert-icon-small}",
+        "type": "spacing"
+      }
+    },
+    "Top to disclosure icon": {
+      "75": {
+        "value": "{platformScale.field-top-to-disclosure-icon-75}",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "{platformScale.field-top-to-disclosure-icon-100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{platformScale.field-top-to-disclosure-icon-200}",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "{platformScale.field-top-to-disclosure-icon-300}",
+        "type": "spacing"
+      },
+      "Compact": {
+        "Small": {
+          "value": "{platformScale.field-top-to-disclosure-icon-compact-small}",
+          "type": "spacing"
+        },
+        "Medium": {
+          "value": "{platformScale.field-top-to-disclosure-icon-compact-medium}",
+          "type": "spacing"
+        },
+        "Large": {
+          "value": "{platformScale.field-top-to-disclosure-icon-compact-large}",
+          "type": "spacing"
+        },
+        "Extra large": {
+          "value": "{platformScale.field-top-to-disclosure-icon-compact-extra-large}",
+          "type": "spacing"
+        }
+      },
+      "Small": {
+        "value": "{platformScale.field-top-to-disclosure-icon-small}",
+        "type": "spacing"
+      },
+      "Spacious": {
+        "Small": {
+          "value": "{platformScale.field-top-to-disclosure-icon-spacious-small}",
+          "type": "spacing"
+        },
+        "Medium": {
+          "value": "{platformScale.field-top-to-disclosure-icon-spacious-medium}",
+          "type": "spacing"
+        },
+        "Large": {
+          "value": "{platformScale.field-top-to-disclosure-icon-spacious-large}",
+          "type": "spacing"
+        },
+        "Extra large": {
+          "value": "{platformScale.field-top-to-disclosure-icon-spacious-extra-large}",
+          "type": "spacing"
+        }
+      },
+      "Medium": {
+        "value": "{platformScale.field-top-to-disclosure-icon-medium}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-top-to-disclosure-icon-large}",
+        "type": "spacing"
+      },
+      "Extra large": {
+        "value": "{platformScale.field-top-to-disclosure-icon-extra-large}",
+        "type": "spacing"
+      }
+    },
+    "Top to progress circle": {
+      "Extra large": {
+        "value": "{platformScale.field-top-to-progress-circle-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-top-to-progress-circle-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-top-to-progress-circle-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.field-top-to-progress-circle-small}",
+        "type": "spacing"
+      }
+    },
+    "Top to validation icon": {
+      "Extra large": {
+        "value": "{platformScale.field-top-to-validation-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.field-top-to-validation-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-top-to-validation-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.field-top-to-validation-icon-small}",
+        "type": "spacing"
+      }
+    },
+    "Default width": {
+      "Small": {
+        "value": "{platformScale.field-default-width-small}",
+        "type": "sizing"
+      },
+      "Medium": {
+        "value": "{platformScale.field-default-width-medium}",
+        "type": "sizing"
+      },
+      "Large": {
+        "value": "{platformScale.field-default-width-large}",
+        "type": "sizing"
+      },
+      "Extra large": {
+        "value": "{platformScale.field-default-width-extra-large}",
+        "type": "sizing"
+      }
+    }
+  },
+  "Side": {
+    "Focus indicator": {
+      "value": "{platformScale.side-focus-indicator}",
+      "type": "sizing"
+    }
+  },
+  "Focus indicator": {
+    "Gap": {
+      "value": "{platformScale.focus-indicator-gap}",
+      "type": "spacing"
+    },
+    "Thickness": {
+      "value": "{platformScale.focus-indicator-thickness}",
+      "type": "spacing"
+    }
+  },
+  "Navigational indicator": {
+    "Top to back icon": {
+      "Extra large": {
+        "value": "{platformScale.navigational-indicator-top-to-back-icon-extra-large}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.navigational-indicator-top-to-back-icon-large}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.navigational-indicator-top-to-back-icon-medium}",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "{platformScale.navigational-indicator-top-to-back-icon-small}",
+        "type": "spacing"
+      }
+    }
+  },
+  "Side label": {
+    "Character count to field": {
+      "value": "{platformScale.side-label-character-count-to-field}",
+      "type": "spacing"
+    },
+    "Character count": {
+      "Top margin": {
+        "Extra large": {
+          "value": "{platformScale.side-label-character-count-top-margin-extra-large}",
+          "type": "spacing"
+        },
+        "Large": {
+          "value": "{platformScale.side-label-character-count-top-margin-large}",
+          "type": "spacing"
+        },
+        "Medium": {
+          "value": "{platformScale.side-label-character-count-top-margin-medium}",
+          "type": "spacing"
+        },
+        "Small": {
+          "value": "{platformScale.side-label-character-count-top-margin-small}",
+          "type": "spacing"
+        }
+      }
+    }
+  },
+  "Spacing": {
+    "50": {
+      "value": "{platformScale.spacing-50}",
+      "type": "spacing"
+    },
+    "75": {
+      "value": "{platformScale.spacing-75}",
+      "type": "spacing"
+    },
+    "100": {
+      "value": "{platformScale.spacing-100}",
+      "type": "spacing"
+    },
+    "200": {
+      "value": "{platformScale.spacing-200}",
+      "type": "spacing"
+    },
+    "300": {
+      "value": "{platformScale.spacing-300}",
+      "type": "spacing"
+    },
+    "400": {
+      "value": "{platformScale.spacing-400}",
+      "type": "spacing"
+    },
+    "500": {
+      "value": "{platformScale.spacing-500}",
+      "type": "spacing"
+    },
+    "600": {
+      "value": "{platformScale.spacing-600}",
+      "type": "spacing"
+    },
+    "700": {
+      "value": "{platformScale.spacing-700}",
+      "type": "spacing"
+    },
+    "800": {
+      "value": "{platformScale.spacing-800}",
+      "type": "spacing"
+    },
+    "900": {
+      "value": "{platformScale.spacing-900}",
+      "type": "spacing"
+    },
+    "1000": {
+      "value": "{platformScale.spacing-1000}",
+      "type": "spacing"
+    }
+  },
+  "Text to control": {
+    "50": {
+      "value": "{platformScale.text-to-control-50}",
+      "type": "spacing"
+    },
+    "75": {
+      "value": "{platformScale.text-to-control-75}",
+      "type": "spacing"
+    },
+    "100": {
+      "value": "{platformScale.text-to-control-100}",
+      "type": "spacing"
+    },
+    "200": {
+      "value": "{platformScale.text-to-control-200}",
+      "type": "spacing"
+    },
+    "300": {
+      "value": "{platformScale.text-to-control-300}",
+      "type": "spacing"
+    }
+  },
+  "Text to visual": {
+    "50": {
+      "value": "{platformScale.text-to-visual-50}",
+      "type": "spacing"
+    },
+    "75": {
+      "value": "{platformScale.text-to-visual-75}",
+      "type": "spacing"
+    },
+    "100": {
+      "value": "{platformScale.text-to-visual-100}",
+      "type": "spacing"
+    },
+    "200": {
+      "value": "{platformScale.text-to-visual-200}",
+      "type": "spacing"
+    },
+    "300": {
+      "value": "{platformScale.text-to-visual-300}",
+      "type": "spacing"
+    },
+    "400": {
+      "value": "{platformScale.text-to-visual-400}",
+      "type": "spacing"
+    }
+  },
+  "Text underline": {
+    "Gap": {
+      "value": "{platformScale.text-underline-gap}",
+      "type": "spacing"
+    },
+    "Thickness": {
+      "value": "{platformScale.text-underline-thickness}",
+      "type": "spacing"
+    }
   },
   "Window to edge": {
     "value": "{platformScale.window-to-edge}",
     "type": "spacing"
   },
-  "Field/Top to disclosure icon/Compact/Small": {
-    "value": "{platformScale.field-top-to-disclosure-icon-compact-small}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Small": {
-    "value": "{platformScale.field-top-to-disclosure-icon-small}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Spacious/Small": {
-    "value": "{platformScale.field-top-to-disclosure-icon-spacious-small}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Compact/Medium": {
-    "value": "{platformScale.field-top-to-disclosure-icon-compact-medium}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Medium": {
-    "value": "{platformScale.field-top-to-disclosure-icon-medium}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Spacious/Medium": {
-    "value": "{platformScale.field-top-to-disclosure-icon-spacious-medium}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Compact/Large": {
-    "value": "{platformScale.field-top-to-disclosure-icon-compact-large}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Large": {
-    "value": "{platformScale.field-top-to-disclosure-icon-large}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Spacious/Large": {
-    "value": "{platformScale.field-top-to-disclosure-icon-spacious-large}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Compact/Extra large": {
-    "value": "{platformScale.field-top-to-disclosure-icon-compact-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Extra large": {
-    "value": "{platformScale.field-top-to-disclosure-icon-extra-large}",
-    "type": "spacing"
-  },
-  "Field/Top to disclosure icon/Spacious/Extra large": {
-    "value": "{platformScale.field-top-to-disclosure-icon-spacious-extra-large}",
-    "type": "spacing"
-  },
-  "Visual to control/100": {
-    "value": "{platformScale.visual-to-control-100}",
-    "type": "spacing"
+  "Visual to control": {
+    "100": {
+      "value": "{platformScale.visual-to-control-100}",
+      "type": "spacing"
+    }
   }
 }

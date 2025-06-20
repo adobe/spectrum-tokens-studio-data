@@ -253,7 +253,6 @@
       "platformScale.card-edge-to-content-spacious-extra-large": "4323d614c66ec2041c6d48982034a0014a41192c",
       "platformScale.card-header-to-description": "e1bff24cc880332f6e741475bcf5558048040e63",
       "platformScale.card-description-to-footer": "b315490050ca535a5f7dd8518024ccd89defb961",
-      "platformScale.card-minimum-width": "4ff5def7df8307699f9e7ac5381b57c4e61661da",
       "platformScale.card-preview-minimum-height": "8abec6bdb00b03153f5cfd02152b6a4a35b5819c",
       "platformScale.card-selection-background-size": "a828a94907c20651f05bd263f76d97044cab7794",
       "platformScale.card-selection-background-size-small": "197db4b3651a373f92d025116a3700b40b3e0e1f",
@@ -819,7 +818,6 @@
       "platformScale.tree-view-end-edge-to-action-area": "7aff94cdb71ef26f12771c22d71f55796ff583b2",
       "platformScale.tree-view-header-to-item": "4e400eb37b178488860cf79c740d1b6ee9f18de4",
       "platformScale.tree-view-item-to-header": "c4383fdaa6d11f7e1298fb578cd00b14df200983",
-      "platformScale.tree-view-item-to-item": "0dacdea493a4927b3eb6fb7ebaed1fb7218a3e9c",
       "platformScale.tree-view-item-to-item-detached": "c4c9766bf862e037109767d9847afb1156ae41ce",
       "platformScale.tree-view-label-to-action-area": "294145ac11498de6979bb07ab32457196d9a0e03",
       "platformScale.tree-view-level-increment": "38416c93dfcdcd7f47501a55bd8d11260cec6cbe",
@@ -1338,7 +1336,9 @@
       "platformScale.medium-font-weight": "159861567d74621cf9927247faa8431a76f96d9f",
       "platformScale.regular-font-weight": "39efc45663ed28ba998646f010907fd5646b0c34",
       "platformScale.sans-serif-font-family": "1b97ab4c24086af98bae2c72f39b86d045e38ca9",
-      "platformScale.serif-font-family": "4b58ced82472da3c1ed74f35041c8a9aff1c3f0a"
+      "platformScale.serif-font-family": "4b58ced82472da3c1ed74f35041c8a9aff1c3f0a",
+      "platformScale.🚫 card-minimum-width": "4ff5def7df8307699f9e7ac5381b57c4e61661da",
+      "platformScale.🚫 tree-view-item-to-item": "0dacdea493a4927b3eb6fb7ebaed1fb7218a3e9c"
     }
   },
   {
@@ -1593,7 +1593,6 @@
       "platformScale.card-edge-to-content-spacious-extra-large": "4323d614c66ec2041c6d48982034a0014a41192c",
       "platformScale.card-header-to-description": "e1bff24cc880332f6e741475bcf5558048040e63",
       "platformScale.card-description-to-footer": "b315490050ca535a5f7dd8518024ccd89defb961",
-      "platformScale.card-minimum-width": "4ff5def7df8307699f9e7ac5381b57c4e61661da",
       "platformScale.card-preview-minimum-height": "8abec6bdb00b03153f5cfd02152b6a4a35b5819c",
       "platformScale.card-selection-background-size": "a828a94907c20651f05bd263f76d97044cab7794",
       "platformScale.card-selection-background-size-small": "197db4b3651a373f92d025116a3700b40b3e0e1f",
@@ -2161,7 +2160,6 @@
       "platformScale.tree-view-end-edge-to-action-area": "7aff94cdb71ef26f12771c22d71f55796ff583b2",
       "platformScale.tree-view-header-to-item": "4e400eb37b178488860cf79c740d1b6ee9f18de4",
       "platformScale.tree-view-item-to-header": "c4383fdaa6d11f7e1298fb578cd00b14df200983",
-      "platformScale.tree-view-item-to-item": "0dacdea493a4927b3eb6fb7ebaed1fb7218a3e9c",
       "platformScale.tree-view-item-to-item-detached": "c4c9766bf862e037109767d9847afb1156ae41ce",
       "platformScale.tree-view-label-to-action-area": "294145ac11498de6979bb07ab32457196d9a0e03",
       "platformScale.tree-view-level-increment": "38416c93dfcdcd7f47501a55bd8d11260cec6cbe",
@@ -2680,7 +2678,9 @@
       "platformScale.medium-font-weight": "159861567d74621cf9927247faa8431a76f96d9f",
       "platformScale.regular-font-weight": "39efc45663ed28ba998646f010907fd5646b0c34",
       "platformScale.sans-serif-font-family": "1b97ab4c24086af98bae2c72f39b86d045e38ca9",
-      "platformScale.serif-font-family": "4b58ced82472da3c1ed74f35041c8a9aff1c3f0a"
+      "platformScale.serif-font-family": "4b58ced82472da3c1ed74f35041c8a9aff1c3f0a",
+      "platformScale.🚫 card-minimum-width": "4ff5def7df8307699f9e7ac5381b57c4e61661da",
+      "platformScale.🚫 tree-view-item-to-item": "0dacdea493a4927b3eb6fb7ebaed1fb7218a3e9c"
     }
   },
   {

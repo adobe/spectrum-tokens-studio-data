@@ -777,6 +777,10 @@
       }
     },
     "Minimum width": {
+      "Default": {
+        "value": "{platformScale.card-minimum-width-default}",
+        "type": "sizing"
+      },
       "Extra small": {
         "value": "{platformScale.card-minimum-width-extra-small}",
         "type": "sizing"
@@ -796,9 +800,7 @@
       "Extra large": {
         "value": "{platformScale.card-minimum-width-extra-large}",
         "type": "sizing"
-      },
-      "value": "{platformScale.card-minimum-width}",
-      "type": "sizing"
+      }
     },
     "Default width": {
       "Extra small": {
@@ -3181,12 +3183,14 @@
       }
     },
     "Item to item": {
+      "Default": {
+        "value": "{platformScale.tree-view-item-to-item-default}",
+        "type": "spacing"
+      },
       "Detached": {
         "value": "{platformScale.tree-view-item-to-item-detached}",
         "type": "spacing"
-      },
-      "value": "{platformScale.tree-view-item-to-item}",
-      "type": "spacing"
+      }
     },
     "Level": {
       "Increment": {

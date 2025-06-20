@@ -1549,7 +1549,16 @@
         }
       }
     },
-    "card-minimum-width": {
+    "🚫 card-minimum-width": {
+      "value": "100px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "55db9f3d-621d-4d23-b3d0-c0f2b0f3f9b0"
+        }
+      }
+    },
+    "card-minimum-width-default": {
       "value": "100px",
       "type": "sizing",
       "$extensions": {
@@ -6724,7 +6733,16 @@
         }
       }
     },
-    "tree-view-item-to-item": {
+    "🚫 tree-view-item-to-item": {
+      "value": "-1px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "9a04f19a-9e2a-43b9-9b1f-3385aef214ac"
+        }
+      }
+    },
+    "tree-view-item-to-item-default": {
       "value": "-1px",
       "type": "spacing",
       "$extensions": {

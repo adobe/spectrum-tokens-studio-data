@@ -2838,11 +2838,11 @@
   "Table": {
     "Row": {
       "Bottom to text": {
-        "Default": {
-          "value": "{platformScale.table-row-bottom-to-text-extra-large}",
-          "type": "spacing"
-        },
         "Extra large": {
+          "Default": {
+            "value": "{platformScale.table-row-bottom-to-text-extra-large}",
+            "type": "spacing"
+          },
           "Compact": {
             "value": "{platformScale.table-row-bottom-to-text-extra-large-compact}",
             "type": "spacing"
@@ -2954,11 +2954,11 @@
         }
       },
       "Height": {
-        "Default": {
-          "value": "{platformScale.table-row-height-extra-large}",
-          "type": "sizing"
-        },
         "Extra large": {
+          "Default": {
+            "value": "{platformScale.table-row-height-extra-large}",
+            "type": "sizing"
+          },
           "Compact": {
             "value": "{platformScale.table-row-height-extra-large-compact}",
             "type": "sizing"
@@ -3012,11 +3012,11 @@
         }
       },
       "Top to text": {
-        "Default": {
-          "value": "{platformScale.table-row-top-to-text-extra-large}",
-          "type": "spacing"
-        },
         "Extra large": {
+          "Default": {
+            "value": "{platformScale.table-row-top-to-text-extra-large}",
+            "type": "spacing"
+          },
           "Compact": {
             "value": "{platformScale.table-row-top-to-text-extra-large-compact}",
             "type": "spacing"
@@ -3094,11 +3094,11 @@
     },
     "Thumbnail to top": {
       "Minimum": {
-        "Default": {
-          "value": "{platformScale.table-thumbnail-to-top-minimum-extra-large}",
-          "type": "spacing"
-        },
         "Extra large": {
+          "Default": {
+            "value": "{platformScale.table-thumbnail-to-top-minimum-extra-large}",
+            "type": "spacing"
+          },
           "Compact": {
             "value": "{platformScale.table-thumbnail-to-top-minimum-extra-large-compact}",
             "type": "spacing"

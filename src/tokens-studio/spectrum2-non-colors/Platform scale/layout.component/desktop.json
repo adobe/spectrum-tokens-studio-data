@@ -1549,15 +1549,6 @@
         }
       }
     },
-    "🚫 card-minimum-width": {
-      "value": "100px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "55db9f3d-621d-4d23-b3d0-c0f2b0f3f9b0"
-        }
-      }
-    },
     "card-minimum-width-default": {
       "value": "100px",
       "type": "sizing",
@@ -6730,15 +6721,6 @@
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "ebf7358c-b691-45d7-a1c4-c346e75e800e"
-        }
-      }
-    },
-    "🚫 tree-view-item-to-item": {
-      "value": "-1px",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "9a04f19a-9e2a-43b9-9b1f-3385aef214ac"
         }
       }
     },

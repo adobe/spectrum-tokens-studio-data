@@ -1567,7 +1567,7 @@
         }
       }
     },
-    "card-minimum-width": {
+    "card-minimum-width-default": {
       "value": "100px",
       "type": "sizing",
       "$extensions": {
@@ -6724,7 +6724,7 @@
         }
       }
     },
-    "tree-view-item-to-item": {
+    "tree-view-item-to-item-default": {
       "value": "-1px",
       "type": "spacing",
       "$extensions": {

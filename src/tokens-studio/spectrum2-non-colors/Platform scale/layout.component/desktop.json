@@ -244,7 +244,7 @@
       }
     },
     "accordion-focus-indicator-gap": {
-      "value": "0px",
+      "value": "2px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -424,7 +424,7 @@
       }
     },
     "accordion-top-to-text-medium": {
-      "value": "12px",
+      "value": "9px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {

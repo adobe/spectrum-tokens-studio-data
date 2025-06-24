@@ -628,6 +628,10 @@
     },
     "Selection background": {
       "Size": {
+        "Default": {
+          "value": "{platformScale.card-selection-background-size}",
+          "type": "sizing"
+        },
         "Small": {
           "value": "{platformScale.card-selection-background-size-small}",
           "type": "sizing"
@@ -643,9 +647,7 @@
         "Extra large": {
           "value": "{platformScale.card-selection-background-size-extra-large}",
           "type": "sizing"
-        },
-        "value": "{platformScale.card-selection-background-size}",
-        "type": "sizing"
+        }
       }
     },
     "Horizontal": {

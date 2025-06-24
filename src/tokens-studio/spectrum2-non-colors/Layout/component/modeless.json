@@ -999,12 +999,14 @@
       }
     },
     "Size": {
+      "Default": {
+        "value": "{platformScale.color-handle-size}",
+        "type": "sizing"
+      },
       "Key focus": {
         "value": "{platformScale.color-handle-size-key-focus}",
         "type": "sizing"
-      },
-      "value": "{platformScale.color-handle-size}",
-      "type": "sizing"
+      }
     },
     "Border width": {
       "value": "{platformScale.color-handle-border-width}",

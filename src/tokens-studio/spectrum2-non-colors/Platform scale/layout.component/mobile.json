@@ -1572,7 +1572,8 @@
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "55db9f3d-621d-4d23-b3d0-c0f2b0f3f9b0"
+          "uuid": "3a11949c-f1ac-490b-8416-f4883402d105",
+          "deprecated-uuids": "55db9f3d-621d-4d23-b3d0-c0f2b0f3f9b0"
         }
       }
     },
@@ -6729,7 +6730,8 @@
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
-          "uuid": "9a04f19a-9e2a-43b9-9b1f-3385aef214ac"
+          "uuid": "7d44a2b5-0aa6-4770-81da-8dbd87013906",
+          "deprecated-uuids": "9a04f19a-9e2a-43b9-9b1f-3385aef214ac"
         }
       }
     },

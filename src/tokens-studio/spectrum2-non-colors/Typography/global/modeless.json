@@ -1,0 +1,218 @@
+{
+  "Font family": {
+    "Default": {
+      "value": "{platformScale.default-font-family}",
+      "type": "fontFamilies"
+    },
+    "Sans serif": {
+      "value": "{platformScale.sans-serif-font-family}",
+      "type": "fontFamilies"
+    },
+    "Serif": {
+      "value": "{platformScale.serif-font-family}",
+      "type": "fontFamilies"
+    }
+  },
+  "Font size": {
+    "25": {
+      "value": "{platformScale.font-size-25}",
+      "type": "fontSizes"
+    },
+    "50": {
+      "value": "{platformScale.font-size-50}",
+      "type": "fontSizes"
+    },
+    "75": {
+      "value": "{platformScale.font-size-75}",
+      "type": "fontSizes"
+    },
+    "100": {
+      "value": "{platformScale.font-size-100}",
+      "type": "fontSizes"
+    },
+    "200": {
+      "value": "{platformScale.font-size-200}",
+      "type": "fontSizes"
+    },
+    "300": {
+      "value": "{platformScale.font-size-300}",
+      "type": "fontSizes"
+    },
+    "400": {
+      "value": "{platformScale.font-size-400}",
+      "type": "fontSizes"
+    },
+    "500": {
+      "value": "{platformScale.font-size-500}",
+      "type": "fontSizes"
+    },
+    "600": {
+      "value": "{platformScale.font-size-600}",
+      "type": "fontSizes"
+    },
+    "700": {
+      "value": "{platformScale.font-size-700}",
+      "type": "fontSizes"
+    },
+    "800": {
+      "value": "{platformScale.font-size-800}",
+      "type": "fontSizes"
+    },
+    "900": {
+      "value": "{platformScale.font-size-900}",
+      "type": "fontSizes"
+    },
+    "1000": {
+      "value": "{platformScale.font-size-1000}",
+      "type": "fontSizes"
+    },
+    "1100": {
+      "value": "{platformScale.font-size-1100}",
+      "type": "fontSizes"
+    },
+    "1200": {
+      "value": "{platformScale.font-size-1200}",
+      "type": "fontSizes"
+    },
+    "1300": {
+      "value": "{platformScale.font-size-1300}",
+      "type": "fontSizes"
+    },
+    "1400": {
+      "value": "{platformScale.font-size-1400}",
+      "type": "fontSizes"
+    },
+    "1500": {
+      "value": "{platformScale.font-size-1500}",
+      "type": "fontSizes"
+    }
+  },
+  "Font style": {
+    "Default": {
+      "value": "{platformScale.default-font-style}",
+      "type": "text"
+    },
+    "Italic": {
+      "value": "{platformScale.italic-font-style}",
+      "type": "text"
+    }
+  },
+  "Font weight": {
+    "Light": {
+      "value": "{platformScale.light-font-weight}",
+      "type": "fontWeights"
+    },
+    "Regular": {
+      "value": "{platformScale.regular-font-weight}",
+      "type": "fontWeights"
+    },
+    "Medium": {
+      "value": "{platformScale.medium-font-weight}",
+      "type": "fontWeights"
+    },
+    "Bold": {
+      "value": "{platformScale.bold-font-weight}",
+      "type": "fontWeights"
+    },
+    "Extra bold": {
+      "value": "{platformScale.extra-bold-font-weight}",
+      "type": "fontWeights"
+    },
+    "Black": {
+      "value": "{platformScale.black-font-weight}",
+      "type": "fontWeights"
+    }
+  },
+  "Line height": {
+    "25": {
+      "value": "{platformScale.line-height-font-size-25}",
+      "type": "lineHeights"
+    },
+    "50": {
+      "value": "{platformScale.line-height-font-size-50}",
+      "type": "lineHeights"
+    },
+    "75": {
+      "value": "{platformScale.line-height-font-size-75}",
+      "type": "lineHeights"
+    },
+    "100": {
+      "value": "{platformScale.line-height-font-size-100}",
+      "type": "lineHeights"
+    },
+    "200": {
+      "value": "{platformScale.line-height-font-size-200}",
+      "type": "lineHeights"
+    },
+    "300": {
+      "value": "{platformScale.line-height-font-size-300}",
+      "type": "lineHeights"
+    },
+    "400": {
+      "value": "{platformScale.line-height-font-size-400}",
+      "type": "lineHeights"
+    },
+    "500": {
+      "value": "{platformScale.line-height-font-size-500}",
+      "type": "lineHeights"
+    },
+    "600": {
+      "value": "{platformScale.line-height-font-size-600}",
+      "type": "lineHeights"
+    },
+    "700": {
+      "value": "{platformScale.line-height-font-size-700}",
+      "type": "lineHeights"
+    },
+    "800": {
+      "value": "{platformScale.line-height-font-size-800}",
+      "type": "lineHeights"
+    },
+    "900": {
+      "value": "{platformScale.line-height-font-size-900}",
+      "type": "lineHeights"
+    },
+    "1000": {
+      "value": "{platformScale.line-height-font-size-1000}",
+      "type": "lineHeights"
+    },
+    "1100": {
+      "value": "{platformScale.line-height-font-size-1100}",
+      "type": "lineHeights"
+    },
+    "1200": {
+      "value": "{platformScale.line-height-font-size-1200}",
+      "type": "lineHeights"
+    },
+    "1300": {
+      "value": "{platformScale.line-height-font-size-1300}",
+      "type": "lineHeights"
+    },
+    "1400": {
+      "value": "{platformScale.line-height-font-size-1400}",
+      "type": "lineHeights"
+    },
+    "1500": {
+      "value": "{platformScale.line-height-font-size-1500}",
+      "type": "lineHeights"
+    }
+  },
+  "Letter spacing": {
+    "value": "{platformScale.letter-spacing}",
+    "type": "letterSpacing"
+  },
+  "Text align": {
+    "Start": {
+      "value": "{platformScale.text-align-start}",
+      "type": "other"
+    },
+    "Center": {
+      "value": "{platformScale.text-align-center}",
+      "type": "other"
+    },
+    "End": {
+      "value": "{platformScale.text-align-end}",
+      "type": "other"
+    }
+  }
+}

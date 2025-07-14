@@ -1,0 +1,1412 @@
+{
+  "Palette": {
+    "black": {
+      "value": "{colorTheme.black}",
+      "type": "color"
+    },
+    "white": {
+      "value": "{colorTheme.white}",
+      "type": "color"
+    },
+    "gray": {
+      "25": {
+        "value": "{colorTheme.gray-25}",
+        "type": "color"
+      },
+      "50": {
+        "value": "{colorTheme.gray-50}",
+        "type": "color"
+      },
+      "75": {
+        "value": "{colorTheme.gray-75}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{colorTheme.gray-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.gray-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.gray-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.gray-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.gray-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.gray-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.gray-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.gray-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.gray-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.gray-1000}",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "100": {
+        "value": "{colorTheme.blue-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.blue-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.blue-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.blue-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.blue-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.blue-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.blue-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.blue-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.blue-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.blue-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.blue-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.blue-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.blue-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.blue-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.blue-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.blue-1600}",
+        "type": "color"
+      }
+    },
+    "green": {
+      "100": {
+        "value": "{colorTheme.green-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.green-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.green-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.green-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.green-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.green-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.green-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.green-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.green-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.green-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.green-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.green-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.green-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.green-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.green-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.green-1600}",
+        "type": "color"
+      }
+    },
+    "orange": {
+      "100": {
+        "value": "{colorTheme.orange-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.orange-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.orange-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.orange-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.orange-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.orange-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.orange-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.orange-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.orange-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.orange-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.orange-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.orange-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.orange-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.orange-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.orange-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.orange-1600}",
+        "type": "color"
+      }
+    },
+    "red": {
+      "100": {
+        "value": "{colorTheme.red-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.red-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.red-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.red-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.red-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.red-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.red-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.red-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.red-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.red-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.red-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.red-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.red-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.red-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.red-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.red-1600}",
+        "type": "color"
+      }
+    },
+    "celery": {
+      "100": {
+        "value": "{colorTheme.celery-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.celery-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.celery-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.celery-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.celery-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.celery-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.celery-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.celery-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.celery-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.celery-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.celery-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.celery-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.celery-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.celery-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.celery-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.celery-1600}",
+        "type": "color"
+      }
+    },
+    "chartreuse": {
+      "100": {
+        "value": "{colorTheme.chartreuse-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.chartreuse-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.chartreuse-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.chartreuse-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.chartreuse-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.chartreuse-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.chartreuse-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.chartreuse-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.chartreuse-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.chartreuse-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.chartreuse-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.chartreuse-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.chartreuse-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.chartreuse-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.chartreuse-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.chartreuse-1600}",
+        "type": "color"
+      }
+    },
+    "cyan": {
+      "100": {
+        "value": "{colorTheme.cyan-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.cyan-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.cyan-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.cyan-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.cyan-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.cyan-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.cyan-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.cyan-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.cyan-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.cyan-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.cyan-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.cyan-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.cyan-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.cyan-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.cyan-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.cyan-1600}",
+        "type": "color"
+      }
+    },
+    "fuchsia": {
+      "100": {
+        "value": "{colorTheme.fuchsia-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.fuchsia-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.fuchsia-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.fuchsia-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.fuchsia-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.fuchsia-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.fuchsia-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.fuchsia-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.fuchsia-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.fuchsia-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.fuchsia-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.fuchsia-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.fuchsia-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.fuchsia-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.fuchsia-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.fuchsia-1600}",
+        "type": "color"
+      }
+    },
+    "indigo": {
+      "100": {
+        "value": "{colorTheme.indigo-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.indigo-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.indigo-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.indigo-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.indigo-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.indigo-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.indigo-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.indigo-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.indigo-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.indigo-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.indigo-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.indigo-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.indigo-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.indigo-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.indigo-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.indigo-1600}",
+        "type": "color"
+      }
+    },
+    "magenta": {
+      "100": {
+        "value": "{colorTheme.magenta-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.magenta-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.magenta-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.magenta-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.magenta-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.magenta-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.magenta-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.magenta-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.magenta-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.magenta-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.magenta-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.magenta-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.magenta-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.magenta-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.magenta-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.magenta-1600}",
+        "type": "color"
+      }
+    },
+    "purple": {
+      "100": {
+        "value": "{colorTheme.purple-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.purple-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.purple-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.purple-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.purple-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.purple-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.purple-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.purple-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.purple-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.purple-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.purple-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.purple-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.purple-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.purple-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.purple-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.purple-1600}",
+        "type": "color"
+      }
+    },
+    "seafoam": {
+      "100": {
+        "value": "{colorTheme.seafoam-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.seafoam-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.seafoam-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.seafoam-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.seafoam-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.seafoam-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.seafoam-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.seafoam-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.seafoam-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.seafoam-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.seafoam-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.seafoam-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.seafoam-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.seafoam-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.seafoam-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.seafoam-1600}",
+        "type": "color"
+      }
+    },
+    "yellow": {
+      "100": {
+        "value": "{colorTheme.yellow-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.yellow-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.yellow-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.yellow-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.yellow-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.yellow-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.yellow-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.yellow-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.yellow-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.yellow-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.yellow-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.yellow-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.yellow-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.yellow-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.yellow-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.yellow-1600}",
+        "type": "color"
+      }
+    },
+    "pink": {
+      "100": {
+        "value": "{colorTheme.pink-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.pink-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.pink-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.pink-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.pink-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.pink-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.pink-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.pink-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.pink-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.pink-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.pink-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.pink-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.pink-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.pink-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.pink-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.pink-1600}",
+        "type": "color"
+      }
+    },
+    "turquoise": {
+      "100": {
+        "value": "{colorTheme.turquoise-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.turquoise-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.turquoise-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.turquoise-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.turquoise-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.turquoise-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.turquoise-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.turquoise-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.turquoise-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.turquoise-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.turquoise-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.turquoise-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.turquoise-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.turquoise-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.turquoise-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.turquoise-1600}",
+        "type": "color"
+      }
+    },
+    "brown": {
+      "100": {
+        "value": "{colorTheme.brown-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.brown-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.brown-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.brown-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.brown-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.brown-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.brown-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.brown-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.brown-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.brown-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.brown-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.brown-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.brown-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.brown-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.brown-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.brown-1600}",
+        "type": "color"
+      }
+    },
+    "cinnamon": {
+      "100": {
+        "value": "{colorTheme.cinnamon-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.cinnamon-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.cinnamon-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.cinnamon-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.cinnamon-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.cinnamon-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.cinnamon-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.cinnamon-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.cinnamon-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.cinnamon-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.cinnamon-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.cinnamon-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.cinnamon-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.cinnamon-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.cinnamon-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.cinnamon-1600}",
+        "type": "color"
+      }
+    },
+    "silver": {
+      "100": {
+        "value": "{colorTheme.silver-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.silver-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.silver-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.silver-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.silver-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.silver-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.silver-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.silver-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.silver-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.silver-1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{colorTheme.silver-1100}",
+        "type": "color"
+      },
+      "1200": {
+        "value": "{colorTheme.silver-1200}",
+        "type": "color"
+      },
+      "1300": {
+        "value": "{colorTheme.silver-1300}",
+        "type": "color"
+      },
+      "1400": {
+        "value": "{colorTheme.silver-1400}",
+        "type": "color"
+      },
+      "1500": {
+        "value": "{colorTheme.silver-1500}",
+        "type": "color"
+      },
+      "1600": {
+        "value": "{colorTheme.silver-1600}",
+        "type": "color"
+      }
+    },
+    "transparent-black": {
+      "25": {
+        "value": "{colorTheme.transparent-black-25}",
+        "type": "color"
+      },
+      "50": {
+        "value": "{colorTheme.transparent-black-50}",
+        "type": "color"
+      },
+      "75": {
+        "value": "{colorTheme.transparent-black-75}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{colorTheme.transparent-black-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.transparent-black-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.transparent-black-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.transparent-black-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.transparent-black-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.transparent-black-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.transparent-black-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.transparent-black-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.transparent-black-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.transparent-black-1000}",
+        "type": "color"
+      }
+    },
+    "transparent-white": {
+      "25": {
+        "value": "{colorTheme.transparent-white-25}",
+        "type": "color"
+      },
+      "50": {
+        "value": "{colorTheme.transparent-white-50}",
+        "type": "color"
+      },
+      "75": {
+        "value": "{colorTheme.transparent-white-75}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{colorTheme.transparent-white-100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colorTheme.transparent-white-200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colorTheme.transparent-white-300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colorTheme.transparent-white-400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colorTheme.transparent-white-500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.transparent-white-600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colorTheme.transparent-white-700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.transparent-white-800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colorTheme.transparent-white-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.transparent-white-1000}",
+        "type": "color"
+      }
+    },
+    "static-blue": {
+      "900": {
+        "value": "{colorTheme.static-blue-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.static-blue-1000}",
+        "type": "color"
+      }
+    },
+    "static-fuchsia": {
+      "900": {
+        "value": "{colorTheme.static-fuchsia-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.static-fuchsia-1000}",
+        "type": "color"
+      }
+    },
+    "static-indigo": {
+      "900": {
+        "value": "{colorTheme.static-indigo-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.static-indigo-1000}",
+        "type": "color"
+      }
+    },
+    "static-magenta": {
+      "900": {
+        "value": "{colorTheme.static-magenta-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.static-magenta-1000}",
+        "type": "color"
+      }
+    },
+    "static-red": {
+      "900": {
+        "value": "{colorTheme.static-red-900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{colorTheme.static-red-1000}",
+        "type": "color"
+      }
+    }
+  }
+}

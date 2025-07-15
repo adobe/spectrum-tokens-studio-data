@@ -457,24 +457,6 @@
             "value": "{colorTheme.negative-subtle-background-color-default}",
             "type": "color"
           }
-        },
-        "🚫 negative-subdued": {
-          "default": {
-            "value": "{colorTheme.negative-subdued-background-color-default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{colorTheme.negative-subdued-background-color-hover}",
-            "type": "color"
-          },
-          "down": {
-            "value": "{colorTheme.negative-subdued-background-color-down}",
-            "type": "color"
-          },
-          "key-focus": {
-            "value": "{colorTheme.negative-subdued-background-color-key-focus}",
-            "type": "color"
-          }
         }
       },
       "disabled": {

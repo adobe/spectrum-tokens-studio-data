@@ -11,7 +11,8 @@
       "colorTheme/opacity.component/light": "enabled",
       "colorTheme/palette/light": "enabled"
     },
-    "group": ".Color theme"
+    "group": ".Color theme",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "738333a3145b5fb23c20797c93ee780d037a11d5",
@@ -367,7 +368,6 @@
       "Palette.static-red.900": "1c123c44ef2971dd689f50e80be9b69770b2d078",
       "Palette.static-red.1000": "42ffb094570f7e55ff6e9b051cc973aa9f89c5f4",
       "Alias.overlay": "fa3f19d79b2633f5b0913c442831b94c56bfbd66",
-      "Alias.🚫 drop-shadow": "0e6900e9ce8ddf2c72e312dcc202679dd76f2516",
       "Alias.drop-shadow.100": "439d299ee483470b504ec8b21ac2309f82da7849",
       "Alias.drop-shadow.200": "6a04bd46ee13367ed8477c79bb1be3c4e5149748",
       "Alias.drop-shadow.300": "5320e72ecb8014ae754f628192eec64d9ca684a8",
@@ -796,7 +796,8 @@
       "colorTheme/opacity.component/dark": "enabled",
       "colorTheme/palette/dark": "enabled"
     },
-    "group": ".Color theme"
+    "group": ".Color theme",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "782801a767e03f913cd8c144bae64c1955e843cb",
@@ -810,6 +811,7 @@
       "colorTheme/opacity.component/wireframe": "enabled",
       "colorTheme/palette/wireframe": "enabled"
     },
-    "group": ".Color theme"
+    "group": ".Color theme",
+    "$figmaVariableReferences": {}
   }
 ]

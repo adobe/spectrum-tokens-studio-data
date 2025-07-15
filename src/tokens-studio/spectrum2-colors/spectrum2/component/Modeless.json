@@ -69,10 +69,6 @@
       }
     },
     "color-loupe": {
-      "🚫 drop-shadow": {
-        "value": "{colorTheme.color-loupe-drop-shadow-color}",
-        "type": "color"
-      },
       "inner-border": {
         "value": "{colorTheme.color-loupe-inner-border}",
         "type": "color"

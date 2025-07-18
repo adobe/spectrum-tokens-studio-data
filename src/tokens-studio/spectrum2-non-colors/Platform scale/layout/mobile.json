@@ -2,7 +2,7 @@
   "platformScale": {
     "android-elevation": {
       "value": "2dp",
-      "type": "spacing",
+      "type": "other",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f9456531-ab61-4c14-b7af-7016ce1c0d3e"
@@ -1649,7 +1649,7 @@
     },
     "focus-indicator-thickness": {
       "value": "2px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "b6148878-b78d-4fe7-bf78-e01e7cb314c2"
@@ -1955,7 +1955,7 @@
     },
     "text-underline-thickness": {
       "value": "1px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "13f36ce1-84bb-41db-bec8-6d6e8f5c6ed3"

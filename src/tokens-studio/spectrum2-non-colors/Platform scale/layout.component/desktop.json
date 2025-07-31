@@ -3379,7 +3379,7 @@
     },
     "meter-thickness-medium": {
       "value": "6px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "6e404f16-900e-4dd2-8705-3c9077f52240"
@@ -3388,7 +3388,7 @@
     },
     "meter-thickness-extra-large": {
       "value": "10px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "e5ac2b35-da1d-4936-baa8-498705c9529c"

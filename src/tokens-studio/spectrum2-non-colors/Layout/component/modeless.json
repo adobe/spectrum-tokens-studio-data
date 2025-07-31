@@ -816,7 +816,7 @@
       "Ring": {
         "Thickness": {
           "value": "{platformScale.coach-indicator-collapsed-ring-thickness}",
-          "type": "spacing"
+          "type": "sizing"
         }
       },
       "Ring rounding increment": {
@@ -832,7 +832,7 @@
       "Ring": {
         "Thickness": {
           "value": "{platformScale.coach-indicator-expanded-ring-thickness}",
-          "type": "spacing"
+          "type": "sizing"
         }
       },
       "Ring rounding increment": {
@@ -1049,7 +1049,7 @@
     "Minimum": {
       "Length": {
         "value": "{platformScale.color-slider-minimum-length}",
-        "type": "spacing"
+        "type": "sizing"
       }
     },
     "Border width": {
@@ -1058,7 +1058,7 @@
     },
     "Length": {
       "value": "{platformScale.color-slider-length}",
-      "type": "spacing"
+      "type": "sizing"
     }
   },
   "Color wheel": {
@@ -1129,15 +1129,15 @@
     "Thickness": {
       "Large": {
         "value": "{platformScale.divider-thickness-large}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Medium": {
         "value": "{platformScale.divider-thickness-medium}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Small": {
         "value": "{platformScale.divider-thickness-small}",
-        "type": "spacing"
+        "type": "sizing"
       }
     },
     "Horizontal": {
@@ -1170,7 +1170,7 @@
       "Dash": {
         "Length": {
           "value": "{platformScale.drop-zone-border-dash-length}",
-          "type": "spacing"
+          "type": "sizing"
         }
       },
       "Dash gap": {
@@ -1398,7 +1398,7 @@
       "Stacked": {
         "Inner border rounding": {
           "value": "{platformScale.in-field-button-fill-stacked-inner-border-rounding}",
-          "type": "spacing"
+          "type": "borderRadius"
         }
       }
     },
@@ -1627,19 +1627,19 @@
     "Thickness": {
       "Large": {
         "value": "{platformScale.meter-thickness-large}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Medium": {
         "value": "{platformScale.meter-thickness-medium}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Extra large": {
         "value": "{platformScale.meter-thickness-extra-large}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Small": {
         "value": "{platformScale.meter-thickness-small}",
-        "type": "spacing"
+        "type": "sizing"
       }
     },
     "Maximum width": {
@@ -1779,19 +1779,19 @@
     "Thickness": {
       "Extra large": {
         "value": "{platformScale.progress-bar-thickness-extra-large}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Large": {
         "value": "{platformScale.progress-bar-thickness-large}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Medium": {
         "value": "{platformScale.progress-bar-thickness-medium}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Small": {
         "value": "{platformScale.progress-bar-thickness-small}",
-        "type": "spacing"
+        "type": "sizing"
       }
     },
     "Maximum width": {
@@ -1821,15 +1821,15 @@
     "Thickness": {
       "Large": {
         "value": "{platformScale.progress-circle-thickness-large}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Medium": {
         "value": "{platformScale.progress-circle-thickness-medium}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Small": {
         "value": "{platformScale.progress-circle-thickness-small}",
-        "type": "spacing"
+        "type": "sizing"
       }
     }
   },
@@ -1872,7 +1872,7 @@
     },
     "Selection indicator": {
       "value": "{platformScale.radio-button-selection-indicator}",
-      "type": "spacing"
+      "type": "sizing"
     }
   },
   "Rating": {
@@ -2491,19 +2491,19 @@
     "Slash thickness": {
       "Extra small": {
         "value": "{platformScale.swatch-slash-thickness-extra-small}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Large": {
         "value": "{platformScale.swatch-slash-thickness-large}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Medium": {
         "value": "{platformScale.swatch-slash-thickness-medium}",
-        "type": "spacing"
+        "type": "sizing"
       },
       "Small": {
         "value": "{platformScale.swatch-slash-thickness-small}",
-        "type": "spacing"
+        "type": "sizing"
       }
     }
   },
@@ -3436,7 +3436,7 @@
   "Time field": {
     "Minimum width": {
       "value": "{platformScale.time-field-minimum-width}",
-      "type": "sizing",
+      "type": "number",
       "description": "2.5x height of field"
     },
     "Text to visual": {

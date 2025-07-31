@@ -2,7 +2,7 @@
   "Android": {
     "Elevation": {
       "value": "{platformScale.android-elevation}",
-      "type": "spacing"
+      "type": "other"
     }
   },
   "Border width": {
@@ -856,7 +856,7 @@
     },
     "Thickness": {
       "value": "{platformScale.focus-indicator-thickness}",
-      "type": "spacing"
+      "type": "sizing"
     }
   },
   "Navigational indicator": {
@@ -1010,7 +1010,7 @@
     },
     "Thickness": {
       "value": "{platformScale.text-underline-thickness}",
-      "type": "spacing"
+      "type": "sizing"
     }
   },
   "Window to edge": {

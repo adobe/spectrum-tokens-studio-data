@@ -10,8 +10,6 @@
       "Platform scale/typography.component/desktop": "enabled",
       "Platform scale/typography/desktop": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3242:109",
-    "$figmaModeId": "3242:0",
     "$figmaVariableReferences": {
       "platformScale.add-icon-size-50": "ceeaaf58d8757ab56ca496a5338609c6e6294bd3",
       "platformScale.add-icon-size-75": "27e4e7cf01f2c4b71c0b823aeda965530d55829d",
@@ -831,7 +829,6 @@
       "platformScale.tree-view-top-to-label": "315785b5050f88ca8f012774198d036ae20f35cb",
       "platformScale.tooltip-tip-corner-radius": "0069553ba58a0a33dcacae5e9962a56d50ebdcf6",
       "platformScale.thumbnail-corner-radius": "12252fe4c6ffce92589f53ed79f6feb1516f30ae",
-      "platformScale.android-elevation": "4f0b6be45aadfe3c5fab521c7a6218612de378c9",
       "platformScale.border-width-100": "79b803c92153f8000d5ded876e69cff522809acb",
       "platformScale.border-width-200": "b099ec82a10ddf3edb360620c937b4e2eff7b37d",
       "platformScale.border-width-400": "ec61793b302cb05631f871256d72ac7d592f1ed9",
@@ -1339,7 +1336,9 @@
       "platformScale.regular-font-weight": "39efc45663ed28ba998646f010907fd5646b0c34",
       "platformScale.sans-serif-font-family": "1b97ab4c24086af98bae2c72f39b86d045e38ca9",
       "platformScale.serif-font-family": "4b58ced82472da3c1ed74f35041c8a9aff1c3f0a"
-    }
+    },
+    "$figmaCollectionId": "VariableCollectionId:3242:109",
+    "$figmaModeId": "3242:0"
   },
   {
     "id": "e6e05eaed96a2e410f6a5e66dda1eaa68bf52fe1",
@@ -1352,8 +1351,6 @@
       "Platform scale/typography.component/mobile": "enabled",
       "Platform scale/typography/mobile": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3242:109",
-    "$figmaModeId": "3242:1",
     "$figmaVariableReferences": {
       "platformScale.add-icon-size-50": "ceeaaf58d8757ab56ca496a5338609c6e6294bd3",
       "platformScale.add-icon-size-75": "27e4e7cf01f2c4b71c0b823aeda965530d55829d",
@@ -2681,7 +2678,9 @@
       "platformScale.regular-font-weight": "39efc45663ed28ba998646f010907fd5646b0c34",
       "platformScale.sans-serif-font-family": "1b97ab4c24086af98bae2c72f39b86d045e38ca9",
       "platformScale.serif-font-family": "4b58ced82472da3c1ed74f35041c8a9aff1c3f0a"
-    }
+    },
+    "$figmaCollectionId": "VariableCollectionId:3242:109",
+    "$figmaModeId": "3242:1"
   },
   {
     "id": "ba475698596b2ca020b37426e165744c4279a9bf",
@@ -2690,8 +2689,6 @@
     "selectedTokenSets": {
       "Iconography/modeless": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3242:1436",
-    "$figmaModeId": "3242:2",
     "$figmaVariableReferences": {
       "Add.Icon size.50": "10d93181b60bdb29d2ff036957e906f81bbae231",
       "Add.Icon size.75": "c7b916c08db29d6f7348e46bfecca455b02eab0e",
@@ -2759,7 +2756,9 @@
       "Workflow.Icon size.100": "b1d97d68f8dbab01f3e95e34d5ddf6c78dda2104",
       "Workflow.Icon size.200": "43cc4fdef8d268b344316e990ac2892233a91a1f",
       "Workflow.Icon size.300": "8fbae9715645607ad283570ac0a88448ce8b25dc"
-    }
+    },
+    "$figmaCollectionId": "VariableCollectionId:3242:1436",
+    "$figmaModeId": "3242:2"
   },
   {
     "id": "2629ffbaaca97ef10a27eb51832b201ac6361acc",
@@ -2769,8 +2768,23 @@
       "Typography/component/modeless": "enabled",
       "Typography/global/modeless": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3242:1437",
-    "$figmaModeId": "3242:3",
+    "$figmaStyleReferences": {
+      "Component.XS.Regular": "S:8491cc9382668b404b4e9daa400d8193359ac46f,",
+      "Component.S.Regular": "S:e41ec360dc2dd1eaea6370339054476a2a0afe3b,",
+      "Component.M.Regular": "S:6cce4f8c1c316652082ccfbd13c6cb846aeeb18c,",
+      "Component.L.Regular": "S:2aeab3efb1d3cb73c9d2bb8c7868645ba4248f60,",
+      "Component.XL.Regular": "S:a24836dc17f2cefa8c4dd3b86d5f8bf4c27065c9,",
+      "Component.XS.Medium": "S:5341a10d6e9c7ffb2344134f60b0427a514ef3bd,",
+      "Component.S.Medium": "S:a69a2cda752b3ce3a6bf69b06272c40c9cf6ae9a,",
+      "Component.M.Medium": "S:880fddb0ed80f7604c263dacf5f67813532e8745,",
+      "Component.L.Medium": "S:a51706c3674f747fee1763bd8133a88f38da0cbc,",
+      "Component.XL.Medium": "S:789aa979ead7c3833271715ab5eae0fb441e2413,",
+      "Component.XS.Bold": "S:f55e7f36a597365e27bce5feb9eb3c9737c21d6b,",
+      "Component.S.Bold": "S:8d30cb490ecdca186c6650e0bb7274baea0475be,",
+      "Component.M.Bold": "S:a8fb4c11d7ddaf78662d85b73367f170c8407ba8,",
+      "Component.L.Bold": "S:e56434a30b8d51dbcf08bdbbf12383fd6aadfb72,",
+      "Component.XL.Bold": "S:5689a4e4c94c74faccabe7c53e495ebcc99a46ed,"
+    },
     "$figmaVariableReferences": {
       "Heading.Size.XS": "8054e0bd29c394f1f7f26254c8b3ee481ec81ee5",
       "Heading.Size.S": "a2b45565084ec6413a9625aa377874d1570c1d04",
@@ -2952,23 +2966,8 @@
       "Line height.1500": "1e5cd4504bc19bd715cab9ef87392b686478295f",
       "Letter spacing": "e51dd469bc8252b89dc885e3db0edef798399e98"
     },
-    "$figmaStyleReferences": {
-      "Component.XS.Regular": "S:8491cc9382668b404b4e9daa400d8193359ac46f,",
-      "Component.S.Regular": "S:e41ec360dc2dd1eaea6370339054476a2a0afe3b,",
-      "Component.M.Regular": "S:6cce4f8c1c316652082ccfbd13c6cb846aeeb18c,",
-      "Component.L.Regular": "S:2aeab3efb1d3cb73c9d2bb8c7868645ba4248f60,",
-      "Component.XL.Regular": "S:a24836dc17f2cefa8c4dd3b86d5f8bf4c27065c9,",
-      "Component.XS.Medium": "S:5341a10d6e9c7ffb2344134f60b0427a514ef3bd,",
-      "Component.S.Medium": "S:a69a2cda752b3ce3a6bf69b06272c40c9cf6ae9a,",
-      "Component.M.Medium": "S:880fddb0ed80f7604c263dacf5f67813532e8745,",
-      "Component.L.Medium": "S:a51706c3674f747fee1763bd8133a88f38da0cbc,",
-      "Component.XL.Medium": "S:789aa979ead7c3833271715ab5eae0fb441e2413,",
-      "Component.XS.Bold": "S:f55e7f36a597365e27bce5feb9eb3c9737c21d6b,",
-      "Component.S.Bold": "S:8d30cb490ecdca186c6650e0bb7274baea0475be,",
-      "Component.M.Bold": "S:a8fb4c11d7ddaf78662d85b73367f170c8407ba8,",
-      "Component.L.Bold": "S:e56434a30b8d51dbcf08bdbbf12383fd6aadfb72,",
-      "Component.XL.Bold": "S:5689a4e4c94c74faccabe7c53e495ebcc99a46ed,"
-    }
+    "$figmaCollectionId": "VariableCollectionId:3242:1437",
+    "$figmaModeId": "3242:3"
   },
   {
     "id": "8bf1ebbc184aab60781e8eda2101468adf335075",
@@ -2978,8 +2977,6 @@
       "Layout/component/modeless": "enabled",
       "Layout/global/modeless": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3242:1438",
-    "$figmaModeId": "3242:4",
     "$figmaVariableReferences": {
       "Accordion.Bottom to text.Compact.Extra large": "b971509a53185647babeb8c8dfb08baa476f260c",
       "Accordion.Bottom to text.Compact.Large": "ae5c9b24b8f0be8d235029949258e45f666eccda",
@@ -3721,7 +3718,6 @@
       "User card.Minimum height.Medium": "413ab82df82fac2618c596313c7190045d1b13c7",
       "User card.Minimum height.Large": "9a880563d7f4774b0d87d9d67f30a729614aab53",
       "User card.Minimum height.Extra large": "ec47e0e0cb0af15db2bfdd925537f4d619465cd9",
-      "Android.Elevation": "ed22e3528761b2f07a92cd57b1a05b3041c95629",
       "Border width.100": "9776fdf4f02664d5e9e8cfc06ebb2662c3f7410c",
       "Border width.200": "763e3a43db6043084dd08c064d4e729109bac922",
       "Border width.400": "55cb925ed7e457f07e6ecb942889d655a9db45ac",
@@ -3939,6 +3935,8 @@
       "Text underline.Thickness": "4f69dc7bf02a9f93f4f02eded4e7009235858e0d",
       "Window to edge": "e19a250480996313cc4fc0a4020476561ab8e00a",
       "Visual to control.100": "1dd0685dae3a125fcc6c5db5bb701343a412a1af"
-    }
+    },
+    "$figmaCollectionId": "VariableCollectionId:3242:1438",
+    "$figmaModeId": "3242:4"
   }
 ]

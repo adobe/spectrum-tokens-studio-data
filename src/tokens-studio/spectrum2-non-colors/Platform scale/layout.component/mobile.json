@@ -461,7 +461,7 @@
     },
     "time-field-minimum-width": {
       "value": "2.5",
-      "type": "sizing",
+      "type": "number",
       "description": "2.5x height of field",
       "$extensions": {
         "spectrum-tokens": {
@@ -2119,7 +2119,7 @@
     },
     "coach-indicator-collapsed-ring-thickness": {
       "value": "4px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "fff486aa-26a4-4b41-91a7-762f8b29d47a"
@@ -2146,7 +2146,7 @@
     },
     "coach-indicator-expanded-ring-thickness": {
       "value": "8px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "09c84cdf-0c82-4201-8203-9eb05d8b9486"
@@ -2506,7 +2506,7 @@
     },
     "color-slider-length": {
       "value": "240px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c42de1ce-088a-4918-a7dc-36507c8acedf"
@@ -2515,7 +2515,7 @@
     },
     "color-slider-minimum-length": {
       "value": "100px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "120308f7-4220-420e-b836-20176a8184b7"
@@ -2596,7 +2596,7 @@
     },
     "divider-thickness-large": {
       "value": "4px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "913cce2a-c928-4803-9bd6-3fb1e0fcbee5"
@@ -2605,7 +2605,7 @@
     },
     "divider-thickness-medium": {
       "value": "2px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "3cf3e962-92f3-4334-8b92-9a1da9396c25"
@@ -2614,7 +2614,7 @@
     },
     "divider-thickness-small": {
       "value": "1px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "9dcc27ef-7044-4051-97f3-2fd64a5d0a36"
@@ -2659,7 +2659,7 @@
     },
     "drop-zone-border-dash-length": {
       "value": "8px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "a596af57-256f-4445-b91f-36e47bfb2d95"
@@ -2911,7 +2911,7 @@
     },
     "in-field-button-fill-stacked-inner-border-rounding": {
       "value": "0px",
-      "type": "spacing",
+      "type": "borderRadius",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f8ed9a70-58f1-4f1a-9e87-24bca6d7b4e1"
@@ -3370,7 +3370,7 @@
     },
     "meter-thickness-large": {
       "value": "10px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c9052808-918e-4368-b113-28f928104eda"
@@ -3379,7 +3379,7 @@
     },
     "meter-thickness-medium": {
       "value": "8px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f9a81245-4bcb-4fca-8a4b-04ac78d9d1ca"
@@ -3388,7 +3388,7 @@
     },
     "meter-thickness-extra-large": {
       "value": "13px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "272738b2-a274-4e2e-8582-9c2cc7962a85"
@@ -3397,7 +3397,7 @@
     },
     "meter-thickness-small": {
       "value": "5px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "eb9c3cff-5a1a-4832-a623-6ab258b81d37"
@@ -3622,7 +3622,7 @@
     },
     "progress-bar-thickness-extra-large": {
       "value": "13px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "c15e51b3-4a5e-421e-aa4e-e0a82840f1a2"
@@ -3631,7 +3631,7 @@
     },
     "progress-bar-thickness-large": {
       "value": "10px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "4b680695-7e42-493c-889b-c76a60ab1f4f"
@@ -3640,7 +3640,7 @@
     },
     "progress-bar-thickness-medium": {
       "value": "8px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "d53e3ac6-6091-4c3f-9e1b-b12b716a5f95"
@@ -3649,7 +3649,7 @@
     },
     "progress-bar-thickness-small": {
       "value": "5px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "ab98c47f-f2e4-4f74-8008-55c65907b6eb"
@@ -3685,7 +3685,7 @@
     },
     "progress-circle-thickness-large": {
       "value": "5px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "076b031f-5980-4112-bf0b-2cec47f54c6b"
@@ -3694,7 +3694,7 @@
     },
     "progress-circle-thickness-medium": {
       "value": "4px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "aa930d94-7874-44d7-80f1-dc431d40c4a4"
@@ -3703,7 +3703,7 @@
     },
     "progress-circle-thickness-small": {
       "value": "3px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "a37ef752-662b-4152-b247-0ce9fcd624e4"
@@ -3748,7 +3748,7 @@
     },
     "radio-button-selection-indicator": {
       "value": "4px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "a7fc6bdb-5b9c-42d4-8f78-d34021ac0708"
@@ -4828,7 +4828,7 @@
     },
     "swatch-slash-thickness-extra-small": {
       "value": "2px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "944c49d7-e189-4daa-aca1-b0b590d78875"
@@ -4837,7 +4837,7 @@
     },
     "swatch-slash-thickness-large": {
       "value": "5px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "6b1b2709-de8c-450d-9299-49200208599e"
@@ -4846,7 +4846,7 @@
     },
     "swatch-slash-thickness-medium": {
       "value": "4px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "4e735599-f420-4b51-aa75-607046431c76"
@@ -4855,7 +4855,7 @@
     },
     "swatch-slash-thickness-small": {
       "value": "3px",
-      "type": "spacing",
+      "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "f626d145-7840-4958-86be-d2306b5b2233"

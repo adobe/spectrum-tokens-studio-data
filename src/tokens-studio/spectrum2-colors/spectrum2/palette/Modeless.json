@@ -1368,7 +1368,47 @@
         "type": "color"
       }
     },
+    "static-cyan": {
+      "400": {
+        "value": "{colorTheme.static-cyan-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-cyan-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-cyan-800}",
+        "type": "color"
+      }
+    },
+    "static-chartreuse": {
+      "400": {
+        "value": "{colorTheme.static-chartreuse-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-chartreuse-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-chartreuse-800}",
+        "type": "color"
+      }
+    },
     "static-fuchsia": {
+      "400": {
+        "value": "{colorTheme.static-fuchsia-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-fuchsia-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-fuchsia-800}",
+        "type": "color"
+      },
       "900": {
         "value": "{colorTheme.static-fuchsia-900}",
         "type": "color"
@@ -1378,7 +1418,33 @@
         "type": "color"
       }
     },
+    "static-green": {
+      "400": {
+        "value": "{colorTheme.static-green-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-green-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-green-800}",
+        "type": "color"
+      }
+    },
     "static-indigo": {
+      "400": {
+        "value": "{colorTheme.static-indigo-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-indigo-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-indigo-800}",
+        "type": "color"
+      },
       "900": {
         "value": "{colorTheme.static-indigo-900}",
         "type": "color"
@@ -1389,6 +1455,18 @@
       }
     },
     "static-magenta": {
+      "400": {
+        "value": "{colorTheme.static-magenta-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-magenta-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-magenta-800}",
+        "type": "color"
+      },
       "900": {
         "value": "{colorTheme.static-magenta-900}",
         "type": "color"
@@ -1398,13 +1476,67 @@
         "type": "color"
       }
     },
+    "static-orange": {
+      "400": {
+        "value": "{colorTheme.static-orange-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-orange-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-orange-800}",
+        "type": "color"
+      }
+    },
+    "static-purpole": {
+      "400": {
+        "value": "{colorTheme.static-purple-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-purple-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-purple-800}",
+        "type": "color"
+      }
+    },
     "static-red": {
+      "400": {
+        "value": "{colorTheme.static-red-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-red-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-red-800}",
+        "type": "color"
+      },
       "900": {
         "value": "{colorTheme.static-red-900}",
         "type": "color"
       },
       "1000": {
         "value": "{colorTheme.static-red-1000}",
+        "type": "color"
+      }
+    },
+    "static-turquoise": {
+      "400": {
+        "value": "{colorTheme.static-turquoise-400}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colorTheme.static-turquoise-600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colorTheme.static-turquoise-800}",
         "type": "color"
       }
     }

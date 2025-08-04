@@ -2962,7 +2962,7 @@
       }
     },
     "static-blue-900": {
-      "value": "#3b63fb",
+      "value": "#3B63FB",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -2971,7 +2971,7 @@
       }
     },
     "static-blue-1000": {
-      "value": "#274dea",
+      "value": "#274DEA",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -2979,8 +2979,89 @@
         }
       }
     },
+    "static-cyan-400": {
+      "value": "#8AD5FF",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-cyan-600": {
+      "value": "#30A7FE",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-cyan-800": {
+      "value": "#1286CD",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-chartreuse-400": {
+      "value": "#B6DB00",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-chartreuse-600": {
+      "value": "#8FAC00",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-chartreuse-800": {
+      "value": "#728900",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-fuchsia-400": {
+      "value": "#F7B5FF",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-fuchsia-600": {
+      "value": "#EC69FF",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-fuchsia-800": {
+      "value": "#C844DC",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "static-fuchsia-900": {
-      "value": "#b539c8",
+      "value": "#B539C8",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -2989,7 +3070,7 @@
       }
     },
     "static-fuchsia-1000": {
-      "value": "#9c28af",
+      "value": "#9C28AF",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -2997,8 +3078,62 @@
         }
       }
     },
+    "static-green-400": {
+      "value": "#6BE3A2",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-green-600": {
+      "value": "#12B867",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-green-800": {
+      "value": "#079355",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-indigo-400": {
+      "value": "#C0C9FF",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-indigo-600": {
+      "value": "#9197FE",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-indigo-800": {
+      "value": "#7A6AFD",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "static-indigo-900": {
-      "value": "#7155fa",
+      "value": "#7155FA",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -3007,7 +3142,7 @@
       }
     },
     "static-indigo-1000": {
-      "value": "#6338ee",
+      "value": "#6338EE",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -3015,8 +3150,35 @@
         }
       }
     },
+    "static-magenta-400": {
+      "value": "#FFB9D0",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-magenta-600": {
+      "value": "#FF709F",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-magenta-800": {
+      "value": "#F02D6E",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "static-magenta-900": {
-      "value": "#d92361",
+      "value": "#D92361",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -3025,7 +3187,7 @@
       }
     },
     "static-magenta-1000": {
-      "value": "#ba1650",
+      "value": "#BA1650",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -3033,8 +3195,89 @@
         }
       }
     },
+    "static-orange-400": {
+      "value": "#FFC15E",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-orange-600": {
+      "value": "#FC7D00",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-orange-800": {
+      "value": "#D45B00",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-purple-400": {
+      "value": "#DDC1F6",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-purple-600": {
+      "value": "#BF8AEE",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-purple-800": {
+      "value": "#A65CE7",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-red-400": {
+      "value": "#FFBCB4",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-red-600": {
+      "value": "#FF7665",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-red-800": {
+      "value": "#F03823",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "static-red-900": {
-      "value": "#d73220",
+      "value": "#D73220",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -3043,11 +3286,38 @@
       }
     },
     "static-red-1000": {
-      "value": "#b72818",
+      "value": "#B72818",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "3a65213c-4d36-48ec-8bf9-1b163a81299d"
+        }
+      }
+    },
+    "static-turquoise-400": {
+      "value": "#6FDDE4",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-turquoise-600": {
+      "value": "#0FB1C0",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "static-turquoise-800": {
+      "value": "#0A8D99",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
         }
       }
     }

@@ -1959,6 +1959,10 @@
   },
   "Select box": {
     "Horizontal": {
+      "Minimum width": {
+        "value": "{platformScale.select-box-horizontal-minimum-width}",
+        "type": "sizing"
+      },
       "Minimum height": {
         "value": "{platformScale.select-box-horizontal-minimum-height}",
         "type": "sizing"
@@ -2009,10 +2013,6 @@
     "Top to checkbox": {
       "value": "{platformScale.select-box-top-to-checkbox}",
       "type": "spacing"
-    },
-    "edge-to-checkbox": {
-      "value": "{platformScale.select-box-edge-to-checkbox}",
-      "type": "sizing"
     }
   },
   "Segmented text field": {

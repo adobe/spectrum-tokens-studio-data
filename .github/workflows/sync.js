@@ -28,11 +28,11 @@ const SPECTRUM2 = '../spectrum-tokens-studio-data/src/tokens-studio/spectrum2';
     },
     // TOKENS_STUDIO_DATA_SETS: the data sets we're loading and what is in them, more or less
     // the color/layout is what we'll use to differentiate how the data should be handled in terms
-    // of target files and schemas in spectrum-tokens and some token name handling conventions
+    // of target files and schemas in spectrum-design-data and some token name handling conventions
     TOKENS_STUDIO_DATA_SETS: { [_src_constants__WEBPACK_IMPORTED_MODULE_0__["default"].COLOR]: '-colors', [_src_constants__WEBPACK_IMPORTED_MODULE_0__["default"].LAYOUT]: '-non-colors', [_src_constants__WEBPACK_IMPORTED_MODULE_0__["default"].EVERYTHING]: '' },
-    // TOKENS_SPECTRUM: path to the spectrum-tokens source json directory
+    // TOKENS_SPECTRUM: path to the spectrum-design-data source json directory
     //                  override with command line option -destination=
-    TOKENS_SPECTRUM: '../spectrum-tokens/packages/tokens/src/',
+    TOKENS_SPECTRUM: '../spectrum-design-data/packages/tokens/src/',
     // TESTING: whether changes are written to the repo data
     //          override with command line option -test
     TESTING: false,
@@ -105,42 +105,42 @@ const SPECTRUM2 = '../spectrum-tokens-studio-data/src/tokens-studio/spectrum2';
     // we use this stuff during value type verification and/or when creating new token entries
     SCHEMA_TYPES: {
         // native - tokens studio has these types
-        "color": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/color.json",
-        "opacity": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/opacity.json",
-        "spacing": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/dimension.json",
-        "borderwidth": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/dimension.json",
-        "borderradius": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/dimension.json",
-        "sizing": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/dimension.json",
-        "letterspacing": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/dimension.json",
-        "fontsizes": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/font-size.json",
-        "fontweights": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/font-weight.json",
-        "fontfamilies": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/font-family.json",
-        "boxshadow": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/drop-shadow.json",
-        "typography": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/typography.json",
+        "color": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/color.json",
+        "opacity": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/opacity.json",
+        "spacing": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/dimension.json",
+        "borderwidth": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/dimension.json",
+        "borderradius": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/dimension.json",
+        "sizing": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/dimension.json",
+        "letterspacing": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/dimension.json",
+        "fontsizes": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/font-size.json",
+        "fontweights": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/font-weight.json",
+        "fontfamilies": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/font-family.json",
+        "boxshadow": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/drop-shadow.json",
+        "typography": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/typography.json",
         "lineheights": {
-            "NUMBER": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/multiplier.json",
-            "STRING": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/dimension.json",
+            "NUMBER": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/multiplier.json",
+            "STRING": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/dimension.json",
         },
         // derived - not native to tokens studio by we can figure them out
         //         - an empty schema string ("") will cause the sync script to ignore
         //           schema related issues for this type (which we may want when introducing
-        //           a new type and we don't have the schema in spectrum-tokens, yet)
+        //           a new type and we don't have the schema in spectrum-design-data, yet)
         //         - alias is easy to detect, we just check the value references another tokens
-        "alias": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/alias.json",
+        "alias": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/alias.json",
         //         - all the rest here are marked by tokens studio as being of type "other" and
         //           we should follow-up and make sure they aren't mis-typed and if there is a valid
         //           tokens studio type that accurately captures proper usage
         //           (the tokens are mix of drop-shadow and typography, fyi)
-        "multiplier": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/multiplier.json",
-        "dimension": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/dimension.json",
-        "font-style": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/font-style.json",
-        "text-transform": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/text-transform.json",
-        "text-align": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/text-align.json",
-        "gradient-stop": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/gradient-stop.json",
-        // set schemas - we don't detect/compare/test these, but we use them when changing/adding to spectrum-tokens
-        "color-set": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/color-set.json",
-        "scale-set": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/scale-set.json",
-        "system-set": "https://opensource.adobe.com/spectrum-tokens/schemas/token-types/system-set.json"
+        "multiplier": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/multiplier.json",
+        "dimension": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/dimension.json",
+        "font-style": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/font-style.json",
+        "text-transform": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/text-transform.json",
+        "text-align": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/text-align.json",
+        "gradient-stop": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/gradient-stop.json",
+        // set schemas - we don't detect/compare/test these, but we use them when changing/adding to spectrum-design-data
+        "color-set": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/color-set.json",
+        "scale-set": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/scale-set.json",
+        "system-set": "https://opensource.adobe.com/spectrum-design-data/schemas/token-types/system-set.json"
     }
 });
 
@@ -272,7 +272,7 @@ __webpack_require__.r(__webpack_exports__);
     // these get used as object keys in type definitions
     EXTENSIONS: '$extensions',
     EXTENSIONS_STUDIO: 'studio.tokens',
-    EXTENSIONS_SPECTRUM: 'spectrum-tokens',
+    EXTENSIONS_SPECTRUM: 'spectrum-design-data',
     EXTENSIONS_SPECTRUM_NAME: 'name',
     EXTENSIONS_SPECTRUM_UUID: 'uuid',
     EXTENSIONS_SPECTRUM_DUPLICATE: 'constant-token-duplicate',
@@ -2572,7 +2572,7 @@ function checkSets(studioTokens, studioProblems, spectrumTokens, spectrumProblem
             // } else
             if (studioSetName.length && !spectrumSets.length) {
                 // ??? this seems to work already, because a split will trigger
-                // a full rewrite of the original token in spectrum-tokens
+                // a full rewrite of the original token in spectrum-design-data
             }
             else if (!studioSetName.length && spectrumSets.length) {
                 studioProblems.merged[uuid] = studioEntry;
@@ -3155,7 +3155,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function getUniqueId(studioTokens, studioProblems, spectrumTokens, spectrumProblems, studioEntry) {
     let uuid;
-    // !!! I don't think this actually exists in spectrum-tokens (it was for putting uuids on branch nodes and not just leaves)
+    // !!! I don't think this actually exists in spectrum-design-data (it was for putting uuids on branch nodes and not just leaves)
     for (const spectrumEntry of spectrumProblems.empty) {
         if ((0,_core_tokenStuff__WEBPACK_IMPORTED_MODULE_1__.getTokenDuplicated)(studioEntry) && (0,_core_tokenStuff__WEBPACK_IMPORTED_MODULE_1__.getTokenSpectrumName)(studioEntry) === spectrumEntry.name) {
             uuid = spectrumEntry.uuid;
@@ -3534,7 +3534,7 @@ function parseSpectrumTokens(file, tokens, problems, data, system) {
 function readSpectrumTokens(source, system) {
     const spectrumTokens = {};
     const spectrumProblems = { collisions: {}, uuids: [], empty: [], deprecated: {}, branches: {} };
-    (0,_helpers__WEBPACK_IMPORTED_MODULE_4__.cout)('READING spectrum-tokens: ' + (0,_helpers__WEBPACK_IMPORTED_MODULE_4__.trimPath)(source));
+    (0,_helpers__WEBPACK_IMPORTED_MODULE_4__.cout)('READING spectrum-design-data: ' + (0,_helpers__WEBPACK_IMPORTED_MODULE_4__.trimPath)(source));
     fs__WEBPACK_IMPORTED_MODULE_0___default().readdirSync(source).forEach((file) => {
         if (path__WEBPACK_IMPORTED_MODULE_1___default().extname(file).toLowerCase() === '.json') {
             const data = (0,_core_fileCaching__WEBPACK_IMPORTED_MODULE_5__.getFile)(source + file);
@@ -4540,7 +4540,7 @@ function reportMissingScales(name, scales, allScales, SETS) {
         }
     }
     if (missingScales.length)
-        (0,_helpers__WEBPACK_IMPORTED_MODULE_1__.cout)('WARNING - SPECTRUM-TOKENS MISSING SCALE DEFINITION FOR ' + name + ': ' + JSON.stringify(missingScales));
+        (0,_helpers__WEBPACK_IMPORTED_MODULE_1__.cout)('WARNING - SPECTRUM-DESIGN-DATA MISSING SCALE DEFINITION FOR ' + name + ': ' + JSON.stringify(missingScales));
 }
 function reportMissingThemes(name, themes, allThemes, SETS) {
     const missingThemes = [];
@@ -4550,7 +4550,7 @@ function reportMissingThemes(name, themes, allThemes, SETS) {
         }
     }
     if (missingThemes.length)
-        (0,_helpers__WEBPACK_IMPORTED_MODULE_1__.cout)('WARNING - SPECTRUM-TOKENS MISSING THEME DEFINITION FOR ' + name + ': ' + JSON.stringify(missingThemes));
+        (0,_helpers__WEBPACK_IMPORTED_MODULE_1__.cout)('WARNING - SPECTRUM-DESIGN-DATA MISSING THEME DEFINITION FOR ' + name + ': ' + JSON.stringify(missingThemes));
 }
 function reportMissingSpectrumSets(spectrumTokens, spectrumProblems, SETS = []) {
     const collection = {};
@@ -5394,7 +5394,7 @@ function checkValue(studioTokens, studioToken, spectrumToken, set, token) {
     // update the value if necessary
     (0,_helpers__WEBPACK_IMPORTED_MODULE_2__.assert)((0,_helpers__WEBPACK_IMPORTED_MODULE_2__.isString)(spectrumToken.value));
     (0,_helpers__WEBPACK_IMPORTED_MODULE_2__.assert)((0,_helpers__WEBPACK_IMPORTED_MODULE_2__.isString)(studioToken.value));
-    // ??? we always check references because they could be garbage values directly from spectrum-tokens
+    // ??? we always check references because they could be garbage values directly from spectrum-design-data
     //     and because we're using getSpectrumValue at the top level, these won't be caught correctly
     //     and I'm too lazy to update getStudioValue with all the same value transforms that the spectrum value has
     // ??? and we're also using this to conver rgb() values to hex
@@ -6123,7 +6123,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function parseArgs() {
     const source = '-source='; // path to the tokens-studio-data repo
-    const destination = '-destination='; // path to the spectrum-tokens repo
+    const destination = '-destination='; // path to the spectrum-design-data repo
     const test = '-test'; // whether this is a test run, and changes will not be written to the repos
     const action = '-action'; // whether this is running as an action
     const args = {};
@@ -6322,8 +6322,8 @@ function syncToSpectrum(TOKENS_SPECTRUM_SANITIZED, TOKENS_STUDIO_SANITIZED) {
     // a bunch of entries in studioProblems :/
     // we'll need to keep track of these...
     let addedUUIDs = [];
-    // fix missing uuids: if a token marked as new in tokens studio already has an entry in spectrum-tokens
-    // then we should be using the uuids from spectrum-tokens, and *not* treating this token as new
+    // fix missing uuids: if a token marked as new in tokens studio already has an entry in spectrum-design-data
+// then we should be using the uuids from spectrum-design-data, and *not* treating this token as new
     addedUUIDs = addedUUIDs.concat((0,_operations_checkForRecycledUUIDs__WEBPACK_IMPORTED_MODULE_34__["default"])(studioTokens, studioProblems, spectrumTokens, spectrumProblems));
     // resolve splitting a single token definition into a set of token definitions
     if (Object.keys(studioProblems.split).length) {
@@ -6355,13 +6355,13 @@ function syncToSpectrum(TOKENS_SPECTRUM_SANITIZED, TOKENS_STUDIO_SANITIZED) {
     (0,_operations_checkModes__WEBPACK_IMPORTED_MODULE_36__["default"])(studioTokens, studioProblems);
     // report uuid collisions (there are multiple entries in a data set for a single uuid)
     (0,_reports_reportUUIDCollisions__WEBPACK_IMPORTED_MODULE_6__["default"])(studioProblems, spectrumProblems);
-    // report missing uuids in the spectrum-tokens data
+    // report missing uuids in the spectrum-design-data data
     (0,_reports_reportMissingSpectrumUUIDs__WEBPACK_IMPORTED_MODULE_8__["default"])(spectrumProblems);
     // report missing tokens studio mode entries
     (0,_reports_reportMissingStudioModes__WEBPACK_IMPORTED_MODULE_21__["default"])(studioProblems);
-    // we should be checking that tokens are in the same sets between tokens studio and spectrum-tokens
+    // we should be checking that tokens are in the same sets between tokens studio and spectrum-design-data
     (0,_reports_reportSetConflicts__WEBPACK_IMPORTED_MODULE_35__["default"])(studioTokens, spectrumTokens);
-    // report missing spectrum-tokens set entries
+    // report missing spectrum-design-data set entries
     (0,_reports_reportMissingSpectrumSets__WEBPACK_IMPORTED_MODULE_20__["default"])(spectrumTokens, spectrumProblems, studioProblems.usedModes);
     // report deprecated token usage in tokens studio data
     (0,_reports_reportDeprecatedTokenUsage__WEBPACK_IMPORTED_MODULE_26__["default"])(studioTokens, spectrumTokens, spectrumProblems);
@@ -6399,8 +6399,8 @@ function syncToSpectrum(TOKENS_SPECTRUM_SANITIZED, TOKENS_STUDIO_SANITIZED) {
     });
     // this searches for tokens that are considered new from the
     // tokens studio data perspective but have pre-existing definitions
-    // in spectrum-tokens; likely as a result of running a sync
-    // operation multiple times on the same spectrum-tokens branch
+    // in spectrum-design-data; likely as a result of running a sync
+// operation multiple times on the same spectrum-design-data branch
     // (which could happen if we created a branch for engineers to test)
     (0,_operations_getModifiedTokens__WEBPACK_IMPORTED_MODULE_30__["default"])(studioTokens, spectrumTokens, newTokens);
     // collect deleted tokens
@@ -6515,12 +6515,12 @@ function syncToSpectrum(TOKENS_SPECTRUM_SANITIZED, TOKENS_STUDIO_SANITIZED) {
         }
     }
     // RENAME
-    // If a spectrum token was renamed, we will deprecate the original definition in spectrum-tokens
+    // If a spectrum token was renamed, we will deprecate the original definition in spectrum-design-data
     // and forward the value of that definition to the new token definition via an alias.
     // And alias reference to the old token will be changed to reference the new token definition.
     (0,_operations_renameSpectrumTokens__WEBPACK_IMPORTED_MODULE_23__["default"])(TOKENS_SPECTRUM_SANITIZED, renamedTokens);
     // ADD
-    // New token definitions will be added to spectrum-tokens.
+    // New token definitions will be added to spectrum-design-data.
     // Also, tokens that were renamed will get their new token definition added here.
     // Also, tokens whose sets were merged will have their definition replaced here.
     // Also, Tokens whose value was split into sets will have their definition replaced here.
@@ -6537,12 +6537,12 @@ function syncToSpectrum(TOKENS_SPECTRUM_SANITIZED, TOKENS_STUDIO_SANITIZED) {
     (0,_operations_deprecateSpectrumTokens__WEBPACK_IMPORTED_MODULE_22__["default"])(studioTokens, spectrumTokens, spectrumProblems, deprecatedTokens);
     // SCHEMAS
     // This is a check that runs through all the definitions in tokens studio and specifically
-    // looks to make sure the schema in spectrum-tokens for a set is correct. The value schemas
+    // looks to make sure the schema in spectrum-design-data for a set is correct. The value schemas
     // will be checked above, but this just verifies the theme/scale set if needed.
     (0,_operations_verifyBranchSchemas__WEBPACK_IMPORTED_MODULE_33__["default"])(studioTokens, spectrumTokens);
     // VALUE TYPES
-    // We're supporting number/float & string as value types now in spectrum-tokens...
-    // so verify the value type for spectrum-tokens is correct
+    // We're supporting number/float & string as value types now in spectrum-design-data...
+// so verify the value type for spectrum-design-data is correct
     if (_config__WEBPACK_IMPORTED_MODULE_1__["default"].TOKENS_STUDIO === _config__WEBPACK_IMPORTED_MODULE_1__.SPECTRUM2) {
         (0,_operations_verifyValueTypes__WEBPACK_IMPORTED_MODULE_40__["default"])(spectrumTokens);
     }
@@ -6659,7 +6659,7 @@ function syncToStudio(TOKENS_SPECTRUM_SANITIZED, TOKENS_STUDIO_SANITIZED) {
     }
     for (const uuid in studioTokens) {
         if (!spectrumTokens[uuid] && !spectrumProblems.deprecated[uuid]) {
-            (0,_helpers__WEBPACK_IMPORTED_MODULE_5__.cout)('ERROR - EXTRA TOKEN STUDIO DEFINITION NOT IN SPECTRUM-TOKENS: ' + studioTokens[uuid].path + ' => ' + (0,_core_tokenStuff__WEBPACK_IMPORTED_MODULE_12__.getTokenSpectrumName)(studioTokens[uuid]) + ' ' + uuid);
+            (0,_helpers__WEBPACK_IMPORTED_MODULE_5__.cout)('ERROR - EXTRA TOKEN STUDIO DEFINITION NOT IN SPECTRUM-DESIGN-DATA: ' + studioTokens[uuid].path + ' => ' + (0,_core_tokenStuff__WEBPACK_IMPORTED_MODULE_12__.getTokenSpectrumName)(studioTokens[uuid]) + ' ' + uuid);
         }
     }
     ///////////////////////////////////////////////////////////

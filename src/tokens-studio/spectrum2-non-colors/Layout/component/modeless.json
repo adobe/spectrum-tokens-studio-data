@@ -2009,6 +2009,10 @@
     "Top to checkbox": {
       "value": "{platformScale.select-box-top-to-checkbox}",
       "type": "spacing"
+    },
+    "edge-to-checkbox": {
+      "value": "{platformScale.select-box-edge-to-checkbox}",
+      "type": "sizing"
     }
   },
   "Segmented text field": {

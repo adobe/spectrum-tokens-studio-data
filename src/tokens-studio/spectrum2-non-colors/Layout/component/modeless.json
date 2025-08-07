@@ -1959,6 +1959,10 @@
   },
   "Select box": {
     "Horizontal": {
+      "Minimum width": {
+        "value": "{platformScale.select-box-horizontal-minimum-width}",
+        "type": "sizing"
+      },
       "Minimum height": {
         "value": "{platformScale.select-box-horizontal-minimum-height}",
         "type": "sizing"

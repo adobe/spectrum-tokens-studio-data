@@ -3881,6 +3881,15 @@
         }
       }
     },
+    "select-box-horizontal-minimum-width": {
+      "value": "188px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "select-box-horizontal-minimum-height": {
       "value": "80px",
       "type": "sizing",
@@ -3909,7 +3918,7 @@
       }
     },
     "select-box-edge-to-checkbox": {
-      "value": "12px",
+      "value": "8px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {

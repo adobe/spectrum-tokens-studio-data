@@ -272,7 +272,7 @@ __webpack_require__.r(__webpack_exports__);
     // these get used as object keys in type definitions
     EXTENSIONS: '$extensions',
     EXTENSIONS_STUDIO: 'studio.tokens',
-    EXTENSIONS_SPECTRUM: 'spectrum-design-data',
+    EXTENSIONS_SPECTRUM: 'spectrum-tokens',
     EXTENSIONS_SPECTRUM_NAME: 'name',
     EXTENSIONS_SPECTRUM_UUID: 'uuid',
     EXTENSIONS_SPECTRUM_DUPLICATE: 'constant-token-duplicate',

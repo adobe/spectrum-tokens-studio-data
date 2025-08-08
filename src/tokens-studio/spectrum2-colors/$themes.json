@@ -5,11 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "colorTheme/alias/light": "enabled",
-      "colorTheme/component/light": "enabled",
-      "colorTheme/icon/light": "enabled",
-      "colorTheme/opacity.alias/light": "enabled",
-      "colorTheme/opacity.component/light": "enabled",
-      "colorTheme/palette/light": "enabled"
+      "colorTheme/component/light": "enabled"
     },
     "group": ".Color theme",
     "$figmaVariableReferences": {
@@ -804,12 +800,8 @@
     "id": "738333a3145b5fb23c20797c93ee780d037a11d5",
     "name": "Modeless",
     "selectedTokenSets": {
-      "spectrum2/palette/Modeless": "enabled",
       "spectrum2/alias/Modeless": "enabled",
-      "spectrum2/icon/Modeless": "enabled",
-      "spectrum2/component/Modeless": "enabled",
-      "spectrum2/opacity.alias/Modeless": "enabled",
-      "spectrum2/opacity.component/Modeless": "enabled"
+      "spectrum2/component/Modeless": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8:1601",
     "$figmaModeId": "8:11",
@@ -1600,11 +1592,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "colorTheme/alias/dark": "enabled",
-      "colorTheme/component/dark": "enabled",
-      "colorTheme/icon/dark": "enabled",
-      "colorTheme/opacity.alias/dark": "enabled",
-      "colorTheme/opacity.component/dark": "enabled",
-      "colorTheme/palette/dark": "enabled"
+      "colorTheme/component/dark": "enabled"
     },
     "group": ".Color theme",
     "$figmaVariableReferences": {
@@ -2401,11 +2389,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "colorTheme/alias/wireframe": "enabled",
-      "colorTheme/component/wireframe": "enabled",
-      "colorTheme/icon/wireframe": "enabled",
-      "colorTheme/opacity.alias/wireframe": "enabled",
-      "colorTheme/opacity.component/wireframe": "enabled",
-      "colorTheme/palette/wireframe": "enabled"
+      "colorTheme/component/wireframe": "enabled"
     },
     "group": ".Color theme",
     "$figmaVariableReferences": {

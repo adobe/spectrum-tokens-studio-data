@@ -2226,11 +2226,77 @@
     },
     "type": "boxShadow"
   },
+  "drop-shadow-emphasized-hover-ambient": {
+    "value": {
+      "x": "0",
+      "y": "4",
+      "blur": "12",
+      "spread": "0",
+      "color": "#00000014",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-elevated-ambient": {
+    "value": {
+      "x": "0",
+      "y": "4",
+      "blur": "12",
+      "spread": "0",
+      "color": "#00000014",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-dragged-ambient": {
+    "value": {
+      "x": "0",
+      "y": "12",
+      "blur": "16",
+      "spread": "0",
+      "color": "#00000014",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
   "drop-shadow-emphasized-transition": {
     "value": {
       "x": "0",
       "y": "1",
       "blur": "4",
+      "spread": "0",
+      "color": "#0000000A",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-emphasized-hover-transition": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "6",
+      "spread": "0",
+      "color": "#0000000A",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-elevated-transition": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "6",
+      "spread": "0",
+      "color": "#0000000A",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-dragged-transition": {
+    "value": {
+      "x": "0",
+      "y": "6",
+      "blur": "8",
       "spread": "0",
       "color": "#0000000A",
       "type": "dropShadow"
@@ -2244,6 +2310,39 @@
       "blur": "1",
       "spread": "0",
       "color": "#00000014",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-emphasized-hover-key": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "2",
+      "spread": "0",
+      "color": "#0000001F",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-elevated-key": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "2",
+      "spread": "0",
+      "color": "#0000001F",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-dragged-key": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "6",
+      "spread": "0",
+      "color": "#00000029",
       "type": "dropShadow"
     },
     "type": "boxShadow"

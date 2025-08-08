@@ -2213,6 +2213,39 @@
           "uuid": "a1cbc282-1376-48d1-b8bb-92f10aef7c6f"
         }
       }
+    },
+    "drop-shadow-emphasized-ambient": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "8",
+        "spread": "0",
+        "color": "#0000003D",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "drop-shadow-emphasized-transition": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "4",
+        "spread": "0",
+        "color": "#0000001F",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "drop-shadow-emphasized-key": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "1",
+        "spread": "0",
+        "color": "#0000003D",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }

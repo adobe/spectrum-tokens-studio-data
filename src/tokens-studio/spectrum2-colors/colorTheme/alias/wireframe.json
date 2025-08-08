@@ -2214,5 +2214,38 @@
         }
       }
     }
+  },
+  "drop-shadow-emphasized-ambient": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "8",
+      "spread": "0",
+      "color": "#00000014",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-emphasized-transition": {
+    "value": {
+      "x": "0",
+      "y": "1",
+      "blur": "4",
+      "spread": "0",
+      "color": "#0000000A",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow-emphasized-key": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "1",
+      "spread": "0",
+      "color": "#00000014",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }

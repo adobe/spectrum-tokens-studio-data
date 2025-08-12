@@ -486,6 +486,33 @@
         }
       }
     },
+    "gradient-stop-1-avatar": {
+      "value": "0",
+      "type": "number",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "gradient-stop-2-avatar": {
+      "value": "0.6666",
+      "type": "number",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "gradient-stop-3-avatar": {
+      "value": "1",
+      "type": "number",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "gradient-stop-1-genai": {
       "value": "0",
       "type": "number",

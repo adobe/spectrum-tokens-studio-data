@@ -3354,9 +3354,94 @@
         }
       }
     },
+    "static-cyan": {
+      "400": {
+        "value": "#8AD5FF",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-cyan-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#30A7FE",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-cyan-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#1286CD",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-cyan-800"
+          }
+        }
+      }
+    },
+    "static-chartreuse": {
+      "400": {
+        "value": "#B6DB00",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-chartreuse-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#8FAC00",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-chartreuse-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#728900",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-chartreuse-800"
+          }
+        }
+      }
+    },
     "static-fuchsia": {
+      "400": {
+        "value": "#F7B5FF",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-fuchsia-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#EC69FF",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-fuchsia-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#C844DC",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-fuchsia-800"
+          }
+        }
+      },
       "900": {
-        "value": "#b539c8",
+        "value": "#B539C8",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3366,7 +3451,7 @@
         }
       },
       "1000": {
-        "value": "#9c28af",
+        "value": "#9C28AF",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3376,9 +3461,65 @@
         }
       }
     },
+    "static-green": {
+      "400": {
+        "value": "#6BE3A2",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-green-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#12B867",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-green-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#079355",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-green-800"
+          }
+        }
+      }
+    },
     "static-indigo": {
+      "400": {
+        "value": "#C0C9FF",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-indigo-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#9197FE",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-indigo-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#7A6AFD",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-indigo-800"
+          }
+        }
+      },
       "900": {
-        "value": "#7155fa",
+        "value": "#7155FA",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3388,7 +3529,7 @@
         }
       },
       "1000": {
-        "value": "#6338ee",
+        "value": "#6338EE",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3399,8 +3540,35 @@
       }
     },
     "static-magenta": {
+      "400": {
+        "value": "#FFB9D0",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-magenta-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#FF709F",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-magenta-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#F02D6E",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-magenta-800"
+          }
+        }
+      },
       "900": {
-        "value": "#d92361",
+        "value": "#D92361",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3410,7 +3578,7 @@
         }
       },
       "1000": {
-        "value": "#ba1650",
+        "value": "#BA1650",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3420,9 +3588,94 @@
         }
       }
     },
+    "static-orange": {
+      "400": {
+        "value": "#FFC15E",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-orange-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#FC7D00",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-orange-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#D45B00",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-orange-800"
+          }
+        }
+      }
+    },
+    "static-purple": {
+      "400": {
+        "value": "#DDC1F6",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-purple-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#BF8AEE",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-purple-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#A65CE7",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-purple-800"
+          }
+        }
+      }
+    },
     "static-red": {
+      "400": {
+        "value": "#FFBCB4",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-red-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#FF7665",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-red-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#F03823",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-red-800"
+          }
+        }
+      },
       "900": {
-        "value": "#d73220",
+        "value": "#D73220",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -3432,12 +3685,41 @@
         }
       },
       "1000": {
-        "value": "#b72818",
+        "value": "#B72818",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
             "uuid": "3a65213c-4d36-48ec-8bf9-1b163a81299d",
             "name": "static-red-1000"
+          }
+        }
+      }
+    },
+    "static-turquoise": {
+      "400": {
+        "value": "#6FDDE4",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-turquoise-400"
+          }
+        }
+      },
+      "600": {
+        "value": "#0FB1C0",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-turquoise-600"
+          }
+        }
+      },
+      "800": {
+        "value": "#0A8D99",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "name": "static-turquoise-800"
           }
         }
       }

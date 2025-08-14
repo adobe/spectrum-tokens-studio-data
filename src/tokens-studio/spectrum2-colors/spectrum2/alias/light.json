@@ -90,6 +90,46 @@
             "name": "drop-shadow-dragged-color"
           }
         }
+      },
+      "ambient": {
+        "value": "#00000014",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "drop-shadow-ambient-color"
+          }
+        }
+      },
+      "transition": {
+        "value": "#0000000A",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "drop-shadow-transition-color"
+          }
+        }
+      },
+      "key": {
+        "value": "#00000014",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "drop-shadow-key-color"
+          }
+        }
+      },
+      "dragging": {
+        "value": "#00000029",
+        "type": "color",
+        "$extensions": {
+          "spectrum-tokens": {
+            "uuid": "",
+            "name": "drop-shadow-dragging-color"
+          }
+        }
       }
     },
     "content": {

@@ -4016,6 +4016,15 @@
         }
       }
     },
+    "side-navigation-counter-to-disclosure": {
+      "value": "6px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "side-navigation-header-to-item": {
       "value": "10px",
       "type": "spacing",
@@ -4040,6 +4049,15 @@
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "be37c65c-88c5-48cd-9554-8240909db98d"
+        }
+      }
+    },
+    "side-navigation-indicator-to-content": {
+      "value": "8px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
         }
       }
     },

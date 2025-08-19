@@ -4025,6 +4025,15 @@
         }
       }
     },
+    "side-navigation-edge-to-indicator": {
+      "value": "6px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "side-navigation-header-to-item": {
       "value": "10px",
       "type": "spacing",
@@ -4079,6 +4088,15 @@
         }
       }
     },
+    "side-navigation-second-level-edge-to-indicator": {
+      "value": "36px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "side-navigation-second-level-edge-to-text": {
       "value": "44px",
       "type": "spacing",
@@ -4088,12 +4106,48 @@
         }
       }
     },
+    "side-navigation-second-level-with-icon-edge-to-indicator": {
+      "value": "26px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "side-navigation-third-level-edge-to-indicator": {
+      "value": "62px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "side-navigation-third-level-edge-to-text": {
       "value": "70px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "06140452-b779-4527-ae3a-5f0623a6b97c"
+        }
+      }
+    },
+    "side-navigation-third-level-with-icon-edge-to-indicator": {
+      "value": "42px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "side navigation-trailing-accessory-area-to-edge": {
+      "value": "6px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
         }
       }
     },

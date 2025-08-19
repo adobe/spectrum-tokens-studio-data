@@ -4106,6 +4106,15 @@
         }
       }
     },
+    "side-navigation-second-level-with-icon-edge-to-text": {
+      "value": "34px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "side-navigation-second-level-with-icon-edge-to-indicator": {
       "value": "26px",
       "type": "spacing",
@@ -4130,6 +4139,15 @@
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "06140452-b779-4527-ae3a-5f0623a6b97c"
+        }
+      }
+    },
+    "side-navigation-third-level-with-icon-edge-to-text": {
+      "value": "50px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
         }
       }
     },
@@ -4178,8 +4196,8 @@
         }
       }
     },
-    "side-navigation-with-icon-second-level-edge-to-text": {
-      "value": "62px",
+    "🚫 side-navigation-with-icon-second-level-edge-to-text": {
+      "value": "{platformScale.side-navigation-second-level-with-icon-edge-to-text}",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -4187,8 +4205,8 @@
         }
       }
     },
-    "side-navigation-with-icon-third-level-edge-to-text": {
-      "value": "77px",
+    "🚫 side-navigation-with-icon-third-level-edge-to-text": {
+      "value": "{platformScale.side-navigation-third-level-with-icon-edge-to-text}",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {

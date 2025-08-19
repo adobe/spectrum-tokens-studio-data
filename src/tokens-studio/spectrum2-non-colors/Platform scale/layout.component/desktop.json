@@ -4088,6 +4088,24 @@
         }
       }
     },
+    "side-navigation-indicator-height": {
+      "value": "18px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "d087f995-da55-4c96-89c4-69a9a83e2f05"
+        }
+      }
+    },
+    "side-navigation-indicator-thickness": {
+      "value": "2px",
+      "type": "sizing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "d087f995-da55-4c96-89c4-69a9a83e2f05"
+        }
+      }
+    },
     "side-navigation-with-icon-second-level-edge-to-text": {
       "value": "50px",
       "type": "spacing",

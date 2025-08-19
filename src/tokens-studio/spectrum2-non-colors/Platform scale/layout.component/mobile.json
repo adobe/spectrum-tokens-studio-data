@@ -4053,7 +4053,7 @@
       }
     },
     "side-navigation-minimum-width": {
-      "value": "200px",
+      "value": "180px",
       "type": "sizing",
       "$extensions": {
         "spectrum-tokens": {
@@ -4062,7 +4062,7 @@
       }
     },
     "side-navigation-second-level-edge-to-text": {
-      "value": "30px",
+      "value": "44px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -4071,7 +4071,7 @@
       }
     },
     "side-navigation-third-level-edge-to-text": {
-      "value": "45px",
+      "value": "70px",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {

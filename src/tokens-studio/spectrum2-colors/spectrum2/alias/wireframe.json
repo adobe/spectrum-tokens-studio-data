@@ -96,7 +96,7 @@
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
-            "uuid": "",
+            "uuid": "df3a555d-3f22-4499-9269-4311c4b657e0",
             "name": "drop-shadow-ambient-color"
           }
         }
@@ -106,7 +106,7 @@
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
-            "uuid": "",
+            "uuid": "52d1ce61-a695-439c-80a5-3978505aa04d",
             "name": "drop-shadow-transition-color"
           }
         }
@@ -116,7 +116,7 @@
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
-            "uuid": "",
+            "uuid": "5e946c9e-6b78-43f7-b8fa-74a3dbd2cc48",
             "name": "drop-shadow-emphasized-key-color"
           }
         }
@@ -126,7 +126,7 @@
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
-            "uuid": "",
+            "uuid": "5a1da245-ffb1-405f-be44-20696c0d5ad4",
             "name": "drop-shadow-emphasized-hover-key-color"
           }
         }
@@ -136,7 +136,7 @@
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
-            "uuid": "",
+            "uuid": "ba2ff175-d2d0-4a53-a070-57c41283cb50",
             "name": "drop-shadow-elevated-key-color"
           }
         }
@@ -146,7 +146,7 @@
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
-            "uuid": "",
+            "uuid": "0b9777dc-6689-4b97-b7a6-d113272f4576",
             "name": "drop-shadow-dragged-key-color"
           }
         }
@@ -2628,7 +2628,12 @@
         "type": "dropShadow"
       }
     ],
-    "type": "boxShadow"
+    "type": "boxShadow",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "71163f17-f6c6-4123-ac65-2fc30271acf1"
+      }
+    }
   },
   "drop-shadow-emphasized-hover": {
     "value": [
@@ -2657,7 +2662,12 @@
         "type": "dropShadow"
       }
     ],
-    "type": "boxShadow"
+    "type": "boxShadow",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "35d75867-6bc7-49f2-89d5-e353e1117a94"
+      }
+    }
   },
   "drop-shadow-elevated": {
     "value": [
@@ -2686,7 +2696,12 @@
         "type": "dropShadow"
       }
     ],
-    "type": "boxShadow"
+    "type": "boxShadow",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "8ecd414e-72e6-4fac-953d-5a1fbe048835"
+      }
+    }
   },
   "drop-shadow-dragged": {
     "value": [
@@ -2715,6 +2730,11 @@
         "type": "dropShadow"
       }
     ],
-    "type": "boxShadow"
+    "type": "boxShadow",
+    "$extensions": {
+      "spectrum-tokens": {
+        "uuid": "40668dc3-1bc4-4572-8bc8-32818c192a40"
+      }
+    }
   }
 }

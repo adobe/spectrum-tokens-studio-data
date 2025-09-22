@@ -4197,7 +4197,7 @@
       }
     },
     "🚫 side-navigation-with-icon-second-level-edge-to-text": {
-      "value": "{platformScale.side-navigation-second-level-with-icon-edge-to-text}",
+      "value": "{platformScale.side-navigation-second-level-edge-to-text}",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {
@@ -4206,7 +4206,7 @@
       }
     },
     "🚫 side-navigation-with-icon-third-level-edge-to-text": {
-      "value": "62px",
+      "value": "{platformScale.side-navigation-third-level-with-icon-edge-to-text}",
       "type": "spacing",
       "$extensions": {
         "spectrum-tokens": {

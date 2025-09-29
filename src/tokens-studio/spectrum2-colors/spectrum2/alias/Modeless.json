@@ -32,6 +32,30 @@
       "dragged": {
         "value": "{colorTheme.drop-shadow-dragged-color}",
         "type": "color"
+      },
+      "ambient-color": {
+        "value": "{colorTheme.drop-shadow-ambient-color}",
+        "type": "color"
+      },
+      "transition-color": {
+        "value": "{colorTheme.drop-shadow-transition-color}",
+        "type": "color"
+      },
+      "emphasized-key-color": {
+        "value": "{colorTheme.drop-shadow-emphasized-key-color}",
+        "type": "color"
+      },
+      "emphasized-hover-key-color": {
+        "value": "{colorTheme.drop-shadow-emphasized-hover-key-color}",
+        "type": "color"
+      },
+      "elevated-key-color": {
+        "value": "{colorTheme.drop-shadow-elevated-key-color}",
+        "type": "color"
+      },
+      "dragged-key-color": {
+        "value": "{colorTheme.drop-shadow-dragged-key-color}",
+        "type": "color"
       }
     },
     "content": {

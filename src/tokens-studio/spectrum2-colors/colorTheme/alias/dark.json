@@ -2213,6 +2213,30 @@
           "uuid": "a1cbc282-1376-48d1-b8bb-92f10aef7c6f"
         }
       }
+    },
+    "drop-shadow-ambient-color": {
+      "value": "#​0000003D",
+      "type": "color"
+    },
+    "drop-shadow-transition-color": {
+      "value": "#​0000001F",
+      "type": "color"
+    },
+    "drop-shadow-emphasized-key-color": {
+      "value": "#​00000014",
+      "type": "color"
+    },
+    "drop-shadow-emphasized-hover-key-color": {
+      "value": "#​0000005C",
+      "type": "color"
+    },
+    "drop-shadow-elevated-key-color": {
+      "value": "#​0000005C",
+      "type": "color"
+    },
+    "drop-shadow-dragged-key-color": {
+      "value": "#​0000007A",
+      "type": "color"
     }
   },
   "drop-shadow-emphasized-ambient": {

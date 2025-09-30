@@ -1092,7 +1092,7 @@
           "blur": "1",
           "spread": "0",
           "color": "{colorTheme.drop-shadow-emphasized-key-color}",
-          "type": "innerShadow"
+          "type": "dropShadow"
         }
       ],
       "type": "boxShadow"

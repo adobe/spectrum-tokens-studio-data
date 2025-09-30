@@ -2198,14 +2198,14 @@
   "Side navigation": {
     "With icon": {
       "Second level": {
-        "Edge to text": {
-          "value": "{platformScale.side-navigation-with-icon-second-level-edge-to-text}",
+        "🚫 Edge to text": {
+          "value": "{platformScale.side-navigation-second-level-with-icon-edge-to-text}",
           "type": "spacing"
         }
       },
       "Third level": {
-        "Edge to text": {
-          "value": "{platformScale.side-navigation-with-icon-third-level-edge-to-text}",
+        "🚫 Edge to text": {
+          "value": "{platformScale.side-navigation-third-level-with-icon-edge-to-text}",
           "type": "spacing"
         }
       }
@@ -2214,12 +2214,40 @@
       "Edge to text": {
         "value": "{platformScale.side-navigation-second-level-edge-to-text}",
         "type": "spacing"
+      },
+      "Edge to indicator": {
+        "value": "{platformScale.side-navigation-second-level-edge-to-indicator}",
+        "type": "spacing"
+      },
+      "With icon": {
+        "Edge to indicator": {
+          "value": "{platformScale.side-navigation-second-level-with-icon-edge-to-indicator}",
+          "type": "spacing"
+        },
+        "Edge to text": {
+          "value": "{platformScale.side-navigation-second-level-with-icon-edge-to-text}",
+          "type": "spacing"
+        }
       }
     },
     "Third level": {
       "Edge to text": {
         "value": "{platformScale.side-navigation-third-level-edge-to-text}",
         "type": "spacing"
+      },
+      "Edge to indicator": {
+        "value": "{platformScale.side-navigation-third-level-edge-to-indicator}",
+        "type": "spacing"
+      },
+      "With icon": {
+        "Edge to indicator": {
+          "value": "{platformScale.side-navigation-third-level-with-icon-edge-to-indicator}",
+          "type": "spacing"
+        },
+        "Edge to text": {
+          "value": "{platformScale.side-navigation-third-level-with-icon-edge-to-text}",
+          "type": "spacing"
+        }
       }
     },
     "Bottom to text": {
@@ -2238,8 +2266,8 @@
       "value": "{platformScale.side-navigation-item-to-item}",
       "type": "spacing"
     },
-    "Maximum width": {
-      "value": "{platformScale.side-navigation-maximum-width}",
+    "🚫 Maximum width": {
+      "value": "{platformScale.🚫 side-navigation-maximum-width}",
       "type": "sizing"
     },
     "Minimum width": {
@@ -2249,6 +2277,32 @@
     "Width": {
       "value": "{platformScale.side-navigation-width}",
       "type": "sizing"
+    },
+    "Indicator": {
+      "Height": {
+        "value": "{platformScale.side-navigation-indicator-height}",
+        "type": "sizing"
+      },
+      "Thickness": {
+        "value": "{platformScale.side-navigation-indicator-thickness}",
+        "type": "sizing"
+      }
+    },
+    "Indicator to content": {
+      "value": "{platformScale.side-navigation-indicator-to-content}",
+      "type": "spacing"
+    },
+    "Counter to disclosure": {
+      "value": "{platformScale.side-navigation-counter-to-disclosure}",
+      "type": "spacing"
+    },
+    "Edge to indicator": {
+      "value": "{platformScale.side-navigation-edge-to-indicator}",
+      "type": "spacing"
+    },
+    "Trailing accessory area to edge": {
+      "value": "{platformScale.side-navigation-trailing-accessory-area-to-edge}",
+      "type": "spacing"
     }
   },
   "Slider": {

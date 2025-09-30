@@ -1095,7 +1095,13 @@
           "type": "dropShadow"
         }
       ],
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "71163f17-f6c6-4123-ac65-2fc30271acf1",
+          "name": "drop-shadow-emphasized"
+        }
+      }
     },
     "emphasized-hover": {
       "value": [
@@ -1124,7 +1130,13 @@
           "type": "dropShadow"
         }
       ],
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "35d75867-6bc7-49f2-89d5-e353e1117a94",
+          "name": "drop-shadow-emphasized-hover"
+        }
+      }
     },
     "elevated": {
       "value": [
@@ -1153,7 +1165,13 @@
           "type": "dropShadow"
         }
       ],
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "8ecd414e-72e6-4fac-953d-5a1fbe048835",
+          "name": "drop-shadow-elevated"
+        }
+      }
     },
     "dragged": {
       "value": [
@@ -1182,7 +1200,13 @@
           "type": "dropShadow"
         }
       ],
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "40668dc3-1bc4-4572-8bc8-32818c192a40",
+          "name": "drop-shadow-dragged"
+        }
+      }
     }
   }
 }

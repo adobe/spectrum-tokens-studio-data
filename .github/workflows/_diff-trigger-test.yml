@@ -24,11 +24,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: spectrum-tokens-studio-data
-      - name: Check out spectrum-tokens code from ${{ github.repository_owner }}/spectrum-tokens/${{ inputs.branch }}
+      - name: Check out spectrum-design-data code from ${{ github.repository_owner }}/spectrum-design-data/${{ inputs.branch }}
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.repository_owner }}/spectrum-tokens
-          path: spectrum-tokens
+          repository: ${{ github.repository_owner }}/spectrum-design-data
+          path: spectrum-design-data
           ref: ${{ inputs.branch }}
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -36,7 +36,7 @@ jobs:
           node-version: '20.11.1'
       - name: Test the token data
         run: |
-          node spectrum-tokens-studio-data/.github/workflows/sync.js -action -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }} -destination=./spectrum-tokens/packages/tokens/src/
+          node spectrum-tokens-studio-data/.github/workflows/sync.js -action -test -source=./spectrum-tokens-studio-data/src/tokens-studio/${{ inputs.source }} -destination=./spectrum-design-data/packages/tokens/src/
           echo -e "**[TESTING ${{ inputs.source }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**\n\n$(cat ./logs/cout.log)" > ./logs/cout.log
       - name: Append script summary to PR
         if: ${{ github.event_name == 'pull_request' }}

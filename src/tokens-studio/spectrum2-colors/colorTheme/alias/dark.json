@@ -2216,27 +2216,57 @@
     },
     "drop-shadow-ambient-color": {
       "value": "#0000003D",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "3dd12e5d-91b3-4466-94db-4c2089238661"
+        }
+      }
     },
     "drop-shadow-transition-color": {
       "value": "#0000001F",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "aca70da5-3d6d-4d02-b23b-9e2f8374f6e6"
+        }
+      }
     },
     "drop-shadow-emphasized-key-color": {
       "value": "#00000014",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "c6fd25ed-1d86-4b7b-aa56-9ac371b2bbe6"
+        }
+      }
     },
     "drop-shadow-emphasized-hover-key-color": {
       "value": "#0000005C",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "e03b0800-c48d-46f0-93b0-5beeb290efe0"
+        }
+      }
     },
     "drop-shadow-elevated-key-color": {
       "value": "#0000005C",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "e78e9604-1919-4b7d-8338-5900bdbde89f"
+        }
+      }
     },
     "drop-shadow-dragged-key-color": {
       "value": "#0000007A",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "73e17173-3695-4dcd-b37a-1714bb45a696"
+        }
+      }
     }
   },
   "drop-shadow-emphasized-ambient": {

@@ -4070,15 +4070,6 @@
         }
       }
     },
-    "🚫 side-navigation-maximum-width": {
-      "value": "240px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "68210b40-f87e-4059-88c1-e66d1c8cbd38"
-        }
-      }
-    },
     "side-navigation-minimum-width": {
       "value": "144px",
       "type": "sizing",
@@ -4193,24 +4184,6 @@
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "6c2264d9-425a-4dec-9071-a47e0d2bfca6"
-        }
-      }
-    },
-    "🚫 side-navigation-with-icon-second-level-edge-to-text": {
-      "value": "{platformScale.side-navigation-second-level-with-icon-edge-to-text}",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "d254c910-2939-48ce-8547-08cfb346a0db"
-        }
-      }
-    },
-    "🚫 side-navigation-with-icon-third-level-edge-to-text": {
-      "value": "{platformScale.side-navigation-third-level-with-icon-edge-to-text}",
-      "type": "spacing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "f1d90f18-e114-477f-88ca-548c5ddbc287"
         }
       }
     },

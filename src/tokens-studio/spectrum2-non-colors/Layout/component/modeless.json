@@ -2196,20 +2196,6 @@
     }
   },
   "Side navigation": {
-    "With icon": {
-      "Second level": {
-        "🚫 Edge to text": {
-          "value": "{platformScale.side-navigation-second-level-with-icon-edge-to-text}",
-          "type": "spacing"
-        }
-      },
-      "Third level": {
-        "🚫 Edge to text": {
-          "value": "{platformScale.side-navigation-third-level-with-icon-edge-to-text}",
-          "type": "spacing"
-        }
-      }
-    },
     "Second level": {
       "Edge to text": {
         "value": "{platformScale.side-navigation-second-level-edge-to-text}",
@@ -2265,10 +2251,6 @@
     "Item to item": {
       "value": "{platformScale.side-navigation-item-to-item}",
       "type": "spacing"
-    },
-    "🚫 Maximum width": {
-      "value": "{platformScale.🚫 side-navigation-maximum-width}",
-      "type": "sizing"
     },
     "Minimum width": {
       "value": "{platformScale.side-navigation-minimum-width}",

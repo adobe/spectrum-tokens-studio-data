@@ -117,15 +117,6 @@
         }
       }
     },
-    "🚫 color-loupe-drop-shadow-color": {
-      "value": "{colorTheme.drop-shadow-elevated-color}",
-      "type": "color",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "918b8089-d89f-45d2-8c9c-f3f13f81b0b9"
-        }
-      }
-    },
     "color-loupe-inner-border": {
       "value": "{colorTheme.transparent-black-200}",
       "type": "color",

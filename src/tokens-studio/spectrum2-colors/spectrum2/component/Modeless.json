@@ -1,10 +1,8 @@
 {
   "Component": {
-    "action-bar": {
-      "border": {
-        "value": "{colorTheme.action-bar-border-color}",
-        "type": "color"
-      }
+    "coach-indicator": {
+      "value": "{colorTheme.coach-indicator-color}",
+      "type": "color"
     },
     "avatar": {
       "border": {
@@ -36,10 +34,6 @@
         "type": "color"
       }
     },
-    "coach-indicator": {
-      "value": "{colorTheme.coach-indicator-color}",
-      "type": "color"
-    },
     "coach-mark": {
       "pagination": {
         "value": "{colorTheme.coach-mark-pagination-color}",
@@ -49,12 +43,6 @@
     "color-area": {
       "border": {
         "value": "{colorTheme.color-area-border-color}",
-        "type": "color"
-      }
-    },
-    "color-wheel": {
-      "border": {
-        "value": "{colorTheme.color-wheel-border-color}",
         "type": "color"
       }
     },
@@ -136,48 +124,14 @@
         "type": "color"
       }
     },
-    "select-box": {
-      "selected-border": {
-        "value": "{colorTheme.select-box-selected-border-color}",
+    "standard-panel": {
+      "gripper": {
+        "value": "{colorTheme.standard-panel-gripper-color}",
         "type": "color"
-      }
-    },
-    "stack-item": {
-      "background-color": {
-        "hover": {
-          "value": "{colorTheme.stack-item-background-color-hover}",
-          "type": "color"
-        },
-        "down": {
-          "value": "{colorTheme.stack-item-background-color-down}",
-          "type": "color"
-        },
-        "key-focus": {
-          "value": "{colorTheme.stack-item-background-color-key-focus}",
-          "type": "color"
-        }
       },
-      "selected-background-color": {
-        "default": {
-          "value": "{colorTheme.stack-item-selected-background-color-default}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{colorTheme.stack-item-selected-background-color-hover}",
-          "type": "color"
-        },
-        "down": {
-          "value": "{colorTheme.stack-item-selected-background-color-down}",
-          "type": "color"
-        },
-        "key-focus": {
-          "value": "{colorTheme.stack-item-selected-background-color-key-focus}",
-          "type": "color"
-        },
-        "emphasized": {
-          "value": "{colorTheme.stack-item-selected-background-color-emphasized}",
-          "type": "color"
-        }
+      "gripper-drag": {
+        "value": "{colorTheme.standard-panel-gripper-color-drag}",
+        "type": "color"
       }
     },
     "swatch": {
@@ -187,16 +141,6 @@
       },
       "disabled-icon-border": {
         "value": "{colorTheme.swatch-disabled-icon-border-color}",
-        "type": "color"
-      }
-    },
-    "standard-panel": {
-      "gripper": {
-        "value": "{colorTheme.standard-panel-gripper-color}",
-        "type": "color"
-      },
-      "gripper-drag": {
-        "value": "{colorTheme.standard-panel-gripper-color-drag}",
         "type": "color"
       }
     },
@@ -242,6 +186,62 @@
       "selected-row-background-hover": {
         "value": "{colorTheme.tree-view-selected-row-background-hover}",
         "type": "color"
+      }
+    },
+    "select-box": {
+      "selected-border": {
+        "value": "{colorTheme.select-box-selected-border-color}",
+        "type": "color"
+      }
+    },
+    "color-wheel": {
+      "border": {
+        "value": "{colorTheme.color-wheel-border-color}",
+        "type": "color"
+      }
+    },
+    "action-bar": {
+      "border": {
+        "value": "{colorTheme.action-bar-border-color}",
+        "type": "color"
+      }
+    },
+    "stack-item": {
+      "background-color": {
+        "hover": {
+          "value": "{colorTheme.stack-item-background-color-hover}",
+          "type": "color"
+        },
+        "down": {
+          "value": "{colorTheme.stack-item-background-color-down}",
+          "type": "color"
+        },
+        "key-focus": {
+          "value": "{colorTheme.stack-item-background-color-key-focus}",
+          "type": "color"
+        }
+      },
+      "selected-background-color": {
+        "default": {
+          "value": "{colorTheme.stack-item-selected-background-color-default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colorTheme.stack-item-selected-background-color-hover}",
+          "type": "color"
+        },
+        "down": {
+          "value": "{colorTheme.stack-item-selected-background-color-down}",
+          "type": "color"
+        },
+        "key-focus": {
+          "value": "{colorTheme.stack-item-selected-background-color-key-focus}",
+          "type": "color"
+        },
+        "emphasized": {
+          "value": "{colorTheme.stack-item-selected-background-color-emphasized}",
+          "type": "color"
+        }
       }
     }
   }

@@ -15,20 +15,6 @@
           "type": "color"
         }
       },
-      "blue": {
-        "default": {
-          "value": "{colorTheme.icon-color-blue-primary-default}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{colorTheme.icon-color-blue-primary-hover}",
-          "type": "color"
-        },
-        "down": {
-          "value": "{colorTheme.icon-color-blue-primary-down}",
-          "type": "color"
-        }
-      },
       "green": {
         "default": {
           "value": "{colorTheme.icon-color-green-primary-default}",
@@ -40,6 +26,20 @@
         },
         "down": {
           "value": "{colorTheme.icon-color-green-primary-down}",
+          "type": "color"
+        }
+      },
+      "blue": {
+        "default": {
+          "value": "{colorTheme.icon-color-blue-primary-default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colorTheme.icon-color-blue-primary-hover}",
+          "type": "color"
+        },
+        "down": {
+          "value": "{colorTheme.icon-color-blue-primary-down}",
           "type": "color"
         }
       },

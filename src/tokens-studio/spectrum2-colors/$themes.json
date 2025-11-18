@@ -1190,12 +1190,6 @@
       "Alias.drop-shadow.emphasized-hover": "e080d6090b53c910bca628a47dda47630c8ba759",
       "Alias.drop-shadow.elevated": "7ffc61455bb815b6c1129d3d6ccfa224245fbfc0",
       "Alias.drop-shadow.dragged": "a9515783663fee35b200322288b413bf7482e001",
-      "Alias.drop-shadow.ambient-color": "42c08b43fdeed348aeb6f1ce3259f9b00a7f5b16",
-      "Alias.drop-shadow.transition-color": "635dd9002bac45e27ae0ca9166d0e68baae8f6bc",
-      "Alias.drop-shadow.emphasized-key-color": "897f3a2a27c890d4537416ac88c5ded44e07a0eb",
-      "Alias.drop-shadow.emphasized-hover-key-color": "f279123e085a3bd326969b30a4d58b404937954f",
-      "Alias.drop-shadow.elevated-key-color": "cf8e15fdc1e4b56b13b5357ed1f1302e68444a8d",
-      "Alias.drop-shadow.dragged-key-color": "ab752f683a1dd6f88c30bd7a16e0c8890471927c",
       "Alias.content.neutral.default": "337efa3d1003d8d039eb73d26a6215051c250e9e",
       "Alias.content.neutral.hover": "1e5acddf806774199b2a362ff3a006fb12fa8744",
       "Alias.content.neutral.down": "080785dc9f38f3c4aaaefc4f3aa0de7b2cc27162",
@@ -1594,7 +1588,13 @@
       "thumbnail-border-opacity": "6859d1f9870001cd8724e1d51718cbcbf3e2ba79",
       "thumbnail-opacity-disabled": "2336d82241151e0b6afd08ebaa2bb1f90be28446",
       "tree-view-selected-row-background-opacity-emphasized": "a15d4a608b279b3b682d1403efd3778eb5d88a76",
-      "tree-view-selected-row-background-opacity-emphasized-hover": "6f52ce089608b849b144f4a21c823364946562af"
+      "tree-view-selected-row-background-opacity-emphasized-hover": "6f52ce089608b849b144f4a21c823364946562af",
+      "Alias.drop-shadow.ambient": "42c08b43fdeed348aeb6f1ce3259f9b00a7f5b16",
+      "Alias.drop-shadow.emphasized-key": "897f3a2a27c890d4537416ac88c5ded44e07a0eb",
+      "Alias.drop-shadow.transition": "635dd9002bac45e27ae0ca9166d0e68baae8f6bc",
+      "Alias.drop-shadow.emphasized-hover-key": "f279123e085a3bd326969b30a4d58b404937954f",
+      "Alias.drop-shadow.elevated-key": "cf8e15fdc1e4b56b13b5357ed1f1302e68444a8d",
+      "Alias.drop-shadow.dragged-key": "ab752f683a1dd6f88c30bd7a16e0c8890471927c"
     },
     "$figmaStyleReferences": {},
     "group": "S2.Color-theme"

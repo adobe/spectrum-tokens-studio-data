@@ -1,5 +1,9 @@
 {
   "Component": {
+    "coach-indicator": {
+      "value": "{colorTheme.coach-indicator-color}",
+      "type": "color"
+    },
     "action-bar": {
       "border": {
         "value": "{colorTheme.action-bar-border-color}",
@@ -36,10 +40,6 @@
         "type": "color"
       }
     },
-    "coach-indicator": {
-      "value": "{colorTheme.coach-indicator-color}",
-      "type": "color"
-    },
     "coach-mark": {
       "pagination": {
         "value": "{colorTheme.coach-mark-pagination-color}",
@@ -49,12 +49,6 @@
     "color-area": {
       "border": {
         "value": "{colorTheme.color-area-border-color}",
-        "type": "color"
-      }
-    },
-    "color-wheel": {
-      "border": {
-        "value": "{colorTheme.color-wheel-border-color}",
         "type": "color"
       }
     },
@@ -81,6 +75,12 @@
     "color-slider": {
       "border": {
         "value": "{colorTheme.color-slider-border-color}",
+        "type": "color"
+      }
+    },
+    "color-wheel": {
+      "border": {
+        "value": "{colorTheme.color-wheel-border-color}",
         "type": "color"
       }
     },
@@ -180,16 +180,6 @@
         }
       }
     },
-    "swatch": {
-      "border": {
-        "value": "{colorTheme.swatch-border-color}",
-        "type": "color"
-      },
-      "disabled-icon-border": {
-        "value": "{colorTheme.swatch-disabled-icon-border-color}",
-        "type": "color"
-      }
-    },
     "standard-panel": {
       "gripper": {
         "value": "{colorTheme.standard-panel-gripper-color}",
@@ -197,6 +187,16 @@
       },
       "gripper-drag": {
         "value": "{colorTheme.standard-panel-gripper-color-drag}",
+        "type": "color"
+      }
+    },
+    "swatch": {
+      "border": {
+        "value": "{colorTheme.swatch-border-color}",
+        "type": "color"
+      },
+      "disabled-icon-border": {
+        "value": "{colorTheme.swatch-disabled-icon-border-color}",
         "type": "color"
       }
     },

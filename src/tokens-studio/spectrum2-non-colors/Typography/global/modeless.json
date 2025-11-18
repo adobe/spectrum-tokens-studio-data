@@ -1,4 +1,8 @@
 {
+  "Letter spacing": {
+    "value": "{platformScale.letter-spacing}",
+    "type": "letterSpacing"
+  },
   "Font family": {
     "Default": {
       "value": "{platformScale.default-font-family}",
@@ -11,6 +15,42 @@
     "Serif": {
       "value": "{platformScale.serif-font-family}",
       "type": "fontFamilies"
+    }
+  },
+  "Font style": {
+    "Default": {
+      "value": "{platformScale.default-font-style}",
+      "type": "text"
+    },
+    "Italic": {
+      "value": "{platformScale.italic-font-style}",
+      "type": "text"
+    }
+  },
+  "Font weight": {
+    "Light": {
+      "value": "{platformScale.light-font-weight}",
+      "type": "fontWeights"
+    },
+    "Regular": {
+      "value": "{platformScale.regular-font-weight}",
+      "type": "fontWeights"
+    },
+    "Medium": {
+      "value": "{platformScale.medium-font-weight}",
+      "type": "fontWeights"
+    },
+    "Bold": {
+      "value": "{platformScale.bold-font-weight}",
+      "type": "fontWeights"
+    },
+    "Extra bold": {
+      "value": "{platformScale.extra-bold-font-weight}",
+      "type": "fontWeights"
+    },
+    "Black": {
+      "value": "{platformScale.black-font-weight}",
+      "type": "fontWeights"
     }
   },
   "Font size": {
@@ -87,42 +127,6 @@
       "type": "fontSizes"
     }
   },
-  "Font style": {
-    "Default": {
-      "value": "{platformScale.default-font-style}",
-      "type": "text"
-    },
-    "Italic": {
-      "value": "{platformScale.italic-font-style}",
-      "type": "text"
-    }
-  },
-  "Font weight": {
-    "Light": {
-      "value": "{platformScale.light-font-weight}",
-      "type": "fontWeights"
-    },
-    "Regular": {
-      "value": "{platformScale.regular-font-weight}",
-      "type": "fontWeights"
-    },
-    "Medium": {
-      "value": "{platformScale.medium-font-weight}",
-      "type": "fontWeights"
-    },
-    "Bold": {
-      "value": "{platformScale.bold-font-weight}",
-      "type": "fontWeights"
-    },
-    "Extra bold": {
-      "value": "{platformScale.extra-bold-font-weight}",
-      "type": "fontWeights"
-    },
-    "Black": {
-      "value": "{platformScale.black-font-weight}",
-      "type": "fontWeights"
-    }
-  },
   "Line height": {
     "25": {
       "value": "{platformScale.line-height-font-size-25}",
@@ -196,10 +200,6 @@
       "value": "{platformScale.line-height-font-size-1500}",
       "type": "lineHeights"
     }
-  },
-  "Letter spacing": {
-    "value": "{platformScale.letter-spacing}",
-    "type": "letterSpacing"
   },
   "Text align": {
     "Start": {

@@ -124,77 +124,95 @@
     }
   },
   "Line height": {
-    "25": {
+    "Font size 25": {
       "value": "{platformScale.line-height-font-size-25}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.2x of font-size-25"
     },
-    "50": {
+    "Font size 50": {
       "value": "{platformScale.line-height-font-size-50}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.27x of font-size-50"
     },
-    "75": {
+    "Font size 75": {
       "value": "{platformScale.line-height-font-size-75}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.33x of font-size-75"
     },
-    "100": {
+    "Font size 100": {
       "value": "{platformScale.line-height-font-size-100}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.29x of font-size-100"
     },
-    "200": {
+    "Font size 200": {
       "value": "{platformScale.line-height-font-size-200}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.25x of font-size-200"
     },
-    "300": {
+    "Font size 300": {
       "value": "{platformScale.line-height-font-size-300}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.22x of font-size-300"
     },
-    "400": {
+    "Font size 400": {
       "value": "{platformScale.line-height-font-size-400}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.2x of font-size-400"
     },
-    "500": {
+    "Font size 500": {
       "value": "{platformScale.line-height-font-size-500}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.18 of font-size-500"
     },
-    "600": {
+    "Font size 600": {
       "value": "{platformScale.line-height-font-size-600}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.2x of font-size-600"
     },
-    "700": {
+    "Font size 700": {
       "value": "{platformScale.line-height-font-size-700}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.14x of font-size-700"
     },
-    "800": {
+    "Font size 800": {
       "value": "{platformScale.line-height-font-size-800}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.13x of font-size-800"
     },
-    "900": {
+    "Font size 900": {
       "value": "{platformScale.line-height-font-size-900}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.17x of font-size-900"
     },
-    "1000": {
+    "Font size 1000": {
       "value": "{platformScale.line-height-font-size-1000}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.15x of font-size-1000"
     },
-    "1100": {
+    "Font size 1100": {
       "value": "{platformScale.line-height-font-size-1100}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.16x of font-size-1100"
     },
-    "1200": {
+    "Font size 1200": {
       "value": "{platformScale.line-height-font-size-1200}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.14x of font-size-1200"
     },
-    "1300": {
+    "Font size 1300": {
       "value": "{platformScale.line-height-font-size-1300}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.14x of font-size-1300"
     },
-    "1400": {
+    "Font size 1400": {
       "value": "{platformScale.line-height-font-size-1400}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.14x of font-size-1400"
     },
-    "1500": {
+    "Font size 1500": {
       "value": "{platformScale.line-height-font-size-1500}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "1.15x of font-size-1500"
     }
   },
   "Letter spacing": {

@@ -2,23 +2,23 @@
   "Add": {
     "Icon size": {
       "50": {
-        "value": "{platformScale.add-icon-size-50}",
+        "value": "{platformScale.ui-icon-extra-small}",
         "type": "sizing"
       },
       "75": {
-        "value": "{platformScale.add-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.add-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.add-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.add-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       }
     }
@@ -26,23 +26,23 @@
   "Arrow": {
     "Icon size": {
       "75": {
-        "value": "{platformScale.arrow-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.arrow-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.arrow-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.arrow-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       },
       "400": {
-        "value": "{platformScale.arrow-icon-size-400}",
+        "value": "{platformScale.ui-icon-2x-large}",
         "type": "sizing"
       },
       "500": {
@@ -58,19 +58,19 @@
   "Asterisk": {
     "Icon size": {
       "75": {
-        "value": "{platformScale.asterisk-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.asterisk-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.asterisk-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.asterisk-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       }
     }
@@ -78,27 +78,27 @@
   "Checkmark": {
     "Icon size": {
       "50": {
-        "value": "{platformScale.checkmark-icon-size-50}",
+        "value": "{platformScale.ui-icon-extra-small}",
         "type": "sizing"
       },
       "75": {
-        "value": "{platformScale.checkmark-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.checkmark-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.checkmark-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.checkmark-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       },
       "400": {
-        "value": "{platformScale.checkmark-icon-size-400}",
+        "value": "{platformScale.ui-icon-2x-large}",
         "type": "sizing"
       },
       "500": {
@@ -114,27 +114,27 @@
   "Chevron": {
     "Icon size": {
       "50": {
-        "value": "{platformScale.chevron-icon-size-50}",
+        "value": "{platformScale.ui-icon-extra-small}",
         "type": "sizing"
       },
       "75": {
-        "value": "{platformScale.chevron-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.chevron-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.chevron-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.chevron-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       },
       "400": {
-        "value": "{platformScale.chevron-icon-size-400}",
+        "value": "{platformScale.ui-icon-2x-large}",
         "type": "sizing"
       },
       "500": {
@@ -150,19 +150,19 @@
   "Corner triangle": {
     "Icon size": {
       "75": {
-        "value": "{platformScale.corner-triangle-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.corner-triangle-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.corner-triangle-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.corner-triangle-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       }
     }
@@ -170,23 +170,23 @@
   "Cross": {
     "Icon size": {
       "75": {
-        "value": "{platformScale.cross-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.cross-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.cross-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.cross-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       },
       "400": {
-        "value": "{platformScale.cross-icon-size-400}",
+        "value": "{platformScale.ui-icon-2x-large}",
         "type": "sizing"
       },
       "500": {
@@ -202,27 +202,27 @@
   "Dash": {
     "Icon size": {
       "50": {
-        "value": "{platformScale.dash-icon-size-50}",
+        "value": "{platformScale.ui-icon-extra-small}",
         "type": "sizing"
       },
       "75": {
-        "value": "{platformScale.dash-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.dash-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.dash-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.dash-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       },
       "400": {
-        "value": "{platformScale.dash-icon-size-400}",
+        "value": "{platformScale.ui-icon-2x-large}",
         "type": "sizing"
       },
       "500": {
@@ -238,19 +238,19 @@
   "Drag handle": {
     "Icon size": {
       "75": {
-        "value": "{platformScale.drag-handle-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.drag-handle-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.drag-handle-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.drag-handle-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       }
     }
@@ -258,7 +258,7 @@
   "Gripper": {
     "Icon size": {
       "100": {
-        "value": "{platformScale.gripper-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       }
     }
@@ -266,23 +266,23 @@
   "Link out": {
     "Icon size": {
       "75": {
-        "value": "{platformScale.link-out-icon-size-75}",
+        "value": "{platformScale.ui-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.link-out-icon-size-100}",
+        "value": "{platformScale.ui-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.link-out-icon-size-200}",
+        "value": "{platformScale.ui-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.link-out-icon-size-300}",
+        "value": "{platformScale.ui-icon-extra-large}",
         "type": "sizing"
       },
       "400": {
-        "value": "{platformScale.link-out-icon-size-400}",
+        "value": "{platformScale.ui-icon-2x-large}",
         "type": "sizing"
       }
     }
@@ -290,25 +290,85 @@
   "Workflow": {
     "Icon size": {
       "50": {
-        "value": "{platformScale.workflow-icon-size-50}",
+        "value": "{platformScale.workflow-icon-extra-small}",
         "type": "sizing"
       },
       "75": {
-        "value": "{platformScale.workflow-icon-size-75}",
+        "value": "{platformScale.workflow-icon-small}",
         "type": "sizing"
       },
       "100": {
-        "value": "{platformScale.workflow-icon-size-100}",
+        "value": "{platformScale.workflow-icon-medium}",
         "type": "sizing"
       },
       "200": {
-        "value": "{platformScale.workflow-icon-size-200}",
+        "value": "{platformScale.workflow-icon-large}",
         "type": "sizing"
       },
       "300": {
-        "value": "{platformScale.workflow-icon-size-300}",
+        "value": "{platformScale.workflow-icon-extra-large}",
         "type": "sizing"
       }
+    }
+  },
+  "Workflow icon": {
+    "3x small": {
+      "value": "{platformScale.workflow-icon-3x-small}",
+      "type": "sizing"
+    },
+    "2x small": {
+      "value": "{platformScale.workflow-icon-2x-small}",
+      "type": "sizing"
+    },
+    "Extra small": {
+      "value": "{platformScale.workflow-icon-extra-small}",
+      "type": "sizing"
+    },
+    "Small": {
+      "value": "{platformScale.workflow-icon-small}",
+      "type": "sizing"
+    },
+    "Medium": {
+      "value": "{platformScale.workflow-icon-medium}",
+      "type": "sizing"
+    },
+    "Large": {
+      "value": "{platformScale.workflow-icon-large}",
+      "type": "sizing"
+    },
+    "Extra large": {
+      "value": "{platformScale.workflow-icon-extra-large}",
+      "type": "sizing"
+    },
+    "2x large": {
+      "value": "{platformScale.workflow-icon-2x-large}",
+      "type": "sizing"
+    }
+  },
+  "UI icon": {
+    "Extra small": {
+      "value": "{platformScale.ui-icon-extra-small}",
+      "type": "sizing"
+    },
+    "Small": {
+      "value": "{platformScale.ui-icon-small}",
+      "type": "sizing"
+    },
+    "Medium": {
+      "value": "{platformScale.ui-icon-medium}",
+      "type": "sizing"
+    },
+    "Large": {
+      "value": "{platformScale.ui-icon-large}",
+      "type": "sizing"
+    },
+    "Extra large": {
+      "value": "{platformScale.ui-icon-extra-large}",
+      "type": "sizing"
+    },
+    "2x large": {
+      "value": "{platformScale.ui-icon-2x-large}",
+      "type": "sizing"
     }
   }
 }

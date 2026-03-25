@@ -2,129 +2,59 @@
   "platformScale": {
     "workflow-icon-3x-small": {
       "value": "10px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "53518825-4bfa-4db5-a51a-1c504cc9ef68"
-        }
-      }
+      "type": "sizing"
     },
     "workflow-icon-2x-small": {
       "value": "12px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "971eaeda-011a-4708-97ff-26b81f4d834b"
-        }
-      }
+      "type": "sizing"
     },
     "workflow-icon-extra-small": {
       "value": "14px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "1e27e9e4-9479-4dbf-863a-e7d7c2708020"
-        }
-      }
+      "type": "sizing"
     },
     "workflow-icon-small": {
       "value": "16px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "8383a714-f351-4310-a745-9487743e99d0"
-        }
-      }
+      "type": "sizing"
     },
     "workflow-icon-medium": {
       "value": "18px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "9a848156-3b94-46e4-a7c8-e63bf44d3c9b"
-        }
-      }
+      "type": "sizing"
     },
     "workflow-icon-large": {
       "value": "20px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "caf7241f-3025-420b-9fd4-af062e7fbe2d"
-        }
-      }
+      "type": "sizing"
     },
     "workflow-icon-extra-large": {
       "value": "22px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "4326028d-2b07-4806-8ea4-9db3002cbb56"
-        }
-      }
+      "type": "sizing"
     },
     "workflow-icon-2x-large": {
       "value": "24px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "75c1f114-cdb6-4de5-b496-426c53b09a76"
-        }
-      }
+      "type": "sizing"
     },
     "ui-icon-extra-small": {
       "value": "8px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "b44d517e-4aab-471b-a669-a102d950ccb6"
-        }
-      }
+      "type": "sizing"
     },
     "ui-icon-small": {
       "value": "10px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "66ccec23-7c4b-4483-bac5-75a5c0fa2486"
-        }
-      }
+      "type": "sizing"
     },
     "ui-icon-medium": {
       "value": "10px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "2827d92c-94de-4650-bf7b-8daedcd122ee"
-        }
-      }
+      "type": "sizing"
     },
     "ui-icon-large": {
       "value": "12px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "9887d7a7-b7a4-4d64-93e0-2ce0caa34c33"
-        }
-      }
+      "type": "sizing"
     },
     "ui-icon-extra-large": {
       "value": "14px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "0e1031b9-3363-4763-9808-801d6bf035ca"
-        }
-      }
+      "type": "sizing"
     },
     "ui-icon-2x-large": {
       "value": "16px",
-      "type": "sizing",
-      "$extensions": {
-        "spectrum-tokens": {
-          "uuid": "40dcc575-7bef-43fa-b91f-141f65703410"
-        }
-      }
+      "type": "sizing"
     }
   }
 }

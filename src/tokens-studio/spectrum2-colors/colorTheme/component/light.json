@@ -63,6 +63,15 @@
         }
       }
     },
+    "card-secondary-border-color": {
+      "value": "{colorTheme.transparent-white-25}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "coach-indicator-color": {
       "value": "{colorTheme.blue-800}",
       "type": "color",

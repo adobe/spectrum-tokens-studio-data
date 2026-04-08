@@ -34,6 +34,10 @@
       "background-loading": {
         "value": "{colorTheme.card-background-loading-color}",
         "type": "color"
+      },
+      "secondary-border": {
+        "value": "{colorTheme.card-secondary-border-color}",
+        "type": "color"
       }
     },
     "coach-indicator": {

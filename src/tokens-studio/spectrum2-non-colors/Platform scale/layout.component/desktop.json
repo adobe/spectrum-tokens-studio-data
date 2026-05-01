@@ -1631,6 +1631,15 @@
         }
       }
     },
+    "vertical-align-items": {
+      "value": "center",
+      "type": "other",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
     "illustrated-message-horizontal-maximum-width": {
       "value": "535px",
       "type": "sizing",
@@ -2474,6 +2483,24 @@
       "$extensions": {
         "spectrum-tokens": {
           "uuid": "bbff5dad-42bf-44f0-a34d-b6733360d28b"
+        }
+      }
+    },
+    "stack-item-minimum-padding-vertical": {
+      "value": "8px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      }
+    },
+    "stack-item-item-to-item": {
+      "value": "0px",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
         }
       }
     },

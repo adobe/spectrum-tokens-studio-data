@@ -51,9 +51,19 @@
     "value": "{colorTheme.stack-item-selected-background-opacity-emphasized}",
     "type": "opacity"
   },
+  "stack-item-selected-background-opacity-highlight": {
+    "value": "{colorTheme.stack-item-selected-background-opacity-highlight}",
+    "type": "opacity",
+    "description": "This token replaces the current stack-item-selected-background-opacity-emphasized"
+  },
   "stack-item-selected-background-opacity-emphasized-hover": {
     "value": "{colorTheme.stack-item-selected-background-opacity-emphasized-hover}",
     "type": "opacity"
+  },
+  "stack-item-selected-background-opacity-highlight-hover": {
+    "value": "{colorTheme.stack-item-selected-background-opacity-highlight-hover}",
+    "type": "opacity",
+    "description": "This token replaces the current stack-item-selected-background-opacity-emphasized-hover"
   },
   "stack-item-selected-background-opacity-emphasized-down": {
     "value": "{colorTheme.stack-item-selected-background-opacity-emphasized-down}",

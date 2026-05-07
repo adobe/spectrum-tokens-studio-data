@@ -762,5 +762,19 @@
         "type": "sizing"
       }
     }
+  },
+  "Vertical align items": {
+    "value": "{platformScale.vertical-align-items}",
+    "type": "other"
+  },
+  "Stack item": {
+    "Minimum padding vertical": {
+      "value": "{platformScale.stack-item-minimum-padding-vertical}",
+      "type": "spacing"
+    },
+    "Item to item": {
+      "value": "{platformScale.stack-item-item-to-item}",
+      "type": "spacing"
+    }
   }
 }

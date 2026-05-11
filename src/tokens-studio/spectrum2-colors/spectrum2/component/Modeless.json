@@ -177,6 +177,11 @@
         "emphasized": {
           "value": "{colorTheme.stack-item-selected-background-color-emphasized}",
           "type": "color"
+        },
+        "highlight": {
+          "value": "{colorTheme.stack-item-selected-background-color-highlight}",
+          "type": "color",
+          "description": "This token replaces the current stack-item-selected-background-color-emphasized"
         }
       }
     },

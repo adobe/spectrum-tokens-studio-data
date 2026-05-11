@@ -117,6 +117,16 @@
         }
       }
     },
+    "stack-item-selected-background-opacity-highlight": {
+      "value": "0.1",
+      "type": "opacity",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      },
+      "description": "This token replaces the current stack-item-selected-background-opacity-emphasized"
+    },
     "stack-item-selected-background-opacity-emphasized-hover": {
       "value": "0.15",
       "type": "opacity",
@@ -125,6 +135,16 @@
           "uuid": "bb522e19-6bb9-471c-95af-5ab7fa748557"
         }
       }
+    },
+    "stack-item-selected-background-opacity-highlight-hover": {
+      "value": "0.15",
+      "type": "opacity",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      },
+      "description": "This token replaces the current stack-item-selected-background-opacity-emphasized-hover"
     },
     "stack-item-selected-background-opacity-emphasized-down": {
       "value": "0.15",

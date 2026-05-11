@@ -289,7 +289,7 @@
       }
     },
     "stack-item-selected-background-color-down": {
-      "value": "{colorTheme.gray-200}",
+      "value": "{colorTheme.gray-300}",
       "type": "color",
       "$extensions": {
         "spectrum-tokens": {
@@ -314,6 +314,16 @@
           "uuid": "95685612-09b7-477f-9c13-06eb58abe5c8"
         }
       }
+    },
+    "stack-item-selected-background-color-highlight": {
+      "value": "{colorTheme.accent-background-color-default}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": ""
+        }
+      },
+      "description": "This token replaces the current stack-item-selected-background-color-emphasized"
     },
     "swatch-border-color": {
       "value": "{colorTheme.gray-1000}",

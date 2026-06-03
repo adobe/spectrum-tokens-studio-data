@@ -770,8 +770,14 @@
         "type": "spacing"
       },
       "Horizontal": {
-        "value": "{platformScale.banner-padding-horizontal}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.banner-padding-horizontal}",
+          "type": "spacing"
+        },
+        "Compact": {
+          "value": "{platformScale.banner-padding-horizontal-compact}",
+          "type": "spacing"
+        }
       }
     },
     "Gap": {

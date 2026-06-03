@@ -136,7 +136,7 @@
       }
     },
     "component-size-width-ratio-down": {
-      "value": "0.3333",
+      "value": 0.3333,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -145,7 +145,7 @@
       }
     },
     "corner-radius-1000": {
-      "value": "0.5",
+      "value": 0.5,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -154,7 +154,7 @@
       }
     },
     "gradient-stop-1-avatar": {
-      "value": "0",
+      "value": 0,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -163,7 +163,7 @@
       }
     },
     "gradient-stop-2-avatar": {
-      "value": "0.6666",
+      "value": 0.6666,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -172,7 +172,7 @@
       }
     },
     "gradient-stop-3-avatar": {
-      "value": "1",
+      "value": 1,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -181,7 +181,7 @@
       }
     },
     "gradient-stop-1-genai": {
-      "value": "0",
+      "value": 0,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -190,7 +190,7 @@
       }
     },
     "gradient-stop-2-genai": {
-      "value": "0.3333",
+      "value": 0.3333,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -199,7 +199,7 @@
       }
     },
     "gradient-stop-3-genai": {
-      "value": "1",
+      "value": 1,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -208,7 +208,7 @@
       }
     },
     "gradient-stop-1-premium": {
-      "value": "0",
+      "value": 0,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -217,7 +217,7 @@
       }
     },
     "gradient-stop-2-premium": {
-      "value": "0.6666",
+      "value": 0.6666,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -226,7 +226,7 @@
       }
     },
     "gradient-stop-3-premium": {
-      "value": "1",
+      "value": 1,
       "type": "number",
       "$extensions": {
         "spectrum-tokens": {
@@ -1404,6 +1404,51 @@
         }
       }
     },
+    "group-gap-extra-small-spacious": {
+      "value": "{platformScale.spacing-100}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "c3ada312-da94-4779-bbf0-0fde3beb8121"
+        }
+      }
+    },
+    "group-gap-small-spacious": {
+      "value": "{platformScale.spacing-200}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "ce1865aa-9f33-492a-80c6-981fd503d70c"
+        }
+      }
+    },
+    "group-gap-medium-spacious": {
+      "value": "{platformScale.spacing-300}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "6f2ccc0b-42ff-4f1a-a789-527427440d13"
+        }
+      }
+    },
+    "group-gap-large-spacious": {
+      "value": "{platformScale.spacing-350}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "fd40a531-eee6-48b2-8212-a33d012a2173"
+        }
+      }
+    },
+    "group-gap-extra-large-spacious": {
+      "value": "{platformScale.spacing-400}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "89e74f93-9124-41a8-96b0-0fcc5ce9ab08"
+        }
+      }
+    },
     "group-gap-compact": {
       "value": "{platformScale.spacing-50}",
       "type": "spacing",
@@ -1691,6 +1736,22 @@
           "uuid": "c0571c46-5946-4896-bcbf-270560de5385"
         }
       }
+    },
+    "form-item-gap-small": {
+      "value": "{platformScale.base-gap-small}",
+      "type": "spacing"
+    },
+    "form-item-gap-medium": {
+      "value": "{platformScale.base-gap-medium}",
+      "type": "spacing"
+    },
+    "form-item-gap-large": {
+      "value": "{platformScale.base-gap-large}",
+      "type": "spacing"
+    },
+    "form-item-gap-extra-large": {
+      "value": "{platformScale.base-gap-extra-large}",
+      "type": "spacing"
     },
     "focus-ring-gap": {
       "value": "{platformScale.spacing-50}",

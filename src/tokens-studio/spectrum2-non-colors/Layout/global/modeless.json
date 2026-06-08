@@ -622,28 +622,64 @@
   "Group": {
     "Gap": {
       "Extra small": {
-        "value": "{platformScale.group-gap-extra-small}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.group-gap-extra-small}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.group-gap-extra-small-spacious}",
+          "type": "spacing"
+        }
       },
       "Small": {
-        "value": "{platformScale.group-gap-small}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.group-gap-small}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.group-gap-small-spacious}",
+          "type": "spacing"
+        }
       },
       "Medium": {
-        "value": "{platformScale.group-gap-medium}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.group-gap-medium}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.group-gap-medium-spacious}",
+          "type": "spacing"
+        }
       },
       "Large": {
-        "value": "{platformScale.group-gap-large}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.group-gap-large}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.group-gap-large-spacious}",
+          "type": "spacing"
+        }
       },
       "Extra large": {
-        "value": "{platformScale.group-gap-extra-large}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.group-gap-extra-large}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.group-gap-extra-large-spacious}",
+          "type": "spacing"
+        }
       },
       "Compact": {
-        "value": "{platformScale.group-gap-compact}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.group-gap-compact}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.group-gap-extra-small-spacious}",
+          "type": "spacing"
+        }
       }
     }
   },

@@ -840,20 +840,44 @@
   "Form item": {
     "Gap": {
       "Small": {
-        "value": "{platformScale.form-item-gap-small}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.form-item-gap-small}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-small-spacious}",
+          "type": "spacing"
+        }
       },
       "Medium": {
-        "value": "{platformScale.form-item-gap-medium}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.form-item-gap-medium}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-medium-spacious}",
+          "type": "spacing"
+        }
       },
       "Large": {
-        "value": "{platformScale.form-item-gap-large}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.form-item-gap-large}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-large-spacious}",
+          "type": "spacing"
+        }
       },
       "Extra large": {
-        "value": "{platformScale.form-item-gap-extra-large}",
-        "type": "spacing"
+        "Regular": {
+          "value": "{platformScale.form-item-gap-extra-large}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-extra-large-spacious}",
+          "type": "spacing"
+        }
       }
     }
   }

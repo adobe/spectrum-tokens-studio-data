@@ -672,14 +672,8 @@
         }
       },
       "Compact": {
-        "Regular": {
-          "value": "{platformScale.group-gap-compact}",
-          "type": "spacing"
-        },
-        "Spacious": {
-          "value": "{platformScale.group-gap-extra-small-spacious}",
-          "type": "spacing"
-        }
+        "value": "{platformScale.group-gap-compact}",
+        "type": "spacing"
       }
     }
   },

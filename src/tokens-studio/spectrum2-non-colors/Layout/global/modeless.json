@@ -842,5 +842,49 @@
       "value": "{platformScale.drop-target-dash-gap}",
       "type": "spacing"
     }
+  },
+  "Form item": {
+    "Gap": {
+      "Small": {
+        "Regular": {
+          "value": "{platformScale.form-item-gap-small}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-small-spacious}",
+          "type": "spacing"
+        }
+      },
+      "Medium": {
+        "Regular": {
+          "value": "{platformScale.form-item-gap-medium}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-medium-spacious}",
+          "type": "spacing"
+        }
+      },
+      "Large": {
+        "Regular": {
+          "value": "{platformScale.form-item-gap-large}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-large-spacious}",
+          "type": "spacing"
+        }
+      },
+      "Extra large": {
+        "Regular": {
+          "value": "{platformScale.form-item-gap-extra-large}",
+          "type": "spacing"
+        },
+        "Spacious": {
+          "value": "{platformScale.form-item-gap-extra-large-spacious}",
+          "type": "spacing"
+        }
+      }
+    }
   }
 }

@@ -1773,6 +1773,42 @@
         }
       }
     },
+    "form-item-gap-small-spacious": {
+      "value": "{platformScale.group-gap-small-spacious}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "33bbbb47-23c6-4390-9577-42be709ceb98"
+        }
+      }
+    },
+    "form-item-gap-medium-spacious": {
+      "value": "{platformScale.group-gap-medium-spacious}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "56c23cee-9c0b-4851-ae72-a7287151b2fb"
+        }
+      }
+    },
+    "form-item-gap-large-spacious": {
+      "value": "{platformScale.group-gap-large-spacious}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "61cc3354-d256-482f-91d7-e4361cc4da9d"
+        }
+      }
+    },
+    "form-item-gap-extra-large-spacious": {
+      "value": "{platformScale.group-gap-extra-large-spacious}",
+      "type": "spacing",
+      "$extensions": {
+        "spectrum-tokens": {
+          "uuid": "a70d4855-0c3f-4b59-9f63-16334cd06134"
+        }
+      }
+    },
     "focus-ring-gap": {
       "value": "{platformScale.spacing-50}",
       "type": "spacing",

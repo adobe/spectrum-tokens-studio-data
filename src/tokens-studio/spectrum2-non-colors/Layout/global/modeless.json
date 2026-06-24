@@ -842,5 +842,25 @@
       "value": "{platformScale.drop-target-dash-gap}",
       "type": "spacing"
     }
+  },
+  "Form item": {
+    "Gap": {
+      "Small": {
+        "value": "{platformScale.form-item-gap-small}",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "{platformScale.form-item-gap-medium}",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "{platformScale.form-item-gap-large}",
+        "type": "spacing"
+      },
+      "Extra large": {
+        "value": "{platformScale.form-item-gap-extra-large}",
+        "type": "spacing"
+      }
+    }
   }
 }
